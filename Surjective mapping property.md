@@ -1,0 +1,28 @@
+---
+aliases: 
+publish: true
+---
+#анки
+
+A function is ==surjective== if its [[Image of a function]]  is equal to its target set.
+
+
+Сурьективное. У всех образов есть праобраз #анки 
+
+![[Pasted image 20230915113804.png]]
+
+
+
+
+
+
+**Sources:**
+- 
+
+
+**Connected with:**
+- #обс/linking 
+
+
+
+**Created:** 2023-07-07 10:02
