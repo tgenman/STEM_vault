@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Вариации
+  - Pазме­щение из n элементов по k
 publish: true
 anki: false
 parent:
