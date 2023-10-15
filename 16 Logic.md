@@ -1,8 +1,12 @@
 ---
+aliases:
+  - Логика
 publish: true
----
-links: [[🌍Interests MOC]] [[510 Math MOC]]
-
+parent:
+  - "[[🌍Interests MOC]]"
+connected:
+  - "[[510.6 Математическая логика]]"
+  - "[[162.5 Logical Fallacies]]"
 ---
 
 [[Диаграмма Венна - Эйлера]]
