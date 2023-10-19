@@ -17,7 +17,7 @@ C_{n, k} = \binom{n}{k} = \frac{n!}{k!(n-k)!}
 $$
 With repetition:
 
-
+8! / (64!/(8!*56!))
 
 
 

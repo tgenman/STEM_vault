@@ -1,21 +1,30 @@
 ---
-aliases: [Мощность множества]
+aliases:
+  - Мощность множества
 publish: true
+anki: false
+created: 2023-10-17 21:05
+parent:
+  - "[[Set (math)]]"
+connected:
+  - "[[Cartesian product]]"
 ---
+The number of elements in a set $X$ is the ==cardinality== of $X$ and is often denoted by $|X|$
 
-**Мощность конечного [[Set (math)|множества]]** равна числу его элементов
-
-Мощность множества `A` обозначается как $|A|$.
 Например, мощность пустого множества равна нулю, и это можно записать как $| \varnothing | = 0$ 
 
-![[Screenshot 2022-07-12 at 15.53.18.png]]
+Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if there exists a [[Injective mapping property|One-to-one function mapping]] $X$ onto $Y$, that is, if there exists a one-to-one correspondence between $X$ and $Y$.
 
-Главное — не путать равномощные множества с равными, это не одно и то же. 
 
-Равные множества всегда равномощные, а вот равномощные необязательно равны: у них совпадает только количество элементов, но их состав может быть и разным.
 
+
+#### Правило суммы
 ![[Screenshot 2022-07-12 at 17.13.25.png]]
 
-[[Декартово (прямое) произведение множеств]]
+
 
  
+
+**Sources:**
+- 
+

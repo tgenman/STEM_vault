@@ -19,3 +19,7 @@ $\mathbb{I}$ - [[Irrational Numbers]]
 
 [[Возведение в степень]]
 [[Prime numbers]]
+
+
+[[Aleph number]]
+[[Continuum]]

@@ -2,10 +2,19 @@
 aliases:
   - Функция
 publish: true
+parent:
+  - "[[Relation]]"
+connected:
+  - "[[517 Сalculus|Calculus]]"
+  - "[[512 Algebra]]"
 ---
-links: [[517 Сalculus|Матан]] [[512 Algebra]]
-
 **Функция** — это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго. #анки 
+
+A ==function== $φ$ mapping $X$ into $Y$ is a [[Relation]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
+Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
+- The ==domain== of $φ$ is the set $X$ and [[Domain of a function]]
+- The set $Y$ is the ==codomain== of $φ$. 
+- The ==range== of $φ$ is $φ[X] = \set{φ(x) | x ∈ X}$. [[Range of the function]]
 
 Многие к одному
 
