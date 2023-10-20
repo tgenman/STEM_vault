@@ -30,14 +30,6 @@ publish: true
 Arc - дуга
 Semicircle - полуокружность
 
-![[Pasted image 20230511160042.png]]
-
-x+2xp+x
-x/2+xp+xp+x/2
-
-
-
-
 
 
 
