@@ -15,6 +15,8 @@ An ==equivalence relation== $\mathscr{R}$ on a set $S$ is one that satisfies the
 2. (Symmetric) If $x \mathscr{R} y$, then $y \mathscr{R} x$.
 3. (Transitive) If $x \mathscr{R} y$ and $y \mathscr{R} z$ then $x \mathscr{R} z$.
 
+
+
 ### Anki
 TARGET DECK: Math::Set theory  
 START

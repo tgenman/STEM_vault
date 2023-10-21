@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-10-21 17:58
 parent:
   - "[[Equivalence Relation]]"
