@@ -2,7 +2,7 @@
 aliases: Треугольник Серпински
 publish: true
 ---
-
+#анки
 
 **Sierpinski Triangle**
 ![[Pasted image 20220727164220.png|300]]

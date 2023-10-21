@@ -1,9 +1,14 @@
 ---
-aliases: Снежинка Коха
+aliases:
+  - Снежинка Коха
 publish: true
+anki: false
+created: 2023-07-07 10:02
+parent:
+  - "[[Fractal]]"
+connected:
+  - "[[Complex numbers]]"
 ---
-
-**Koch snowflake**
 ![[Pasted image 20220727211124.png|300]]
 Площадь стремится к $\frac{8}{5}$ площадям
 Периметр к бесконечности
@@ -15,8 +20,8 @@ publish: true
 
 
 **Connected with:**
-- [[Complex numbers|Комплексные числа]]
-- [[Fractal|Фрактал]]
+- [[Complex numbers]]
+- [[Fractal]]
 - [[Recursion]]
 
 
