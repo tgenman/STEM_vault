@@ -1,22 +1,13 @@
 ---
-aliases: Условная вероятность
+aliases:
+  - Условная вероятность
 publish: true
+anki: false
+created: 2023-07-07 10:02
+parent:
+  - "[[Probability]]"
+connected:
+  - "[[519.21  Probability theory|Probability theory]]"
 ---
-#анки
+==The conditional probability== $\mathbb{P}(A|B)$ is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 
-![[Pasted image 20230823185833.png]]
-
-
-
-
-
-**Sources:**
-- 
-
-
-**Connected with:**
-- [[519.21  Probability theory|Теория вероятностей]]
-
-
-
-**Created:** 2023-07-07 10:02

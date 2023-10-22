@@ -6,8 +6,7 @@ anki: true
 created: 2023-10-21 17:41
 parent:
   - "[[Relation]]"
-connected:
-  - "#обс/linking"
+connected: []
 ---
 An ==equivalence relation== $\mathscr{R}$ on a set $S$ is one that satisfies these properties for all $x,y,z ∈ S$.
 

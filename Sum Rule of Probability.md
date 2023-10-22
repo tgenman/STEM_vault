@@ -1,22 +1,15 @@
 ---
-aliases:
+aliases: 
 publish: true
+anki: false
+created: 2023-07-07 10:02
+parent:
+  - "[[Probability]]"
+connected:
+  - "[[Формула включений-исключений]]"
+  - "[[Product Rule of Probability]]"
 ---
-#анки
+$$
+\mathbb{P}(A\textbf{ or }B)=\mathbb{P}(A)+\mathbb{P}(B)-\mathbb{P}(A\textbf{ and }B)
+$$
 
-![[Pasted image 20230821211610.png]]
-
-
-
-
-
-**Sources:**
-- 
-
-
-**Connected with:**
-- [[519.21  Probability theory|Probability theory]]
-
-
-
-**Created:** 2023-07-07 10:02

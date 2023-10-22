@@ -11,10 +11,10 @@ connected:
   - "[[👤 Колмогоров, Андрей Николаевич]]"
 ---
 Kolmogorov definition of probability (general)
-- A probability space $(\Omega, F, P)$
+- A [[Probability space]] $(\Omega, \mathcal{F}, P)$ 
 	- $\Omega$ - a [[Sample space]] 
-	- $F \subset 2^{\Omega}$  - subset of events - множество событий
-	- $P: F \rightarrow [0, 1]$ - a [[Probability measure]] (or simple probability)
+	- $\mathcal{F} \subset 2^{\Omega}$  - subset of events - [[Sigma algebra of subsets of sample space]]
+	- $P: \mathcal{F} \rightarrow [0, 1]$ - a [[Probability measure]] (or simple [[Probability]])
 
 
 

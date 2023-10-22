@@ -10,7 +10,7 @@ connected:
   - "[[Sample space]]"
   - "[[Elementary event]]"
 ---
-
+Событие - подмножество [[Elementary event]]s $А$, такое что $A \in \mathcal{F}$
 
 
 

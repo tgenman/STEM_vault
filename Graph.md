@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Теория графов
+  - Граф
 publish: true
+anki: false
 created: 2023-10-22 18:51
 parent:
-  - "[[510 Math MOC]]"
+  - "[[519.17 Graph Theory]]"
 connected: []
 ---
-[[Graph]]
 [[Undirected graph]]
 
 
