@@ -1,1 +1,1 @@
-# discrete_math
+Knowledge graph of Discrete Math by education in MIPT - Applied Math and Computer Science (Master Degree)
