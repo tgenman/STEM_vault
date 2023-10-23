@@ -21,9 +21,3 @@ Functions are considered to be ==**invertible**== if their inverses are also f
 
 
 
-
-
-
-**Connected with:**
-- 
-

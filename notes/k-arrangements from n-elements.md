@@ -5,6 +5,9 @@ publish: true
 anki: false
 parent:
   - "[[519.101 Combinatorics]]"
+created: 2023-10-23 16:47
+connected:
+  - "#обс/linking"
 ---
 Let $k \leq n$  and $A = \set{a_1,..., a_n}$ be a finite set
 
@@ -32,9 +35,6 @@ $$
 
 
 
-
-
-**Connected with:**
 - [[Factorial]]
 - [[Кортеж]]
 
