@@ -13,8 +13,6 @@ When two lines intersect, the angles opposite from each other are called **verti
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

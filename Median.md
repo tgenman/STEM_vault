@@ -18,8 +18,6 @@ When this happens, the median is calculated by finding the mean of the middle tw
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

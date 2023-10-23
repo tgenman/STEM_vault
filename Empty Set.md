@@ -9,6 +9,4 @@ parent:
 [[Empty Set]] является [[Subset|подмножеством]] любого [[Set (math)|множества]].
 
 
-**Sources:**
-- 
 

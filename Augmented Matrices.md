@@ -12,6 +12,4 @@ parent:
 
 
 
-**Sources:**
-- 
 

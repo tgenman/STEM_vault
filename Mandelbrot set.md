@@ -7,8 +7,6 @@ publish: true
 ![[Pasted image 20230808175217.png|400]]
 ![[Pasted image 20230808175359.png]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -11,8 +11,6 @@ Specifically, an ==outlier== is any data point that is:
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

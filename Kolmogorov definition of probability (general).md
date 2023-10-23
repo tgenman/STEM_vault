@@ -28,6 +28,4 @@ Kolmogorov definition of probability (general)
 
 
 
-**Sources:**
-- 
 

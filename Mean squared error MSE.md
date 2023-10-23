@@ -10,8 +10,6 @@ Because the regression line minimizes squared errors, regression is also calledÂ
 ![[Pasted image 20230829204709.png]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

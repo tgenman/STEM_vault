@@ -50,8 +50,6 @@ links: [[510 Math MOC]]
 
 [[517.518.11 Теория меры]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -20,8 +20,6 @@ All we need is
 ==**union** of two vector spaces==, written $V∪W$ is the set of vectors in either $V$ or $W$  [[Объединение множеств]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

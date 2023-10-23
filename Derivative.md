@@ -68,8 +68,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

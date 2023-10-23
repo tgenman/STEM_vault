@@ -10,8 +10,6 @@ Outer product
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

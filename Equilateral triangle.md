@@ -15,8 +15,6 @@ In an **equilateral triangle**, all three sides are the same length.
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

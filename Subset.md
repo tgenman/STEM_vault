@@ -29,5 +29,3 @@ Exists:
 - [[Proper subset]]
 
 
-**Sources:**
-- 

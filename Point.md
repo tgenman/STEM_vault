@@ -27,6 +27,4 @@ An $n-tuple$ of real numbers is called a _point_ of $R^n$.
 
 
 
-**Sources:**
-- 
 

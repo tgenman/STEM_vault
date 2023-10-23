@@ -20,6 +20,4 @@ connected: []
 
 
 
-**Sources:**
-- 
 

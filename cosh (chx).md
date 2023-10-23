@@ -12,8 +12,6 @@ publish: true
 [[Domain of a function|ОДЗ]] не ограничена ничем. [[Range of the function]] не может быть меньше 1. [[Even functions]]
  
 
-**Sources:**
-- 
 
 
 **Connected with:**

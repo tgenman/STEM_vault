@@ -18,9 +18,7 @@ $$
 $$
 \frac{1}{n}\sum\limits_{k=1}^n a_k \geq \sqrt[n]{\prod\limits_{k=1}^n a_k}
 $$
-
-**Sources:**
-- https://brilliant.org/wiki/cauchy-schwarz-inequality/#using-the-cauchy-schwarz-inequality
+https://brilliant.org/wiki/cauchy-schwarz-inequality/#using-the-cauchy-schwarz-inequality
 
 
 **Connected with:**

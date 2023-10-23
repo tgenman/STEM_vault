@@ -20,7 +20,5 @@ $$
 $$
 |\mathbb{R}|=\mathfrak{c}
 $$
-
-**Sources:**
-- [Continuum (wiki)](https://en.wikipedia.org/wiki/Continuum_(set_theory))
+[Continuum (wiki)](https://en.wikipedia.org/wiki/Continuum_(set_theory))
 

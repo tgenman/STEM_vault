@@ -23,9 +23,7 @@ $$\tanh(𝑥 ± 𝑦) = \frac{\tanh(𝑥) ±\tanh(𝑦)}{1±\tanh(𝑥)\tanh(�
 $$\coth(𝑥 ± 𝑦) = \frac{1 ± \coth(𝑥)\coth(𝑦)}{\coth(𝑥) ± \coth(𝑦)}$$
 
 
-
-**Sources:**
-- [вики](https://en.wikipedia.org/wiki/Hyperbolic_functions)
+[вики](https://en.wikipedia.org/wiki/Hyperbolic_functions)
 
 
 **Connected with:**

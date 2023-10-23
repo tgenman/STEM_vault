@@ -21,6 +21,3 @@ A matrix is in _reduced row echelon form_ if it is in row echelon form, and in
 
 
 
-
-**Sources:**
-- 

@@ -22,8 +22,6 @@ $$A^{-1} * A = A * A^{-1} = E$$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

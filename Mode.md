@@ -20,8 +20,6 @@ The mode is useful for several things:
 - finding the most common value in a set, which tells us something about what a “typical” value might be
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -13,8 +13,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

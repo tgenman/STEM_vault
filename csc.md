@@ -19,8 +19,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

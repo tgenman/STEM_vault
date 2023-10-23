@@ -14,8 +14,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

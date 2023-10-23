@@ -23,7 +23,5 @@ connected:
 
 
 
-
-**Sources:**
-- [Aleph number (wiki)](https://en.wikipedia.org/wiki/Aleph_number)
+[Aleph number (wiki)](https://en.wikipedia.org/wiki/Aleph_number)
 

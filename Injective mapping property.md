@@ -22,8 +22,6 @@ The [[Range of the function]]  is $Y$ because each $y$ in $Y$ also appears in so
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

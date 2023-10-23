@@ -20,8 +20,6 @@ With any isosceles triangle, the angles opposite the equal sides are also equal.
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

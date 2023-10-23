@@ -11,8 +11,6 @@ publish: true
 Можно найти этот же паттерн в [[Pascal’s triangle]] если закрасить все нечетные числа
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

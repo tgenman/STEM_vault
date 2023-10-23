@@ -46,6 +46,4 @@ for every $\mathcal{F}\Rightarrow A_1\cup A_2\cup\ldots\in\mathcal{F}_*$
 
 
 
-**Sources:**
-- 
 

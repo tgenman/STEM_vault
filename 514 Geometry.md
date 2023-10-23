@@ -33,8 +33,6 @@ Semicircle - полуокружность
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

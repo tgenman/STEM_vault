@@ -23,8 +23,6 @@ parent:
 - $a + 0 = a$
 
 
-**Sources:**
-- 
 
 
 

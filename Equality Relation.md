@@ -24,6 +24,4 @@ Any ==Equality Relation== is [[Equivalence Relation]]
 
 
 
-**Sources:**
-- 
 

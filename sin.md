@@ -20,8 +20,6 @@ links: [[514.116 Trigonometry]]
 ![[Pasted image 20230801192210.png]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

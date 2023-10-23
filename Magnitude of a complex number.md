@@ -32,8 +32,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

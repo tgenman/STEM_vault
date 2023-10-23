@@ -21,8 +21,6 @@ publish: true
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

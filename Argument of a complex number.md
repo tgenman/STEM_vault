@@ -16,8 +16,6 @@ the angle relative to the origin and the positive direction of the [[Real number
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

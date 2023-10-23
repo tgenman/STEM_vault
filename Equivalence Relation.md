@@ -36,6 +36,4 @@ END
 
 
 
-**Sources:**
-- 
 

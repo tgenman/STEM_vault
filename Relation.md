@@ -28,6 +28,4 @@ We read $(a,b)∈R$ as “a is related to b” and write $a$ $\mathscr{R}$ $b$.
 
 
 
-**Sources:**
-- 
 

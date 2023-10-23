@@ -8,8 +8,6 @@ publish: true
 
 ![[Pasted image 20230829204732.png]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

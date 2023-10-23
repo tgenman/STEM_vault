@@ -22,6 +22,4 @@ connected:
 
 
 
-**Sources:**
-- 
 

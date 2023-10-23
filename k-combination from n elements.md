@@ -22,8 +22,6 @@ With repetition:
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

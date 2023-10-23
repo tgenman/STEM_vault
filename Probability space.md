@@ -25,6 +25,4 @@ A probability space $(\Omega, \mathcal{F}, P)$
 
 
 
-**Sources:**
-- 
 

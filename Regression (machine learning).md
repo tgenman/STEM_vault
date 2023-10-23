@@ -19,9 +19,7 @@ publish: true
 Схожесть регрессии и [[Classification (machine learning)|классификации]] подтверждается еще и тем, что многие классификаторы, после небольшого тюнинга, превращаются в регрессоры.
 
 
-
-**Sources:**
-- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab)
+[Machine Learning for Humans](https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab)
 
 
 **Connected with:**

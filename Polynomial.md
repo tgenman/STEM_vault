@@ -19,8 +19,6 @@ where
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -13,8 +13,6 @@ $$f \circ g(x) = f(g(x)) = z$$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

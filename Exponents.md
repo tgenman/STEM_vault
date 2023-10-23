@@ -19,8 +19,6 @@ Raising a power to a power is equivalent to raising the base to the product of t
 
 ![[Pasted image 20230511222338.png]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

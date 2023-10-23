@@ -20,8 +20,6 @@ $$
 \lim_{x \to 0^+} \frac{\sin{x}}{x} = 1
 $$
 
-**Sources:**
-- 
 
 
 **Connected with:**

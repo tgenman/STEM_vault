@@ -66,8 +66,6 @@ So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ an
 
 [[🎓🌳 Imaginary Numbers are Real - youtube]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

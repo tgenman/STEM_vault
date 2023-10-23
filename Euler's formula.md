@@ -28,8 +28,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

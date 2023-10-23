@@ -22,9 +22,7 @@ The golden ratio can be defined as the ratio of the length and the width of a *
 
 
 
-
-**Sources:**
-- [brilliant](https://brilliant.org/courses/complex-algebra/polynomials-6/the-golden-ratio/1/)
+[brilliant](https://brilliant.org/courses/complex-algebra/polynomials-6/the-golden-ratio/1/)
 
 
 **Connected with:**

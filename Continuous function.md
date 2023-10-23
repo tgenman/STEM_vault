@@ -27,8 +27,6 @@ Small changes to �a yield small changes in �f’s output.
 [[Mean Value Theorem]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

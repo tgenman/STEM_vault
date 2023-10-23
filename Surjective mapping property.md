@@ -16,8 +16,6 @@ A function is ==surjective== if its [[Image of a function]]  is equal to its tar
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

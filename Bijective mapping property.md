@@ -17,8 +17,6 @@ A function is ==bijective== if it is both injective and surjective.
 ![[Pasted image 20230915113440.png]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

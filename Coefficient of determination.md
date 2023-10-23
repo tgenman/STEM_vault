@@ -18,8 +18,6 @@ $$
 SSR - [[Mean squared error MSE|Sum of squared residuals SSR]]
 SST - [[Total Sum of Squares (TSS or SST)]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

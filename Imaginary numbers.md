@@ -13,8 +13,6 @@ $i^5 = i$
 $i^-1 = -i$
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

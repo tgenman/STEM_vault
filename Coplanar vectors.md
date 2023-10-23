@@ -5,8 +5,6 @@ publish: true
 
 [[Determinant of matrix|Определитель матрицы]] из координат этих векторов равен нулю
 
-**Sources:**
-- 
 
 
 **Connected with:**

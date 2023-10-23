@@ -11,8 +11,6 @@ Criterias:
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -25,6 +25,4 @@ Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if t
 
  
 
-**Sources:**
-- 
 

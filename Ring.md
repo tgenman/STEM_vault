@@ -32,6 +32,4 @@ END
 
 
 
-**Sources:**
-- 
 

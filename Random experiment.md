@@ -67,8 +67,6 @@ END
 
 
 
-**Sources:**
-- 
 
 
 

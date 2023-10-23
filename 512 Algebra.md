@@ -32,7 +32,5 @@ parent: "[[510 Math MOC|Mathematics]]"
 ==factoring==, which consists of rewriting the expression with the common parts taken out in front of a bracket: ab  $ab+ac = a(b+c)$
 
 
-**Sources:**
-- 
 
 **Created:** 2023-05-11 17:23

@@ -8,8 +8,6 @@ The **correlation coefficient** $r$ measures the strength and direction of a 
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

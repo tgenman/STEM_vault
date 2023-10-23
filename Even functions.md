@@ -21,8 +21,6 @@ $𝑓(𝑥) - 𝑓(− 𝑥) = 0$
 
 ![[Pasted image 20230804164236.png]]
 
-**Sources:**
-- 
 
 
 **Connected with:**

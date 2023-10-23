@@ -8,8 +8,6 @@ publish: true
 $$O = \begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}$$
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -17,8 +17,6 @@ publish: true
 -   If $u$ is a vector in $V$, then $cu$ is also in $V$ for any constant $c$.
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

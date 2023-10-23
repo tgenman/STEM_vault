@@ -18,8 +18,6 @@ $$
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

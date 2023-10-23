@@ -18,8 +18,6 @@ Most sequences can be described in any of these three ways:
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

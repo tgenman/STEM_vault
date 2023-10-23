@@ -32,6 +32,4 @@ $P: \mathcal{F} \rightarrow [0, 1]$ - a probability measure:
 
 
 
-**Sources:**
-- 
 

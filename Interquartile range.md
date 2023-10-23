@@ -8,8 +8,6 @@ The IQR is the difference between the first quartile and the third quartile.
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

@@ -38,6 +38,4 @@ END
 
 
 
-**Sources:**
-- 
 

@@ -51,6 +51,4 @@ END
 
 
 
-**Sources:**
-- 
 

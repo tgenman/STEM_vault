@@ -12,8 +12,6 @@ anki:
 
 
 
-**Sources:**
-- 
 
 
 **Connected with:**

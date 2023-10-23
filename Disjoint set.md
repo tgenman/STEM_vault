@@ -23,6 +23,4 @@ Sets are ==disjoint== if no two of them share a common element.
 
 
 
-**Sources:**
-- 
 

@@ -12,8 +12,6 @@ $$
 ![[Pasted image 20230731213936.png|300]]
 
 
-**Sources:**
-- 
 
 
 **Connected with:**
