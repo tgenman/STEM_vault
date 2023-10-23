@@ -1,9 +1,14 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 parent:
   - "[[519.101 Combinatorics]]"
+created: 2023-07-07 10:02
+connected:
+  - "[[The multiplication principle (combinatorics)]]"
+  - "[[The substraction principle (combinatorics)]]"
+  - "[[Sum Rule of Probability]]"
 ---
 If $A_1,..., A_n$ are pairwise disjoint sets ($A_i \cap A_j = \emptyset$  wherever $i \neq j$), then
 $$
@@ -12,5 +17,19 @@ $$
 
 Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
 
+### Anki
+TARGET DECK: Math::Combinatorics
+START
+Math prop
+Question_eng: The additional principle (combinatorics)
+Question_rus: 
+Answer_eng: If $A_1,..., A_n$ are pairwise disjoint sets ($A_i \cap A_j = \emptyset$  wherever $i \neq j$), then
+$$
+|A_1 \cup ... \cup A_n| = |A_1 + ... + A_n| = \sum_{k=1}^{n} |A_i|
+$$
 
-**Created:** 2023-07-07 10:02
+Answer_rus: Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
+Formula_main: 
+Formula_additional:
+<!--ID: 1698065507923-->
+END

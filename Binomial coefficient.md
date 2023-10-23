@@ -5,6 +5,9 @@ publish: true
 anki: false
 parent:
   - "[[519.101 Combinatorics]]"
+created: 2023-10-23 15:52
+connected:
+  - "#обс/linking"
 ---
 
 
@@ -20,13 +23,3 @@ parent:
 
 
 
-**Sources:**
-- 
-
-
-**Connected with:**
-- #обс/linking 
-
-
-
-**Created:** 2023-07-07 10:02
