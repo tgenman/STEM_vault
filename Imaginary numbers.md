@@ -21,6 +21,3 @@ $i^-1 = -i$
 - [[511 Numbers Theory]]
 - [[Complex numbers]]
 
-
-
-**Created:** 2023-07-07 10:02

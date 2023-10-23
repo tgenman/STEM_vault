@@ -17,6 +17,3 @@ The **correlation coefficient** $r$ measures the strength and direction of a 
 - [[519.22 Statistic]]
 - [[Coefficient of determination]]
 
-
-
-**Created:** 2023-07-07 10:02

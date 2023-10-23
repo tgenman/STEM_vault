@@ -23,6 +23,3 @@ publish: true
 - [[Polar Coordinates|Полярные координаты]]
 - 
 
-
-
-**Created:** 2023-07-07 10:02

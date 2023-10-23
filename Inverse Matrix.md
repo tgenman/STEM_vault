@@ -30,6 +30,3 @@ $$A^{-1} * A = A * A^{-1} = E$$
 - [[Matrix|Матрица]]
 - [[Matrix Inversion]]
 
-
-
-**Created:** 2023-07-07 10:02

@@ -25,6 +25,3 @@ $$
 **Connected with:**
 - [[512.64  Linear algebra MOC|Линейная алгебра]]
 
-
-
-**Created:** 2023-07-07 10:02

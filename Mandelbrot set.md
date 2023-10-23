@@ -16,6 +16,3 @@ publish: true
 - [[Fractal|Фрактал]]
 - [[Julia set fractal]]
 
-
-
-**Created:** 2023-07-07 10:02

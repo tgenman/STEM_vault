@@ -29,6 +29,3 @@ publish: true
 - [[Hyperbolic functions|Гиперболические функции]]
 - [[514.116 Trigonometry|Тригонометрия]]
 
-
-
-**Created:** 2023-07-07 10:02

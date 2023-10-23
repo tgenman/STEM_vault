@@ -29,6 +29,3 @@ Functions are considered to be ==**invertible**== if their inverses are also f
 **Connected with:**
 - 
 
-
-
-**Created:** 2023-07-07 10:02

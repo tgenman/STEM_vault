@@ -36,5 +36,3 @@ Small changes to �a yield small changes in �f’s output.
 - [[One-sided Limits]]
 
 
-
-**Created:** 2023-07-07 10:02

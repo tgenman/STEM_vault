@@ -26,6 +26,3 @@ A function is ==bijective== if it is both injective and surjective.
 - [[Однозначное отображение]]
 - [[Равномощность]]
 
-
-
-**Created:** 2023-07-07 10:02

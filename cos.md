@@ -24,6 +24,3 @@ publish: true
 - [[514.116 Trigonometry|Тригонометрия]]
 - [[sin|Синус]]
 
-
-
-**Created:** 2023-07-07 10:02

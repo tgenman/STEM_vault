@@ -26,6 +26,3 @@ When this happens, the median is calculated by finding the mean of the middle tw
 - [[519.22 Statistic|Статистика]]
 - [[Mean]]
 
-
-
-**Created:** 2023-07-07 10:02

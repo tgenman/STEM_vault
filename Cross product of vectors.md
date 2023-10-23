@@ -48,6 +48,3 @@ $[\bar a \times \bar a] = 0$
 - [[Vectors opeartions]]
 - [[Dot product of vectors]]
 
-
-
-**Created:** 2023-07-07 10:02

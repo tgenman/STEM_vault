@@ -19,6 +19,3 @@ Because the regression line minimizes squared errors, regression is also calledÂ
 - [[Linear and Polynomial Regression]]
 - [[Total Sum of Squares (TSS or SST)]]
 
-
-
-**Created:** 2023-07-07 10:02

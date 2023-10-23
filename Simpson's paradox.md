@@ -23,6 +23,3 @@ publish: true
 **Connected with:**
 - [[519.22 Statistic|Статистика]]
 
-
-
-**Created:** 2023-07-07 10:02

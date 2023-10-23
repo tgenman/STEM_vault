@@ -18,6 +18,3 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 
 
 
-
-
-**Created:** 2023-07-07 10:02

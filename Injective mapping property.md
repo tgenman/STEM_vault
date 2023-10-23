@@ -29,6 +29,3 @@ The [[Range of the function]]  is $Y$ because each $y$ in $Y$ also appears in so
 **Connected with:**
 - #обс/linking 
 
-
-
-**Created:** 2023-07-07 10:02

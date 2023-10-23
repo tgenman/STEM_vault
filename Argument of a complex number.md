@@ -24,6 +24,3 @@ the angle relative to the origin and the positive direction of the [[Real number
 - [[Complex numbers]]
 - [[Complex plane]]
 
-
-
-**Created:** 2023-07-07 10:02

@@ -27,6 +27,3 @@ $$
 **Connected with:**
 - [[Limit of function]]
 
-
-
-**Created:** 2023-07-07 10:02

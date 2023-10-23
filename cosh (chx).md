@@ -19,6 +19,3 @@ publish: true
 **Connected with:**
 - [[Hyperbolic functions|Гиперболические функции]]
 
-
-
-**Created:** 2023-07-07 10:02

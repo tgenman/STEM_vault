@@ -22,6 +22,3 @@ parent:
 **Connected with:**
 - [[Domain of a function]]
 
-
-
-**Created:** 2023-07-07 10:02

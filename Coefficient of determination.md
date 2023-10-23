@@ -26,6 +26,3 @@ SST - [[Total Sum of Squares (TSS or SST)]]
 - [[519.22 Statistic]]
 - [[Correlation coefficient]]
 
-
-
-**Created:** 2023-07-07 10:02

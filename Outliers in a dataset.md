@@ -18,6 +18,3 @@ Specifically, an ==outlier== is any data point that is:
 **Connected with:**
 - [[Interquartile range]]
 
-
-
-**Created:** 2023-07-07 10:02

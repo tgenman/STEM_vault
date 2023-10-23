@@ -23,6 +23,3 @@ publish: true
 **Connected with:**
 - [[Mean]]
 
-
-
-**Created:** 2023-07-07 10:02
