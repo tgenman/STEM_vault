@@ -3,7 +3,7 @@ aliases:
   - Множество (математика)
 publish: true
 parent:
-  - "[[510.3 Sets theory MOC]]"
+  - "[[510.22 Sets theory MOC]]"
 created: 2023-10-17 17:37
 connected:
   - "[[Subset]]"

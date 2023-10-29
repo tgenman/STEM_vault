@@ -2,7 +2,7 @@
 aliases: Инвариант
 publish: true
 ---
-links: [[510 Math MOC|Математика]]
+links: [[51 Math MOC|Математика]]
 
 ---
 

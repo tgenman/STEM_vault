@@ -24,7 +24,7 @@ publish: true
 
 **Connected with:**
 - as subtype of [[Supervised Learning]]
-- [[510 Math MOC]]
+- [[51 Math MOC]]
 
 
 

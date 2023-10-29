@@ -20,7 +20,7 @@ A function is ==bijective== if it is both injective and surjective.
 
 
 **Connected with:**
-- [[510.3 Sets theory MOC|Теория множеств]]
+- [[510.22 Sets theory MOC|Теория множеств]]
 - [[Однозначное отображение]]
 - [[Равномощность]]
 

@@ -7,7 +7,7 @@ tags:
   - pkm🏷/moc
 publish: true
 parent:
-  - "[[510 Math MOC]]"
+  - "[[51 Math MOC]]"
 connected:
   - "[[Polynomial]]"
 created: 2023-08-09 15:50

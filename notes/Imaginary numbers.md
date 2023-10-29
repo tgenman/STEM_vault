@@ -16,6 +16,6 @@ $i^-1 = -i$
 
 
 **Connected with:**
-- [[511 Numbers Theory]]
+- [[511 Numbers Theory MOC]]
 - [[Complex numbers]]
 

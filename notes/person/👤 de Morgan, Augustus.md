@@ -3,7 +3,7 @@ aliases: [Огюстес де Морган]
 tags: person👤
 publish: true
 ---
-links: [[510.3 Sets theory MOC|Теория множеств]], [[16 Logic]]
+links: [[510.22 Sets theory MOC|Теория множеств]], [[16 Logic]]
 profession: [[Математик]]
 rec:
 city: 

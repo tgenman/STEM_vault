@@ -4,7 +4,7 @@ aliases:
 publish: true
 created: 2023-08-07 14:13
 parent:
-  - "[[510 Math MOC]]"
+  - "[[51 Math MOC]]"
 connected:
   - "[[Recursion]]"
   - "[[Complex numbers]]"

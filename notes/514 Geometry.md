@@ -36,6 +36,6 @@ Semicircle - полуокружность
 
 
 **Connected with:**
-- [[510 Math MOC|Математика]]
+- [[51 Math MOC|Математика]]
 
 

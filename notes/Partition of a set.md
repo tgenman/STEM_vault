@@ -5,7 +5,7 @@ publish: true
 anki: true
 created: 2023-10-21 17:16
 parent:
-  - "[[510.3 Sets theory MOC]]"
+  - "[[510.22 Sets theory MOC]]"
 connected:
   - "[[Disjoint set]]"
 ---

@@ -6,7 +6,7 @@ anki: false
 created: 2023-10-17 21:57
 parent:
   - "[[Infinity (math)]]"
-  - "[[511 Numbers Theory]]"
+  - "[[511 Numbers Theory MOC]]"
 connected:
   - "[[Continuum infinity set]]"
   - "[[Real numbers]]"

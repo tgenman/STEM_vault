@@ -6,7 +6,7 @@ publish: true
 anki: true
 created: 2023-10-21 17:32
 parent:
-  - "[[511 Numbers Theory]]"
+  - "[[511 Numbers Theory MOC]]"
   - "[[512.54 Group Theory MOC]]"
 connected: []
 ---

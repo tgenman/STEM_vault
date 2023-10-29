@@ -2,9 +2,11 @@
 aliases:
   - Числа
   - Теория Чисел
+tags:
+  - pkm🏷/moc
 publish: true
 parent:
-  - "[[510 Math MOC]]"
+  - "[[51 Math MOC]]"
 ---
 ![[Pasted image 20220628150733.png]]
 

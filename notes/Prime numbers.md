@@ -3,7 +3,7 @@ aliases: [Простые числа]
 publish: true
 ---
 
-[[511 Numbers Theory|Числа]], [[Euclid numbers]]
+[[511 Numbers Theory MOC|Числа]], [[Euclid numbers]]
 
 не сами простые числа, а их произведения. Такие произведения называют ==полупростые числа.==
 

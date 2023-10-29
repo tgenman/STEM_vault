@@ -5,7 +5,7 @@ tags:
   - pkm🏷/moc
 publish: true
 parent:
-  - "[[510 Math MOC|Mathematics]]"
+  - "[[51 Math MOC|Mathematics]]"
 created: 2023-05-11 17:23
 connected: []
 ---

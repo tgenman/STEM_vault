@@ -69,7 +69,7 @@ So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ an
 
 
 **Connected with:**
-- [[511 Numbers Theory]]
+- [[511 Numbers Theory MOC]]
 - [[Imaginary numbers]]
 - [[Euler's formula|Формула Эйлера]]
 - [[Mandelbrot set]]
