@@ -72,5 +72,5 @@ $$
 
 **Connected with:**
 - [[Function (math)|Функция]]
-- [[517 Сalculus]]
+- [[517 Сalculus MOC]]
 

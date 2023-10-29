@@ -1,6 +1,9 @@
 ---
-aliases: Последовательность
+aliases:
+  - Последовательность
 publish: true
+parent:
+  - "[[512.1 Elementary Algebra MOC]]"
 ---
 
 A **sequence** is an ordered list of objects such as numbers.
@@ -16,12 +19,6 @@ Most sequences can be described in any of these three ways:
 
 
 
-
-
-
-
-**Connected with:**
-- [[512 Algebra]]
 
 
 

@@ -1,6 +1,10 @@
 ---
-aliases: Область значений функции, Множество значений функции
+aliases:
+  - Область значений функции
+  - Множество значений функции
 publish: true
+parent:
+  - "[[512.1 Elementary Algebra MOC]]"
 ---
 
 The range of a function is the set of all possible outputs.
@@ -22,7 +26,6 @@ E(f) - область значений функции f(x). Это все зн
 
 **Connected with:**
 - [[Function (math)]]
-- [[512 Algebra]]
 
 
 

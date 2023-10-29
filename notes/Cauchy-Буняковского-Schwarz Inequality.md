@@ -1,9 +1,15 @@
 ---
-aliases: Неравенство Коши-Буняковского-Шварца
+aliases:
+  - Неравенство Коши-Буняковского-Шварца
 publish: true
+anki: false
+created: 2023-10-29 11:08
+parent:
+  - "[[512.1 Elementary Algebra MOC]]"
+connected:
+  - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
+  - "[[Dot product of vectors|Скалярное произведение векторов]]"
 ---
-#анки
-
 $$
 \frac{a + b}{2} = \sqrt{ab}
 $$
@@ -18,11 +24,21 @@ $$
 $$
 \frac{1}{n}\sum\limits_{k=1}^n a_k \geq \sqrt[n]{\prod\limits_{k=1}^n a_k}
 $$
-https://brilliant.org/wiki/cauchy-schwarz-inequality/#using-the-cauchy-schwarz-inequality
 
 
-**Connected with:**
-- [[👤 Cauchy, Augustin Louis|Огюстен Коши]]
-- [[512 Algebra|Алгебра]]
-- [[Dot product of vectors|Скалярное произведение векторов]]
+#### Sources
+- https://brilliant.org/wiki/cauchy-schwarz-inequality/#using-the-cauchy-schwarz-inequality
+
+
+
+
+
+
+
+
+
+
+
+**Sources:**
+- 
 

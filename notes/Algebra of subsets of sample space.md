@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2023-10-22 15:33
 parent:
-  - "[[512.54 Group Theory]]"
+  - "[[512.54 Group Theory MOC]]"
 connected:
   - "[[Sigma algebra of subsets of sample space]]"
 ---

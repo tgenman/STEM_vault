@@ -7,7 +7,7 @@ anki: true
 created: 2023-10-21 17:32
 parent:
   - "[[511 Numbers Theory]]"
-  - "[[512.54 Group Theory]]"
+  - "[[512.54 Group Theory MOC]]"
 connected: []
 ---
 We define the set $Z/nZ$ as the set containing the cells in this [[Partition of a set]]. 

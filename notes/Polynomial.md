@@ -1,6 +1,9 @@
 ---
-aliases: Полином
+aliases:
+  - Полином
 publish: true
+parent:
+  - "[[512.1 Elementary Algebra MOC]]"
 ---
 
 
@@ -22,7 +25,6 @@ where
 
 
 **Connected with:**
-- [[512 Algebra|Алгебра]]
 - [[Golden ratio (golden rectangle)]]
 - [[Factoring (math)]]
 - [[Квадратичная функция]]

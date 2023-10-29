@@ -15,14 +15,16 @@ connected:
 	- [[510.6 Математическая логика]], [[Логика]]
 - [[511 Numbers Theory]] 
 - [[512 Algebra]]
-	- 512.1 Элементарная алгебра, операции и формулы
-	- [[512.54 Group Theory]]
+	- [[512.1 Elementary Algebra MOC]]
+	- 512.5 General Algebra
+		- [[512.54 Group Theory MOC]]
+		- [[512.58 Category Theory MOC]]
 	- [[512.64  Linear algebra MOC]]
 - [[514 Geometry]]
 	- [[514.116 Trigonometry]]
 	- 514.12 Аналитическая геометрия
 - [[515.1 Topology]]
-- [[517 Сalculus]] 
+- [[517 Сalculus MOC]] 
 	- [[517.52 Ряды и последовательности]]
 - 519.1 Комбинаторный анализ. Теория графов
 	- [[519.101 Combinatorics]]

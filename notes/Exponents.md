@@ -1,6 +1,9 @@
 ---
-aliases: Экспонента
+aliases:
+  - Экспонента
 publish: true
+parent:
+  - "[[512.1 Elementary Algebra MOC]]"
 ---
 
 **Exponents** let us express repeated multiplication, making it easier to represent some quantities.
@@ -17,12 +20,7 @@ Raising a quotient to a power is equivalent to raising the numerator and denomin
 
 Raising a power to a power is equivalent to raising the base to the product of the powers.
 
-![[Pasted image 20230511222338.png]]
 
-
-
-**Connected with:**
-- [[512 Algebra]]
 
 
 

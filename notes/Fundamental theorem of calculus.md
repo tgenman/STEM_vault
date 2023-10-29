@@ -1,7 +1,7 @@
 ---
 publish: true
 parent:
-  - "[[517 Сalculus|Calculus]]"
+  - "[[517 Сalculus MOC|Calculus]]"
 ---
 #анки
 

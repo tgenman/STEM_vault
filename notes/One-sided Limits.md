@@ -29,5 +29,5 @@ $$
 
 **Connected with:**
 - [[Limit of function|Предел функции]]
-- [[517 Сalculus|Матан]]
+- [[517 Сalculus MOC|Матан]]
 
