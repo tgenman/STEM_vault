@@ -1,8 +1,8 @@
 ---
 aliases: Коэффициент детерминации
 publish: true
+anki: false
 ---
-#анки
 
 We can also use the **coefficient of determination** $R^2$ to measure how close data are to a fitted regression line.
 

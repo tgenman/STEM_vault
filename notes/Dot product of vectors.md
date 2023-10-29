@@ -1,9 +1,9 @@
 ---
 aliases: Скалярное произведение векторов, Scalar product
 publish: true
+anki: false
 ---
 
-#анки 
 
 $\vec{a} = a_x \vec{i} + a_y \vec{j} + a_z \vec{k}$  
 $\vec{b} = b_x \vec{i} + b_y \vec{j} + b_z \vec{k}$ 

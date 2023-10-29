@@ -1,8 +1,8 @@
 ---
 aliases: Arctangent, Арктангенс
 publish: true
+anki: false
 ---
-#анки
 
 
 ![[Pasted image 20230801190923.png]]

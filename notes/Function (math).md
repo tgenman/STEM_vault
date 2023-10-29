@@ -9,7 +9,7 @@ connected:
   - "[[517 Сalculus MOC|Calculus]]"
   - "[[512.1 Elementary Algebra MOC]]"
 ---
-**Функция** — это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго. #анки 
+**Функция** — это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго.
 
 A ==function== $φ$ mapping $X$ into $Y$ is a [[Relation]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 

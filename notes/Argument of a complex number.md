@@ -1,8 +1,9 @@
 ---
 aliases:
 publish: true
+anki: false
 ---
-#анки
+
 
 the angle relative to the origin and the positive direction of the [[Real numbers|real]] axis, also known as the ==**argument**==.
 

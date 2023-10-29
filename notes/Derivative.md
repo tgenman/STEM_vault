@@ -1,10 +1,9 @@
 ---
 aliases: Производная
 publish: true
+anki: false
 ---
 
-
-#анки 
 
 $f'(a)$, pronounced “$f$ prime at $a$.”
 
