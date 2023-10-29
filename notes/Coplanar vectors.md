@@ -1,5 +1,6 @@
 ---
 aliases: Компланарные векторы
+created: 2023-08-10 15:37
 publish: true
 ---
 
@@ -13,4 +14,3 @@ publish: true
 
 
 
-**Created:** 2023-08-10 15:37

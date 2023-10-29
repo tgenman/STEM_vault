@@ -1,5 +1,6 @@
 ---
-aliases: Регрессия 
+aliases: Регрессия
+created: 2023-05-03 12:13
 publish: true
 ---
 
@@ -28,4 +29,3 @@ publish: true
 
 
 
-**Created:** 2023-05-03 12:13

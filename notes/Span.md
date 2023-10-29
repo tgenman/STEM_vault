@@ -1,6 +1,7 @@
 ---
 aliases: Линейная оболочка, Линейный диапазон
 publish: true
+created: 2023-08-12 21:20
 ---
 #анки 
 
@@ -16,4 +17,3 @@ Any element of a [[Vector space V]]  can be written as a [[Linear combination]] 
 
 
 
-**Created:** 2023-08-12 21:20

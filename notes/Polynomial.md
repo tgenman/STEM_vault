@@ -2,6 +2,7 @@
 aliases:
   - Полином
 publish: true
+created: 2023-08-08 22:30
 parent:
   - "[[512.1 Elementary Algebra MOC]]"
 ---
@@ -32,4 +33,3 @@ where
 
 
 
-**Created:** 2023-08-08 22:30

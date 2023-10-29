@@ -1,6 +1,7 @@
 ---
 aliases: Золотое сечение
 publish: true
+created: 2023-08-08 22:35
 ---
 
 $$
@@ -31,4 +32,3 @@ The golden ratio can be defined as the ratio of the length and the width of a *
 
 
 
-**Created:** 2023-08-08 22:35

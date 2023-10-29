@@ -1,5 +1,6 @@
 ---
-aliases: Symmetric with respect to the y-axis, Четная функция
+aliases: Symmetric with respect to the y-axis, Четная функция
+created: 2023-07-02 14:53
 publish: true
 ---
 
@@ -27,4 +28,3 @@ $𝑓(𝑥) - 𝑓(− 𝑥) = 0$
 - [[Odd functions]]
 - [[Symmetry]]
 
-**Created:** 2023-07-02 14:53

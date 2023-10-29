@@ -2,6 +2,7 @@
 aliases:
   - Вектор
 publish: true
+created: 2023-08-10 15:26
 parent:
   - "[[512.64  Linear algebra MOC]]"
 ---
@@ -26,4 +27,3 @@ parent:
 
 
 
-**Created:** 2023-08-10 15:26

@@ -3,7 +3,7 @@ aliases:
   - Единичная матрица
 publish: true
 anki: false
-created: 2023-10-21 17:05
+created: 2023-09-10 10:30
 parent:
   - "[[Диагональная матрица]]"
 connected:
@@ -22,4 +22,3 @@ $$E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$$
 
 
 
-**Created:** 2023-09-10 10:30

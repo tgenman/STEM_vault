@@ -2,6 +2,7 @@
 aliases:
   - Функция
 publish: true
+created: 2023-09-15 11:18
 parent:
   - "[[Relation]]"
 connected:
@@ -51,4 +52,3 @@ $q:(3; 4)⟶{0; 1}.$
 
 
 
-**Created:** 2023-09-15 11:18

@@ -1,6 +1,7 @@
 ---
 aliases: Треугольник
 publish: true
+created: 2023-05-11 14:58
 ---
 
 
@@ -23,4 +24,3 @@ publish: true
 
 
 
-**Created:** 2023-05-11 14:58

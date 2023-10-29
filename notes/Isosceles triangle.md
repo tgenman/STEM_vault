@@ -1,5 +1,6 @@
 ---
 aliases: Равнобедренный треугольник
+created: 2023-05-11 14:59
 publish: true
 ---
 
@@ -27,4 +28,3 @@ With any isosceles triangle, the angles opposite the equal sides are also equal.
 
 
 
-**Created:** 2023-05-11 14:59

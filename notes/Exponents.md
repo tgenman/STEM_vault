@@ -2,6 +2,7 @@
 aliases:
   - Экспонента
 publish: true
+created: 2023-05-11 22:05
 parent:
   - "[[512.1 Elementary Algebra MOC]]"
 ---
@@ -24,4 +25,3 @@ Raising a power to a power is equivalent to raising the base to the product of t
 
 
 
-**Created:** 2023-05-11 22:05

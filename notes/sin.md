@@ -1,6 +1,7 @@
 ---
 aliases: Sine, Синус
 publish: true
+created: 2023-07-31 19:39
 ---
 links: [[514.116 Trigonometry]]
 
@@ -28,4 +29,3 @@ links: [[514.116 Trigonometry]]
 
 
 
-**Created:** 2023-07-31 19:39

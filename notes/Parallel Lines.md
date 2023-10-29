@@ -1,5 +1,6 @@
 ---
 aliases: Парллельные линии
+created: 2023-05-11 14:51
 publish: true
 ---
 
@@ -23,4 +24,3 @@ publish: true
 
 
 
-**Created:** 2023-05-11 14:51

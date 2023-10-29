@@ -1,5 +1,6 @@
 ---
 aliases: Symmetric with respect to the origin, Нечетная функция
+created: 2023-07-02 14:55
 publish: true
 ---
 #анки 
@@ -28,4 +29,3 @@ $𝑓(𝑥) + 𝑓(− 𝑥) = 0$
 
 
 
-**Created:** 2023-07-02 14:55

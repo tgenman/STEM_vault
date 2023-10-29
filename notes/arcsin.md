@@ -1,8 +1,8 @@
 ---
 aliases: Arcsine, Арксинус
 publish: true
+anki: false
 ---
-#анки
 
 ![[Pasted image 20230801190410.png]]
 

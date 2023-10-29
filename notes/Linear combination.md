@@ -1,6 +1,7 @@
 ---
 aliases: Линейная комбинация векторов
 publish: true
+created: 2023-08-10 15:29
 ---
 #анки 
 ![[Screenshot 2022-07-07 at 21.05.21.png]]
@@ -19,4 +20,3 @@ publish: true
 
 
 
-**Created:** 2023-08-10 15:29

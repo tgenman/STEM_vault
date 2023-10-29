@@ -1,6 +1,7 @@
 ---
 aliases: 
 publish: true
+created: 2023-08-07 14:52
 ---
 #анки
 ![[Pasted image 20230807145241.png|400]]
@@ -17,4 +18,3 @@ publish: true
 
 
 
-**Created:** 2023-08-07 14:52
