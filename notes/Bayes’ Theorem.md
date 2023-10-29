@@ -2,7 +2,7 @@
 aliases: [Tеорема Байеса]
 publish: true
 ---
-links: [[51 Math MOC|Mathematics]], [[519.21  Probability theory]]
+links: [[51 Math MOC]], [[519.21  Probability theory]]
 
 ---
 

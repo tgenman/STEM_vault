@@ -1,5 +1,6 @@
 ---
 aliases: Комплексные числа
+created: 2023-08-07 14:01
 publish: true
 ---
 
@@ -74,7 +75,3 @@ So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ an
 - [[Euler's formula|Формула Эйлера]]
 - [[Mandelbrot set]]
 - [[Поверхность Римана]]
-
-
-
-**Created:** 2023-08-07 14:01

@@ -1,6 +1,7 @@
 ---
 aliases: Векторное пространство
 publish: true
+created: 2023-08-10 19:38
 ---
 #анки
 
@@ -21,7 +22,3 @@ publish: true
 
 **Connected with:**
 - [[Vector]]
-
-
-
-**Created:** 2023-08-10 19:38
