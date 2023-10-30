@@ -1,12 +1,12 @@
 ---
-aliases: 
+aliases:
+  - Формула включений-исключений
 publish: true
 anki: false
 created: 2023-10-20 21:01
 parent:
-  - "[[519.101 Combinatorics]]"
-connected:
   - "[[510.22 Sets theory MOC]]"
+connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"
 ---

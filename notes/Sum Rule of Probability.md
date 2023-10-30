@@ -6,7 +6,7 @@ created: 2023-07-07 10:02
 parent:
   - "[[Probability]]"
 connected:
-  - "[[Формула включений-исключений]]"
+  - "[[Inclusion-Exclusion principle]]"
   - "[[Product Rule of Probability]]"
 ---
 $$

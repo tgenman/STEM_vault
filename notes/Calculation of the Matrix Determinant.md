@@ -1,13 +1,13 @@
 ---
-aliases: Вычисление определителя матрицы
+aliases:
+  - Вычисление определителя матрицы
 publish: true
+anki: false
+created: 2023-10-30 20:33
+parent:
+  - "[[Determinant of matrix|Определитель матрицы]]"
+connected: []
 ---
-links: [[Determinant of matrix|Определитель матрицы]]
-
----
-
-
-
 ## 1х1
 $$|(a_{11})| = a_{11}$$
 
@@ -38,11 +38,17 @@ $$A_{ij}=(-1)^{i+j}\cdot M_{ij}$$
 
 Прелесть алгебраического дополнения в том, что его знак не зависит от конкретных элементов матрицы. Сумма номеров чётная — будет плюс, нечётная — будет минус.
 
-![[Pasted image 20220725183514.png|200]]
+$$\begin{pmatrix}+&-&+\\-&+&-\\+&-&+\end{pmatrix}$$
+
 
 $$∣A∣=a_{11}A_{11}+a_{12}A_{12}+a_{13}A_{13}$$
 
-![[Pasted image 20220725184033.png|600]]
+$$\begin{aligned}
+&\left.\det A=a_{11}\cdot\left|\begin{array}{cc}\color{red}{a_{22}}&\color{red}{a_{23}}\\\\\color{red}{a_{32}}&\color{red}{a_{33}}\end{array}\right.\right|-a_{12}\cdot\left|\begin{array}{rr}\color{red}{a_{21}}&\color{red}{a_{23}}\\\\\color{red}{a_{31}}&\color{red}{a_{33}}\end{array}\right|+a_{13}\cdot\left|\begin{array}{rr}\color{red}{a_{21}}&\color{red}{a_{23}}\\\\\color{red}{a_{31}}&\color{red}{a_{32}}\end{array}\right|= \\
+&=a_{11}\cdot(\color{red}{a_{22}\cdot a_{33}-a_{23}\cdot a_{32}})-a_{12}\cdot(\color{red}{a_{21}\cdot a_{33}-a_{23}\cdot a_{31}}) \\
+&+a_{13}\cdot\left(\color{red}{a_{21}\cdot a_{32}-a_{22}\cdot a_{31}}\right)
+\end{aligned}$$
+
 
 Любую квадратную матрицу $A_{n{\times}n}$ можно разложить по **любой** строке или столбцу.
 
