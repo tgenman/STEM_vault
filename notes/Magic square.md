@@ -1,11 +1,31 @@
 ---
+aliases:
+  - Магический квадрат
 publish: true
+anki: false
+created: 2023-10-30 20:01
+parent:
+  - "[[Matrix|Матрица]]"
+connected:
+  - "[[Vector space V]]"
 ---
-links: [[Matrix|Матрица]], [[Vector space V]]
-
----
-
 A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
 
 For instance, the classical example is
-![[Pasted image 20220719111204.png|150]]
+$$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04.png|150]]
