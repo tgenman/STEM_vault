@@ -17,7 +17,7 @@ connected:
   $\sum_{i\operatorname{=}0}^n\binom ni=2^n$
 
 - [[Alternating Sum and Difference of Binomial Coefficients for Given n]] 
-  $\forall n\in\mathbb{Z}:\sum_{i=0}^n{(-1)^i\binom ni}$
+  $\forall n\in\mathbb{Z}:\sum_{i=0}^n{(-1)^i\binom ni}=0$
 
 - [[Rising Sum of Binomial Coefficients]]
   $\sum_{j\operatorname{=}0}^m\binom{n+j}n=\binom{n+m+1}{n+1}=\binom{n+m+1}m$
