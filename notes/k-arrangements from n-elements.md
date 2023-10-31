@@ -13,9 +13,9 @@ connected:
 ---
 Let $k \leq n$  and $A = \set{a_1,..., a_n}$ be a finite set
 
-An ==arrangement== or ==permutation== of $n$ elements (of the set A) is an ordered n-tuple $(x_1,..., x_n)$ elements of A, where each elements occurs exactly once
+An ==arrangement== or ==permutation== of $n$ elements (of the set A) is an ordered n-tuple $(x_1,..., x_n) {}$ elements of A, where each elements occurs exactly once
 
-A ==k-variation== from n-elements (from n-element set A) is an ==Arrangements== of some of k-element subset of A
+A ==k-variation== from n-elements (from $n {}$-element set $A$) is an ==Arrangements== of some of k-element subset of A
 
 ### No repetition (число k-размещений без повторений из n объектов) Перестановка:
 $$
@@ -35,13 +35,25 @@ $$
 \bar{A_n^n} = n \cdot n \cdot ... \cdot n = n^n
 $$
 
+
+
+> [!info]+
+> ```dataview 
+> TABLE without id
+> map(file.outlinks, (link) => "[[" + meta(link).path + "]]") AS "Исходящие",
+> map(file.inlinks, (link) => "[[" + meta(link).path + "]]") AS "Входящие"
+> WHERE file.name = this.file.name
+> ```
+
+
+
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
 Math def
 Title_eng:  k-arrangements from n-elements (No repetition)
 Title_rus:  число k-размещений без повторений из n объектов
-Description_eng: is an ordered n-tuple $(x_1,..., x_n)$ elements of A, where each elements occurs exactly once
+Description_eng: is an ordered n-tuple ${} (x_1,..., x_n)$ elements of A, where each elements occurs exactly once
 Description_rus:
 Formula_main: $$
 A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1)
