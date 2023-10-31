@@ -25,7 +25,7 @@ connected:
 
 
 
-#### Sources:
+#### Bookmarks:
 - [Properties of Binomial Coefficients (wiki)](https://proofwiki.org/wiki/Properties_of_Binomial_Coefficients#Sum_of_Even_Index_Binomial_Coefficients)
 
 

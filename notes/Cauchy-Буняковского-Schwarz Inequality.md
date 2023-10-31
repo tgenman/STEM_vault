@@ -26,7 +26,7 @@ $$
 $$
 
 
-#### Sources
+#### Bookmarks
 - https://brilliant.org/wiki/cauchy-schwarz-inequality/#using-the-cauchy-schwarz-inequality
 
 
@@ -39,6 +39,6 @@ $$
 
 
 
-#### Sources
+#### Bookmarks
 - 
 

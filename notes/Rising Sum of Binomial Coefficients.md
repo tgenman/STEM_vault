@@ -25,7 +25,7 @@ $$\begin{aligned}
 
 
 
-#### Sources:
+#### Bookmarks:
 - [Rising Sum of Binomial Coefficients (wiki)](https://proofwiki.org/wiki/Rising_Sum_of_Binomial_Coefficients "Rising Sum of Binomial Coefficients")
 
 
