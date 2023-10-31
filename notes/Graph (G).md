@@ -1,0 +1,59 @@
+---
+aliases:
+  - Граф
+publish: true
+anki: false
+created: 2023-10-22 18:51
+parent:
+  - "[[519.17 Graph Theory]]"
+connected:
+---
+> [!tip] Graph ${} G {}$
+>  is a finite nonempty set ${} V {}$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set ${} E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
+
+$$
+G = (V,E)
+$$
+
+${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, wy, xy}$:
+![[Pasted image 20231031222606.png|300]]
+
+[[Adjacent in graph]]
+[[Neighborhood in graph]]
+
+
+[[Order of graph (n)]]
+[[Size of graph (m)]]
+
+> [!example] Types
+> - by $n {}$ [[Order of graph (n)|order]] 
+> 	- 1 - trivial graph
+> 	- 2 and more - nontrivial graph
+> - by ${} m$ ([[Size of graph (m)|size]])
+> 	- 0 - empty graph
+> 	- 1 - non empty graph
+> - by $n$ and $m$
+> 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n {}$
+> - by form
+> 	- [[Path of graph (P_n)]]
+> 	- [[Cycle of graph (C_n)]]
+
+
+
+
+
+[[Undirected graph]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
