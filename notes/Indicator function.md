@@ -18,13 +18,36 @@ $$
 Таким образом, $I_A-$это функция, заданная на всем выборочном пространстве $\Omega$ и принимающая значения 0 и 1 в случае тишины или звона колокольчика соответственно. Возможно, при изучении математического анализа вы уже встречались с тем, что важно различатн функцию (иногда называемую отображением) и значение, принимаемое функцией. В нашем случае функция $I_A$ однозначно определяется множеством $A$, и поэтому она называется индикаторной функцией или кратко, индикатором. Другое множество $B$ имеет свой собственный индикатор $I_B$. Две функции $I_A$ и $I_B$ совпадают (что это значит?) тогда и только тогда, когда множества $A$ и $B$ идентичны.
 
 #### Properties
-$$
-I_{\bar{A}} = 1 - I_{A}
-$$
+$$I_{\bar{A}} = 1 - I_{A}$$
 $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 
+### Anki
+TARGET DECK: Math::Combinatorics
+START
+Math prop
+Question_eng: Indicator function
+Question_rus: Индикаторная функция
+Answer_eng: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1698688139475-->
+END
 
+START
+Math prop
+Question_eng: Properties of Indicator function
+Question_rus: Свойства Индикаторная функция
+Answer_eng: $$I_{\bar{A}} = 1 - I_{A}$$
+$$\sum_{x\in U}1_A(x)=|A|$$
+$$1_{A\cap B}=1_A\cdot1_B$$
+
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1698688139477-->
+END
 
 
 

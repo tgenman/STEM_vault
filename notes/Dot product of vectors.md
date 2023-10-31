@@ -14,9 +14,10 @@ $$
 \vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z
 $$
 
+$$\cos(\vec{a},\vec{b})=\frac{\vec{a}\cdot\vec{b}}{|\vec{a}|\cdot|\vec{b}|}$$
 
-![[Pasted image 20220719155234.png|300]]
-![[Pasted image 20220719161147.png|400]]
+$$\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\cdot\sqrt{{b_1}^2+{b_2}^2}}.$$
+
 
 
 
@@ -24,9 +25,8 @@ $$
 
 ![[Pasted image 20220719125413.png|500]]
 
+$$\begin{aligned}&\text{для скалярного произведения действуют несколько свойств. О свойстве}\\&\text{коммутативности вы уже знаете. А вот ещё два:}\\&\quad\begin{array}{l}\bullet&(k\cdot\vec{a})\cdot\vec{b}=k\cdot(\vec{a}\cdot\vec{b})-\text{ассоциативность скалярного произведения:}\\&\text{скаляр }k\text{ из него можно вынести за собки}\\\bullet&(\vec{a}+\vec{b})\cdot\vec{c}=\vec{a}\cdot\vec{c}+\vec{b}\cdot\vec{c}-\text{дистрибутивность скалярного произведения.}\end{array}\end{aligned}$$
 
-
-![[Pasted image 20220719125833.png]]
 
 
 ![[Pasted image 20220719132344.png]]
