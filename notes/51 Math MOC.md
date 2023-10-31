@@ -67,7 +67,7 @@ connected:
 - [[🎓🌥️ Introduction to Mathematical Thinking. Coursera. Stanford]]
 
 
-### Links
+### Bookmarks
 - [3Blue1Brown - Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
 - [🎥100 уроков математик для детей - Александр Савватеев - youtube](https://childrenscience.ru/courses/sav/) от [[👤Савватеев, Александр]]
 - [PBS Infinite Series - Youtube](https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g/playlists)
