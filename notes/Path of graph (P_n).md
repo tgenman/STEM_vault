@@ -18,7 +18,6 @@ $P_1 = K_1, P_2 = K_2 {}$
 
 
 ### Anki
-
 > [!question]- Path of graph (Pn)
 TARGET DECK: Math::Graphs
 START

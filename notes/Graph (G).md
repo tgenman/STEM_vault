@@ -19,7 +19,7 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 ![[Pasted image 20231031222606.png|300]]
 
 [[Adjacent in graph]]
-[[Neighborhood in graph]]
+[[Neighborhood in graph (N)]]
 
 
 [[Order of graph (n)]]
@@ -37,12 +37,15 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > - by form
 > 	- [[Path of graph (P_n)]]
 > 	- [[Cycle of graph (C_n)]]
+> - by direction
+> 	- [[Undirected graph]]
+> 	- Directed graph
 
 
 
 
 
-[[Undirected graph]]
+
 
 
 

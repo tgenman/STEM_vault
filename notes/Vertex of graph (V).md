@@ -10,7 +10,7 @@ connected:
 ---
 $$V(G) = \set{u, v, w, x, y} {}$$
 
-
+[[Degree of a vertex (deg)]]
 
 
 
