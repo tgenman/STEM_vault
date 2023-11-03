@@ -56,7 +56,7 @@ created: 2023-08-09 15:50
 
 [[Linear approximation]]
 
-[[517.518.11 Теория меры]]
+[[517.518.11 Measure theory]]
 
 
 

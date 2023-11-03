@@ -8,6 +8,7 @@ parent:
   - "[[Probability]]"
 connected:
   - "[[Probability space]]"
+  - "[[517.518.11 Measure theory]]"
 ---
 Это вероятность в аксиоматике [[Kolmogorov definition of probability (general)]]
 
