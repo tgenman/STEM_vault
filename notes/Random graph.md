@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2023-10-22 18:50
 parent:
-  - "[[Graph]]"
+  - "[[Graph (G)]]"
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[519.101 Combinatorics]]"

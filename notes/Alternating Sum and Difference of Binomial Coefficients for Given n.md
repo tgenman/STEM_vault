@@ -34,7 +34,7 @@ $$\begin{aligned}
 #### Source
 - [Alternating Sum and Difference of Binomial Coefficients for Given n (wiki)](https://proofwiki.org/wiki/Alternating_Sum_and_Difference_of_Binomial_Coefficients_for_Given_n "Alternating Sum and Difference of Binomial Coefficients for Given n")
 
-Anki
+#### Anki
 TARGET DECK: Math::Combinatorics
 START
 Math prop
