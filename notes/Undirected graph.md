@@ -6,7 +6,9 @@ anki: false
 created: 2023-10-22 19:31
 parent:
   - "[[Graph (G)]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 
 

@@ -6,7 +6,9 @@ anki: false
 created: 2023-05-11 17:24
 parent:
   - "[[512.1 Elementary Algebra MOC]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 
 

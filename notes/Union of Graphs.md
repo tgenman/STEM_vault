@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-04 14:33
 parent:
   - "[[Operations on Graphs]]"
@@ -21,9 +21,21 @@ If a graph $G$ consists of $k (≥ 2)$ disjoint copies of a graph $H$, then we w
 ![[Pasted image 20231104144008.png]]
 
 
-
-
-
+### Anki
+> [!question]-
+TARGET DECK: Math::Graphs
+START
+Math prop
+Question_eng: Union of Graphs
+Question_rus: The union ${} G = G_1+G_2 {}$
+Answer_eng: has 
+vertex set ${} V(G) = V(G_1)∪V(G_2) {}$ and 
+edge set ${} E(G) = E(G_1) ∪ E(G_2) {}$
+Answer_rus: 
+Formula_main: 
+Formula_additional: ![[Pasted image 20231104144008.png]]
+<!--ID: 1699129936360-->
+END
 
 
 

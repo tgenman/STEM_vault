@@ -2,12 +2,13 @@
 aliases:
   - Линейное преобразование
 publish: true
-anki: false
 created: 2023-10-30 20:25
 parent:
   - "[[512.64  Linear algebra MOC]]"
 connected:
   - "[[Матрица линейного преобразования]]"
+tags:
+  - anki
 ---
 #### Определение
 > [!Линейное преобразование]

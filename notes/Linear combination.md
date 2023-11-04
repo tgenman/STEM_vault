@@ -1,8 +1,10 @@
 ---
-aliases: Линейная комбинация векторов
+aliases:
+  - Линейная комбинация векторов
 publish: true
 created: 2023-08-10 15:29
-anki: false
+tags:
+  - anki
 ---
 ![[Screenshot 2022-07-07 at 21.05.21.png]]
 

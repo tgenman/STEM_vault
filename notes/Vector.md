@@ -5,7 +5,8 @@ publish: true
 created: 2023-08-10 15:26
 parent:
   - "[[512.64  Linear algebra MOC]]"
-anki: false
+tags:
+  - anki
 ---
 
 [[Unit vector]]

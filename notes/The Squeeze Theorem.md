@@ -1,11 +1,9 @@
 ---
 tags:
   - theorem
+  - anki
 publish: true
-anki: false
 ---
-#анки
-
 
 ![[Pasted image 20230715115617.png]]
 

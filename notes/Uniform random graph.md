@@ -5,7 +5,9 @@ anki: false
 created: 2023-10-22 19:39
 parent:
   - "[[Random graph]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 - $\Omega$ - the set of all [[Undirected graph]]s without loops and multiple edges on $V$ with exactly $m$ edges,
  - $\mathcal{F}=2^\Omega$,

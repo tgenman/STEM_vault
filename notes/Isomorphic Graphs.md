@@ -21,7 +21,7 @@ If ${} φ : V(G) → V(H)$ is an isomorphism, then the inverse function ${} φ^{
 ![[Pasted image 20231101123050.png]]
 
 
-[[Theorem Properties Isomorphic graphs]]
+[[Theorem about properties Isomorphic graphs]]
 
 
 

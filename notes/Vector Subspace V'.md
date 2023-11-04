@@ -1,8 +1,10 @@
 ---
-aliases: Векторное подпространство
+aliases:
+  - Векторное подпространство
 publish: true
 created: 2023-08-12 21:20
-anki: false
+tags:
+  - anki
 ---
 
 vector space $V'$ is a **subspace** of a [[Vector space V]] if

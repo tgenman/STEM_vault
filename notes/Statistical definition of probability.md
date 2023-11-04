@@ -8,6 +8,8 @@ parent:
   - "[[Probability]]"
 connected:
   - "#обс/linking"
+tags:
+  - empty
 ---
 
 

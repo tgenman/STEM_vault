@@ -9,6 +9,8 @@ parent:
 connected:
   - "[[Classical definition of probability]]"
   - "[[👤 Колмогоров, Андрей Николаевич]]"
+tags:
+  - empty
 ---
 Kolmogorov definition of probability (general)
 - A [[Probability space]] $(\Omega, \mathcal{F}, P)$ 

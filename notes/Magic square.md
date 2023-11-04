@@ -2,7 +2,7 @@
 aliases:
   - Магический квадрат
 publish: true
-anki: false
+anki: true
 created: 2023-10-30 20:01
 parent:
   - "[[Matrix|Матрица]]"
