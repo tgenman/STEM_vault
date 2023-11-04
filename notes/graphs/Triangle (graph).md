@@ -18,8 +18,7 @@ $C_3 = K_3 {}$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs
->>START
+START
 Math prop
 Question_eng: Triangle (graph)
 Question_rus: 
@@ -28,6 +27,7 @@ Answer_eng: 3-cycle
 Answer_rus: 
 Formula_main: $C_3 = K_3$
 Formula_additional:
+<!--ID: 1699131352172-->
 END
 
 

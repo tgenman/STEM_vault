@@ -15,7 +15,6 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs
 START
 Math prop
 Question_eng: Incident vertex and edge

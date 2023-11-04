@@ -21,7 +21,6 @@ One consequence of [[Theorem about 2-switches transformations of graphical seque
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs 
 START
 Math prop
 Question_eng: Let ${} H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and ${} uw,vx \not\in E(H) {}$

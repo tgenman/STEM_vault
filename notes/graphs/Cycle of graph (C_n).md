@@ -19,7 +19,6 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs
 START
 Math prop
 Question_eng: Cycle $C_n {}$ (n-cycle)

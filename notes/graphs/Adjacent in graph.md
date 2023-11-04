@@ -20,7 +20,6 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs
 START
 Math prop
 Question_eng: Adjacent vertices
@@ -34,7 +33,6 @@ END
 
 
 > [!question]-
-TARGET DECK: Math::Graphs
 START
 Math prop
 Question_eng: 

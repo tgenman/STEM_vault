@@ -8,6 +8,7 @@ parent:
 connected:
   - "[[Complement of a Graph]]"
 ---
+
 > [!tip] A graph ${} G {}$ is self-complementary
 if ${} G$ is isomorphic to ${} \bar{G}$.
 

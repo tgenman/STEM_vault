@@ -19,7 +19,6 @@ We have already observed that isomorphic graphs have the same order and the same
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graphs
 START
 Math prop
 Question_eng: Theorem about properties Isomorphic graphs
