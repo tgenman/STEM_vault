@@ -1,5 +1,8 @@
 ---
+tags:
+  - theorem
 publish: true
+anki: false
 ---
 #анки
 

@@ -6,9 +6,9 @@ created: 2023-10-31 23:17
 parent:
   - "[[Vertex of graph (V)]]"
   - "[[Edge of graph (E)]]"
-connected:
-  - "#обс/linking"
+connected: []
 ---
+
 > [!tip] Neighbours
 > Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
 

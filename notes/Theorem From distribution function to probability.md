@@ -1,11 +1,13 @@
 ---
 aliases: 
+tags:
+  - theorem
 publish: true
 anki: false
 created: 2023-10-29 20:30
 parent:
   - "[[Distribution function]]"
-connected: []
+connected:
 ---
 Theorem 
 Let $F:\mathbb{R}\to[0,1]$, F have properties [[Distribution function#Properties|1),2),3)]].

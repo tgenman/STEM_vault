@@ -8,6 +8,7 @@ parent:
   - "[[519.17 Graph Theory]]"
 connected:
 ---
+
 > [!tip] Graph ${} G {}$
 >  is a finite nonempty set ${} V {}$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set ${} E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
 
@@ -29,11 +30,11 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > - by $n {}$ [[Order of graph (n)|order]] 
 > 	- 1 - trivial graph
 > 	- 2 and more - nontrivial graph
-> - by ${} m$ ([[Size of graph (m)|size]])
-> 	- 0 - empty graph
+> - by ${} m {}$ ([[Size of graph (m)|size]])
+> 	- 0 - [[Empty graph]]
 > 	- 1 - non empty graph
-> - by $n$ and $m$
-> 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n {}$
+> - by ${} n$ and $m$
+> 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n$
 > - by form
 > 	- [[Path of graph (P_n)]]
 > 	- [[Cycle of graph (C_n)]]
@@ -44,6 +45,7 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 
 
 
+ 
 
 
 

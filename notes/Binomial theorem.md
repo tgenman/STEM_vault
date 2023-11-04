@@ -12,6 +12,8 @@ connected:
   - "[[Binomial coefficient]]"
   - "[[517.52 Ряды и последовательности]]"
   - "[[Неравенство Бернулли]]"
+tags:
+  - theorem
 ---
 $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
 $$=\binom n0a^n+\binom n1a^{n-1}b+\ldots+\binom nnb^n$$

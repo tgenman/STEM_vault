@@ -8,6 +8,7 @@ parent:
 connected:
   - "[[Edge of graph (E)]]"
 ---
+
 $$V(G) = \set{u, v, w, x, y} {}$$
 
 [[Degree of a vertex (deg)]]

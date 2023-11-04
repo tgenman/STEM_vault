@@ -1,12 +1,14 @@
 ---
 aliases: 
+tags:
+  - theorem
 publish: true
 anki: true
 created: 2023-10-21 17:58
 parent:
   - "[[Equivalence Relation]]"
   - "[[Partition of a set]]"
-connected: []
+connected:
 ---
 Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
 

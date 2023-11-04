@@ -9,6 +9,7 @@ parent:
 connected:
   - "[[Order of graph (n)]]"
   - "[[Size of graph (m)]]"
+  - "[[Complete bipartite graph]]"
 ---
 > [!tip] Complete graph ${} K_n$
 > is a [[Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
@@ -17,7 +18,7 @@ $$m = \binom{n}{2}$$
 
 ![[Pasted image 20231031224948.png]]
 
-
+[[Triangle (graph)]]
 
 
 

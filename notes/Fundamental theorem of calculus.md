@@ -2,6 +2,8 @@
 publish: true
 parent:
   - "[[517 Сalculus MOC|Calculus]]"
+tags:
+  - theorem
 ---
 #анки
 
