@@ -10,6 +10,8 @@ parent:
 connected:
   - "[[Special sigma-algebras]]"
   - "[[512.54 Group Theory MOC]]"
+tags:
+  - empty
 ---
 по сути является расширением над [[Algebra of subsets of sample space|алгеброй]] $\mathcal{A}$ на [[Infinity set|бесконечных множествах]] 
 

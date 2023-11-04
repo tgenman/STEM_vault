@@ -7,7 +7,9 @@ created: 2023-10-17 20:37
 parent:
   - "[[Relation]]"
   - "[[Equivalence Relation]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 Let $S$ be any set. We can define an ==Equality Relation== $=$ between $S$ and itself as the subset $\set{(x, x) | x ∈ S}$.
 

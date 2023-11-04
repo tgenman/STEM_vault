@@ -7,6 +7,7 @@ parent:
   - "[[Operations on Graphs]]"
 connected: []
 ---
+
 > [!tip] The complement ${} \bar{G}$ of a graph G 
 is that graph with vertex set ${} V(G) {}$ such that two vertices are [[Adjacent in graph|adjacent]] adjacent in ${} \bar{G} {}$ if and only if these vertices are not adjacent in $G {}$.
 

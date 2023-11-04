@@ -2,7 +2,7 @@
 aliases:
   - Индикаторная функция
 publish: true
-anki: false
+anki: true
 created: 2023-10-29 20:18
 parent:
   - "[[Function (math)|Функция]]"

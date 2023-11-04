@@ -1,11 +1,11 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-10-24 16:17
 parent:
   - "[[Rising Sum of Binomial Coefficients]]"
-connected: []
+connected:
 ---
 Using formula of [[Rising Sum of Binomial Coefficients]]
 $\binom{m+n+1}{m+1}=\binom mm+\binom{m+1}m+\ldots+\binom{m+n}m.$

@@ -1,8 +1,11 @@
 ---
-aliases: Symmetric with respect to the y-axis, Четная функция
+aliases:
+  - Symmetric with respect to the y-axis
+  - Четная функция
 created: 2023-07-02 14:53
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 

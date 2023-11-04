@@ -8,6 +8,8 @@ parent:
   - "[[Distribution in R]]"
 connected:
   - "[[Function (math)]]"
+tags:
+  - empty
 ---
 
 $$

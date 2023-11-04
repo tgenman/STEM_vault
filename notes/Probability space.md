@@ -9,6 +9,8 @@ parent:
   - "[[519.21  Probability theory]]"
 connected:
   - "[[Kolmogorov definition of probability (general)]]"
+tags:
+  - empty
 ---
 A probability space $(\Omega, \mathcal{F}, P)$
 - $\Omega$ - a [[Sample space]] 

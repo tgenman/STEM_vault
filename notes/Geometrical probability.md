@@ -6,7 +6,9 @@ anki: false
 created: 2023-10-22 16:43
 parent:
   - "[[Probability]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 $\mu-$ the [[517.518.112 Lebesgue measure]] on $R^n$ 
 $\mathcal{B} ( R^n) : = \sigma( B_1 \times ... \times B_n, B_i\in \mathcal{B} ( R) )$ - [[517.518.113 Borel sigma-algebra]]

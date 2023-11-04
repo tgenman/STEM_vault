@@ -2,7 +2,7 @@
 aliases:
   - Треугольник Паскаля
 publish: true
-anki: false
+anki: true
 created: 2023-10-23 18:02
 parent:
   - "[[k-combination from n elements|Combinations]]"

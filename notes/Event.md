@@ -9,6 +9,8 @@ parent:
 connected:
   - "[[Sample space]]"
   - "[[Elementary event]]"
+tags:
+  - empty
 ---
 Событие - подмножество [[Elementary event]]s $А$, такое что $A \in \mathcal{F}$
 

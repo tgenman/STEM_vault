@@ -2,7 +2,6 @@
 aliases:
   - Континум
 publish: true
-anki: false
 created: 2023-10-17 21:57
 parent:
   - "[[Infinity (math)]]"
@@ -11,6 +10,8 @@ connected:
   - "[[Continuum infinity set]]"
   - "[[Real numbers]]"
   - "[[Aleph number]]"
+tags:
+  - anki
 ---
 Континуум - [[Cardinality|мощность]] [[Power Set|булеана]] [[Countable infinity set|счетного множества]] 
 

@@ -2,8 +2,9 @@
 aliases:
   - Факториал
 publish: true
-anki: false
-parent:
+parent: 
+tags:
+  - anki
 ---
 
 $$

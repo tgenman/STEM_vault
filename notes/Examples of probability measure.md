@@ -5,7 +5,9 @@ anki: false
 created: 2023-10-22 18:20
 parent:
   - "[[Probability measure]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 - [[Classical definition of probability]] 
 	- $\Omega=\{\omega_1,\ldots,\omega_n\},\:\mathcal{F}=2^\Omega,\:\mathcal{P}(A)=\frac{|A|}n$

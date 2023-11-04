@@ -2,7 +2,6 @@
 aliases:
   - Бесконечное множество
 publish: true
-anki: false
 created: 2023-10-17 21:22
 parent:
   - "[[Set (math)]]"

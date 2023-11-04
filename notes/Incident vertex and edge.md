@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 17:25
 parent:
   - "[[Adjacent in graph]]"
@@ -13,7 +13,19 @@ connected:
 > [!tip] Incident vertex and edge
 > The vertex ${} u$ and the edge $uv$ are said to be incident with each other.
 
-
+### Anki
+> [!question]-
+TARGET DECK: Math::Graphs
+START
+Math prop
+Question_eng: Incident vertex and edge
+Question_rus: 
+Answer_eng: The vertex ${} u$ and the edge $uv$ are said to be incident with each other.
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699130467965-->
+END
 
 
 

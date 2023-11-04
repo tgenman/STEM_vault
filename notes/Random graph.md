@@ -1,7 +1,6 @@
 ---
 aliases: 
 publish: true
-anki: false
 created: 2023-10-22 18:50
 parent:
   - "[[Graph (G)]]"

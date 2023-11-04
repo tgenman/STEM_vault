@@ -9,6 +9,8 @@ parent:
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Sum Rule of Probability]]"
+tags:
+  - empty
 ---
 Two independent events A and B obey the Product Rule
 $$

@@ -7,6 +7,8 @@ parent:
   - "[[Distribution in R]]"
 connected:
   - "#обс/linking"
+tags:
+  - empty
 ---
 - $X=\{x_1,x_2,\ldots\}\subset\mathbb{R}-$ finite or countably infinite
 -  $\mathbb{P}(\{x_k\})=p_k>0$ for all $k$, $\mathbb{P}(X)=1$ P - discrete distribution
