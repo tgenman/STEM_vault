@@ -14,7 +14,7 @@ while for $n ≥ 2$, ${} Q_n {}$ is defined recursively as the [[Cartesian produ
 
 The n-cube can also be defined as that graph whose vertex set is the set of ordered n-tuples ${} (a_1, a_2, . . . , a_n) {}$ or ${} a_1a_2 ···a_n {}$ where ${} a_i {}$ is $0 {}$ or $1 {}$ for $1 ≤ i ≤ n$ (commonly called ${} n {}$-bit strings), such that two vertices are adjacent if and only if the corresponding ordered $n$-tuples differ at precisely one coordinate. 
 
-The graph ${} Q_n$ is an $n$-regular graph of order 2n. 
+The graph ${} Q_n$ is an $n$-regular graph of order $2^n$. 
 
 ![[Pasted image 20231104171611.png]]
 

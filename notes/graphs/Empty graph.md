@@ -23,7 +23,7 @@ Answer_eng: if size $m = 0$
 Answer_rus: 
 Formula_main: 
 Formula_additional:
-<!--ID: 1699131213338-->
+<!--ID: 1699132303418-->
 END
 
 
