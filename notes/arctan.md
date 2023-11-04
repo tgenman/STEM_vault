@@ -1,7 +1,10 @@
 ---
-aliases: Arctangent, Арктангенс
+aliases:
+  - Arctangent
+  - Арктангенс
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 

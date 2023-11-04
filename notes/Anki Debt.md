@@ -8,13 +8,13 @@ connected:
 
 ### Old Anki debt
 ```query
-tag:#анки
+tag:#анки OR tag:#anki
 ```
 
 
 ### New Anki Debt
 ```query
-"anki: false"
+"anki: false" -tag:#empty
 ```
 
 

@@ -2,13 +2,14 @@
 aliases:
   - Неравенство Коши-Буняковского-Шварца
 publish: true
-anki: false
 created: 2023-10-29 11:08
 parent:
   - "[[512.1 Elementary Algebra MOC]]"
 connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
   - "[[Dot product of vectors|Скалярное произведение векторов]]"
+tags:
+  - anki
 ---
 $$
 \frac{a + b}{2} = \sqrt{ab}

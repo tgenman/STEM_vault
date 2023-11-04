@@ -9,6 +9,8 @@ parent:
   - "[[512.54 Group Theory MOC]]"
 connected:
   - "[[Group]]"
+tags:
+  - empty
 ---
 Моноид - [[Semigroup]] с определенным identity element
 

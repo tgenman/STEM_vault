@@ -2,7 +2,6 @@
 aliases:
   - Расширенная матрица
 publish: true
-anki: false
 parent:
   - "[[The Gaussian Elimination Method|Метод Гаусса]]"
 ---

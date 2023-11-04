@@ -1,7 +1,9 @@
 ---
-aliases: Производная
+aliases:
+  - Производная
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 

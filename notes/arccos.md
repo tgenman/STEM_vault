@@ -3,7 +3,8 @@ aliases:
   - Arccosine
   - Арккосинус
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 ![[Pasted image 20230801190616.png|400]]

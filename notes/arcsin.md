@@ -1,7 +1,10 @@
 ---
-aliases: Arcsine, Арксинус
+aliases:
+  - Arcsine
+  - Арксинус
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 ![[Pasted image 20230801190410.png]]

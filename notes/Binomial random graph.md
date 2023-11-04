@@ -7,6 +7,8 @@ parent:
   - "[[Random graph]]"
 connected:
   - "#обс/linking"
+tags:
+  - empty
 ---
 - $\Omega$ - the set of all [[Undirected graph]]s without loops and multiple edges on $V$, 
 - $\mathcal{F}=2^\Omega$,

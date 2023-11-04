@@ -8,6 +8,8 @@ parent:
   - "[[519.21  Probability theory]]"
 connected:
   - "[[Distribution function]]"
+tags:
+  - empty
 ---
 
 $\Omega=\mathbb{R}$ -  [[Sample space]] [[Real numbers]]

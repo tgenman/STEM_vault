@@ -10,7 +10,7 @@ connected:
 ---
 > [!tip] The $n$-cube ${} Q_n {}$ (hypercube)
 is ${} K_2$ if $n = 1$, 
-while for $n ≥ 2$, ${} Q_n {}$ is defined recursively as the [[Cartesian product]] ${} Q_{n−1} \square K_2 {}$ . 
+while for $n ≥ 2$, ${} Q_n {}$ is defined recursively as the [[Cartesian product of sets]] ${} Q_{n−1} \square K_2 {}$ . 
 
 The n-cube can also be defined as that graph whose vertex set is the set of ordered n-tuples ${} (a_1, a_2, . . . , a_n) {}$ or ${} a_1a_2 ···a_n {}$ where ${} a_i {}$ is $0 {}$ or $1 {}$ for $1 ≤ i ≤ n$ (commonly called ${} n {}$-bit strings), such that two vertices are adjacent if and only if the corresponding ordered $n$-tuples differ at precisely one coordinate. 
 

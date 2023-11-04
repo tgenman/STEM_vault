@@ -1,7 +1,9 @@
 ---
-aliases: Коэффициент детерминации
+aliases:
+  - Коэффициент детерминации
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 We can also use the **coefficient of determination** $R^2$ to measure how close data are to a fitted regression line.

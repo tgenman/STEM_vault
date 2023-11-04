@@ -2,12 +2,13 @@
 aliases:
   - Мощность множества
 publish: true
-anki: false
 created: 2023-10-17 21:05
 parent:
   - "[[Set (math)]]"
 connected:
-  - "[[Cartesian product]]"
+  - "[[Cartesian product of sets]]"
+tags:
+  - anki
 ---
 The number of elements in a set $X$ is the ==cardinality== of $X$ and is often denoted by $|X|$
 

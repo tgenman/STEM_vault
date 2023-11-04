@@ -1,7 +1,8 @@
 ---
-aliases:
+aliases: 
 publish: true
-anki: false
+tags:
+  - anki
 ---
 
 

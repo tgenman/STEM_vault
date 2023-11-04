@@ -2,14 +2,15 @@
 aliases:
   - Счетное бесконечное множество
 publish: true
-anki: false
 created: 2023-10-17 21:48
 parent:
   - "[[Infinity set]]"
   - "[[Aleph number]]"
 connected:
   - "[[Continuum infinity set]]"
-  -  [[Natural numbers|Натуральные числа]]
+  - "[[Natural numbers|Натуральные числа]]"
+tags:
+  - anki
 ---
 **Счётным** называется [[Infinity set]], которое [[Равномощность|равномощно]]  $N$, то есть элементы которого можно пронумеровать.
 
