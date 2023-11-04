@@ -10,8 +10,9 @@ connected:
   - "[[Graph (G)]]"
   - "[[Incident vertex and edge]]"
 ---
+
 > [!tip] Adjacent vertices
-> If $uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
+> If ${} uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
 
 > [!tip] Adjacent edges
 > If ${} uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw$ are adjacent edges.

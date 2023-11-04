@@ -1,6 +1,8 @@
 ---
-aliases:
+aliases: 
 publish: true
+tags:
+  - theorem
 ---
 #анки
 

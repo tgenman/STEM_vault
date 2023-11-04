@@ -1,6 +1,9 @@
 ---
-aliases: [Tеорема Байеса]
+aliases:
+  - Tеорема Байеса
 publish: true
+tags:
+  - theorem
 ---
 links: [[51 Math MOC]], [[519.21  Probability theory]]
 

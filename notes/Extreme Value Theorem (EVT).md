@@ -7,6 +7,8 @@ parent:
   - "[[Continuous function]]"
 connected:
   - "[[Intermediate Value Theorem (IVT)]]"
+tags:
+  - theorem
 ---
 Suppose  is continuous at every point in an interval  
 
