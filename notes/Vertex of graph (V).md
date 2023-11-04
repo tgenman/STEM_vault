@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
+  - Вершина графа
 publish: true
-anki: false
 created: 2023-10-31 22:19
 parent:
   - "[[Graph (G)]]"

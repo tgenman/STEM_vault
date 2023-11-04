@@ -1,5 +1,6 @@
 ### Anki
->>TARGET DECK: Math:: #обс/фикс  
+> [!question]-
+TARGET DECK: Math:: #обс/фикс  
 >>START
 Math prop
 Question_eng: 

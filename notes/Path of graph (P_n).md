@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-10-31 22:58
 parent:
   - "[[Graph (G)]]"
@@ -18,7 +18,7 @@ $P_1 = K_1, P_2 = K_2 {}$
 
 
 ### Anki
-> [!question]- Path of graph (Pn)
+> [!question]- 
 TARGET DECK: Math::Graphs
 START
 Math def

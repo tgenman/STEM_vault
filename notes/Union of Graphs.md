@@ -8,7 +8,8 @@ parent:
 connected:
   - "[[Join of Graphs]]"
 ---
-> [!tip] The union $G = G_1+G_2 {}$
+
+> [!tip] The union ${} G = G_1+G_2 {}$
 has 
 vertex set ${} V(G) = V(G_1)∪V(G_2) {}$ and 
 edge set ${} E(G) = E(G_1) ∪ E(G_2) {}$
