@@ -8,6 +8,7 @@ parent:
   - "[[Graph (G)]]"
 connected:
   - "[[Spanning subgraph]]"
+  - "[[Induced Subgraphs]]"
 ---
 > [!tip] A graph $H$ is a subgraph of a graph $G$
 if ${} V(H)⊆V(G)$ and $E(H)⊆E(G)$

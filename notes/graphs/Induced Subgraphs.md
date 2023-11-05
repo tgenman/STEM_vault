@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 15:28
 parent:
   - "[[Subgraph]]"
@@ -10,7 +10,7 @@ connected:
 
 > [!tip] Induced subgraph
 is a subgraph $H$ of $G {}$ if: 
-> - if there is a nonempty vertex subset ${} S$ of $V(G)$ such that $H = G[S]$.
+> - there is a nonempty vertex subset ${} S$ of $V(G)$ such that $H = G[S]$.
 
 $G[V(G)] = G {}$. 
 
@@ -32,8 +32,62 @@ Thus, ${} G[E(G)] = G$ if and only if $G {}$ has no isolated vertices.
 > - has ${} X {}$ as its edge set and
 > - a vertex ${} v$ belongs to ${} G[X]$ if $v$ is incident with at least one edge in $X$. 
 
+### Anki
+> [!question]-
+START
+Math prop
+Question_eng: Induced subgraph
+Question_rus: 
+Answer_eng: is a subgraph $H$ of $G {}$ if: 
+if there is a nonempty vertex subset ${} S$ of $V(G)$ such that $H = G[S]$.
+$G[V(G)] = G {}$. 
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699171145822-->
+END
 
+> [!question]-
+START
+Math prop
+Question_eng: Edge-induced subgraph
+Question_rus: 
+Answer_eng: is a subgraph ${} H$ of $G {}$ if:
+there is a nonempty  edge subset ${} X$ of $E(G)$ such that $H = G[X]$. 
+Thus, $G[E(G)] = G$ if and only if $G {}$ has no isolated vertices.
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699171145833-->
+END
 
+> [!question]-
+START
+Math prop
+Question_eng: Induced by vertex set ${} S {}$
+Question_rus: 
+Answer_eng: Subgraph ${} G[S]$ of $G$ induced by $S {}$ (for a nonempty  vertex subset ${} S$ of $V(G) {}$) if:
+ has ${} S$ as its vertex set and
+ two vertices $u$ and ${} v$ are adjacent in $G[S]$ if and only if $u$ and $v$ are adjacent in $G {}$.
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699171145843-->
+END
+
+> [!question]-
+START
+Math prop
+Question_eng: Induced by edge set ${} X {}$
+Question_rus: 
+Answer_eng: > Subgraph ${} G[X] {}$ of $G$ induced by $X {}$ (for a nonempty  edge subset ${} X$ of $E{} (G) {}$) if:
+ has ${} X {}$ as its edge set and
+ a vertex ${} v$ belongs to ${} G[X]$ if $v$ is incident with at least one edge in $X$. 
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699171145854-->
+END
 
 
 

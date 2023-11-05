@@ -9,6 +9,8 @@ parent:
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"
+tags:
+  - empty
 ---
 $$
 \begin{aligned}P(A_1 \cup ... \cup A_k)=&P(A_1)+...+P(A_n)-P(A_1\cap A_2)-P(A_1\cap A_3)-...-\\&-P(A_{k-1}\cap A_k)+...+(-1)^{k-1}P(A_1\cap ... \cap A_k).\end{aligned}
