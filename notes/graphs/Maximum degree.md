@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 17:41
 parent:
   - "[[Degree of a vertex (deg)]]"
@@ -21,6 +21,7 @@ Answer_eng:
 Answer_rus: 
 Formula_main: 
 Formula_additional:
+<!--ID: 1699165371508-->
 END
 
 

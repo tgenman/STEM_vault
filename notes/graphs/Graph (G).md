@@ -2,7 +2,7 @@
 aliases:
   - Граф
 publish: true
-anki: false
+anki: true
 created: 2023-10-22 18:51
 parent:
   - "[[519.17 Graph Theory]]"
@@ -12,9 +12,7 @@ connected:
 > [!tip] Graph ${} G {}$
 >  is a finite nonempty set ${} V {}$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set ${} E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
 
-$$
-G = (V,E)
-$$
+$$G = (V,E)$$
 
 ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, wy, xy}$:
 ![[Pasted image 20231031222606.png|300]]
@@ -43,7 +41,18 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > 	- Directed graph
 
 
-
+### Anki
+> [!question]-
+START
+Math prop
+Question_eng: Graph (G)
+Question_rus: 
+Answer_eng: is a finite nonempty set ${} V {}$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set ${} E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
+Answer_rus: 
+Formula_main: $$G = (V,E)$$
+Formula_additional:
+<!--ID: 1699164911412-->
+END
 
  
 

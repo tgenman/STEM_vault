@@ -6,7 +6,9 @@ anki: false
 created: 2023-10-22 14:14
 parent:
   - "[[Sigma algebra of subsets of sample space]]"
-connected: []
+connected: 
+tags:
+  - empty
 ---
 - trivial
 	- $\mathcal{F}_0 = \set{\emptyset, \Omega}$ - nothing less

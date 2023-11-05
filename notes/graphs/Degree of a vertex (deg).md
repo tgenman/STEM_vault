@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 10:20
 parent:
   - "[[Vertex of graph (V)]]"
@@ -28,7 +28,20 @@ $$\deg v = |N(v)|$$
 
 $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
 
-
+### Anki
+> [!question]-
+START
+Math prop
+Question_eng: Degree of a vertex (deg)
+Question_rus: 
+Answer_eng:  is the number of vertices that are [[Adjacent in graph|adjacent]] to ${} v {}$. 
+ is the number of vertices in its [[Neighborhood in graph (N)|neighborhood]] ${} N(v) {}$. 
+ is the number of edges incident with $v$.
+Answer_rus: 
+Formula_main: $$\deg v = |N(v)|$$
+Formula_additional: $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
+<!--ID: 1699164516907-->
+END
 
 
 

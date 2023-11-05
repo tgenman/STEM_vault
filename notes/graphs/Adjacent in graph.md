@@ -35,9 +35,9 @@ END
 > [!question]-
 START
 Math prop
-Question_eng: 
+Question_eng: Adjacent edges
 Question_rus: 
-Answer_eng: 
+Answer_eng: If ${} uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw {}$ are adjacent edges
 Answer_rus: 
 Formula_main: 
 Formula_additional:

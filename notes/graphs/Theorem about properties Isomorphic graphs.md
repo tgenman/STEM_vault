@@ -3,7 +3,7 @@ aliases:
 tags:
   - theorem
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 14:34
 parent: 
 connected:

@@ -3,7 +3,7 @@ aliases:
   - Сочетания
   - Combinations
 publish: true
-anki: false
+anki: true
 parent:
   - "[[519.101 Combinatorics]]"
 created: 2023-10-23 17:03

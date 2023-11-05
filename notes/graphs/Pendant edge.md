@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 17:32
 parent:
   - "[[Edge of graph (E)]]"
@@ -11,7 +11,18 @@ connected:
 > [!tip] Pendant edge
 > An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 
-
+### Anki
+> [!question]-
+START
+Math prop
+Question_eng: Pendant edge
+Question_rus: 
+Answer_eng: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
+Answer_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1699165371489-->
+END
 
 
 
