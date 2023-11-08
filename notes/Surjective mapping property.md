@@ -1,8 +1,9 @@
 ---
 aliases: 
 publish: true
+tags:
+  - anki
 ---
-#анки
 
 A function is ==surjective== if its [[Image of a function]]  is equal to its target set.
 

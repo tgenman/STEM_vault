@@ -25,5 +25,4 @@ $$\begin{aligned}
 
 ![[Pasted image 20231020210108.png|300]]
 
-
-
+Given an integer N. You have to print a sequence of numbers from 11 to NN. But print "Fizz" if the number is a multiple of 3, "Buzz" if the number is a multiple of 55 and "Fizz Buzz" if the number is a multiple of 1515.

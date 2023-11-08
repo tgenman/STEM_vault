@@ -18,7 +18,7 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 ![[Pasted image 20231031222606.png|300]]
 
 [[Adjacent in graph]]
-[[Neighborhood in graph (N)]]
+[[Neighbourhood in graph (N)]]
 
 
 [[Order of graph (n)]]
@@ -32,14 +32,17 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > 	- 0 - [[Empty graph]]
 > 	- 1 - non empty graph
 > - by ${} n$ and $m$
-> 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n$
+> 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n {}$
 > - by form
 > 	- [[Path of graph (P_n)]]
 > 	- [[Cycle of graph (C_n)]]
 > - by direction
-> 	- [[Undirected graph]]
-> 	- Directed graph
-
+> 	- [[Undirected graph]] - Simple graphs
+> 	- Directed graph (Digraphs)
+> - like additional properties
+> 	- Multigraphs (more than one edge available)
+> 	- Pseudographs (loop into same vertex)
+ 
 
 ### Anki
 > [!question]-

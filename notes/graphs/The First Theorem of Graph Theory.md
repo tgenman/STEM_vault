@@ -11,8 +11,9 @@ parent:
 connected:
   - "[[The average degree of a graph]]"
 ---
+
 > [!info] The First Theorem of Graph Theory
-> If $G {}$ is a graph of size $m$, then
+> If ${} G {}$ is a graph of size $m$, then
 > $$\sum_{v\in V(G)}\deg v=2m.$$
 
 ### Proof

@@ -20,7 +20,7 @@ $G[V(G)] = G {}$.
 
 Thus, ${} G[E(G)] = G$ if and only if $G {}$ has no isolated vertices.
 
-
+If  ${} E(H) = E(G) \cap \binom{V(H)}{2} {}$ then $H {}$ is induced subgraph
 ### Induced by
 > [!tip] Induced by vertex set ${} S {}$
 > Subgraph ${} G[S]$ of $G$ induced by $S {}$ (for a nonempty  vertex subset ${} S$ of $V(G) {}$) if:

@@ -8,7 +8,8 @@ parent:
 connected:
   - "[[Order of graph (n)]]"
 ---
-> [!tip] Size ($m$) of ${} G {}$
+
+> [!tip] Size (${} m$) of ${} G {}$
 > is the number of [[Edge of graph (E)|edges]] in a [[Graph (G)|graph]] ${} G$
 
 $$m$$

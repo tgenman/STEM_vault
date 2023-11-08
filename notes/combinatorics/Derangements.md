@@ -8,6 +8,7 @@ parent:
   - "[[k-arrangements from n-elements]]"
 connected: []
 ---
+
 $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
 
 $$

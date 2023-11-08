@@ -9,11 +9,16 @@ connected:
   - "[[Degree of a vertex (deg)]]"
   - "[[The Petersen Graph]]"
 ---
-> [!tip] Regular graph ($r$-regular)
-A graph ${} G {}$ is regular if the [[Vertical angles|vertices]] of ${} G {}$ have the same [[Degree of a vertex (deg)|degree]] (${} r$)
+
+> [!tip] Regular graph (${} r$-regular)
+A graph ${} G {}$ is regular if the [[Vertical angles|vertices]] of ${} G {}$ have the same [[Degree of a vertex (deg)|degree]] (${} r {}$)
 
 
 ![[Pasted image 20231101183739.png]]
+also regular graphs:
+- [[Cycle of graph (C_n)]]
+- [[Complete graph]]
+
 
 [[Theorem about existence r-regular n graph]]
 
@@ -22,7 +27,7 @@ A graph ${} G {}$ is regular if the [[Vertical angles|vertices]] of ${} G {}$ ha
 > [!question]-
 START
 Math prop
-Question_eng: Regular graph ($r$-regular)
+Question_eng: Regular graph (${} r$-regular)
 Question_rus: 
 Answer_eng: A graph ${} G {}$ is regular if the [[Vertical angles|vertices]] of ${} G {}$ have the same [[Degree of a vertex (deg)|degree]] (${} r$)
 Answer_rus: 
