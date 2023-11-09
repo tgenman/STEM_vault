@@ -16,7 +16,7 @@ A graph ${} G {}$ is regular if the [[Vertical angles|vertices]] of ${} G {}$ ha
 
 ![[Pasted image 20231101183739.png]]
 also regular graphs:
-- [[Cycle of graph (C_n)]]
+- [[Cycle graph (C_n)]]
 - [[Complete graph]]
 
 

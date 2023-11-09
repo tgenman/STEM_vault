@@ -34,8 +34,8 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > - by ${} n$ and $m$
 > 	- ${} m = \binom{n}{2} {}$ - [[Complete graph]] ${} K_n {}$
 > - by form
-> 	- [[Path of graph (P_n)]]
-> 	- [[Cycle of graph (C_n)]]
+> 	- [[Path graph (P_n)]]
+> 	- [[Cycle graph (C_n)]]
 > - by direction
 > 	- [[Undirected graph]] - Simple graphs
 > 	- Directed graph (Digraphs)

@@ -6,8 +6,8 @@ created: 2023-11-03 16:41
 parent:
   - "[[Complete graph]]"
   - "[[Triangle]]"
-  - "[[Cycle of graph (C_n)]]"
-connected:
+  - "[[Cycle graph (C_n)]]"
+connected: 
 ---
 [[Complete graph]] with $n=3$
 

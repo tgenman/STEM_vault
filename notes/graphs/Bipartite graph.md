@@ -15,8 +15,9 @@ connected:
 if ${} V(G)$ can be partitioned into two sets $U$ and $W {}$ (called partite sets) so that every  [[Edge of graph (E)|edge]] of ${} G {}$ joins a [[Vertex of graph (V)|vertex]]  of ${} U$ and a vertex of $W {}$
 
 ![[Pasted image 20231103162131.png]]
-
-
+typical bipartite graphs:
+- [[Path graph (P_n)]]
+- even order [[Cycle graph (C_n)]]
 
 
 Therefore, from [[Theorem about max size of bipartite graph]] and [[Theorem about triangle in graph]], it follows that every graph of order ${} n ≥ 3$ and size ${} m > ⌊\frac{n^2}{4}⌋$ not only fails to be ==bipartite==, it must, in fact, contain a [[Triangle]].

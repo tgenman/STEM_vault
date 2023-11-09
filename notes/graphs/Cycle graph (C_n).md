@@ -6,7 +6,7 @@ created: 2023-10-31 22:58
 parent:
   - "[[Graph (G)]]"
 connected:
-  - "[[Path of graph (P_n)]]"
+  - "[[Path graph (P_n)]]"
   - "[[Triangle (graph)]]"
 ---
 > [!tip] Cycle $C_n {}$ (n-cycle)
