@@ -13,7 +13,7 @@ parent:
 
 C - [[Complex numbers]]
 R - [[Real numbers]]
-Q - [[рациональные числа (лат. quotient - частное)]]
+Q - [[Rational numbers]]
 Z - [[целые числа (нем. zahlen - числа)]]
 N - [[Natural numbers]]
 

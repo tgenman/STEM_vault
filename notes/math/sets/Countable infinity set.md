@@ -28,7 +28,7 @@ When a set has the **same cardinality** as the positive integers $\mathbb{N}$, i
 
 
 > [!Теорема 2]
-> Множество [[рациональные числа (лат. quotient - частное)|рациональных]] счётно.
+> Множество [[Rational numbers|рациональных]] счётно.
 $$Q={n/m: m∈Z, n∈N}$$
 
 > [!Теорема 3] 
