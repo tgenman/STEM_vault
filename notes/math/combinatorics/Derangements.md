@@ -17,26 +17,14 @@ $$
 
 
 #### Proof
-$$
-\begin{aligned}
-&\begin{aligned}d_n=|U|-\sum_i|A_i|+\sum_{i,j}|A_i\cap A_j|+...\end{aligned} \\
-&\begin{aligned}\textsf{If}S\subset\{1,\ldots,n\}\textsf{ let }M=\cap_{j\in S}A_j.\end{aligned} \\
-&M\text{ is the set of permutations }\pi\text{ with} \\
-&\begin{aligned}\pi(j)&=j\text{ for all }j\in S.&\textsf{Then }|M|&=\end{aligned} \\
-&\begin{aligned}A_{n-|S|}=(n-|S|)!.\end{aligned} \\
-\\
-&\mathsf{Hence}\sum_{S\subset\{1,...,n\},|S|=k}|\cap_{j\in S}A_j|= \\
-&=\binom nk\cdot(n-k)!=\frac{n!}{(n-k)!k!}(n-k)!=\frac{n!}{k!}.
-\end{aligned}
-$$
+$d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots$  
+If $S \subset \{1, \ldots, n\}$ let $M = \cap_{j \in S} A_j$.  
+$M$ is the set of permutations $\pi$ with $\pi(j) = j$ for all $j \in S$. Then $|M| = A_{n-|S|} = (n-|S|)!$.  
 
-$$\begin{aligned}
+Hence, $\sum_{S \subset \{1, \ldots, n\}, |S| = k} |\cap_{j \in S} A_j| = \binom{n}{k} \cdot (n-k)! = \frac{n!}{(n-k)!k!} (n-k)! = \frac{n!}{k!}$.
 
-&\begin{aligned}d_n=|U|-\sum_i|A_i|+\sum_{i,j}|A_i\cap A_j|+ ...\end{aligned} \\
-&\begin{aligned}=&n!-\frac{n!}{1!}+\frac{n!}{2!}-\ldots+(-1)^n\frac{n!}{n!}=\end{aligned} \\
-&\begin{aligned}&=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)\end{aligned} \\
+$d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{1!} + \frac{n!}{2!} - \ldots + (-1)^n \frac{n!}{n!} = n!\left(1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + (-1)^n \frac{1}{n!}\right)$.
 
-\end{aligned}$$
 
 ### Anki
 TARGET DECK: Math::Combinatorics  
@@ -47,26 +35,13 @@ Question_rus: Перестановки без неподвижных точек
 Answer_eng: $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
 Answer_rus: 
 Formula_main: Proof
-$$
-\begin{aligned}
-&\begin{aligned}d_n=|U|-\sum_i|A_i|+\sum_{i,j}|A_i\cap A_j|+...\end{aligned} \\
-&\begin{aligned}\textsf{If}S\subset\{1,\ldots,n\}\textsf{ let }M=\cap_{j\in S}A_j.\end{aligned} \\
-&M\text{ is the set of permutations }\pi\text{ with} \\
-&\begin{aligned}\pi(j)&=j\text{ for all }j\in S.&\textsf{Then }|M|&=\end{aligned} \\
-&\begin{aligned}A_{n-|S|}=(n-|S|)!.\end{aligned} \\
-\\
-&\mathsf{Hence}\sum_{S\subset\{1,...,n\},|S|=k}|\cap_{j\in S}A_j|= \\
-&=\binom nk\cdot(n-k)!=\frac{n!}{(n-k)!k!}(n-k)!=\frac{n!}{k!}.
-\end{aligned}
-$$
+$d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots$  
+If $S \subset \{1, \ldots, n\}$ let $M = \cap_{j \in S} A_j$.  
+$M$ is the set of permutations $\pi$ with $\pi(j) = j$ for all $j \in S$. Then $|M| = A_{n-|S|} = (n-|S|)!$.  
 
-$$\begin{aligned}
+Hence, $\sum_{S \subset \{1, \ldots, n\}, |S| = k} |\cap_{j \in S} A_j| = \binom{n}{k} \cdot (n-k)! = \frac{n!}{(n-k)!k!} (n-k)! = \frac{n!}{k!}$.
 
-&\begin{aligned}d_n=|U|-\sum_i|A_i|+\sum_{i,j}|A_i\cap A_j|+ ...\end{aligned} \\
-&\begin{aligned}=&n!-\frac{n!}{1!}+\frac{n!}{2!}-\ldots+(-1)^n\frac{n!}{n!}=\end{aligned} \\
-&\begin{aligned}&=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)\end{aligned} \\
-
-\end{aligned}$$
+$d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{1!} + \frac{n!}{2!} - \ldots + (-1)^n \frac{n!}{n!} = n!\left(1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + (-1)^n \frac{1}{n!}\right)$.
 
 Formula_additional:
 <!--ID: 1698688139448-->
@@ -83,10 +58,6 @@ Formula_additional:
 <!--ID: 1698688139452-->
 END
 
-
-
-
-$$d_n\sim\frac{n!}e$$
 
 
 

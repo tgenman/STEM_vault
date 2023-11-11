@@ -8,20 +8,23 @@ parent:
 connected:
   - "[[Binomial coefficient]]"
 ---
-$$\sum_{j\operatorname{=}0}^m\binom{n+j}n=\binom{n+m+1}{n+1}=\binom{n+m+1}m$$
-$$\begin{aligned}
-&\mathrm{If~}m\geq0\mathrm{~and~}n\geq1{:} \\
-&\binom mm+\binom{m+1}m+\ldots+\binom{m+n}m=\binom{m+n+1}{m+1}.
-\end{aligned}$$ 
+$$
+\mathrm{If~} m \geq 0 \mathrm{~and~} n \geq 1{:}
+\binom{m}{m} + \binom{m+1}{m} + \ldots + \binom{m+n}{m} = \binom{m+n+1}{m+1}.
+$$
+
 #### Proof
-$$\begin{aligned}
-&\mathrm{If~}m\geq0\mathrm{~and~}n\geq1{:} \\
-&\binom mm+\binom{m+1}m+\ldots+\binom{m+n}m=\binom{m+n+1}{m+1}. \\
-&\rhd\binom{m+n+1}{m+1}=\binom{m+n}m+\binom{m+n}{m+1}= \\
-&=\binom{m+n}m+(\binom{m+n-1}m+\binom{m+n-1}m)= \\
-&=\binom{m+n}m+\binom{m+n-1}n+\ldots+\binom{m+1}{m+1}= \\
-&=\binom{m+n}m+\binom{m+n-1}n+\ldots+\binom mm. \\
-\end{aligned}$$
+$$
+\begin{aligned}
+&\mathrm{If~} m \geq 0 \mathrm{~and~} n \geq 1{:} \\
+&\binom{m}{m} + \binom{m+1}{m} + \ldots + \binom{m+n}{m} = \binom{m+n+1}{m+1}. \\
+&\rhd \binom{m+n+1}{m+1} = \binom{m+n}{m} + \binom{m+n}{m+1} = \\
+&= \binom{m+n}{m} + (\binom{m+n-1}{m} + \binom{m+n-1}{m}) = \\
+&= \binom{m+n}{m} + \binom{m+n-1}{n} + \ldots + \binom{m+1}{m+1} = \\
+&= \binom{m+n}{m} + \binom{m+n-1}{n} + \ldots + \binom{m}{m}.
+\end{aligned}
+$$
+
 
 
 

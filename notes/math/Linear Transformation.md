@@ -17,15 +17,14 @@ tags:
 > 2) $A(n\cdot\vec{x})=n\cdot A(\vec{x})$.
 
 #### Аксиоматика
-$$
-\begin{aligned}
-&\text{Отображение }A(\vec{x})=3\cdot\vec{x}\text{ является линейным преобразованием, так как:} \\
-&\text{1)}3(\vec{x}+\vec{y})=3\vec{x}+3\vec{y}; \\
-&\text{2)}3(n\cdot\vec{x})=3n\cdot\vec{x}.
-\end{aligned}
-$$
+Отображение $A(\vec{x}) = 3 \cdot \vec{x}$ является линейным преобразованием, так как:  
+1) $3(\vec{x} + \vec{y}) = 3\vec{x} + 3\vec{y}$;  
+2) $3(n \cdot \vec{x}) = 3n \cdot \vec{x}$.
 
-$$\begin{aligned}&\text{А вот отображение }A(\vec{x})=\vec{x}+5\text{ линейным преобразованием не является};\\&\text{ا》}(\vec{x}+\vec{y})+5\neq(\vec{x}+5)+(\vec{y}+5)=(\vec{x}+\vec{y})+10;\\&\text{2)}(n\vec{x})+5\neq n(\vec{x}+5)=n\vec{x}+5n.\end{aligned}$$
+А вот отображение $A(\vec{x}) = \vec{x} + 5$ линейным преобразованием не является:  
+1) $(\vec{x} + \vec{y}) + 5 \neq (\vec{x} + 5) + (\vec{y} + 5) = (\vec{x} + \vec{y}) + 10$;  
+2) $(n\vec{x}) + 5 \neq n(\vec{x} + 5) = n\vec{x} + 5n$.
+
 
 
 

@@ -44,14 +44,13 @@ $$\begin{pmatrix}+&-&+\\-&+&-\\+&-&+\end{pmatrix}$$
 
 $$∣A∣=a_{11}A_{11}+a_{12}A_{12}+a_{13}A_{13}$$
 
-$$\begin{aligned}
-&\left.\det A=a_{11}\cdot\left|\begin{array}{cc}\color{red}{a_{22}}&\color{red}{a_{23}}\\\\\color{red}{a_{32}}&\color{red}{a_{33}}\end{array}\right.\right|-a_{12}\cdot\left|\begin{array}{rr}\color{red}{a_{21}}&\color{red}{a_{23}}\\\\\color{red}{a_{31}}&\color{red}{a_{33}}\end{array}\right|+a_{13}\cdot\left|\begin{array}{rr}\color{red}{a_{21}}&\color{red}{a_{23}}\\\\\color{red}{a_{31}}&\color{red}{a_{32}}\end{array}\right|= \\
-&=a_{11}\cdot(\color{red}{a_{22}\cdot a_{33}-a_{23}\cdot a_{32}})-a_{12}\cdot(\color{red}{a_{21}\cdot a_{33}-a_{23}\cdot a_{31}}) \\
-&+a_{13}\cdot\left(\color{red}{a_{21}\cdot a_{32}-a_{22}\cdot a_{31}}\right)
-\end{aligned}$$
+$$\det A = a_{11} \cdot \left| \begin{array}{cc} a_{22} & a_{23} \\ a_{32} & a_{33} \end{array} \right| - a_{12} \cdot \left| \begin{array}{cc} a_{21} & a_{23} \\ a_{31} & a_{33} \end{array} \right| + a_{13} \cdot \left| \begin{array}{cc} a_{21} & a_{22} \\ a_{31} & a_{32} \end{array} \right| =$$
+
+$$= a_{11} \cdot (a_{22} \cdot a_{33} - a_{23} \cdot a_{32}) - a_{12} \cdot (a_{21} \cdot a_{33} - a_{23} \cdot a_{31}) + a_{13} \cdot (a_{21} \cdot a_{32} - a_{22} \cdot a_{31})$$
 
 
-Любую квадратную матрицу $A_{n{\times}n}$ можно разложить по **любой** строке или столбцу.
+
+Любую квадратную матрицу ${} A_{n{\times}n}$ можно разложить по **любой** строке или столбцу.
 
 
 $$|A|=\displaystyle\sum_{i=1}^n a_{iq}A_{iq}=\displaystyle\sum_{j=1}^n a_{pj}A_{pj}$$

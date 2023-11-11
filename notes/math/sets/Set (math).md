@@ -7,6 +7,7 @@ parent:
 created: 2023-10-17 17:37
 connected:
   - "[[Subset]]"
+  - "[[Multiset]]"
 ---
 - A set $S$ is made up of elements, and if $a$ is one of these elements, we shall denote this fact by $a ∈ S$.
 - There is exactly one set with no elements. It is the [[Empty Set|empty set]]  and is denoted by $∅$

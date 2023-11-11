@@ -4,11 +4,13 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[519.101 Combinatorics]]"
+  - "[[Multinomial coefficient]]"
 created: 2023-10-23 15:52
 connected:
   - "[[Binomial theorem]]"
+  - "[[519.101 Combinatorics]]"
 ---
+
 $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$
 
 ---

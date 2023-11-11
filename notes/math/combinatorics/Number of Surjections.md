@@ -27,10 +27,8 @@ $M {}$ is the set of mappings $f {}$ with $f(X)\cap M=\emptyset. {}$
 There are exactly ${} (n-|S|)^l {}$  such mappings.
 Hence ${} \sum_{S\subset\{1,...,n\},|S|=k}|\cap_{j\in S}A_j|= \binom{n}{k}\cdot(n-k)^{l} {}$
 
-$$\begin{aligned}
-&\textsf{The answer is }\quad\left|U\right|~-~\sum_i\left|A_i\right|~+ \\
-&\begin{aligned}=\sum_{k=0}^n(-1)^k\binom{n}{k}\cdot(n-k)^l.\end{aligned}
-\end{aligned}$$
+The answer is $\left|U\right| - \sum_i \left|A_i\right| + \sum_{k=0}^n (-1)^k \binom{n}{k} \cdot (n-k)^l$.
+
 
 
 
