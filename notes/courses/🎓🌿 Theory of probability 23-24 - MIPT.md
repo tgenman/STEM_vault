@@ -14,6 +14,8 @@ connected:
   - "[[519.21  Probability theory|Probability theory]]"
 created: 2023-10-01 12:08
 ---
+control: диф зачет
+
 - Кремер учебник
 - Учебник Ширяев
 - [Лекции Жуковского на русском](https://www.youtube.com/playlist?list=PLti61wgkUWHzHEtqnlOJO237JqIVk-0xJ)
@@ -21,6 +23,45 @@ created: 2023-10-01 12:08
 - Лекции Эрлиха
 - [Семинары Резниченко](https://www.youtube.com/watch?v=NdfO64ujwcY&list=PLocvKxfon41WZQy2XJf3I54IvGZHvjFSe&index=2)
 - [Семинары - Берговин ВМК МГУ](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KJYe2Ba-x3rC_PhIMfr5U1)
+
+
+
+### Plan
+- Week 1
+	- [x] note-taking
+	- [x] homework (16 october)
+- Week 2
+	- [ ] note-taking
+	- [x] homework (23 october)
+- Week 3
+	- [ ] note-taking
+	- [x] homework (30 october)
+- Week 4 - Random veriables and vectors
+	- [ ] note-taking
+	- [ ] homework (13 november)
+	- [ ] seminar
+- Week 5
+	- [ ] note-taking
+	- [ ] homework (13 november)
+- mid-term exam
+	- [ ] mid-term exam (20 november)
+- Week 6
+	- [ ] note-taking
+	- [ ] homework (27 november)
+- Week 7
+	- [ ] note-taking
+	- [ ] homework (4 december)
+- Week 8
+	- [ ] note-taking
+	- [ ] homework (11 december)
+- Week 9
+	- [ ] note-taking
+	- [ ] homework (18 december)
+- Week 10 
+	- [ ] note-taking
+	- [ ] homework (25 december)
+- [ ] Final test  (12 february) 
+
 
 
 
