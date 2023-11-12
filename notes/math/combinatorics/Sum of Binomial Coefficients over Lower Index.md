@@ -19,13 +19,12 @@ $$
 2^n=(1+1)^n=\binom n01^n+\binom n11^{n-1}\cdot1+\\\ldots+\binom nn1^n=\binom n0+\binom n1+\ldots+\binom nn.
 $$
 Second:
-$$\begin{aligned}\\
-&2^n=\binom n0+\binom n1+\ldots+\binom nn. \\
-&\triangleright\textsf{How many subsets has an n-element} \\
-&\text{set?} \\
-&1)\text{ Multiplication rule. }2\cdotp2\cdotp...\cdotp2=2^n. \\
-&\text{-} 2)The number of k-element subsets \\ is \binom nk.  
-\end{aligned}$$
+$$2^n = \binom{n}{0} + \binom{n}{1} + \ldots + \binom{n}{n}.$$ 
+How many subsets has an $n$-element set?
+
+1) Multiplication rule: $2 \cdot 2 \cdot \ldots \cdot 2 = 2^n$.
+
+2) The number of $k$-element subsets is $\binom{n}{k}$.
 
 #### Source
 - [Sum of Binomial Coefficients over Lower Index](https://proofwiki.org/wiki/Sum_of_Binomial_Coefficients_over_Lower_Index "Sum of Binomial Coefficients over Lower Index")
@@ -45,13 +44,13 @@ $$
 $$
 \binom n0+\binom n1+\ldots+\binom nn=2^n.
 $$
-Formula_additional: $$\begin{aligned}\\
-&2^n=\binom n0+\binom n1+\ldots+\binom nn. \\
-&\triangleright\textsf{How many subsets has an n-element} \\
-&\text{set?} \\
-&1)\text{ Multiplication rule. }2\cdotp2\cdotp...\cdotp2=2^n. \\
-&\text{-} 2)The number of k-element subsets \\ is \binom nk.  
-\end{aligned}$$
+Formula_additional: The expression $2^n = \binom{n}{0} + \binom{n}{1} + \ldots + \binom{n}{n}$ denotes that the power of two is equal to the sum of binomial coefficients for a given $n$.
+
+How many subsets has an $n$-element set?
+
+1) By the multiplication rule, multiplying $2 \cdot 2 \cdot \ldots \cdot 2$ (n times), we obtain $2^n$.
+
+2) The number of $k$-element subsets is $\binom{n}{k}$.
 <!--ID: 1698168880293-->
 END
 

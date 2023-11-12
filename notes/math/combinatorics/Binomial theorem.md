@@ -6,12 +6,11 @@ publish: true
 anki: true
 created: 2023-10-23 18:17
 parent:
-  - "[[519.101 Combinatorics]]"
   - "[[Pascal’s triangle]]"
+  - "[[Multinomial formula]]"
 connected:
-  - "[[Binomial coefficient]]"
-  - "[[517.52 Ряды и последовательности]]"
-  - "[[Неравенство Бернулли]]"
+  - "[[Binomial theorem]]"
+  - "[[519.101 Combinatorics]]"
 tags:
   - theorem
 ---
