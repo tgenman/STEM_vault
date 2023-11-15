@@ -4,13 +4,13 @@ publish: true
 anki: true
 created: 2023-10-31 22:33
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Size of graph (m)]]"
 ---
 
 > [!tip] Order (${} n$) of ${} G {}$
-> is the number of [[Vertex of graph (V)|vertices]] in a [[Graph (G)|graph]] $G$
+> is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 
 $$n$$
 
@@ -20,7 +20,7 @@ START
 Math prop
 Question_eng: Order of graph (n)
 Question_rus: 
-Answer_eng: is the number of [[Vertex of graph (V)|vertices]] in a [[Graph (G)|graph]] $G$
+Answer_eng: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

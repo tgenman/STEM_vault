@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-10-31 22:58
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Path graph (P_n)]]"
   - "[[Triangle (graph)]]"

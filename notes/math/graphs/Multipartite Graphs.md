@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-11-03 17:15
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Bipartite graph]]"
   - "[[Complete multipartite Graphs]]"

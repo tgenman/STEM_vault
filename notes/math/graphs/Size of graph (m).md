@@ -4,13 +4,13 @@ publish: true
 anki: true
 created: 2023-10-31 22:33
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Order of graph (n)]]"
 ---
 
 > [!tip] Size (${} m$) of ${} G {}$
-> is the number of [[Edge of graph (E)|edges]] in a [[Graph (G)|graph]] ${} G$
+> is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] ${} G$
 
 $$m$$
 
@@ -20,7 +20,7 @@ START
 Math prop
 Question_eng: Size ($m$) of ${} G {}$
 Question_rus: 
-Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Graph (G)|graph]] ${} G$
+Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] ${} G$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

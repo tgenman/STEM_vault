@@ -4,7 +4,7 @@ aliases:
 publish: true
 created: 2023-10-31 22:19
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Edge of graph (E)]]"
 ---

@@ -10,6 +10,7 @@ parent:
 connected:
   - "[[Size of graph (m)]]"
 ---
+
 > [!note] Theorem about max size of bipartite graph
 The [[Size of graph (m)|size]] of every ==bipartite graph== of order ${} n$ is at most ${} ⌊\frac{n^2}{4}⌋ {}$
 

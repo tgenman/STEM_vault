@@ -5,7 +5,7 @@ publish: true
 anki: true
 created: 2023-11-03 17:35
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Size of graph (m)]]"
 ---

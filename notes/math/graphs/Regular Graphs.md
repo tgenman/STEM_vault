@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-11-01 18:35
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Degree of a vertex (deg)]]"
   - "[[The Petersen Graph]]"

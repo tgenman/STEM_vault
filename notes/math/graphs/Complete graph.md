@@ -5,14 +5,14 @@ publish: true
 anki: true
 created: 2023-10-31 22:49
 parent:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
 connected:
   - "[[Order of graph (n)]]"
   - "[[Size of graph (m)]]"
   - "[[Complete bipartite graph]]"
 ---
 > [!tip] Complete graph ${} K_n$
-> is a [[Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
+> is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 
 $$m = \binom{n}{2}$$
 
@@ -27,7 +27,7 @@ START
 Math prop
 Question_eng: Complete graph ${} K_n$
 Question_rus: 
-Answer_eng: is a [[Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
+Answer_eng: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 Answer_rus: 
 Formula_main: $$m = \binom{n}{2}$$
 Formula_additional: ![[Pasted image 20231031224948.png]]

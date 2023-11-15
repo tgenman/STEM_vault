@@ -9,6 +9,7 @@ connected:
   - "[[519.17 Graph Theory]]"
   - "[[Graphical sequence]]"
 ---
+
 > [!tip] Degree sequence of a graph ${} G {}$ of order $n$ 
 A sequence ${} d_1, d_2, . . . , d_n$ of nonnegative integers
 if the vertices of $G$ can be labeled ${} v_1,v_2,...,v_n {}$ so that $\deg v_i = d_i$ for $1 ≤ i ≤ n$.

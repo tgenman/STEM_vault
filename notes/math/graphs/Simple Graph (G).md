@@ -1,6 +1,7 @@
 ---
 aliases:
   - Граф
+  - Graph
 publish: true
 anki: true
 created: 2023-10-22 18:51

@@ -26,6 +26,7 @@ control: диф зачет
 
 
 
+
 ### Plan
 - Week 1
 	- [x] note-taking
@@ -38,11 +39,11 @@ control: диф зачет
 	- [x] homework (30 october)
 - Week 4 - Random veriables and vectors
 	- [ ] note-taking
-	- [ ] homework (13 november)
+	- [x] homework (13 november)
 	- [ ] seminar
 - Week 5
 	- [ ] note-taking
-	- [ ] homework (13 november)
+	- [x] homework (13 november)
 - mid-term exam
 	- [ ] mid-term exam (20 november)
 - Week 6

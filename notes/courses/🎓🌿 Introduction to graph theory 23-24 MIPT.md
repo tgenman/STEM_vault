@@ -34,7 +34,21 @@ BM:
 (deadline: November, 8)
 
 
+
 Week 2. Degree Sequences, Walks and Connected Graphs.
 Required reading: CLZ: 1.6-1.7, 2.1.
 Optional further reading: BM: 3.1.
-Home assignment: CLZ: 1.41(c-e), 1.42, 1.44, 2.6, 2.12, 2.14, BM: 3.1.3, (deadline: November, 15)
+Home assignment: CLZ: 
+1.41(c-e), 
+1.42, 
+1.44, 
+2.6, 
+2.12, 
+2.14, 
+
+BM: 3.1.3, (deadline: November, 15)
+
+Week 3. Distances in Graphs. Trees.
+Required reading: CLZ: 2.2, 3.2.
+Optional further reading: BM: 4.1.
+Home assignment: CLZ: 2.26, 2.28, 2.42, 3.22, 3.24, 3.26. (deadline: November, 22)

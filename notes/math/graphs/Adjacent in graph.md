@@ -7,7 +7,7 @@ parent:
   - "[[Vertex of graph (V)]]"
   - "[[Edge of graph (E)]]"
 connected:
-  - "[[Graph (G)]]"
+  - "[[Simple Graph (G)]]"
   - "[[Incident vertex and edge]]"
 ---
 
