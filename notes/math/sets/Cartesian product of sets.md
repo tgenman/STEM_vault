@@ -7,7 +7,7 @@ parent:
   - "[[Операции над множествами]]"
 created: 2023-10-17 18:18
 connected:
-  - "[[Кортеж]]"
+  - "[[Tuple]]"
 ---
 
 > [!tip] Cartesian product of $A {}$ and $B$.

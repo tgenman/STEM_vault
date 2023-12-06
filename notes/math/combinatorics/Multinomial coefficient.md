@@ -3,16 +3,20 @@ aliases:
 publish: true
 anki: false
 created: 2023-11-11 13:27
-parent: 
+parent:
+  - "[[Permutation of n elements]]"
 connected:
   - "[[Binomial coefficient]]"
 ---
-
+Georgia, City Borjomi, Meskheti St., N 31g, office space N3 , floor 0
 The multinomial coefficient is a generalization of the [[Binomial coefficient]].
 
 > [!tip] Multinomial coefficient
-For a given non-negative integer ${} n {}$ and a given tuple of non-negative integers ${} (k_1,k_2,…,k_m) {}$ such that the sum of all ${} k_i {}$​ is $n {}$ (i.e., ${} k_1+k_2+…+k_m=n {}$),  calculated as:
-$${} \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k) {}$$
+> по сути это просто [[Permutation of n elements]] with repetitions
+
+> [!tip] Multinomial coefficient
+For a given non-negative integer ${} n {}$ and a given [[Tuple]] tuple of non-negative integers ${} (k_1,k_2,…,k_m) {}$ such that the sum of all ${} k_i {}$​ is $n {}$ (i.e., ${} k_1+k_2+…+k_m=n {}$),  calculated as:
+$${} P(k_1, k_2, ..., k_m) =  \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k) {}$$
 
 #### Examples in Combinatorics:
 
