@@ -5,9 +5,8 @@ aliases:
 anki: false
 created: 2023-12-05 21:03
 parent:
-  - "[[510.22 Sets theory MOC]]"
-connected:
-  - "#обс/linking"
+  - "[[Vector]]"
+connected: []
 ---
 
 > [!tip] Кортеж

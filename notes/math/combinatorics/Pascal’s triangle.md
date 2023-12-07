@@ -5,7 +5,7 @@ publish: true
 anki: true
 created: 2023-10-23 18:02
 parent:
-  - "[[k-combination from n elements|Combinations]]"
+  - "[[Combinations without repetitions|Combinations]]"
 connected:
   - "[[👤 Pascal, Blaise]]"
   - "[[Sierpinski Triangle]]"

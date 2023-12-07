@@ -1,32 +1,25 @@
 ---
 aliases:
-  - Сочетания
-  - Combinations
+  - Комбинации без повторений
 publish: true
-anki: true
+anki: false
 parent:
-  - "[[519.101 Combinatorics]]"
+  - "[[Set (math)]]"
 created: 2023-10-23 17:03
 connected:
   - "[[Factorial]]"
   - "[[Binomial coefficient]]"
-  - "[[k-arrangements from n-elements]]"
 ---
-Let $k \leq n$  and $A = \set{a_1,..., a_n}$ be a finite set
 
-A ==k-combination== from n elements (n-element set A) is an k-element subset of A. 
-No Order
+> [!tip] Combinations without repetitions
+> - Не интересует порядок. Интересует только состав.
+> - Сочетания  - это в точности [[Set (math)|подмножества]]  из ${} k {}$ элементов заданного множества из $n {}$ элементов
+> - an k-element subset of A. 
 
-No repetition:
-$$
-C_{n, k} = \binom{n}{k} = \frac{n!}{k!(n-k)!}
-$$
-With repetition:
-$$
-\left(\binom{n}{k} \right) = \binom{n+k-1}{k} = \frac{(n+k-1)!}{k!(n-1)!}
-$$
+$$C_{n}^k = \binom{n}{k} = \frac{A_n^k}{k!} = \frac{n!}{k!(n-k)!}$$
 
-
+Connected with [[Permutations with repetitions]]
+$$C_n^k = P(k, n-k)$$
 
 ### Anki
 TARGET DECK: Math::Combinatorics

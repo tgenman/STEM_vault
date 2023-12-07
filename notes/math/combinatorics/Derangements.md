@@ -5,7 +5,7 @@ publish: true
 anki: true
 created: 2023-10-30 20:35
 parent:
-  - "[[k-arrangements from n-elements]]"
+  - "[[Arrangements without repetition]]"
 connected: []
 ---
 
