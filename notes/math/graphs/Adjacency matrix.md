@@ -6,8 +6,9 @@ anki: false
 created: 2023-11-23 22:00
 parent:
   - "[[Simple Graph (G)|Graph]]"
-connected:
   - "[[Matrix]]"
+connected:
+  - "[[Incidence matrix]]"
 ---
 
 > [!tip] The adjacency matrix

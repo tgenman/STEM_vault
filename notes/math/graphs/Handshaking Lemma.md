@@ -10,7 +10,7 @@ created: 2023-11-01 11:53
 parent:
   - "[[Degree of a vertex (deg)]]"
 connected:
-  - "[[The average degree of a graph]]"
+  - "[[The average degree of a graph d(G)]]"
 ---
 
 > [!info] Handshaking Lemma

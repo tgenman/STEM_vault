@@ -22,8 +22,8 @@ $$\deg v = |N(v)|$$
 	- [[Number of odd vertices (corollary)]]
 
 ### Types degree in graph
-- [[Maximum degree]]
-- [[Minimum degree]]
+- [[Maximum degree ∆(G)]]
+- [[Minimum degree δ(G)]]
 
 
 $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
