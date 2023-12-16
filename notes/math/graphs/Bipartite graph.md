@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Двупольный граф
+  - Двудольный граф
 publish: true
 anki: true
 created: 2023-11-03 16:20

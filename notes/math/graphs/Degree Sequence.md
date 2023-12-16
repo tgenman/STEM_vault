@@ -6,7 +6,7 @@ created: 2023-11-04 19:37
 parent:
   - "[[Degree of a vertex (deg)]]"
 connected:
-  - "[[519.17 Graph Theory]]"
+  - "[[519.17 Graph Theory MOC]]"
   - "[[Graphical sequence]]"
 ---
 

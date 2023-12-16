@@ -1,10 +1,11 @@
 ---
-aliases: 
+aliases:
+  - Псевдограф
 publish: true
 anki: false
 created: 2023-11-15 15:38
 parent:
-  - "[[519.17 Graph Theory]]"
+  - "[[519.17 Graph Theory MOC]]"
 connected:
   - "[[Loop (graph)]]"
   - "[[Multigraph (H)]]"

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Мультиграфы
 publish: true
 anki: false
 created: 2023-11-15 15:41

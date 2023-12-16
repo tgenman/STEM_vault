@@ -8,6 +8,6 @@ parent:
 connected:
 ---
 - [[510.22 Sets theory MOC]]
-- [[519.17 Graph Theory]]
+- [[519.17 Graph Theory MOC]]
 - [[519.101 Combinatorics]]
 - 

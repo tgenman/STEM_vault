@@ -6,8 +6,8 @@ publish: true
 anki: true
 created: 2023-10-22 18:51
 parent:
-  - "[[519.17 Graph Theory]]"
-connected:
+  - "[[519.17 Graph Theory MOC]]"
+connected: 
 ---
 
 > [!tip] Graph ${} G {}$
@@ -15,18 +15,20 @@ connected:
 
 $$G = (V,E)$$
 
-${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, wy, xy}$:
+${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, wy, xy} {}$:
 ![[Pasted image 20231031222606.png|300]]
+Graphs are so named because they can be represented graphically
+
 
 [[Adjacent in graph]]
 [[Neighbourhood in graph (N)]]
-
 
 [[Order of graph (n)]]
 [[Size of graph (m)]]
 
 > [!example] Types
-> - by $n {}$ [[Order of graph (n)|order]] 
+> - by ${} n {}$ [[Order of graph (n)|order]] 
+> 	- 0 - null graph
 > 	- 1 - trivial graph
 > 	- 2 and more - nontrivial graph
 > - by ${} m {}$ ([[Size of graph (m)|size]])
@@ -37,12 +39,7 @@ ${} V(G) = \set{u, v, w, x, y} {}$ and edge set ${} E(G) = \set{uv, uy, vx, vy, 
 > - by form
 > 	- [[Path graph (P_n)]]
 > 	- [[Cycle graph (C_n)]]
-> - by direction
-> 	- [[Undirected graph]] - Simple graphs
-> 	- Directed graph (Digraphs)
-> - like additional properties
-> 	- Multigraphs (more than one edge available)
-> 	- Pseudographs (loop into same vertex)
+
  
 
 ### Anki

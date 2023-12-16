@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Охватывающий подграф
+  - Остовный подграф
 publish: true
 anki: true
 created: 2023-11-01 18:23
@@ -8,7 +8,8 @@ parent:
   - "[[Subgraph]]"
 connected:
 ---
-> [!tip] $H$ is a spanning subgraph of $G {}$ 
+
+> [!tip] ${} H$ is a spanning subgraph of $G {}$ 
 > If:
 > - ${} H {}$ is a [[Subgraph|subgraph]] of ${} G {}$ and 
 > - ${} V(H)=V(G)$
@@ -18,7 +19,7 @@ connected:
 START
 Math prop
 Question_eng: $H$ is a spanning subgraph of $G {}$ 
-Question_rus: Охватывающий подграф
+Question_rus: Остовный подграф
 Answer_eng: If:
 ${} H {}$ is a [[Subgraph|subgraph]] of ${} G {}$ and 
 ${} V(H)=V(G)$

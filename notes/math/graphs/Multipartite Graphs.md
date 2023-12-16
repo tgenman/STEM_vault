@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases:
+  - k-дольный граф
 publish: true
-anki: true
+anki: false
 created: 2023-11-03 17:15
 parent:
   - "[[Simple Graph (G)]]"

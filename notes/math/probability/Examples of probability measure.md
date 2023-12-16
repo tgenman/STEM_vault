@@ -16,7 +16,7 @@ tags:
 	- $\Omega=\{0,1\}^n,\:\mathcal{F}=2^\Omega$,
 	- $\mathbb{P}(\{(x_1,\ldots,x_n)\})=p^{\sum x_i}(1-p)^{n-\sum x_i}$
 - [[Geometrical probability]]
-- [[Random graph]]
+- [[Random graphs MOC]]
 
 
 

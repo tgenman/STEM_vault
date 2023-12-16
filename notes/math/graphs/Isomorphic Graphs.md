@@ -5,8 +5,9 @@ publish: true
 anki: true
 created: 2023-11-01 12:12
 parent:
-  - "[[519.17 Graph Theory]]"
+  - "[[519.17 Graph Theory MOC]]"
 connected:
+  - "[[Non labeled graph]]"
 ---
 
 > [!tip] Isomorphic Graphs ${} G \cong H {}$

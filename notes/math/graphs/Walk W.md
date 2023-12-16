@@ -1,11 +1,12 @@
 ---
-aliases: 
+aliases:
+  - Маршрут
 publish: true
 anki: false
 created: 2023-11-23 20:47
 parent:
-  - "[[519.17 Graph Theory]]"
-connected:
+  - "[[519.17 Graph Theory MOC]]"
+connected: 
 ---
 
 > [!tip] ${} u − v {}$ walk $W {}$ 

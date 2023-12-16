@@ -9,6 +9,7 @@ connected:
   - "[[Join of Graphs]]"
   - "[[Complete bipartite graph]]"
 ---
+
 > [!tip] The join ${} G = G_1 ∨ G_2 {}$ 
 has 
 vertex set ${} V(G) = V(G_1) ∪ V(G_2) {}$ and 

@@ -10,7 +10,8 @@ connected:
 ---
 
 $$E(G) = \set{uv, uy, vx, vy, wy, xy} {}$$
-
+An edge with identical ends is called a [[Loop (graph)]], 
+an edge with distinct ends a ==link==.
 
 
 

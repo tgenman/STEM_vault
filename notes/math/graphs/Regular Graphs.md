@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Регулярный граф
 publish: true
 anki: true
 created: 2023-11-01 18:35
@@ -22,6 +23,7 @@ also regular graphs:
 
 [[Theorem about existence r-regular n graph]]
 
+Примером регулярного графа  степень $n$ является граф ${} K_{n+1} {}$ [[Complete graph|Полный граф]]
 
 ### Anki
 > [!question]-

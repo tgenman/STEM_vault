@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Полиномиальная формула
 publish: true
 anki: false
 created: 2023-11-11 23:47

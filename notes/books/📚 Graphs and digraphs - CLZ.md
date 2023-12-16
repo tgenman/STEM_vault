@@ -5,7 +5,7 @@ tags:
   - status/BACKLOG_🌰
 publish: true
 connected:
-  - "[[519.17 Graph Theory]]"
+  - "[[519.17 Graph Theory MOC]]"
 author:
   - Chartrand, Lesniak, Zhang
 recommendation: "[[👤 Торопов, Никита Игоревич]]"

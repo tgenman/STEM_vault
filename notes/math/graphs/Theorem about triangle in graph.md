@@ -6,7 +6,7 @@ publish: true
 anki: true
 created: 2023-11-03 16:57
 parent:
-  - "[[519.17 Graph Theory]]"
+  - "[[519.17 Graph Theory MOC]]"
 connected:
   - "[[Triangle (graph)]]"
 ---

@@ -2,14 +2,55 @@
 aliases:
   - Условная вероятность
 publish: true
-anki: false
+anki: true
 created: 2023-07-07 10:02
 parent:
   - "[[Probability]]"
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
 tags:
-  - empty
 ---
-==The conditional probability== $\mathbb{P}(A|B)$ is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 
+> [!tip] The conditional probability ${} \mathbb{P}(A|B)$
+ is the probability of event ${} A$ calculated with just the outcomes where the condition $B {}$ holds.
+
+Нaзывают еще теоремой умножения:
+$$P(A|B)P(B) = P(A \cap B).$$
+$$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
+
+#### Example
+Пример. Пусть игральную кость бросают один раз. Событие ${} A$ состоит в том, что выпало четное число очков. Требуется найти вероятность $P(A|B)$ события $A$, если уже известно, что событие $B$ произошло. Как изменится ответ, если в качестве события $B$ взять событие, состоящее в том, что выпало 2 очка?
+
+Ответ на первый вопрос кажется естественным: $P(A|B) = 0$, поскольку 1 является нечетным числом. Второй вопрос задачи уже не такой тривиальный. Если выпало четное число очков, то пространство элементарных исходов сужается до множества $B$. Множество элементарных исходов состоит из 3-х элементов: выпало 2 очка, выпало 4 очка и выпало 6 очков, причем только один из них благоприятен и состоит в том, что кость выпала числом 2 вверху. Таким образом, искомая вероятность равняется $P(A|B) = \frac{1}{3}$.
+
+В общем случае условная вероятность определяется следующим образом. Пусть в пространстве элементарных исходов $\Omega = \{\omega_1, ..., \omega_n\}$ задано некоторое непустое событие $B = \{\omega_{i1}, ..., \omega_{ik}\}, k \ge 1$. Пусть также задано другое событие $A$. Тогда вероятность $P(A|B)$ события $A$ при условии, что событие $B$ уже реализовалось, можно определить следующим образом:
+
+$$
+P(A|B)P(B) = P(A \cap B).
+$$
+
+Действительно, если событие $B$ уже реализовалось, то $B$ становится новым множеством элементарных исходов, а множеством благоприятных исходов станет множество $A \cap B$:
+
+$$
+P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}
+$$
+
+Здесь несколько раз было использовано определение вероятности.
+
+Замечание. Если множество $B$ пустое, то по определению условную вероятность $P(A|B)$ полагают равной нулю.
+
+
+#### Anki
+> [!question]-
+TARGET DECK: Math::Probability theory
+START
+Math prop
+Question_eng: The conditional probability ${} \mathbb{P}(A|B)$
+Question_rus: 
+Answer_eng: is the probability of event ${} A$ calculated with just the outcomes where the condition $B$ holds.
+Answer_rus: 
+Formula_main: $$P(A|B)P(B) = P(A \cap B).$$
+$$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
+Formula_additional:
+<!--ID: 1702137389003-->
+END

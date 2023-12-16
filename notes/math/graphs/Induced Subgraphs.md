@@ -1,7 +1,8 @@
 ---
-aliases: 
+aliases:
+  - Порожденный подграф
 publish: true
-anki: true
+anki: false
 created: 2023-11-01 15:28
 parent:
   - "[[Subgraph]]"

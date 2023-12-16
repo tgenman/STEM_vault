@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Простая цепь
 publish: true
 anki: false
 created: 2023-11-23 21:47
@@ -8,7 +9,8 @@ parent:
 connected:
   - "[[Trail T]]"
 ---
-> [!tip] Path $P$
+
+> [!tip] Path ${} P$
 > a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
 
 Every ==nontrivial path== is necessarily an [[Open walk]].

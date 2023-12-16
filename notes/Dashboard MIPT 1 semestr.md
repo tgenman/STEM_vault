@@ -1,6 +1,8 @@
 ---
 cssclasses:
   - dashboard
+connected:
+  - "[[🏛МФТИ]]"
 ---
 
 # Главные предметы
@@ -13,3 +15,8 @@ cssclasses:
 	- [[📚 Graph Theory - BM]]
 	- [[📚 Graphs and digraphs - CLZ]]
 - [[🎓🌿 Theory of probability 23-24 - MIPT|🎓🌿 Probability]]
+
+
+### Bookmarks
+> [!example] Bookmarks
+> - [курсы маги на степике](https://stepik.org/users/41248003/teach)
