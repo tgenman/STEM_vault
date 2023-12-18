@@ -23,6 +23,7 @@ We commonly write the degree sequence of a graph as a nonincreasing sequence.
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Degree sequence of a graph ${} G {}$ of order $n$ 

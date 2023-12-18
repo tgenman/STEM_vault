@@ -31,6 +31,7 @@ The star ${} K_{1,3} {}$ is sometimes referred to as a ==claw==.
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: A graph ${} G {}$ is complete bipartite
@@ -47,6 +48,7 @@ END
 
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Graph named Star
@@ -59,6 +61,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Graph called Claw

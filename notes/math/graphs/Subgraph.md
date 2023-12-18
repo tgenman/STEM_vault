@@ -23,6 +23,7 @@ If $H$ is a subgraph of $G$ where $H\not\cong G {}$ ([[Isomorphic Graphs|isomorp
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: A graph $H$ is a subgraph of a graph $G$
@@ -36,6 +37,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Supergraph
@@ -48,6 +50,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Proper subgraph

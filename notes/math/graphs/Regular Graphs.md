@@ -27,6 +27,7 @@ also regular graphs:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Regular graph (${} r$-regular)

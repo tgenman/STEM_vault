@@ -27,6 +27,7 @@ If ${} φ : V(G) → V(H)$ is an isomorphism, then the inverse function ${} φ^{
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Isomorphic Graphs $G \cong H {}$
@@ -39,6 +40,7 @@ Formula_additional: ![[Pasted image 20231101123050.png]]
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Isomorphism ${} φ : V(G) → V(H)$

@@ -17,7 +17,7 @@ connected:
 
 
 ### Anki
-TARGET DECK: Math::Probability theory
+TARGET DECK: Math::Probability
 START
 Math prop
 Question_eng: Elementary event

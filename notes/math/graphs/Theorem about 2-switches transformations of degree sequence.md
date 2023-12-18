@@ -20,6 +20,7 @@ We proceed by induction on the order ${} n$ of $G$ and $H.$ If $n\leq 4,$ then t
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Theorem about 2-switches transformations of degree sequence

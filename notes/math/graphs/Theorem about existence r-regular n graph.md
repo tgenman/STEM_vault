@@ -22,6 +22,7 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Theorem about existence r-regular n graph

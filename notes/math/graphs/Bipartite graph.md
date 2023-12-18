@@ -29,6 +29,7 @@ Therefore, from [[Theorem about max size of bipartite graph]] and [[Theorem abou
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: A graph ${} G$ is bipartite 

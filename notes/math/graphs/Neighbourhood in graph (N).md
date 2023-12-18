@@ -20,6 +20,7 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Neighbours
@@ -32,6 +33,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Open neighborhood of ${} v {}$ ($N_G(v) {}$, or $N(v)$)
@@ -44,6 +46,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Closed neighborhood of $v$

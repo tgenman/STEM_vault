@@ -21,6 +21,7 @@ Using the join operation, we see that $\bar{K_s} ∨ \bar{K_t} = K_{s,t}$
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: The join ${} G = G_1 ∨ G_2 {}$ 

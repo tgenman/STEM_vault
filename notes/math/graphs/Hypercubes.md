@@ -22,6 +22,7 @@ The graph ${} Q_n$ is an $n$-regular graph of order $2^n {}$.
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: The $n$-cube ${} Q_n {}$ (hypercube)

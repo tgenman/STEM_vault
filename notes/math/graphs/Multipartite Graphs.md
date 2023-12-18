@@ -18,6 +18,7 @@ A ${} 2 {}$-partite graph is [[Bipartite graph]].
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: A graph ${} G$ is a $k {}$-partite graph ($k \in N$ ${} k ≥ 1$)

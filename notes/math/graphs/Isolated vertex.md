@@ -13,6 +13,7 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Isolated vertex

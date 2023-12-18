@@ -16,6 +16,7 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: The Petersen Graph (Cubic graph)

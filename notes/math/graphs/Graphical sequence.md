@@ -22,6 +22,7 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Graphical sequence

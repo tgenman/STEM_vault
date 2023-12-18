@@ -20,6 +20,7 @@ which, of course, is an even number. Since the sum of the degrees of the even ve
 
  ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Number of odd vertices (corollary)

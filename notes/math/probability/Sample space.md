@@ -24,7 +24,7 @@ $A = \{1, 3, 5\}$ - outcome is odd
 
 
 ### Anki
-TARGET DECK: Math::Probability theory
+TARGET DECK: Math::Probability
 START
 Math def
 Title_eng: Sample space $\Omega$ 

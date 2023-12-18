@@ -7,7 +7,7 @@ anki: true
 created: 2023-10-22 18:51
 parent:
   - "[[519.17 Graph Theory MOC]]"
-connected: 
+connected:
 ---
 
 > [!tip] Graph ${} G {}$
@@ -44,6 +44,7 @@ Graphs are so named because they can be represented graphically
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Graph (G)
@@ -56,14 +57,6 @@ Formula_additional:
 END
 
  
-
-
-
-
-
-
-
-
 
 
 

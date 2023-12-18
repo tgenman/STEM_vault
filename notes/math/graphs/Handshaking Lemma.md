@@ -23,6 +23,7 @@ When summing the degrees of the vertices of $G$, each edge of $G {}$ is counted 
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Handshaking Lemma

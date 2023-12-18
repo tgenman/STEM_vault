@@ -26,6 +26,7 @@ is a complete ${} k$-partite graph for some integer $k ≥ 2$
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: A complete ${} k$-partite graph $G {}$ 

@@ -42,7 +42,7 @@ $$
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Probability theory
+TARGET DECK: Math::Probability
 START
 Math prop
 Question_eng: The conditional probability ${} \mathbb{P}(A|B)$

@@ -23,6 +23,7 @@ $$m = \binom{n}{2}$$
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Complete graph ${} K_n$

@@ -27,6 +27,7 @@ The complement ${} K_n {}$ of the complete graph Kn is the [[Empty graph|empty g
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math def
 Title_eng: The complement ${} \bar{G}$ of a graph G 

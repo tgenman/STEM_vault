@@ -16,6 +16,7 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: $H$ is a spanning subgraph of $G {}$ 

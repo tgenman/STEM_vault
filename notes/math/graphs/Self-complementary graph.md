@@ -23,6 +23,7 @@ that is, if $G$ is a self-complementary graph of order $n$, then either ${} n â‰
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Self-complementary graph

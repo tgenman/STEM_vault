@@ -25,6 +25,7 @@ From the defining property of the graph $G$, it follows that $G^{\prime}$ contai
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Theorem about triangle in graph

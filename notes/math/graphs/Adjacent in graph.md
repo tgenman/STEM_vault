@@ -20,9 +20,10 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Adjacent vertices
+Question_eng: Adjacent vertices 
 Question_rus: 
 Answer_eng: If ${} uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
 Answer_rus: 
@@ -33,6 +34,7 @@ END
 
 
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Adjacent edges

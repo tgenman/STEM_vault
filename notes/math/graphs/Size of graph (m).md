@@ -16,6 +16,7 @@ $$m$$
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Size ($m$) of ${} G {}$

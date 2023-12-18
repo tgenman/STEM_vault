@@ -24,7 +24,7 @@ $P(A) = \frac{|A|}{n}$ - [[Probability]]
 
 
 ### Anki
-TARGET DECK: Math::Probability theory  
+TARGET DECK: Math::Probability
 START
 Math prop
 Question_eng: Classical definition of probability

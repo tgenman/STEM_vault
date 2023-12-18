@@ -25,7 +25,7 @@ connected: []
 	- $P(A \sqcup B) = P(A) + P(B)$
 
 ### Anki
-TARGET DECK: Math::Probability theory
+TARGET DECK: Math::Probability
 START
 Math prop
 Question_eng: Properties of Random experiment

@@ -14,6 +14,7 @@ connected:
 
 ### Anki
 > [!question]-
+TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: The average degree of a graph ${} G {}$ of order $n {}$ and size $m$ is

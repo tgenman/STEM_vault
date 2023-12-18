@@ -54,6 +54,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Combinatorics
 START
 Math prop
 Question_eng: $$\binom{1}{0} = ?$$
@@ -67,6 +68,7 @@ END
 
 
 > [!question]-
+TARGET DECK: Math::Combinatorics
 START
 Math prop
 Question_eng: $$\binom{n}{0} = ?$$
@@ -79,6 +81,7 @@ Formula_additional:
 END
 
 > [!question]-
+TARGET DECK: Math::Combinatorics
 START
 Math prop
 Question_eng: $$\binom{n}{1} = ?$$
