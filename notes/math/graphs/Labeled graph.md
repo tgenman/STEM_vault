@@ -9,6 +9,7 @@ parent:
 connected:
   - "[[Isomorphic Graphs]]"
 ---
+
 > [!tip] Граф с ${} n$ вершинами называется помеченным, 
 > если его вершинам присвоены номера $1, 2, ..., n {}$
 
@@ -18,7 +19,7 @@ connected:
 
 [[Theorem about number of labeled graphs]]
 
-
+![[Pasted image 20231218225715.png]]
 
 
 

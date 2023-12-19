@@ -7,6 +7,8 @@ created: 2023-11-01 18:45
 parent:
   - "[[Regular Graphs]]"
 connected:
+  - "[[The Petersen Graph|Cubic graph]]"
+  - "[[Cube (6)]]"
 ---
 
 > [!tip] Cubic graph

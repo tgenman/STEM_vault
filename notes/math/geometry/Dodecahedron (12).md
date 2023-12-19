@@ -1,8 +1,12 @@
 ---
+aliases:
+  - Додэкаэдр
 publish: true
 parent:
-  - "[[Правильный многогранник]]"
+  - "[[Platonic solids]]"
   - "[[Regular Graphs]]"
+connected: []
+created: 2023-12-19 21:50
 ---
 
 ==Додэкаэдр== - двенадцатигранник.

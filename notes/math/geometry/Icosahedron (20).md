@@ -1,8 +1,12 @@
 ---
+aliases:
+  - Икосаэдр
 publish: true
 parent:
-  - "[[Правильный многогранник]]"
+  - "[[Platonic solids]]"
   - "[[Regular Graphs]]"
+created: 2023-12-19 21:51
+connected:
 ---
 
 
