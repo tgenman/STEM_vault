@@ -2,7 +2,7 @@
 aliases: [Системы в окружения, operation environment, операционное окружени, рабочее окружение]
 publish: true
 ---
-links: [[Система (СМ)]], [[System-of-interest|Целевая система]]
+links: [[System (system thinking)]], [[System-of-interest|Целевая система]]
 
 ---
 

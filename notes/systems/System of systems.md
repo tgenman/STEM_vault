@@ -2,7 +2,7 @@
 aliases: [Система систем]
 publish: true
 ---
-links: [[Система (СМ)]], [[СМ - 4 Системные уровни]] 
+links: [[System (system thinking)]], [[СМ - 4 Системные уровни]] 
 
 ---
 
