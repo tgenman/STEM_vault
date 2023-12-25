@@ -1,0 +1,44 @@
+---
+aliases:
+  - Гиперграф
+publish: true
+anki: false
+created: 2023-12-19 22:10
+parent:
+  - "[[519.17 Graph Theory MOC]]"
+connected:
+  - "#обс/linking"
+---
+A set system is an ordered pair $(V,F)$, where $V$ is a set of elements and $F$ is a family of subsets of $V$ . 
+
+The elements of $V$ are then called the ==vertices of the hypergraph==,
+and the elements of $F$ its edges or ==hyperedges==.
+
+A hypergraph is $k$-uniform if each edge is a $k$-set (a set of $k$ elements). 
+
+Set systems give rise to graphs in two principal ways: 
+- [[Incidence graphs]]
+- [[Intersection graphs]]
+
+Many interesting examples of hypergraphs are provided by geometric configurations. 
+A geometric configuration $(P,L)$ consists of a finite set $P$ of elements called ==points==, and a finite family $L$ of subsets of $P$ called ==lines==, with the property that at most one line contains any given pair of points. 
+
+Two classical examples of geometric configurations are the ==Fano plane== and the ==Desargues configuration==. These two configurations are shown in Figure 1.15. 
+In both cases, each line consists of three points. 
+These configurations thus give rise to 3-uniform hypergraphs; 
+the ==Fano hypergraph== has seven vertices and seven edges, 
+the ==Desargues hypergraph== ten vertices and ten edges.
+
+![[Pasted image 20231219221509.png]]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,16 @@
 ---
-aliases: [Functional requirements, Системные требования, Функциональные требования]
+aliases:
+  - Functional requirements
+  - Системные требования
+  - Функциональные требования
 publish: true
----
-links: [[Requirements engineering]], [[СМ - 4 Системные уровни]]
-
+anki: false
+created: 2023-12-25 18:28
+parent:
+  - "[[Система (СМ)]]"
+connected:
+  - "[[Requirements engineering]]"
+  - "[[СМ - 4 Системные уровни]]"
 ---
 
 ==Системные требования== - определение [[System-of-interest|целевой системы]] как [[Black box|черного ящика]]. 
