@@ -2,6 +2,6 @@
 aliases: [Жизненный цикл] 
 publish: true
 ---
-links: [[Система (СМ)]]
+links: [[System (system thinking)]]
 
 ---

@@ -7,7 +7,7 @@ publish: true
 anki: false
 created: 2023-12-25 18:28
 parent:
-  - "[[Система (СМ)]]"
+  - "[[System (system thinking)]]"
 connected:
   - "[[Requirements engineering]]"
   - "[[СМ - 4 Системные уровни]]"

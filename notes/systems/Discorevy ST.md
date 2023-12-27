@@ -2,7 +2,7 @@
 aliases: [Выявление]
 publish: true
 ---
-links: [[Система (СМ)]]
+links: [[System (system thinking)]]
 
 ---
 
