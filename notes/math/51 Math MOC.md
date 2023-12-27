@@ -37,7 +37,7 @@ connected:
 	- [[519.22 Statistic]]
 - [[519.83 🃏Game Theory]]
 
-
+![[Pasted image 20231227230322.png]]
 
 [[Математическое мышление]]
 [[Discrete math]]
