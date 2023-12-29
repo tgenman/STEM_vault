@@ -28,40 +28,40 @@ control: диф зачет
 
 
 ### Plan
-- Week 1
-	- [x] note-taking
-	- [x] homework (16 october)
-- Week 2
-	- [ ] note-taking
-	- [x] homework (23 october)
-- Week 3
-	- [ ] note-taking
-	- [x] homework (30 october)
-- Week 4 - Random veriables and vectors
-	- [ ] note-taking
-	- [x] homework (13 november)
-	- [ ] seminar
-- Week 5
-	- [ ] note-taking
-	- [x] homework (13 november)
-- mid-term exam
-	- [ ] mid-term exam (20 november)
-- Week 6
-	- [ ] note-taking
-	- [ ] homework (27 november)
-- Week 7
-	- [ ] note-taking
-	- [ ] homework (4 december)
-- Week 8
-	- [ ] note-taking
-	- [ ] homework (11 december)
-- Week 9
-	- [ ] note-taking
-	- [ ] homework (18 december)
-- Week 10 
-	- [ ] note-taking
-	- [ ] homework (25 december)
-- [ ] Final test  (12 february) 
+- %% Week 1 %%
+	- %% [x] note-taking %%
+	- %% [x] homework (16 october) %%
+- %% Week 2 %%
+	- %% [ ] note-taking %%
+	- %% [x] homework (23 october) %%
+- %% Week 3 %%
+	- %% [ ] note-taking %%
+	- %% [x] homework (30 october) %%
+- %% Week 4 - Random veriables and vectors %%
+	- %% [ ] note-taking %%
+	- %% [x] homework (13 november) %%
+	- %% [ ] seminar %%
+- %% Week 5 %%
+	- %% [ ] note-taking %%
+	- %% [x] homework (13 november) %%
+- %% mid-term exam %%
+	- %% [ ] mid-term exam (20 november) %%
+- %% Week 6 %%
+	- %% [ ] note-taking %%
+	- %% [ ] homework (27 november) %%
+- %% Week 7 %%
+	- %% [ ] note-taking %%
+	- %% [ ] homework (4 december) %%
+- %% Week 8 %%
+	- %% [ ] note-taking %%
+	- %% [ ] homework (11 december) %%
+- %% Week 9 %%
+	- %% [ ] note-taking %%
+	- %% [x] homework (18 december) ✅ 2023-12-29 %%
+- %% Week 10 %% 
+	- %% [ ] note-taking %%
+	- %% [ ] homework (25 december) %%
+- %% [ ] Final test  (12 february) %% 
 
 
 

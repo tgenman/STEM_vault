@@ -35,15 +35,15 @@ control: exam
 	- [x] homework (13 november)
 - Week 6
 	- [x] mid-term exam (20 november)
-- Week 7
-	- [ ] note-taking
-	- [ ] homework (27 november)
-- Week 8
-	- [ ] note-taking
-	- [ ] homework (4 december)
-- Week 8 
-	- [ ] note-taking
-	- [ ] homework (11 december)
+- %% Week 7 %%
+	- %% [ ] note-taking %%
+	- %% [ ] homework (27 november) %%
+- %% Week 8 %%
+	- %% [ ] note-taking %%
+	- %% [ ] homework (4 december) %%
+- %% Week 8 %% 
+	- %% [ ] note-taking %%
+	- %% [ ] homework (11 december) %%
 
 
 
