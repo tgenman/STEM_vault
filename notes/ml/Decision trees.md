@@ -1,6 +1,7 @@
 ---
 aliases: Деревья решений
 publish: true
+created: 2023-05-03 11:26
 ---
 
 ![[Pasted image 20230503112800.png]]
@@ -23,7 +24,3 @@ publish: true
 
 **Connected with:**
 - subtype of [[Classification (machine learning)]]
-
-
-
-created: 2023-05-03 11:26

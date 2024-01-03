@@ -1,6 +1,7 @@
 ---
 aliases: Уменьшение размерности (обобщение)
 publish: true
+created: 2023-05-03 14:10
 ---
 
 Собирает конкретные признаки в абстракции более высокого уровня
@@ -39,7 +40,3 @@ publish: true
 
 **Connected with:**
 - subtype of [[Unsupervised Learning]]
-
-
-
-created: 2023-05-03 14:10

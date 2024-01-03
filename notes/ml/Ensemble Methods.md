@@ -1,6 +1,7 @@
 ---
 aliases: Ансамблевые методы
 publish: true
+created: 2023-05-03 21:44
 ---
 
 «Куча глупых деревьев учится исправлять ошибки друг друга»
@@ -35,7 +36,3 @@ publish: true
 
 **Connected with:**
 - subtype of [[Machine Learning MOC]]
-
-
-
-created: 2023-05-03 21:44

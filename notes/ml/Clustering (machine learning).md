@@ -1,6 +1,7 @@
 ---
 aliases: Кластеризация (машинное обучение)
 publish: true
+created: 2023-05-03 13:47
 ---
 
 «Разделяет объекты по неизвестному признаку. Машина сама решает как лучше»
@@ -29,12 +30,6 @@ publish: true
 
 
 
-
-
-
 **Connected with:**
 - subtype of [[Unsupervised Learning]]
 
-
-
-created: 2023-05-03 13:47

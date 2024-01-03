@@ -1,6 +1,7 @@
 ---
 aliases: Наивный Байес, Наивный байесовский классификатор
 publish: true
+created: 2023-05-03 11:20
 ---
 
 ![[Pasted image 20230503112221.png]]
@@ -18,7 +19,3 @@ publish: true
 
 **Connected with:**
 - subtype of [[Classification (machine learning)]]
-
-
-
-created: 2023-05-03 11:20
