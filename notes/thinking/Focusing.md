@@ -3,7 +3,7 @@ aliases: [Фокусирование]
 publish: true
 --- 
 ---
-links: [[CFAR]], [[Instrumental rationality]], [[Internal Double Crux|Внутренний двойной крест]], [[📚✅CFAR - Handbook 2019]]
+links: [[CFAR]], [[Instrumental rationality]], [[Internal Double Crux|Внутренний двойной крест]], [[📚 CFAR - Handbook 2019]]
 
 ---
 

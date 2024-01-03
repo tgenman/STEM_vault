@@ -10,7 +10,7 @@ title2: Думай медленно... решай быстро
 author: [[👤Kahneman, Daniel]]
 year: 2011
 family: [[📚🌀 Judgment Under Uncertainty - Kahneman, Slovic, Tversky  🇬🇧🇷🇺]]
-recom: [[👤Yudkowsky, Eliezer]], [[📚✅ Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺]], [[👤Марков, Алексей]], [[📚✅🎧 (Не)совершенная случайность - Млодинов (12) 🇷🇺]]
+recom: [[👤Yudkowsky, Eliezer]], [[📚🌳 Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺]], [[👤Марков, Алексей]], [[📚🎧 (Не)совершенная случайность - Млодинов (12) 🇷🇺]]
 
 ---
 

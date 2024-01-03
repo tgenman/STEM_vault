@@ -11,7 +11,7 @@ title2: Как измерить все, что угодно. Оценка сто
 author: [[👤Hubbard, Douglas W.]]
 year: 2007
 family:
-recom: [[👤Yudkowsky, Eliezer]], [[📚✅ Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺]]
+recom: [[👤Yudkowsky, Eliezer]], [[📚🌳 Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺]]
 
 ---
 

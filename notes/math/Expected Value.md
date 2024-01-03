@@ -2,7 +2,7 @@
 aliases: [Матожидание, EV, Математическое ожидание]
 publish: true
 ---
-links: [[📚✅CFAR - Handbook 2019]], [[519.21  Probability theory]]
+links: [[📚 CFAR - Handbook 2019]], [[519.21  Probability theory]]
 
 ---
 
