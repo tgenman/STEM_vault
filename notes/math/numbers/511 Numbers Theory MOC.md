@@ -14,10 +14,10 @@ parent:
 C - [[Complex numbers]]
 R - [[Real numbers]]
 Q - [[Rational numbers]]
-Z - [[целые числа (нем. zahlen - числа)]]
+Z - [[Whole numbers Z]]
 N - [[Natural numbers]]
 
-$\mathbb{I}$ - [[Irrational Numbers]]
+${} \mathbb{I}$ - [[Irrational Numbers]]
 
 [[Возведение в степень]]
 [[Prime numbers]]

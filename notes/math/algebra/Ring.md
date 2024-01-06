@@ -14,5 +14,7 @@ tags:
 
 - abelian additive group of the ring
 
+По сути это обобщение понятия [[Whole numbers Z|Целые числа Z (нем. zahlen - числа)]]
+
 
 

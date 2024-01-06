@@ -20,7 +20,7 @@ control: диф зачет
 - Учебник Ширяев
 - [Лекции Жуковского на русском](https://www.youtube.com/playlist?list=PLti61wgkUWHzHEtqnlOJO237JqIVk-0xJ)
 - Лекции Райгородского
-- Лекции Эрлиха
+- Лекции Эрлиха https://www.youtube.com/watch?v=GeO_yME_Hc0&list=PL4_hYwCyhAva7M5xo-yjQF-gzrvBnDamF&index=2
 - [Семинары Резниченко](https://www.youtube.com/watch?v=NdfO64ujwcY&list=PLocvKxfon41WZQy2XJf3I54IvGZHvjFSe&index=2)
 - [Семинары - Берговин ВМК МГУ](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KJYe2Ba-x3rC_PhIMfr5U1)
 
