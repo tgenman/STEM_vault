@@ -7,7 +7,7 @@ created: 2023-12-16 21:34
 parent:
   - "[[Simple Graph (G)]]"
 connected:
-  - "[[Isomorphic Graphs]]"
+  - "[[519.175.1 Isomorphic Graphs]]"
 ---
 
 > [!tip] Граф с ${} n$ вершинами называется помеченным, 

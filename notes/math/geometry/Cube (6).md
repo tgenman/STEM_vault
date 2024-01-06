@@ -5,7 +5,7 @@ aliases:
 publish: true
 parent:
   - "[[Platonic solids]]"
-  - "[[Regular Graphs]]"
+  - "[[519.172.4 Regular Graphs]]"
 created: 2023-12-19 21:47
 connected:
   - "[[The Petersen Graph|Cubic graph]]"

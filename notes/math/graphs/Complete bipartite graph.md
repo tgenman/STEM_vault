@@ -6,7 +6,7 @@ anki: true
 created: 2023-11-03 16:26
 parent:
   - "[[Complete graph]]"
-  - "[[Bipartite graph]]"
+  - "[[519.172.5 Bipartite graph]]"
 connected:
   - "#обс/linking"
 ---

@@ -6,7 +6,7 @@ publish: true
 anki: false
 created: 2023-11-04 14:46
 parent:
-  - "[[Operations on Graphs]]"
+  - "[[519.171.4 Operations on Graphs]]"
 connected:
   - "[[Hypercubes]]"
 tags:

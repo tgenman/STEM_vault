@@ -4,7 +4,7 @@ aliases:
 publish: true
 parent:
   - "[[Platonic solids]]"
-  - "[[Regular Graphs]]"
+  - "[[519.172.4 Regular Graphs]]"
 anki: false
 created: 2023-12-19 21:44
 ---

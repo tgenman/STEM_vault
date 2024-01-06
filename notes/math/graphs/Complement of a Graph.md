@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-11-03 17:21
 parent:
-  - "[[Operations on Graphs]]"
+  - "[[519.171.4 Operations on Graphs]]"
 connected:
   - "[[Self-complementary graph]]"
 ---
@@ -14,7 +14,7 @@ is that graph with vertex set ${} V(G) {}$ such that two vertices are [[Adjacent
 
 $$E(\bar{G}) = \binom{V(G)}{2} \text{\\} E(G)$$
 
-Any [[Isomorphic Graphs|isomorphism]] from a graph ${} G {}$ to a graph $H$ is also an isomorphism from ${} \bar{G} {}$ to $\bar{H} {}$. 
+Any [[519.175.1 Isomorphic Graphs|isomorphism]] from a graph ${} G {}$ to a graph $H$ is also an isomorphism from ${} \bar{G} {}$ to $\bar{H} {}$. 
 Consequently, ${} \bar{G} \not \cong \bar{H} {}$ if and only if ${} G \not \cong H {}$.
 
 If $G {}$ is a graph of order $n {}$ and size $m {}$, then ${} \bar{G} {}$ is a graph of order $n {}$ and size $\binom n2 - m {}$. 

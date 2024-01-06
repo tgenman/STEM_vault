@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2023-10-22 19:37
 parent:
-  - "[[Random graphs MOC]]"
+  - "[[519.175.4 Random graphs MOC]]"
 connected:
   - "#обс/linking"
 tags:

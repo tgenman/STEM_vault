@@ -9,7 +9,7 @@ parent:
   - "[[Схема испытиний Бернулли]]"
 connected:
   - "[[519.21  Probability theory]]"
-  - "[[Random graphs MOC]]"
+  - "[[519.175.4 Random graphs MOC]]"
 ---
 
 > [!tip] Случайный граф

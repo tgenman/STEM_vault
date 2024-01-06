@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2023-12-19 22:19
 parent:
-  - "[[Hypergraph]]"
+  - "[[519.179.1 Hypergraph]]"
 connected:
   - "[[Intersection graphs]]"
 ---

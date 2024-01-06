@@ -4,14 +4,14 @@ publish: true
 anki: false
 created: 2023-12-18 22:39
 parent:
-  - "[[Isomorphic Graphs]]"
+  - "[[519.175.1 Isomorphic Graphs]]"
 connected:
   - "[[Symmetry]]"
   - "[[The Petersen Graph]]"
 ---
 
 > [!tip] Automorphism
-> is an [[Isomorphic Graphs|isomorphism]] of the graph to itself.
+> is an [[519.175.1 Isomorphic Graphs|isomorphism]] of the graph to itself.
 
 The automorphisms of a graph reflect its [[Symmetry|symmetries]].
 

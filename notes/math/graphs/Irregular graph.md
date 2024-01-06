@@ -6,7 +6,7 @@ created: 2023-11-15 14:55
 parent:
   - "[[Simple Graph (G)]]"
 connected:
-  - "[[Regular Graphs]]"
+  - "[[519.172.4 Regular Graphs]]"
   - "[[Degree Sequence]]"
 ---
 

@@ -6,7 +6,7 @@ publish: true
 anki: true
 created: 2023-11-03 16:35
 parent:
-  - "[[Bipartite graph]]"
+  - "[[519.172.5 Bipartite graph]]"
 connected:
   - "[[Size of graph (m)]]"
 ---

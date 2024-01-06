@@ -19,7 +19,7 @@ in which case we write $H ⊆ G {}$.
 If ${} H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 
 > [!tip] Proper subgraph
-If $H$ is a subgraph of $G$ where $H\not\cong G {}$ ([[Isomorphic Graphs|isomorph]]), then ${} H$ is a proper subgraph of $G$.
+If $H$ is a subgraph of $G$ where $H\not\cong G {}$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then ${} H$ is a proper subgraph of $G$.
 
 ### Anki
 > [!question]-
@@ -55,7 +55,7 @@ START
 Math prop
 Question_eng: Proper subgraph
 Question_rus: 
-Answer_eng: If $H$ is a subgraph of $G$ where $H\not\cong G {}$ ([[Isomorphic Graphs|isomorph]]), then ${} H$ is a proper subgraph of $G$.
+Answer_eng: If $H$ is a subgraph of $G$ where $H\not\cong G {}$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then ${} H$ is a proper subgraph of $G$.
 Answer_rus: 
 Formula_main: 
 Formula_additional:

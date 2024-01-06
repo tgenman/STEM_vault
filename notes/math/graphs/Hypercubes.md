@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-11-04 17:14
 parent:
-  - "[[Regular Graphs]]"
+  - "[[519.172.4 Regular Graphs]]"
 connected:
   - "[[Cartesian Product of Graphs]]"
 ---
