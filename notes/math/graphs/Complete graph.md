@@ -11,6 +11,7 @@ connected:
   - "[[Size of graph (m)]]"
   - "[[Complete bipartite graph]]"
 ---
+
 > [!tip] Complete graph ${} K_n$
 > is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 

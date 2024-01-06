@@ -19,7 +19,7 @@ Consequently, ${} \bar{G} \not \cong \bar{H} {}$ if and only if ${} G \not \cong
 
 If $G {}$ is a graph of order $n {}$ and size $m {}$, then ${} \bar{G} {}$ is a graph of order $n {}$ and size $\binom n2 - m {}$. 
 
-The complement ${} K_n {}$ of the complete graph Kn is the [[Empty graph|empty graph]] of order $n$.
+The complement ${} K_n {}$ of the complete graph $K_n$ is the [[Empty graph|empty graph]] of order $n$.
 
 ![[Pasted image 20231103173134.png]]
 

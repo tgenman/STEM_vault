@@ -13,6 +13,10 @@ connected:
 > [!tip] Сlique
 > [[Complete graph|complete]] [[Subgraph]] of $G$
 
+> [!tip] k-clique
+> A clique of order ${} k$
+
+
 
 
 

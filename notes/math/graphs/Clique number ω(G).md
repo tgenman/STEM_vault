@@ -13,10 +13,6 @@ connected:
 > [!tip] The clique number ${} ω(G) {}$ of a graph $G {}$ 
 is the [[Order of graph (n)|order]] of the largest [[Clique]]
 
-> [!tip] k-clique
-> A clique of order ${} k$
-
-
 
 
 
