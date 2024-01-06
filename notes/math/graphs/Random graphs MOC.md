@@ -11,8 +11,9 @@ tags:
   - pkm🏷/moc
 ---
 
-- [[Binomial random graph]]
-- [[Uniform random graph]]
+- [[Random Graph]]
+	- [[Binomial random graph]]
+	- [[Uniform random graph]]
 
 
 

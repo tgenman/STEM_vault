@@ -1,6 +1,11 @@
 ---
-aliases: Sum of squared residuals SSR, Sum of Squares Error (SSE), Среднеквадратичное отклонение, Сумма квадратов остатков
+aliases:
+  - Sum of squared residuals SSR
+  - Sum of Squares Error (SSE)
+  - Сумма квадратов остатков
 publish: true
+connected:
+  - "[[Среднеквадратичное отклонение]]"
 ---
 #анки
 
