@@ -10,7 +10,7 @@ publish: true
 
 
 **Connected with:**
-- [[Complex numbers|Комплексные числа]]
+- [[Complex numbers C|Комплексные числа]]
 - [[Fractal|Фрактал]]
 - [[Julia set fractal]]
 

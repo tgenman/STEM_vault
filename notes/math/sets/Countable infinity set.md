@@ -8,7 +8,7 @@ parent:
   - "[[Aleph number]]"
 connected:
   - "[[Continuum infinity set]]"
-  - "[[Natural numbers|Натуральные числа]]"
+  - "[[Natural numbers N|Натуральные числа]]"
 tags:
   - anki
 ---
@@ -20,7 +20,7 @@ When a set has the **same cardinality** as the positive integers $\mathbb{N} {}$
 
 Объединение конечного числа счётных множеств — это счётное множество.
 
-[[Whole numbers Z|Целых чисел]] ровно столько же, сколько [[Natural numbers|натуральных]].
+[[Whole numbers Z|Целых чисел]] ровно столько же, сколько [[Natural numbers N|натуральных]].
 
 
 > [!Теорема 1]
@@ -28,7 +28,7 @@ When a set has the **same cardinality** as the positive integers $\mathbb{N} {}$
 
 
 > [!Теорема 2]
-> Множество [[Rational numbers|рациональных]] счётно.
+> Множество [[Rational numbers Q|рациональных]] счётно.
 $$Q={n/m: m∈Z, n∈N}$$
 
 > [!Теорема 3] 

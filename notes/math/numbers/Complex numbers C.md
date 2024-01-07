@@ -7,7 +7,7 @@ publish: true
 ### Definition. Алгебраическая форма записи
 $$z = a + bi$$
 where:
-- $a$ and $b$ are [[Real numbers|real numbers]]
+- $a$ and $b$ are [[Real numbers R|real numbers]]
 - $i$ is the [[Imaginary numbers|imaginary]] unit.
 ![[Pasted image 20230807142012.png|300]]
 

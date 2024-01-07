@@ -7,7 +7,7 @@ parent:
   - "[[51 Math MOC]]"
 connected:
   - "[[Recursion]]"
-  - "[[Complex numbers]]"
+  - "[[Complex numbers C]]"
 ---
 A fractal is a pattern where similar patterns appear at all smaller scales as you zoom in.
 

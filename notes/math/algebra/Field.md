@@ -8,7 +8,7 @@ parent:
 connected:
 ---
 
-Обобщение понятия [[Real numbers]]
+Обобщение понятия [[Real numbers R]]
 
 
 

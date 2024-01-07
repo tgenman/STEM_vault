@@ -12,7 +12,7 @@ connected:
 tags:
   - empty
 ---
-
+Это [[Monoid]] c наличием [[inverse element]]
 
 
 

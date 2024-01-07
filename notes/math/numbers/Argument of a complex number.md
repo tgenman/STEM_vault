@@ -6,7 +6,7 @@ tags:
 ---
 
 
-the angle relative to the origin and the positive direction of the [[Real numbers|real]] axis, also known as the ==**argument**==.
+the angle relative to the origin and the positive direction of the [[Real numbers R|real]] axis, also known as the ==**argument**==.
 
 
 
@@ -21,6 +21,6 @@ the angle relative to the origin and the positive direction of the [[Real number
 
 
 **Connected with:**
-- [[Complex numbers]]
+- [[Complex numbers C]]
 - [[Complex plane]]
 

@@ -11,9 +11,9 @@ connected:
 ---
 #анки
 
-Let $n$ be a [[Natural numbers|positive whole number]] . We define
+Let $n$ be a [[Natural numbers N|positive whole number]] . We define
 
-$R^n =$ all ordered $n-tuples$ of [[Real numbers|Real Numbers]] $(x_1,x_2,x_3,...,x_n)$.
+$R^n =$ all ordered $n-tuples$ of [[Real numbers R|Real Numbers]] $(x_1,x_2,x_3,...,x_n)$.
 
 An $n-tuple$ of real numbers is called a _point_ of $R^n$.
 

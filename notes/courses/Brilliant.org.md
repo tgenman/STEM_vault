@@ -14,7 +14,7 @@ parent:
 	- [x] [Systems of Equations](https://brilliant.org/courses/systems-of-equations/?courseSlug=systems-of-equations) ✅ 2023-07-31
 	- [x] [Algebra I](https://brilliant.org/courses/algebra-extensions/) 23 ✅ 2023-07-31
 	- [x] [Algebra II](https://brilliant.org/courses/graphing-and-modeling/) 26 ✅ 2023-08-13
-	- [x] [Complex Numbers](https://brilliant.org/courses/complex-algebra/) 80 [[Complex numbers]] ✅ 2023-08-25
+	- [x] [Complex Numbers](https://brilliant.org/courses/complex-algebra/) 80 [[Complex numbers C]] ✅ 2023-08-25
 - Mathematical Thinking
 	- [x] [Everyday math](https://brilliant.org/courses/basic-math/) 9 ✅ 2023-08-13
 	- [ ] [Mathematical Fundamentals](https://brilliant.org/courses/math-fundamentals/) 28

@@ -11,11 +11,11 @@ parent:
 ![[Pasted image 20220628150733.png]]
 
 
-C - [[Complex numbers]]
-R - [[Real numbers]]
-Q - [[Rational numbers]]
+C - [[Complex numbers C]]
+R - [[Real numbers R]]
+Q - [[Rational numbers Q]]
 Z - [[Whole numbers Z]]
-N - [[Natural numbers]]
+N - [[Natural numbers N]]
 
 ${} \mathbb{I}$ - [[Irrational Numbers]]
 

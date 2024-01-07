@@ -5,7 +5,7 @@ publish: true
 #анки
 
 
-The **magnitude** of a [[Complex numbers|complex number]]  $z$, denoted $∣z∣$, is the distance from the origin to the point in the  [[Complex plane|complex plane]]  representing the complex number. 
+The **magnitude** of a [[Complex numbers C|complex number]]  $z$, denoted $∣z∣$, is the distance from the origin to the point in the  [[Complex plane|complex plane]]  representing the complex number. 
 
 The magnitude of a complex number $z=a+ib$, also referred to as the ==**modulus**==, is the non-negative distance from the origin to the point $(a,b)$ in the complex plane expressed as
 
@@ -35,5 +35,5 @@ $$
 
 
 **Connected with:**
-- [[Complex numbers]]
+- [[Complex numbers C]]
 

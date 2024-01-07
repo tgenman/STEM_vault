@@ -34,6 +34,6 @@ $$
 **Connected with:**
 - [[514.116 Trigonometry|Тригонометрия]]
 - [[Cartesian coordinates]]
-- [[Complex numbers]]
+- [[Complex numbers C]]
 - [[Spherical coordinates]]
 

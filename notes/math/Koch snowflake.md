@@ -6,7 +6,7 @@ created: 2023-07-07 10:02
 parent:
   - "[[Fractal]]"
 connected:
-  - "[[Complex numbers]]"
+  - "[[Complex numbers C]]"
 tags:
   - anki
 ---
@@ -19,7 +19,7 @@ tags:
 
 
 **Connected with:**
-- [[Complex numbers]]
+- [[Complex numbers C]]
 - [[Fractal]]
 - [[Recursion]]
 

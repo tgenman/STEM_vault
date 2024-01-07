@@ -5,12 +5,12 @@ publish: true
 anki: true
 created: 2023-07-07 10:02
 parent:
-  - "[[Complex numbers]]"
+  - "[[Complex numbers C]]"
   - "[[Imaginary numbers]]"
 connected:
   - "[[Magnitude of a complex number]]"
 ---
-==The complex conjugate== of a [[Complex numbers|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
+==The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
 So, if $z=a+bi$, then $\overline{z}=a-bi.$
 
 If $z=a+bi$, then $\Re(z)=a.$ Therefore, $z+\overline{z}=a+bi+a-bi=2a$
@@ -36,7 +36,7 @@ START
 Math prop
 Question_eng: Сomplex conjugate
 Question_rus: 
-Answer_eng: The complex conjugate== of a [[Complex numbers|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
+Answer_eng: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
 Answer_rus: 
 Formula_main: So, if $z=a+bi$, then $\overline{z}=a-bi.$
 Formula_additional:If $z=a+bi$, then $\Re(z)=a.$ Therefore, $z+\overline{z}=a+bi+a-bi=2a$

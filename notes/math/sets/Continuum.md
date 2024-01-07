@@ -8,7 +8,7 @@ parent:
   - "[[511 Numbers Theory MOC]]"
 connected:
   - "[[Continuum infinity set]]"
-  - "[[Real numbers]]"
+  - "[[Real numbers R]]"
   - "[[Aleph number]]"
 tags:
   - anki

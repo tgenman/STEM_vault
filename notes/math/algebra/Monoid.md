@@ -12,7 +12,7 @@ connected:
 tags:
   - empty
 ---
-Моноид - [[Semigroup]] с определенным identity element
+Моноид - [[Semigroup]] с определенным [[Identity element]]
 
 
 
