@@ -6,9 +6,10 @@ anki: false
 created: 2023-10-21 13:11
 parent:
   - "[[Monoid]]"
-  - "[[512.54 Group Theory MOC]]"
+  - "[[Algebraic Structure]]"
 connected:
   - "[[Abelian group]]"
+  - "[[512.54 Group Theory MOC]]"
 tags:
   - empty
 ---
