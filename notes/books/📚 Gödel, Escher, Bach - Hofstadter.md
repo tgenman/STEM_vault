@@ -5,6 +5,8 @@ tags:
   - book📚
   - status/ON_HOLD_🌥️
 publish: true
+connected:
+  - "[[Теоремы Геделя о неполноте]]"
 ---
 links: [[Математическое мышление]], [[Rationality]]
 title: Gödel, Escher, Bach: An Eternal Golden Braid
