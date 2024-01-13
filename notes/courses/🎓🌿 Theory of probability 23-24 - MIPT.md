@@ -12,6 +12,7 @@ recommendation:
 family: 
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
+  - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-01 12:08
 ---
 control: диф зачет

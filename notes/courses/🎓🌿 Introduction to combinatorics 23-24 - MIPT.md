@@ -10,6 +10,7 @@ platform: "[[Stepik]]"
 url: https://stepik.org/course/179062/syllabus
 connected:
   - "[[519.101 Combinatorics]]"
+  - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-01 16:03
 ---
 control: exam

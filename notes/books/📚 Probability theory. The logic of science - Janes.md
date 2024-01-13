@@ -3,6 +3,7 @@ aliases:
   - 📚 Теория вероятности. Логика науки - Джейнс
 tags:
   - book📚/classbook📖
+  - status/TODO_🌱
 publish: true
 connected:
   - "[[519.21  Probability theory]]"
@@ -16,7 +17,7 @@ recommendation:
   - "[[👤Левенчук, Анатолий]]"
 created: 2023-10-08 15:01
 ---
-status: #status/TODO_🌱
+
 
 
 

@@ -12,6 +12,7 @@ recommendation:
 family: 
 connected:
   - "[[512.64  Linear algebra MOC]]"
+  - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-14 12:29
 ---
 
