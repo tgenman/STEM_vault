@@ -6,15 +6,10 @@ publish: true
 created: 2023-08-09 13:08
 connected:
   - "[[512.64  Linear algebra MOC]]"
+title_original: No bullshit guide to linear algebra
+author:
+  - "[[👤 Savov, Ivan]]"
 ---
-title: No bullshit guide to linear algebra
-title2: 
-author: [[👤 Savov, Ivan]]
-year:
-family:
-rec:
-
-___
 
 
 

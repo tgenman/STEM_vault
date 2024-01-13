@@ -13,5 +13,5 @@ connected:
 [[162.5 Logical Fallacies|Логические ошибки]]
 [[510.6 Математическая логика|Математическая логика]]
 
-[[📚🌀🎧 What Is the Name of This Book?. The Riddle of Dracula and Other Logical Puzzles - Raymond M. Smullyan (10) 🇬🇧🇷🇺]]
+[[📚 What Is the Name of This Book - Smullyan]]
 [[📚🌀 When You Were a Tadpole and I Was a Fish - Gardner 🇬🇧🇷🇺]]

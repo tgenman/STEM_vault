@@ -61,7 +61,7 @@ connected:
 > - [[📚 Стратегии решения математических задач - Стивен Крулик]]
 > - [[📚 Думай как математик - Барбара Оакли]]
 > - [[📚 Gödel, Escher, Bach - Hofstadter]]
-> - [[📚 Taming the Infinite - Stewart 🇬🇧🇷🇺]]
+> - [[📚 Taming the Infinite - Stewart]]
 > - [[📚 Programming Quantum Computers - Johnston]]
 > - [Виктор Прасолов - Учебник по истории математики](http://vvprasolov.livejournal.com/67259.html)
 > - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
