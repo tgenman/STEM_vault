@@ -12,10 +12,10 @@ tags:
 ---
 
 > [!note] Theorem about walks in adjacent matrix
-Let ${} G$ be a graph with vertex set $V(G) = \{v_1, v_2, \ldots, v_n\} {}$ and [[Adjacency matrix|adjacency matrix]]  ${} A$. For each positive integer $k$, the number of different $v_i - v_j {}$  [[Walk W|walks]] of length ${} k$ in $G$ is the $(i,j)$-entry in the matrix $A^k {}$.
+Let $G$ be a graph with vertex set $V(G) = \{v_1, v_2, \ldots, v_n\} {}$ and [[Adjacency matrix|adjacency matrix]]  $A$. For each positive integer $k$, the number of different $v_i - v_j {}$  [[Walk W|walks]] of length $k$ in $G$ is the $(i,j)$-entry in the matrix $A^k {}$.
 
 ### Proof
-Let ${} a_{ij}^{(k)}$ denote the $(i,j)$-entry in the matrix $A^k$ for a positive integer $k$. Thus, $A^1 = A$ and $a_{ij}^{(1)} = a_{ij}$. We proceed by induction on $k$. For vertices $v_i$ and $v_j$ of $G$, there can be only one $v_i - v_j$ walk of length 1 or no $v_i - v_j$ walks of length 1, and this occurs if $a_{ij} = 1$ or $a_{ij} = 0$, respectively. Therefore, the $(i,j)$-entry of the matrix $A$ is the number of $v_i - v_j$ walks of length 1 in $G$. Thus, the basis step of the induction is established.
+Let $a_{ij}^{(k)}$ denote the $(i,j)$-entry in the matrix $A^k$ for a positive integer $k$. Thus, $A^1 = A$ and $a_{ij}^{(1)} = a_{ij}$. We proceed by induction on $k$. For vertices $v_i$ and $v_j$ of $G$, there can be only one $v_i - v_j$ walk of length 1 or no $v_i - v_j$ walks of length 1, and this occurs if $a_{ij} = 1$ or $a_{ij} = 0$, respectively. Therefore, the $(i,j)$-entry of the matrix $A$ is the number of $v_i - v_j$ walks of length 1 in $G$. Thus, the basis step of the induction is established.
 
 We now verify the inductive step. Assume, for a positive integer $k$, that $a_{ij}^{(k)}$ is the number of different $v_i - v_j$ walks of length $k$ in $G$. We show that the $(i,j)$-entry in $A^{k+1}$ gives the number of different $v_i - v_j$ walks of length $k+1$ in $G$. First, observe that every $v_i - v_j$ walk of length $k+1$ in $G$ is obtained from a $v_i - v_t$ walk of length $k$ for some vertex $v_t$ in $G$ that is adjacent to $v_j$.
 

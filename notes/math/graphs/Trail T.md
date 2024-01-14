@@ -10,8 +10,8 @@ connected:
   - "[[Path P]]"
 ---
 
-> [!tip] Trail in ${} G {}$
-A [[Walk W|walk]] in a graph ${} G$ in which no [[Edge of graph (E)|edge]] is repeated.
+> [!tip] Trail in $G {}$
+A [[Walk W|walk]] in a graph $G$ in which no [[Edge of graph (E)|edge]] is repeated.
 
 $$T = (u,v,y,w,v)$$
 

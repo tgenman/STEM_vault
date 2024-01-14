@@ -10,7 +10,7 @@ connected:
   - "[[Trail T]]"
 ---
 
-> [!tip] Path ${} P$
+> [!tip] Path $P$
 > a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
 
 Every ==nontrivial path== is necessarily an [[Open walk]].

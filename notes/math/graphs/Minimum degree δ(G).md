@@ -9,7 +9,7 @@ connected:
   - "[[Vertex of graph (V)]]"
 ---
 > [!tip] Minimum degree ($δ(G) {}$)
-is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of ${} G$
+is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
 ### Anki
 > [!question]-
@@ -18,7 +18,7 @@ START
 Math prop
 Question_eng: Minimum degree
 Question_rus: 
-Answer_eng: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of ${} G$
+Answer_eng: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

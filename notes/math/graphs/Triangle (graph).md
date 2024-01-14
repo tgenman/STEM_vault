@@ -24,7 +24,7 @@ Math prop
 Question_eng: Triangle (graph)
 Question_rus: 
 Answer_eng: 3-cycle
-[[Complete graph]] with ${} n=3$
+[[Complete graph]] with $n=3$
 Answer_rus: 
 Formula_main: $C_3 = K_3$
 Formula_additional:

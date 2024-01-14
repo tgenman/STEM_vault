@@ -9,8 +9,8 @@ connected:
   - "[[Order of graph (n)]]"
 ---
 
-> [!tip] Size (${} m$) of ${} G {}$
-> is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] ${} G$
+> [!tip] Size ($m$) of $G {}$
+> is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 
 $$m$$
 
@@ -19,9 +19,9 @@ $$m$$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Size ($m$) of ${} G {}$
+Question_eng: Size ($m$) of $G {}$
 Question_rus: 
-Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] ${} G$
+Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

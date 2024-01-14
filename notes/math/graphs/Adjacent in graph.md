@@ -12,10 +12,10 @@ connected:
 ---
 
 > [!tip] Adjacent vertices
-> If ${} uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
+> If $uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
 
 > [!tip] Adjacent edges
-> If ${} uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw {}$ are adjacent edges.
+> If $uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw {}$ are adjacent edges.
 
 
 ### Anki
@@ -25,7 +25,7 @@ START
 Math prop
 Question_eng: Adjacent vertices 
 Question_rus: 
-Answer_eng: If ${} uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
+Answer_eng: If $uv {}$ is an edge of $G {}$, then $u {}$ and $v$ are adjacent vertices.
 Answer_rus: 
 Formula_main: 
 Formula_additional:
@@ -39,7 +39,7 @@ START
 Math prop
 Question_eng: Adjacent edges
 Question_rus: 
-Answer_eng: If ${} uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw {}$ are adjacent edges
+Answer_eng: If $uv {}$ and $vw {}$ are distinct edges in $G {}$, then $uv {}$ and $vw {}$ are adjacent edges
 Answer_rus: 
 Formula_main: 
 Formula_additional:

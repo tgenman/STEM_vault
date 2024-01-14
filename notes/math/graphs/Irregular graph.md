@@ -11,13 +11,13 @@ connected:
 ---
 
 > [!tip] Irregular graph
-is a nontrivial graph ${} G$ 
+is a nontrivial graph $G$ 
 if $\deg  u \neq \deg v {}$ for every two vertices $u$ and $v$ of $G {}$. 
 
 Actually, no graph has this property.
 
 > [!tip] Nearly irregular graph
-is a graph ${} G$ of order $n ≥ 2$ 
+is a graph $G$ of order $n ≥ 2$ 
 if exactly two vertices of $G$ have the same degree.
 
 

@@ -9,7 +9,7 @@ connected:
   - "[[Size of graph (m)]]"
 ---
 
-> [!tip] Order (${} n$) of ${} G {}$
+> [!tip] Order ($n$) of $G {}$
 > is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 
 $$n$$

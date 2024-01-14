@@ -10,7 +10,7 @@ connected:
   - "[[Size of graph (m)]]"
 ---
 > [!tip] Empty graph
-> if size ${} m = 0$
+> if size $m = 0$
 
 
 ### Anki

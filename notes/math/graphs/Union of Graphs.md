@@ -9,10 +9,10 @@ connected:
   - "[[Join of Graphs]]"
 ---
 
-> [!tip] The union ${} G = G_1+G_2 {}$
+> [!tip] The union $G = G_1+G_2 {}$
 has 
-vertex set ${} V(G) = V(G_1)∪V(G_2) {}$ and 
-edge set ${} E(G) = E(G_1) ∪ E(G_2) {}$
+vertex set $V(G) = V(G_1)∪V(G_2) {}$ and 
+edge set $E(G) = E(G_1) ∪ E(G_2) {}$
 
 The union $G + G$ of two disjoint copies of $G$ is denoted by $2G$. 
 
@@ -27,10 +27,10 @@ TARGET DECK: Math::Graph
 START
 Math prop
 Question_eng: Union of Graphs
-Question_rus: The union ${} G = G_1+G_2 {}$
+Question_rus: The union $G = G_1+G_2 {}$
 Answer_eng: has 
-vertex set ${} V(G) = V(G_1)∪V(G_2) {}$ and 
-edge set ${} E(G) = E(G_1) ∪ E(G_2) {}$
+vertex set $V(G) = V(G_1)∪V(G_2) {}$ and 
+edge set $E(G) = E(G_1) ∪ E(G_2) {}$
 Answer_rus: 
 Formula_main: 
 Formula_additional: ![[Pasted image 20231104144008.png]]

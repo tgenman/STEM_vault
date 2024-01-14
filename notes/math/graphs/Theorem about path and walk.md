@@ -12,10 +12,10 @@ tags:
 ---
 
 > [!note] Theorem about path and walk
-Let ${} u$ and $v$ be two vertices of a graph $G$. For every $u − v {}$ [[Walk W|walk]]  ${} W$ in $G,$ there exists a $u−v {}$ [[Path P|path]] ${} P$ such that every edge of $P$ belongs to$ W$.
+Let $u$ and $v$ be two vertices of a graph $G$. For every $u − v {}$ [[Walk W|walk]]  $W$ in $G,$ there exists a $u−v {}$ [[Path P|path]] $P$ such that every edge of $P$ belongs to$ W$.
 
 ### Proof. 
-Let ${} W$ be a $u - v$ walk. Among all $u - v$ walks in $G$, every edge of which belongs to $W$, let
+Let $W$ be a $u - v$ walk. Among all $u - v$ walks in $G$, every edge of which belongs to $W$, let
 
 $$ P = (u = u_0, u_1, ..., u_k = v) $$
 

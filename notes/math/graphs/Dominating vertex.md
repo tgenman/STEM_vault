@@ -11,7 +11,7 @@ connected:
 ---
 
 > [!tip] Dominating vertex
-> A vertex of [[Degree of a vertex (deg)|degree]] ${} \deg v = n - 1 {}$
+> A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1 {}$
 
 
 

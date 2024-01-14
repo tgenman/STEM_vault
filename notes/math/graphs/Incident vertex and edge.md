@@ -12,7 +12,7 @@ connected:
 ---
 
 > [!tip] Incident vertex and edge
-> The vertex ${} u$ and the edge $uv$ are said to be incident with each other.
+> The vertex $u$ and the edge $uv$ are said to be incident with each other.
 
 ### Anki
 > [!question]-
@@ -21,7 +21,7 @@ START
 Math prop
 Question_eng: Incident vertex and edge
 Question_rus: 
-Answer_eng: The vertex ${} u$ and the edge $uv$ are said to be incident with each other.
+Answer_eng: The vertex $u$ and the edge $uv$ are said to be incident with each other.
 Answer_rus: 
 Formula_main: 
 Formula_additional:

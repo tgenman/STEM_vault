@@ -13,13 +13,13 @@ tags:
   - empty
 ---
 The Cartesian product $G$ of two graphs $G1$ and $G2 {}$, , has vertex set
-${} V(G) = V(G_1) × V(G_2) {}$ - [[Cartesian product of sets]]
-where two distinct vertices ${} (u, v) {}$ and $(x, y) {}$ of ${} G_1 \square G_2 {}$ are adjacent if either
-(1) $u = x {}$ and $vy ∈ E(G_2) {}$ or (2) $v = y {}$ and ${} ux ∈ E(G_1) {}$
+$V(G) = V(G_1) × V(G_2) {}$ - [[Cartesian product of sets]]
+where two distinct vertices $(u, v) {}$ and $(x, y) {}$ of $G_1 \square G_2 {}$ are adjacent if either
+(1) $u = x {}$ and $vy ∈ E(G_2) {}$ or (2) $v = y {}$ and $ux ∈ E(G_1) {}$
 
-commonly denoted by ${} G_1 \square G_2 {}$ or ${} G_1×G_2$
+commonly denoted by $G_1 \square G_2 {}$ or $G_1×G_2$
 
-${} G1 \square G2 \not \cong G2 \square G1 {}$
+$G1 \square G2 \not \cong G2 \square G1 {}$
 
 ![[Pasted image 20231104145517.png]]
 

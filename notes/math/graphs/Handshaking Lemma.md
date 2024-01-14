@@ -14,7 +14,7 @@ connected:
 ---
 
 > [!info] Handshaking Lemma
-> If ${} G {}$ is a graph of size $m$, then
+> If $G {}$ is a graph of size $m$, then
 > $$\sum_{v\in V(G)}\deg v=2m.$$
 
 ### Proof
@@ -28,7 +28,7 @@ START
 Math prop
 Question_eng: Handshaking Lemma
 Question_rus: Лемма о рукопожатиях
-Answer_eng: If ${} G {}$ is a graph of size $m$, then
+Answer_eng: If $G {}$ is a graph of size $m$, then
 $$\sum_{v\in V(G)}\deg v=2m.$$
 Answer_rus: 
 Formula_main: 

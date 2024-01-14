@@ -14,8 +14,8 @@ The multinomial coefficient is a generalization of the [[Binomial coefficient]].
 > по сути это просто [[Permutatios without repetitions]] with repetitions
 
 > [!tip] Multinomial coefficient
-For a given non-negative integer ${} n {}$ and a given [[Tuple]] tuple of non-negative integers ${} (k_1,k_2,…,k_m) {}$ such that the sum of all ${} k_i {}$​ is $n {}$ (i.e., ${} k_1+k_2+…+k_m=n {}$),  calculated as:
-$${} P(k_1, k_2, ..., k_m) =  \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k) {}$$
+For a given non-negative integer $n {}$ and a given [[Tuple]] tuple of non-negative integers $(k_1,k_2,…,k_m) {}$ such that the sum of all $k_i {}$​ is $n {}$ (i.e., $k_1+k_2+…+k_m=n {}$),  calculated as:
+$$P(k_1, k_2, ..., k_m) =  \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k) {}$$
 
 #### Examples in Combinatorics:
 
@@ -34,7 +34,7 @@ $\binom{10}{4, 3, 3} = \frac{10!}{4! \cdot 3! \cdot 3!}$
 $$
 \binom n{n_1,n_2,...,n_k}=\frac{n!}{n_1!n_2!\cdot...\cdot n_k!}
 $$
- Suppose $S$ have elements ${} x_1,\ldots,x_k$ with $n_1,\ldots,n_k$ repetitions resp. Permutation: place $x_{1}.$ We have ${\binom n{n_1}}$ ways to do this.
+ Suppose $S$ have elements $x_1,\ldots,x_k$ with $n_1,\ldots,n_k$ repetitions resp. Permutation: place $x_{1}.$ We have ${\binom n{n_1}}$ ways to do this.
 
  Then we place $x_2.$ We have $\binom{n-n_1}{n_2}$  ways to do this.
 

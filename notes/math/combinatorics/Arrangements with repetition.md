@@ -11,7 +11,7 @@ connected:
 ---
 
 > [!tip] An arrangement with repetition
- is an ordered ${} n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A {}$, where each elements can occures not once
+ is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A {}$, where each elements can occures not once
  
 Размещения с повторениями используются, когда мы выбираем и упорядочиваем $k {}$ объектов из набора из $n$ объектов, причем каждый объект можно выбирать неоднократно. То есть, один и тот же объект может появляться в выборке более одного раза.
 
@@ -25,7 +25,7 @@ START
 Math def
 Title_eng: An arrangement with repetition
 Title_rus: Размещения с повторениями (расстановки)
-Description_eng: is an ordered ${} n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A {}$, where each elements can occures not once
+Description_eng: is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A {}$, where each elements can occures not once
 Description_rus: используются, когда мы выбираем и упорядочиваем $k {}$ объектов из набора из $n$ объектов, причем каждый объект можно выбирать неоднократно. То есть, один и тот же объект может появляться в выборке более одного раза.
 Formula_main: $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 Formula_additional:

@@ -10,7 +10,7 @@ connected:
 ---
 
 > [!tip] Circumferen of $G$ $c(G)$
-> the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph ${} G$ (containing cycles)
+> the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 
 #### Anki
 > [!question]- Circumferen of $G$ $c(G)$
@@ -19,7 +19,7 @@ START
 Math def
 Title_eng: Circumferen of $G$ $c(G)$
 Title_rus: 
-Description_eng: the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph ${} G$ (containing cycles)
+Description_eng: the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 Description_rus: 
 Formula_main: 
 Formula_additional:

@@ -17,7 +17,7 @@ Q - [[Rational numbers Q]]
 Z - [[Whole numbers Z]]
 N - [[Natural numbers N]]
 
-${} \mathbb{I}$ - [[Irrational Numbers]]
+$\mathbb{I}$ - [[Irrational Numbers]]
 
 [[Возведение в степень]]
 [[Prime numbers]]

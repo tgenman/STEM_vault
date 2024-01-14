@@ -11,15 +11,15 @@ connected:
 tags:
 ---
 
-> [!tip] The conditional probability ${} \mathbb{P}(A|B)$
- is the probability of event ${} A$ calculated with just the outcomes where the condition $B {}$ holds.
+> [!tip] The conditional probability $\mathbb{P}(A|B)$
+ is the probability of event $A$ calculated with just the outcomes where the condition $B {}$ holds.
 
 Нaзывают еще теоремой умножения:
 $$P(A|B)P(B) = P(A \cap B).$$
 $$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
 
 #### Example
-Пример. Пусть игральную кость бросают один раз. Событие ${} A$ состоит в том, что выпало четное число очков. Требуется найти вероятность $P(A|B)$ события $A$, если уже известно, что событие $B$ произошло. Как изменится ответ, если в качестве события $B$ взять событие, состоящее в том, что выпало 2 очка?
+Пример. Пусть игральную кость бросают один раз. Событие $A$ состоит в том, что выпало четное число очков. Требуется найти вероятность $P(A|B)$ события $A$, если уже известно, что событие $B$ произошло. Как изменится ответ, если в качестве события $B$ взять событие, состоящее в том, что выпало 2 очка?
 
 Ответ на первый вопрос кажется естественным: $P(A|B) = 0$, поскольку 1 является нечетным числом. Второй вопрос задачи уже не такой тривиальный. Если выпало четное число очков, то пространство элементарных исходов сужается до множества $B$. Множество элементарных исходов состоит из 3-х элементов: выпало 2 очка, выпало 4 очка и выпало 6 очков, причем только один из них благоприятен и состоит в том, что кость выпала числом 2 вверху. Таким образом, искомая вероятность равняется $P(A|B) = \frac{1}{3}$.
 
@@ -45,9 +45,9 @@ $$
 TARGET DECK: Math::Probability
 START
 Math prop
-Question_eng: The conditional probability ${} \mathbb{P}(A|B)$
+Question_eng: The conditional probability $\mathbb{P}(A|B)$
 Question_rus: 
-Answer_eng: is the probability of event ${} A$ calculated with just the outcomes where the condition $B$ holds.
+Answer_eng: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 Answer_rus: 
 Formula_main: $$P(A|B)P(B) = P(A \cap B).$$
 $$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
