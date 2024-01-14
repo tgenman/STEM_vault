@@ -8,6 +8,7 @@ parent:
 connected:
   - "[[Binomial coefficient]]"
 ---
+
 $$
 \mathrm{If~} m \geq 0 \mathrm{~and~} n \geq 1{:}
 \binom{m}{m} + \binom{m+1}{m} + \ldots + \binom{m+n}{m} = \binom{m+n+1}{m+1}.
@@ -51,7 +52,7 @@ Question_eng: Rising Sum of Binomial Coefficients
 Question_rus: 
 Answer_eng: 
 Answer_rus: 
-Formula_main: $$\sum_{j\operatorname{=}0}^m\binom{n+j}n=\binom{n+m+1}{n+1}=\binom{n+m+1}m$$
+Formula_main: $$\sum_{j\operatorname{=}0}^n\binom{m+j}m=\binom{m+n+1}{m+1}$$
 If $m \geq 0$ and $n \geq 1$: $$\binom{m}{m} + \binom{m+1}{m} + \ldots + \binom{m+n}{m} = \binom{m+n+1}{m+1}.$$
 Formula_additional:If ${} m \geq 0$ and $n \geq 1$:
 
