@@ -3,7 +3,7 @@ aliases:
   - Размещение без повторений
   - Расстановки без повторений
 publish: true
-anki: false
+anki: true
 parent:
   - "[[519.101 Combinatorics]]"
 connected:
@@ -14,7 +14,7 @@ created: 2023-10-23 16:47
 ---
 
 > [!tip] An arrangement without repetition
- is an ordered ${} n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A$, where each elements occurs exactly once
+ is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A$, where each elements occurs exactly once
 
 $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 
@@ -23,40 +23,17 @@ $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1
 $A_5^3=\frac{5!}{(5−3)!}=60 {}$
 
 
-> [!info]+
-> ```dataview 
-> TABLE without id
-> map(file.outlinks, (link) => "[[" + meta(link).path + "]]") AS "Исходящие",
-> map(file.inlinks, (link) => "[[" + meta(link).path + "]]") AS "Входящие"
-> WHERE file.name = this.file.name
-> ```
-
-
-
 #### Anki
+> [!question]- Arrangements without repetition
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng:  k-arrangements from n-elements (No repetition)
-Title_rus:  число k-размещений без повторений из n объектов
-Description_eng: is an ordered n-tuple ${} (x_1,..., x_n)$ elements of A, where each elements occurs exactly once
+Title_eng:  Arrangements without repetition
+Title_rus:  Размещение без повторений
+Description_eng:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n) {}$ elements of $A$, where each elements occurs exactly once
 Description_rus:
-Formula_main: $$
-A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1)
-$$
+Formula_main: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 Formula_additional:
 <!--ID: 1698069638670-->
 END
 
-START
-Math def
-Title_eng:  k-arrangements from n-elements (With repetition)
-Title_rus:  число k-размещений c повторениями из n объектов
-Description_eng:  is an ordered n-tuple $(x_1,..., x_n)$ elements of A, where each elements occurs any times
-Description_rus:
-Formula_main: $$
-\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k
-$$
-Formula_additional:
-<!--ID: 1698069774907-->
-END

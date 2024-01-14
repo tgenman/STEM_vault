@@ -10,11 +10,22 @@ connected:
   - "#обс/linking"
 ---
 
-> [!tip] The clique number ${} ω(G) {}$ of a graph $G {}$ 
+> [!tip] The clique number $ω(G)$ of a graph $G$ 
 is the [[Order of graph (n)|order]] of the largest [[Clique]]
 
 
-
+#### Anki
+> [!question]- The clique number $ω(G)$ of a graph $G$ 
+TARGET DECK: Math::Graph
+>>START
+Math def
+Title_eng: The clique number $ω(G)$ of a graph $G$ 
+Title_rus: 
+Description_eng: is the [[Order of graph (n)|order]] of the largest [[Clique]]
+Description_rus: 
+Formula_main: 
+Formula_additional:
+END
 
 
 
