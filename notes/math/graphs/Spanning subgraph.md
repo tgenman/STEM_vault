@@ -9,9 +9,9 @@ parent:
 connected:
 ---
 
-> [!tip] $H$ is a spanning subgraph of $G {}$ 
+> [!tip] $H$ is a spanning subgraph of $G$ 
 > If:
-> - $H {}$ is a [[Subgraph|subgraph]] of $G {}$ and 
+> - $H$ is a [[Subgraph|subgraph]] of $G$ and 
 > - $V(H)=V(G)$
 
 ### Anki
@@ -19,10 +19,10 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: $H$ is a spanning subgraph of $G {}$ 
+Question_eng: $H$ is a spanning subgraph of $G$ 
 Question_rus: Остовный подграф
 Answer_eng: If:
-$H {}$ is a [[Subgraph|subgraph]] of $G {}$ and 
+$H$ is a [[Subgraph|subgraph]] of $G$ and 
 $V(H)=V(G)$
 Answer_rus: 
 Formula_main: 

@@ -18,7 +18,7 @@ $$
 
 ### Properties
 1. F is nondecreasing,
-2. $\lim_{x\to-\infty}F(x)=0 {}$, $\lim_{x\to\infty}F(x)=1$,
+2. $\lim_{x\to-\infty}F(x)=0$, $\lim_{x\to\infty}F(x)=1$,
 3. F is right-continuous.
 
 ### Доказательство

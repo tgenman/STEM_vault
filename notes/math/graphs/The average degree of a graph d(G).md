@@ -9,7 +9,7 @@ connected:
   - "[[Handshaking Lemma]]"
 ---
 
-> [!tip] The average degree of a graph $G {}$ of order $n {}$ and size $m$ is
+> [!tip] The average degree of a graph $G$ of order $n$ and size $m$ is
 > $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 
 ### Anki
@@ -17,7 +17,7 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: The average degree of a graph $G {}$ of order $n {}$ and size $m$ is
+Question_eng: The average degree of a graph $G$ of order $n$ and size $m$ is
 Question_rus: 
 Answer_eng: $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 Answer_rus: 

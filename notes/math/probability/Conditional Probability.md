@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!tip] The conditional probability $\mathbb{P}(A|B)$
- is the probability of event $A$ calculated with just the outcomes where the condition $B {}$ holds.
+ is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 
 Нaзывают еще теоремой умножения:
 $$P(A|B)P(B) = P(A \cap B).$$

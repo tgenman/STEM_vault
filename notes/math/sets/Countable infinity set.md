@@ -16,7 +16,7 @@ tags:
 
 $$|\mathbb{P}| =|\mathbb{N}|=|\mathbb{Z}|=\aleph_0$$
 
-When a set has the **same cardinality** as the positive integers $\mathbb{N} {}$, it's called **countable**.
+When a set has the **same cardinality** as the positive integers $\mathbb{N}$, it's called **countable**.
 
 Объединение конечного числа счётных множеств — это счётное множество.
 

@@ -30,7 +30,7 @@ START
 Math prop
 Question_eng: Theorem about triangle in graph
 Question_rus: 
-Answer_eng: Every [[Simple Graph (G)|graph]] of order $n ≥ 3$ and size $m > ⌊\frac{n^2}{4}⌋ {}$ contains a [[Triangle (graph)|triangle]].
+Answer_eng: Every [[Simple Graph (G)|graph]] of order $n ≥ 3$ and size $m > ⌊\frac{n^2}{4}⌋$ contains a [[Triangle (graph)|triangle]].
 Answer_rus: 
 Formula_main: 
 Formula_additional: ### Proof

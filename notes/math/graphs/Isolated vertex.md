@@ -9,7 +9,7 @@ connected:
   - "[[Degree of a vertex (deg)]]"
 ---
 > [!tip] Isolated vertex
-> A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0 {}$
+> A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 
 ### Anki
 > [!question]-
@@ -18,7 +18,7 @@ START
 Math prop
 Question_eng: Isolated vertex
 Question_rus: 
-Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0 {}$
+Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

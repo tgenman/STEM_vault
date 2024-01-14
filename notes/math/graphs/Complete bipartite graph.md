@@ -10,17 +10,17 @@ parent:
 connected:
   - "#обс/linking"
 ---
-> [!tip] A graph $G {}$ is complete bipartite
-if $V(G) {}$ can be partitioned into two sets $U {}$ and $W {}$ (called partite sets again) so that $uw {}$ is an edge of $G {}$ if and only if $u∈U {}$ and $w∈W$
+> [!tip] A graph $G$ is complete bipartite
+if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
 
-If $|U| = s {}$ and $|W|=t {}$ , then this complete bipartite graph has 
-- order $s+t {}$ 
-- size $st {}$ 
-- is denoted by $K_{s,t} {}$ (or $K_{t,s} {}$).
+If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has 
+- order $s+t$ 
+- size $st$ 
+- is denoted by $K_{s,t}$ (or $K_{t,s}$).
 
-The complete bipartite graph $K_{1,t} {}$ is called a ==star==.
-Observe that $K_{2,2} = C_4 {}$.
-The star $K_{1,3} {}$ is sometimes referred to as a ==claw==.
+The complete bipartite graph $K_{1,t}$ is called a ==star==.
+Observe that $K_{2,2} = C_4$.
+The star $K_{1,3}$ is sometimes referred to as a ==claw==.
 
 ![[Pasted image 20231103163155.png]]
 
@@ -34,15 +34,15 @@ The star $K_{1,3} {}$ is sometimes referred to as a ==claw==.
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: A graph $G {}$ is complete bipartite
+Question_eng: A graph $G$ is complete bipartite
 Question_rus: 
-Answer_eng: if $V(G) {}$ can be partitioned into two sets $U {}$ and $W {}$ (called partite sets again) so that $uw {}$ is an edge of $G {}$ if and only if $u∈U {}$ and $w∈W$
+Answer_eng: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
 Answer_rus: 
 Formula_main: 
-Formula_additional: If $|U| = s {}$ and $|W|=t {}$ , then this complete bipartite graph has 
+Formula_additional: If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has 
  order $s+t$ 
  size $st$ 
- is denoted by $K_{s,t} {}$ (or $K_{t,s} {}$).
+ is denoted by $K_{s,t}$ (or $K_{t,s}$).
 <!--ID: 1699165908034-->
 END
 
@@ -53,7 +53,7 @@ START
 Math prop
 Question_eng: Graph named Star
 Question_rus: 
-Answer_eng: The complete bipartite graph $K_{1,t} {}$ 
+Answer_eng: The complete bipartite graph $K_{1,t}$ 
 Answer_rus: 
 Formula_main: 
 Formula_additional:
@@ -66,7 +66,7 @@ START
 Math prop
 Question_eng: Graph called Claw
 Question_rus: 
-Answer_eng: The star $K_{1,3} {}$
+Answer_eng: The star $K_{1,3}$
 Answer_rus: 
 Formula_main: 
 Formula_additional:

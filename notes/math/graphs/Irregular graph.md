@@ -12,7 +12,7 @@ connected:
 
 > [!tip] Irregular graph
 is a nontrivial graph $G$ 
-if $\deg  u \neq \deg v {}$ for every two vertices $u$ and $v$ of $G {}$. 
+if $\deg  u \neq \deg v$ for every two vertices $u$ and $v$ of $G$. 
 
 Actually, no graph has this property.
 

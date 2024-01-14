@@ -14,8 +14,8 @@ The multinomial coefficient is a generalization of the [[Binomial coefficient]].
 > по сути это просто [[Permutatios without repetitions]] with repetitions
 
 > [!tip] Multinomial coefficient
-For a given non-negative integer $n {}$ and a given [[Tuple]] tuple of non-negative integers $(k_1,k_2,…,k_m) {}$ such that the sum of all $k_i {}$​ is $n {}$ (i.e., $k_1+k_2+…+k_m=n {}$),  calculated as:
-$$P(k_1, k_2, ..., k_m) =  \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k) {}$$
+For a given non-negative integer $n$ and a given [[Tuple]] tuple of non-negative integers $(k_1,k_2,…,k_m)$ such that the sum of all $k_i$​ is $n$ (i.e., $k_1+k_2+…+k_m=n$),  calculated as:
+$$P(k_1, k_2, ..., k_m) =  \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…⋅k_m!}​=M(n_1,...,n_k)$$
 
 #### Examples in Combinatorics:
 

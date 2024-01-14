@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Vertex of graph (V)]]"
 ---
-> [!tip] Minimum degree ($δ(G) {}$)
+> [!tip] Minimum degree ($δ(G)$)
 is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
 ### Anki

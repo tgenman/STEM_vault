@@ -14,11 +14,11 @@ connected:
 ---
 
 > [!info] Handshaking Lemma
-> If $G {}$ is a graph of size $m$, then
+> If $G$ is a graph of size $m$, then
 > $$\sum_{v\in V(G)}\deg v=2m.$$
 
 ### Proof
-When summing the degrees of the vertices of $G$, each edge of $G {}$ is counted twice, once for each of its two incident vertices.
+When summing the degrees of the vertices of $G$, each edge of $G$ is counted twice, once for each of its two incident vertices.
 
 
 ### Anki
@@ -28,7 +28,7 @@ START
 Math prop
 Question_eng: Handshaking Lemma
 Question_rus: Лемма о рукопожатиях
-Answer_eng: If $G {}$ is a graph of size $m$, then
+Answer_eng: If $G$ is a graph of size $m$, then
 $$\sum_{v\in V(G)}\deg v=2m.$$
 Answer_rus: 
 Formula_main: 

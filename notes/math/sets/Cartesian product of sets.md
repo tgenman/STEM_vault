@@ -10,7 +10,7 @@ connected:
   - "[[Tuple]]"
 ---
 
-> [!tip] Cartesian product of $A {}$ and $B$.
+> [!tip] Cartesian product of $A$ and $B$.
 The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 
 
@@ -24,7 +24,7 @@ $$|A \times B | = |A| \cdot |B|$$
 TARGET DECK: Math::Set theory 
 START
 Math prop
-Question_eng: Cartesian product of $A {}$ and $B$.
+Question_eng: Cartesian product of $A$ and $B$.
 Question_rus: 
 Answer_eng: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 Answer_rus: 

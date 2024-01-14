@@ -9,7 +9,7 @@ connected:
   - "[[Vertex of graph (V)]]"
 ---
 
-$$E(G) = \set{uv, uy, vx, vy, wy, xy} {}$$
+$$E(G) = \set{uv, uy, vx, vy, wy, xy}$$
 An edge with identical ends is called a [[Loop (graph)]], 
 an edge with distinct ends a ==link==.
 

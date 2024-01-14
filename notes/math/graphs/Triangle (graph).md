@@ -11,7 +11,7 @@ connected:
 ---
 [[Complete graph]] with $n=3$
 
-$C_3 = K_3 {}$
+$C_3 = K_3$
 
 > [!tip] Triangle
 > 3-cycle

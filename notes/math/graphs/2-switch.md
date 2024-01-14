@@ -7,10 +7,10 @@ parent:
 connected:
   - "#обс/linking"
 ---
-Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H) {}$
+Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H)$
 
-> [!tip] 2-switch in $H {}$
-is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H {}$ 
+> [!tip] 2-switch in $H$
+is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 
 
 ![[Pasted image 20231104195420.png]]
 
@@ -27,7 +27,7 @@ Math prop
 Question_eng: 2-switch 
 Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H)$
 Question_rus: 
-Answer_eng: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H {}$ 
+Answer_eng: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 
 Answer_rus: 
 Formula_main: 
 Formula_additional: ![[Pasted image 20231104195420.png]]

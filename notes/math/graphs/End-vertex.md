@@ -13,7 +13,7 @@ connected:
 ---
 
 > [!tip] End-vertex or a Leaf
-> A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1 {}$
+> A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 
 ### Anki
 > [!question]-
