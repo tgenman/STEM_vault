@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-15 14:55
 parent:
   - "[[Simple Graph (G)]]"
@@ -24,6 +24,35 @@ if exactly two vertices of $G$ have the same degree.
 [[Theorem about no existence irregular graph]]
 [[Theorem of existence eaxctly 2 nearly irregular graphs]]
 
+#### Anki
+> [!question]- Irregular graph
+TARGET DECK: Math::Graph
+START
+Math def
+Title_eng: Irregular graph
+Title_rus: 
+Description_eng: is a nontrivial graph $G$ 
+if $\deg  u \neq \deg v$ for every two vertices $u$ and $v$ of $G$. 
+Actually, no graph has this property.
+Description_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1705262930870-->
+END
+
+> [!question]- Nearly irregular graph
+TARGET DECK: Math::Graph
+START
+Math def
+Title_eng: Nearly irregular graph
+Title_rus: 
+Description_eng: is a graph $G$ of order $n ≥ 2$ 
+if exactly two vertices of $G$ have the same degree.
+Description_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1705262930879-->
+END
 
 
 

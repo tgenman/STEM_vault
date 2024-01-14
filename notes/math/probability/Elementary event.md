@@ -3,7 +3,7 @@ aliases:
   - Элементарное событие
   - Элементарный исход
 publish: true
-anki: false
+anki: true
 created: 2023-10-20 20:22
 parent:
   - "[[519.21  Probability theory|Probability theory]]"

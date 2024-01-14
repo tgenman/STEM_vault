@@ -2,7 +2,7 @@
 aliases:
   - Кликовое число
 publish: true
-anki: false
+anki: true
 created: 2023-12-16 21:29
 parent:
   - "[[Clique]]"

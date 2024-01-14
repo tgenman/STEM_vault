@@ -14,7 +14,7 @@ tag:#анки OR tag:#anki
 
 ### New Anki Debt
 ```query
-"anki: false" -tag:#empty
+"anki: false" -tag:#empty -path:system -path:abstract
 ```
 
 

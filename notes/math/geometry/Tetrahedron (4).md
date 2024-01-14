@@ -2,10 +2,10 @@
 aliases:
   - Тетраэдер
 publish: true
+anki: true
 parent:
   - "[[Platonic solids]]"
   - "[[519.172.4 Regular Graphs]]"
-anki: false
 created: 2023-12-19 21:44
 ---
 
@@ -13,3 +13,20 @@ created: 2023-12-19 21:44
 Тетраэдр, у которого все грани — равносторонние треугольники, называется ==правильным==. 
 ==Правильный тетраэдр== является одним из пяти [[Platonic solids|правильных многогранников]].
 ![[Pasted image 20201004113910.png]]
+
+
+#### Anki
+> [!question]- Tetrahedron (4)
+TARGET DECK: Math::Geometry
+START
+Math prop
+Question_eng: Tetrahedron (4)
+Question_rus: Тетраэдер
+Answer_eng: Тетраэдр является треугольной [[Пирамида|пирамидой]] при принятии любой из граней за основание. У тетраэдра 4 грани, 4 вершины и 6 рёбер. 
+Тетраэдр, у которого все грани — равносторонние треугольники, называется ==правильным==. 
+==Правильный тетраэдр== является одним из пяти [[Platonic solids|правильных многогранников]].
+Answer_rus: 
+Formula_main: ![[Pasted image 20201004113910.png]]
+Formula_additional:
+<!--ID: 1705263813656-->
+END

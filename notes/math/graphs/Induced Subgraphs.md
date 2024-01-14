@@ -2,7 +2,7 @@
 aliases:
   - Порожденный подграф
 publish: true
-anki: false
+anki: true
 created: 2023-11-01 15:28
 parent:
   - "[[Subgraph]]"
