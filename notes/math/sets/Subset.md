@@ -7,6 +7,7 @@ parent:
   - "[[Set (math)]]"
 connected:
   - "[[Empty Set]]"
+anki: false
 ---
 A set $B$ is a ==subset== of a set $A$, denoted by $B⊆A$ or $A⊇B$, if every element of $B$ is in $A$. The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
 

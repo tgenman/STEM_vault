@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Отображение
+  - Соотношение
 publish: true
 anki: false
 created: 2023-10-17 20:30
@@ -22,7 +22,7 @@ We read $(a,b)∈R$ as “a is related to b” and write $a$ $\mathscr{R}$ $b$.
 - [[Equivalence Relation]]
 - [[Function (math)]]
 
-- [[Injective mapping property]]
+- [[Injective mapping property (function)]]
 
 
 

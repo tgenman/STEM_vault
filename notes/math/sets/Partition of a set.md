@@ -9,16 +9,17 @@ parent:
 connected:
   - "[[Disjoint set]]"
 ---
-A ==partition of a set $S$== is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
+> [!tip] A partition of a set $S$ 
+is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
 
 ### Anki
 TARGET DECK: Math::Set theory 
 START
 Math def
-Title_eng: Partition of a set
+Title_eng: A partition of a set $S$ 
 Title_rus: Разбиение множества
-Description_eng: A ==partition of a set $S$== is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
+Description_eng: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
 Description_rus: 
 Formula_main: 

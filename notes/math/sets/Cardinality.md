@@ -14,7 +14,7 @@ The number of elements in a set $X$ is the ==cardinality== of $X$ and is often d
 
 Например, мощность пустого множества равна нулю, и это можно записать как $| \varnothing | = 0$ 
 
-Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if there exists a [[Injective mapping property|One-to-one function mapping]] $X$ onto $Y$, that is, if there exists a one-to-one correspondence between $X$ and $Y$.
+Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if there exists a [[Injective mapping property (function)|One-to-one function mapping]] $X$ onto $Y$, that is, if there exists a one-to-one correspondence between $X$ and $Y$.
 
 
 
