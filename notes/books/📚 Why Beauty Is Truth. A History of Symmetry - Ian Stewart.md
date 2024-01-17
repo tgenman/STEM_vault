@@ -9,6 +9,7 @@ parent:
   - "[[Symmetry|Симметрия]]"
   - "[[514 Geometry MOC]]"
   - "[[512.54 Group Theory MOC]]"
+  - "[[51(091) Math History MOC]]"
 ---
 title: Why Beauty Is Truth. A History of Symmetry
 title2: Истина и красота. Всемирная история симметрии

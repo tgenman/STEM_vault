@@ -5,8 +5,10 @@ tags:
 publish: true
 aliases:
   - Укрощение бесконечности. История математики от первых чисел до теории хаоса
+parent:
+  - "[[51(091) Math History MOC]]"
 ---
-links: [[51 Math MOC]], [[51(091) Math History MOC]], [[Теория хаоса]]
+links: [[Теория хаоса]]
 title: Taming the Infinite: The Story of Mathematics from the First Numbers to Chaos Theory
 title2: Укрощение бесконечности. История математики от первых чисел до теории хаоса
 author: [[👤 Stewart, Ian]]
