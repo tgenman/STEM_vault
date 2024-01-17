@@ -5,7 +5,7 @@ anki: false
 tags:
 ---
 
-A function is ==surjective== if its [[Image of a function]]  is equal to its target set.
+A function is ==surjective== if its [[Range Ran(f) or Image Im(f)]]  is equal to its target set.
 
 
 Сурьективное. У всех образов есть праобраз #анки 

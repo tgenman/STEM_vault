@@ -4,7 +4,7 @@ publish: true
 #анки
 
 
-Связано с непрерывностью в [[Domain of a function]]
+Связано с непрерывностью в [[Domain Dom(f) or Preimage]]
 
 
 - **Definition**

@@ -13,10 +13,11 @@ connected:
 
 A ==function== $φ$ mapping $X$ into $Y$ is a [[Relation]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
-- The ==domain== of $φ$ is the set $X$ and [[Domain of a function]]
-- The set $Y$ is the ==codomain== of $φ$. 
-- The ==range== of $φ$ is $φ[X] = \set{φ(x) | x ∈ X}$. [[Range of the function]]
+- The ==domain== of $φ$ is the set $X$ and [[Domain Dom(f) or Preimage]]
+- The set $Y$ is the ==codomain== of $φ$.  [[Codomain of a function]]
+- The ==range== of $φ$ is $φ[X] = \set{φ(x) | x ∈ X}$. [[Range Ran(f) or Image Im(f)]]
 
+![[Pasted image 20240117200108.png|300]]
 Многие к одному
 
 $$f:X⟶Y$$
@@ -45,8 +46,8 @@ $q:(3; 4)⟶{0; 1}.$
 
 
 **Connected with:**
-- [[Domain of a function]]
-- [[Image of a function]]
+- [[Domain Dom(f) or Preimage]]
+- [[Range Ran(f) or Image Im(f)]]
 - [[Inverse function (math)]]
 - [[Function composition]]
 

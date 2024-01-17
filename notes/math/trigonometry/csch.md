@@ -11,7 +11,7 @@ publish: true
   csch(x) = \frac{1}{\sinh(x)} = \frac{2}{e^x - e^{-x}}
   $$
 ![[Pasted image 20230707111602.png|400]]
-   [[Domain of a function|ОДЗ]] не может принимать значение 0. [[Range of the function]] состоит из двух интервалов: $(-\infty, 0)$ и $(0, \infty)$ . [[Odd functions]]
+   [[Domain Dom(f) or Preimage|ОДЗ]] не может принимать значение 0. [[Range Ran(f) or Image Im(f)]] состоит из двух интервалов: $(-\infty, 0)$ и $(0, \infty)$ . [[Odd functions]]
 
 
 

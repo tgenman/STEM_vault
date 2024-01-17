@@ -8,7 +8,7 @@ publish: true
 - Гиперболический синус sinh or shx 
   $$\sinh(x) = \frac{e^x - e^{-x}}{2}$$
   ![[Pasted image 20230707104028.png|400]]
-  [[Domain of a function|ОДЗ]] и [[Range of the function]] ничем не ограничены. Функция [[Odd functions]]
+  [[Domain Dom(f) or Preimage|ОДЗ]] и [[Range Ran(f) or Image Im(f)]] ничем не ограничены. Функция [[Odd functions]]
   
 
 
