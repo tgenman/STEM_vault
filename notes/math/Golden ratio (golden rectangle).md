@@ -28,7 +28,7 @@ The golden ratio can be defined as the ratio of the length and the width of a *
 
 **Connected with:**
 - [[Polynomial|Полином]]
-- [[514 Geometry|Геометрия]]
+- [[514 Geometry MOC|Геометрия]]
 
 
 

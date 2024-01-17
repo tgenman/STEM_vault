@@ -20,7 +20,7 @@ created: 2023-05-11 14:58
 
 
 **Connected with:**
-- [[514 Geometry]]
+- [[514 Geometry MOC]]
 
 
 

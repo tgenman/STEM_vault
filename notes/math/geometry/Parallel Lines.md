@@ -20,7 +20,7 @@ publish: true
 
 
 **Connected with:**
-- [[514 Geometry]]
+- [[514 Geometry MOC]]
 
 
 

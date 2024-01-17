@@ -8,7 +8,7 @@ publish: true
 title_rus: "Флатландия: роман во многих измерениях"
 title_original: Flatland. A Romance of Many Dimensions
 parent:
-  - "[[514 Geometry]]"
+  - "[[514 Geometry MOC]]"
 ---
 links: [[Фантастика (жанр) (неспецифичная)]]
 author: [[👤Abbott, Edwin Abbott]]

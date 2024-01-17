@@ -2,7 +2,7 @@
 aliases: [Конические сечения]
 publish: true
 ---
-links: [[514 Geometry]], [[Конус]]
+links: [[514 Geometry MOC]], [[Конус]]
 
 ---
 

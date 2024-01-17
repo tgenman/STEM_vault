@@ -19,5 +19,5 @@ publish: true
 
 
 **Connected with:**
-- [[514 Geometry|Геометрия]]
+- [[514 Geometry MOC|Геометрия]]
 

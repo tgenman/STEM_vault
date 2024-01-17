@@ -17,7 +17,7 @@ When two lines intersect, the angles opposite from each other are called **verti
 
 
 **Connected with:**
-- [[514 Geometry]]
+- [[514 Geometry MOC]]
 
 
 

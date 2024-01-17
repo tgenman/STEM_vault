@@ -4,7 +4,7 @@ aliases:
 publish: true
 parent:
   - "[[512.64  Linear algebra MOC]]"
-  - "[[514 Geometry]]"
+  - "[[514 Geometry MOC]]"
 connected:
   - "[[Point]]"
   - "[[Line]]"

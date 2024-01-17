@@ -9,6 +9,7 @@ parent:
 connected:
   - "[[Size of graph (m)]]"
 ---
+
 > [!tip] Empty graph
 > if size $m = 0$
 

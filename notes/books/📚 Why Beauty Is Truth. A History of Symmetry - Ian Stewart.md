@@ -7,7 +7,7 @@ tags:
 publish: true
 parent:
   - "[[Symmetry|Симметрия]]"
-  - "[[514 Geometry]]"
+  - "[[514 Geometry MOC]]"
   - "[[512.54 Group Theory MOC]]"
 ---
 title: Why Beauty Is Truth. A History of Symmetry

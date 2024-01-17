@@ -5,7 +5,7 @@ publish: true
 anki: false
 created: 2024-01-08 13:35
 parent:
-  - "[[512.5 General Algebra]]"
+  - "[[512.5 General Algebra MOC]]"
 connected:
   - "[[519.175.1 Isomorphic Graphs]]"
 ---
@@ -21,7 +21,7 @@ connected:
 В общем, все изоморфизмы являются гомоморфизмами, но не все гомоморфизмы являются изоморфизмами. Изоморфизм указывает на более глубокое сходство между структурами, чем гомоморфизм.
 
 #### Anki
-> [!question]-
+> [!question]- Isomorphism
 TARGET DECK: Math::Algebra
 START
 Math prop

@@ -5,7 +5,7 @@ publish: true
 anki: true
 created: 2024-01-08 13:35
 parent:
-  - "[[512.5 General Algebra]]"
+  - "[[512.5 General Algebra MOC]]"
 connected:
   - "[[Isomorphism]]"
 ---
