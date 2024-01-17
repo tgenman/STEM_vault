@@ -10,6 +10,7 @@ parent:
   - "[[Partition of a set]]"
 connected:
 ---
+
 Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
 
 $$

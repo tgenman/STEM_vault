@@ -4,23 +4,26 @@ aliases:
   - Взаимно однозначное отображение
   - Bijection
 publish: true
+anki: false
+parent:
+  - "[[510.22 Sets theory MOC]]"
+connected:
+  - "[[Injective mapping property]]"
+  - "[[Surjective mapping property]]"
 ---
-A function is ==bijective== if it is both injective and surjective.
-
-==Взаимно однозначное отображение – правило, по которому каждый элемент одного [[Set (math)|множества]] сопоставляется с определенным элементом другого множества.
-
-![[Screenshot 2022-07-13 at 16.30.54.png]]
 
 
-![[Screenshot 2022-07-13 at 16.32.00.png]]
+- [[Однозначное отображение]]
+- [[Равномощность множеств]]
+
+
+> [!tip] A function is bijective 
+if it is both [[Injective mapping property|injective]] and [[Surjective mapping property|surjective]].
+ $\forall a \in A \exists b \in B: f(a) = b$ и $\forall b \in B \exists a \in A: f(b) = a$.
+
+
+
 
 ![[Pasted image 20230915113440.png]]
 
-
-
-
-**Connected with:**
-- [[510.22 Sets theory MOC|Теория множеств]]
-- [[Однозначное отображение]]
-- [[Равномощность]]
 
