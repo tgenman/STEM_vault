@@ -6,8 +6,9 @@ anki: true
 created: 2023-10-17 22:12
 parent:
   - "[[Set (math)]]"
+  - "[[Disjoint union]]"
 connected:
-  - "[[Пересечение множеств]]"
+  - "[[Intersection of Sets (A ∩ B)]]"
 ---
 
 > [!tip] Sets are disjoint

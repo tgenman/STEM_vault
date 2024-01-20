@@ -6,11 +6,11 @@ created: 2023-10-17 21:05
 parent:
   - "[[Set (math)]]"
 connected:
-  - "[[Cartesian product of sets]]"
+  - "[[Cartesian product of sets (A x B)]]"
 tags:
   - anki
 ---
-The number of elements in a set $X$ is the ==cardinality== of $X$ and is often denoted by $|X|$
+The number of elements in a set $X$ is the ==cardinality== of $X$ and is often denoted by $|X|$ or $\#X$
 
 Например, мощность пустого множества равна нулю, и это можно записать как $| \varnothing | = 0$ 
 

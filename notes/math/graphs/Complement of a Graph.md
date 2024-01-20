@@ -7,6 +7,7 @@ parent:
   - "[[519.171.4 Operations on Graphs]]"
 connected:
   - "[[Self-complementary graph]]"
+  - "[[Complement of Set]]"
 ---
 
 > [!tip] The complement $\bar{G}$ of a graph G 

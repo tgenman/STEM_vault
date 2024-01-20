@@ -20,7 +20,7 @@ When a set has the **same cardinality** as the positive integers $\mathbb{N}$, i
 
 Объединение конечного числа счётных множеств — это счётное множество.
 
-[[Whole numbers Z|Целых чисел]] ровно столько же, сколько [[Natural numbers N|натуральных]].
+[[Whole numbers Z (zahlen)|Целых чисел]] ровно столько же, сколько [[Natural numbers N|натуральных]].
 
 
 > [!Теорема 1]
@@ -28,7 +28,7 @@ When a set has the **same cardinality** as the positive integers $\mathbb{N}$, i
 
 
 > [!Теорема 2]
-> Множество [[Rational numbers Q|рациональных]] счётно.
+> Множество [[Rational numbers Q (quoziente)|рациональных]] счётно.
 $$Q={n/m: m∈Z, n∈N}$$
 
 > [!Теорема 3] 

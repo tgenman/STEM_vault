@@ -11,16 +11,17 @@ parent:
 ![[Pasted image 20220628150733.png]]
 
 
-C - [[Complex numbers C]]
-R - [[Real numbers R]]
-Q - [[Rational numbers Q]]
-Z - [[Whole numbers Z]]
-N - [[Natural numbers N]]
+$\mathbb{N}$ - [[Natural numbers N]]
+$\mathbb{Z}$ - [[Whole numbers Z (zahlen)]]
+$\mathbb{Q}$ - [[Rational numbers Q (quoziente)]]
+$\mathbb{R}$ - [[Real numbers R]]
+$\mathbb{C}$ - [[Complex numbers C]]
 
 $\mathbb{I}$ - [[Irrational Numbers]]
 
+$\mathbb{P}$ - [[Prime numbers P]]
+
 [[Возведение в степень]]
-$\mathbb{P}$ [[Prime numbers]]
 
 
 [[Aleph number]]

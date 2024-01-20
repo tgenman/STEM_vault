@@ -1,8 +1,15 @@
 ---
+aliases:
+  - Разность множеств
 publish: true
+parent:
+  - "[[Операции над множествами]]"
+connected:
+  - "[[Symmetric difference sets (A △ B)]]"
+anki: false
 ---
 
-[[Операции над множествами]], [[Symmetric difference sets]]
+
 
 **Разность** [[Set (math)|множеств]] A и B — это множество, в которое входят элементы множества A, не лежащие в B. То есть они лежат только в A.
 

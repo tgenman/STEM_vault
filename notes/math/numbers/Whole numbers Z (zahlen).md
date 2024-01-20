@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Целые числа Z (нем. zahlen - числа)
+  - Целые числа Z
 publish: true
 parent:
   - "[[511 Numbers Theory MOC]]"
