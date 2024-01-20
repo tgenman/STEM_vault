@@ -2,7 +2,7 @@
 aliases:
   - Перестановки без повторения
 publish: true
-anki: false
+anki: true
 created: 2023-12-05 20:37
 parent:
   - "[[Tuple]]"
@@ -21,7 +21,21 @@ $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 Например, если у нас есть $3$ разных книги (A, B, C), то количество способов их упорядочить равно $3!=3×2×1=6$ (ABC, ACB, BAC, BCA, CAB, CBA).
 
 
-
+#### Anki
+> [!question]- Permutatios without repetitions
+TARGET DECK: Math::Combinatorics
+START
+Math prop
+Question_eng: Permutatios without repetitions
+Question_rus: Перестановки без повторения
+Answer_eng: 1. Число [[Arrangements without repetition|размещений]] если $n = k$ (то есть всего множества элементов)
+> 2. Всевозможные [[Tuple|кортежи]], каждый из которых содежит все эти элементы по одному разу и которые отличаются друг от друга лишь порядком элементов
+Answer_rus: 
+Formula_main: $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
+Formula_additional: #### Пример
+Например, если у нас есть $3$ разных книги (A, B, C), то количество способов их упорядочить равно $3!=3×2×1=6$ (ABC, ACB, BAC, BCA, CAB, CBA).
+<!--ID: 1705602391797-->
+END
 
 
 

@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2023-11-05 15:04
 parent:
-  - "[[Surjective mapping property]]"
+  - "[[Surjective mapping property (function)]]"
 connected:
   - "[[Number of Surjections]]"
 ---

@@ -12,6 +12,7 @@ connected:
 
 > [!tip] The range of a function
 >  is the set of all possible outputs.
+>  Подмножество [[Codomain of a function|кодомена]] , состоящее из всех значений, которые функция действительно принимает.
 
 In other words, it's the result of applying the function to every input in the [[Domain Dom(f) or Preimage]].
 

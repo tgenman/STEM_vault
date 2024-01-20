@@ -6,20 +6,16 @@ aliases:
 publish: true
 anki: false
 parent:
-  - "[[510.22 Sets theory MOC]]"
+  - "[[Однозначное отображение]]"
+  - "[[Function (math)]]"
 connected:
   - "[[Injective mapping property (function)]]"
-  - "[[Surjective mapping property]]"
+  - "[[Surjective mapping property (function)]]"
   - "[[Равномощность множеств]]"
 ---
 
-
-- [[Однозначное отображение]]
-
-
-
 > [!tip] A function is bijective 
-if it is both [[Injective mapping property (function)|injective]] and [[Surjective mapping property|surjective]].
+if it is both [[Injective mapping property (function)|injective]] and [[Surjective mapping property (function)|surjective]].
  $\forall a \in A \exists b \in B: f(a) = b$ и $\forall b \in B \exists a \in A: f(b) = a$.
 
 

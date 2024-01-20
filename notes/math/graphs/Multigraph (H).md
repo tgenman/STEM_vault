@@ -1,15 +1,31 @@
 ---
 aliases:
-  - Мультиграфы
+  - Мультиграф
 publish: true
-anki: false
+anki: true
 created: 2023-11-15 15:41
-parent: 
+parent:
+  - "[[Simple Graph (G)]]"
+  - "[[Parallel edges]]"
 connected:
-  - "#обс/linking"
+  - "[[Pseudograph]]"
 ---
 
 > [!tip] Multigraph $H$
 > is a nonempty set of vertices, every two of which are joined by a finite number of edges. Hence a multigraph $H$ may be expressed as $H = (V,E)$, where $E$ is a multiset of $2$-element subsets of $V$
 
 ![[Pasted image 20231115154708.png]]
+
+#### Anki
+> [!question]-
+TARGET DECK: Math::Graph
+START
+Math prop
+Question_eng: Multigraph (H)
+Question_rus: Мультиграфы
+Answer_eng: is a nonempty set of vertices, every two of which are joined by a finite number of edges. Hence a multigraph $H$ may be expressed as $H = (V,E)$, where $E$ is a multiset of $2$-element subsets of $V$
+Answer_rus: 
+Formula_main: ![[Pasted image 20231115154708.png]]
+Formula_additional:
+<!--ID: 1705600364830-->
+END

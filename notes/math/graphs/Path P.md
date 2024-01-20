@@ -2,7 +2,7 @@
 aliases:
   - Простая цепь
 publish: true
-anki: false
+anki: true
 created: 2023-11-23 21:47
 parent:
   - "[[Walk W]]"
@@ -18,7 +18,21 @@ Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
 ![[Pasted image 20231123204833.png]]
 
-
+#### Anki
+> [!question]- Path $P$
+TARGET DECK: Math::Graph
+START
+Math def
+Title_eng: Path $P$
+Title_rus: Простая цепь
+Description_eng: a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
+Description_rus: 
+Formula_main: Every ==nontrivial path== is necessarily an [[Open walk]].
+$$P = (u,v,w,y)$$
+![[Pasted image 20231123204833.png]]
+Formula_additional:
+<!--ID: 1705600616969-->
+END
 
 
 

@@ -20,7 +20,7 @@ N - [[Natural numbers N]]
 $\mathbb{I}$ - [[Irrational Numbers]]
 
 [[Возведение в степень]]
-[[Prime numbers]]
+$\mathbb{P}$ [[Prime numbers]]
 
 
 [[Aleph number]]

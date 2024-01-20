@@ -9,6 +9,7 @@ parent:
 created: 2023-12-19 21:47
 connected:
   - "[[The Petersen Graph|Cubic graph]]"
+anki: false
 ---
 
 
@@ -17,3 +18,17 @@ connected:
 
 ![[Pasted image 20201004121939.png]]
 Куб - правильный гексаэдр
+
+#### Anki
+> [!question]- Cube (6)
+TARGET DECK: Math::Geometry
+START
+Math prop
+Question_eng: Cube (6)
+Question_rus: Гексаэдр Куб 
+Answer_eng:  ==Куб==(др.-греч. κύβος[1]) (иногда гекса́эдр[2][3] или правильный гекса́эдр[4][5]) — правильный многогранник, каждая грань которого представляет собой квадрат. Частный случай параллелепипеда и призмы.
+Answer_rus: 
+Formula_main: ![[Pasted image 20201004121939.png]]
+Formula_additional:
+<!--ID: 1705601177573-->
+END

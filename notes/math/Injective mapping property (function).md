@@ -1,12 +1,15 @@
 ---
 aliases:
   - One-to-one function mapping
+  - Инъекция
 publish: true
 anki: false
 created: 2023-10-17 21:13
-parent: 
+parent:
+  - "[[Function (math)]]"
+  - "[[Однозначное отображение]]"
 connected:
-  - "[[Bijective mapping property]]"
+  - "[[Bijective mapping property (function)]]"
 tags:
 ---
 
@@ -15,10 +18,10 @@ A special type of relation $↔$ between $X$ and $Y$ called a ==one-to-one corre
 
 The [[Range Ran(f) or Image Im(f)]]  is $Y$ because each $y$ in $Y$ also appears in some pairing $x ↔ y$.
 
+![[Pasted image 20240117210413.png|200]]
 
-Инъективное . У одного  образа не больше одного праобраза #анки 
+![[Pasted image 20240117210559.png|300]]
 
-Injective property
 
 We can think of $injective$ functions as pipes that transport fluids between containers. Since fluids cannot be compressed, the "output container" must be at least as large as the "input container." If there are two distinct points $x_1$ and $x_2$ in the input container of an injective function, then there will be two distinct points $f(x_1)$ and $f(x_2)$ in the output container of the function as well. In other words, injective functions don’t smoosh things together.
 
@@ -29,7 +32,6 @@ The maps-distinct-inputs-to-distinct-outputs property of injective functions has
 
 
 
-![[Pasted image 20230915113741.png]]
 
 
 

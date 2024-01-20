@@ -2,15 +2,27 @@
 aliases:
   - Многогранник
 publish: true
-anki: false
+anki: true
 created: 2023-12-19 21:28
 parent:
   - "[[514 Geometry MOC]]"
-connected: 
+connected:
 ---
 
-- [[Правильный многогранник (3D)]]: Все грани и углы равны между собой. Примеры включают [[Platonic solids]], такие как куб (гексаэдр) и [[Tetrahedron (4)]] тетраэдр.
+- [[Правильный многогранник (3D)]]
+- [[Неправильный многогранник]]
 
-- **Неправильные многогранники**: Грани и углы могут быть разными. Большинство многогранников в природе и созданных человеком структур являются неправильными многогранниками.
 
-
+#### Anki
+> [!question]-
+TARGET DECK: Math::Geometry  
+START
+Math def
+Title_eng: Polyhedron (3D)
+Title_rus: 
+Description_eng: Многогранник
+Description_rus: 
+Formula_main: 
+Formula_additional:
+<!--ID: 1705600801036-->
+END

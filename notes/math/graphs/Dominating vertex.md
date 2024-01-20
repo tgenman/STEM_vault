@@ -18,9 +18,9 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
+Title_eng: Dominating vertex
 Title_rus: 
-Description_eng: 
+Description_eng: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
 Description_rus: 
 Formula_main: 
 Formula_additional:
