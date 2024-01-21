@@ -7,6 +7,7 @@ created: 2023-11-11 23:47
 parent: 
 connected:
   - "[[Binomial theorem]]"
+  - "[[Multinomial coefficient]]"
 ---
 
 $$(x_1+x_2+\ldots+x_k)^n=\sum_{n_i\geq0,n_1+...+n_k=n}\binom{n}{n_1,n_2,...,n_k}x_1^{n_1}\cdots x_k^{n_k}$$

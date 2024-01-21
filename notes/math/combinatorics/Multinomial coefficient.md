@@ -1,17 +1,15 @@
 ---
-aliases: 
+aliases:
+  - Полиномиальный коэффициент
 publish: true
 anki: false
 created: 2023-11-11 13:27
-parent:
-  - "[[Permutations with repetitions]]"
+parent: 
 connected:
   - "[[Binomial coefficient]]"
+  - "[[Multinomial formula]]"
 ---
 The multinomial coefficient is a generalization of the [[Binomial coefficient]].
-
-> [!tip] Multinomial coefficient
-> по сути это просто [[Permutatios without repetitions]] with repetitions
 
 > [!tip] Multinomial coefficient
 For a given non-negative integer $n$ and a given [[Tuple]] tuple of non-negative integers $(k_1,k_2,…,k_m)$ such that the sum of all $k_i$​ is $n$ (i.e., $k_1+k_2+…+k_m=n$),  calculated as:
