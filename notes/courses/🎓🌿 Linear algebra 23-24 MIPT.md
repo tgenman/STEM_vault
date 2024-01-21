@@ -17,14 +17,6 @@ created: 2023-10-14 12:29
 ---
 
 
-- A First Course in Abstract Algebra-Pearson (2021) [ответы](https://quizlet.com/explanations/textbook-solutions/a-first-course-in-abstract-algebra-8th-edition-9780136731627?funnelUUID=262765a3-e7fa-4035-a001-6a8a9e0ed6d6)
-- Плейлисты по абстрактной алгебре
-- Винберг Э.Б. - Курс алгебры-МЦНМО (2014)
-- No bullshit linear algebra
-- Книга крутого американца
-- Лекции 18.06 [Гилберт Стренг](https://math.mit.edu/~gs/) 
-
-
 The task in your screenshot involves computing the nth power of a matrix A, where A is given by:
 
 \[ A = \begin{bmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) & \cos(\alpha) \end{bmatrix} \]
