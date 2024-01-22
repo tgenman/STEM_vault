@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Основное реккурентное соотношение
 publish: true
 anki: true
 created: 2023-10-24 20:17
@@ -8,9 +9,10 @@ parent:
 connected:
   - "[[👤 Pascal, Blaise]]"
 ---
-$$
-\binom nk+\binom n{k+1}=\binom{n+1}{k+1} 
-$$
+
+$$\binom nk+\binom n{k+1}=\binom{n+1}{k+1} $$
+
+![[Pasted image 20240121214326.png]]
 
 #### Source
 - [Pascal's Rule](https://proofwiki.org/wiki/Pascal%27s_Rule "Pascal's Rule")
@@ -25,7 +27,7 @@ Question_rus:
 Answer_eng: 
 Answer_rus: 
 Formula_main: $$\binom nk+\binom n{k+1}=\binom{n+1}{k+1} $$
-Formula_additional:
+Formula_additional: ![[Pasted image 20240121214326.png]]
 <!--ID: 1698168213889-->
 END
 
@@ -37,7 +39,7 @@ Title_rus:
 Description_eng: Pascal Rule
 Description_rus: 
 Formula_main: $$=\binom{n+1}{k+1} $$
-Formula_additional:
+Formula_additional: ![[Pasted image 20240121214326.png]]
 <!--ID: 1698168213895-->
 END
 
