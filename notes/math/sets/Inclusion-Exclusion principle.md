@@ -9,10 +9,12 @@ parent:
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"
+  - "[[519.101 Combinatorics]]"
 tags:
   - empty
 ---
-$P(A_1 \cup \ldots \cup A_k) = P(A_1) + \ldots + P(A_n) - P(A_1 \cap A_2) - P(A_1 \cap A_3) - \ldots - P(A_{k-1} \cap A_k) + \ldots + (-1)^{k-1}P(A_1 \cap \ldots \cap A_k)$.
+$P(A_1 \cup \ldots \cup A_k) = P(A_1) + \ldots + P(A_n) -$
+$- P(A_1 \cap A_2) - P(A_1 \cap A_3) - \ldots - P(A_{k-1} \cap A_k) + \ldots + (-1)^{k-1}P(A_1 \cap \ldots \cap A_k)$.
 
 
 ### Для трёх множеств
@@ -21,4 +23,3 @@ $|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cap C| - |B \cap C| + |A
 
 ![[Pasted image 20231020210108.png|300]]
 
-Given an integer N. You have to print a sequence of numbers from 11 to NN. But print "Fizz" if the number is a multiple of 3, "Buzz" if the number is a multiple of 55 and "Fizz Buzz" if the number is a multiple of 1515.

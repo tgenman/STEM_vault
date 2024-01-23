@@ -6,22 +6,22 @@ connected:
   - "[[Anki]]"
 ---
 
-### Old Anki debt
+### Old Anki debt (80)
 ```query
 tag:#анки OR tag:#anki
 ```
 
 
-### New Anki Debt
+### New Anki Debt (39)
 ```query
-"anki: false" -tag:#empty -path:system -path:abstract
+"anki: false" -tag:#empty -path:system -path:abstract -path:probability
 ```
 
 
 
 
 ---
-### Finish Anki
+### Finish Anki (149)
 ```query
 "anki: true"
 ```

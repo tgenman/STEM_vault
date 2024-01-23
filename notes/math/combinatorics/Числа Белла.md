@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2024-01-21 16:14
 parent:
   - "[[Partition of a set|Разбиение множества]]"
