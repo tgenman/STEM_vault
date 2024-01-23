@@ -1,15 +1,16 @@
 ---
 aliases:
   - Перестановки без неподвижных точек
+  - Субфакториал
 publish: true
 anki: true
 created: 2023-10-30 20:35
 parent:
   - "[[Arrangements without repetition]]"
-connected: []
+connected:
 ---
 
-$$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
+$$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right) = !n$$
 
 $$
 d_n\sim\frac{n!}e

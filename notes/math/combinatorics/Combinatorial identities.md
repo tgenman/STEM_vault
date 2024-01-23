@@ -20,9 +20,17 @@ connected:
   $\forall n\in\mathbb{Z}:\sum_{i=0}^n{(-1)^i\binom ni}=0$
 
 - [[Rising Sum of Binomial Coefficients]]
-  $\sum_{j\operatorname{=}0}^m\binom{n+j}n=\binom{n+m+1}{n+1}=\binom{n+m+1}m$
+$\sum_{j=0}^m\binom{n+j}n = \binom{n+m+1}{n+1}$
 
+- [[Sum of numbers]]
 
+- [[Sum of permutations for k classes]]
+$\sum_{n_1+\ldots+n_k=n} P(n_1, \ldots, n_k) = k^n,$
+
+[[Chu-Vandermonde Identity]]
+$C_p^0 C_{n-p}^m + C_p^1 C_{n-p}^{m-1} + \ldots + C_p^k C_{n-p}^{m-k} + \ldots + C_p^m C_{n-p}^0 = C_n^m.$
+
+$\binom{p}{0}\binom{n-p}{m} + \binom{p}{1}\binom{n-p}{m-1}$
 
 
 #### Bookmarks:

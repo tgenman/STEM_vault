@@ -7,6 +7,7 @@ created: 2023-11-01 18:23
 parent:
   - "[[Subgraph]]"
 connected:
+  - "[[Induced Subgraphs]]"
 ---
 
 > [!tip] $H$ is a spanning subgraph of $G$ 

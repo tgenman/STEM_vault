@@ -19,28 +19,12 @@ $$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math prop
-Question_eng: Symmetry Rule for Binomial Coefficients
-Question_rus: 
-Answer_eng: 
-Answer_rus: 
-Formula_main: $$
-\binom{n}{k}=\binom{n}{n-k}
-$$
-Formula_additional:
-<!--ID: 1698168213867-->
-END
-
-
-START
 Math def
-Title_eng: Symmetry Rule for Binomial Coefficients $$\binom{n}{k}=$$
+Title_eng: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
 Title_rus: 
-Description_eng: Symmetry Rule for Binomial Coefficients
+Description_eng: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
 Description_rus: 
-Formula_main: $$
-=\binom{n}{n-k}
-$$
+Formula_main: 
 Formula_additional:
 <!--ID: 1698168213881-->
 END
