@@ -24,7 +24,7 @@ connected:
 
 #### Anki
 > [!question]- Complement of Set
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math def
 Title_eng: Complement of Set
@@ -37,7 +37,7 @@ Formula_additional:
 END
 
 > [!question]- Properties of Complement of Set
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math prop
 Question_eng: Properties of Complement of Set

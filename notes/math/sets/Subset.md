@@ -29,7 +29,7 @@ connected:
 
 #### Anki
 > [!question]- Subset
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math prop
 Question_eng: A set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
@@ -43,7 +43,7 @@ Formula_additional:
 END
 
 > [!question]-
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math prop
 Question_eng: Свойства подмножеств

@@ -19,7 +19,7 @@ is [[Relation]] that satisfies these properties for all $x,y,z ∈ S$.
 
 #### Anki
 > [!question]- An equivalence relation $\mathscr{R}$ on a set $S$ 
-TARGET DECK: Math::Set theory  
+TARGET DECK: Math::Set  
 START
 Math prop
 Question_eng: An equivalence relation $\mathscr{R}$ on a set $S$ 

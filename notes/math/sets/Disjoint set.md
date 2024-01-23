@@ -17,7 +17,7 @@ connected:
 
 #### Anki
 > [!question]- Sets are disjoint
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math prop
 Question_eng: Sets are disjoint

@@ -20,7 +20,7 @@ connected:
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Set theory  
+TARGET DECK: Math::Set  
 START
 Math def
 Title_eng: Codomain (Кодомен), Target set

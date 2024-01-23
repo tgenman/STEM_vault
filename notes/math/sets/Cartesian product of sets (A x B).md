@@ -30,7 +30,7 @@ $$|A \times B | = |A| \cdot |B|$$
 
 ### Anki
 > [!question]- Cartesian product of $A$ and $B$.
-TARGET DECK: Math::Set theory 
+TARGET DECK: Math::Set 
 START
 Math prop
 Question_eng: Cartesian product of $A$ and $B$.
@@ -43,7 +43,7 @@ Formula_additional:
 END
 
 > [!question]- [[Cardinality|Мощность]] декартового произведения множеств
-TARGET DECK: Math::Set theory   
+TARGET DECK: Math::Set   
 START
 Math prop
 Question_eng: [[Cardinality|Мощность]] декартового произведения множеств
@@ -57,7 +57,7 @@ END
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Set theory  
+TARGET DECK: Math::Set  
 START
 Math prop
 Question_eng: Свойства декартового произведения множеств

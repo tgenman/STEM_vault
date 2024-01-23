@@ -29,7 +29,7 @@ Show that each set is $a$ subset of the other.
 We show that $\bar{a}\subseteq\bar{b}$. Let $x\in\bar{a}.$ Then $x\sim a.$But$a\in \bar{b} , $so$a\sim b.$ Then, by the transitive condition $( 3) , x\sim b, $so $x\in \bar{b} .$ Thus $\bar{a}\subseteq\bar{b}.$ Now we show that $\bar{b}\subseteq\bar{a}.$ Let $y\in\bar{b}.$ Then $y\sim b$. But $a\in \bar{b} , $so$a\sim b$ and, by symmetry $(2),b\sim a.$ Then by transitivity (3), $y\sim a$, so $y\in\bar{a}$. Hence $\bar{b}\subseteq\bar{a}$ also, so $\bar{b}=\bar{a}$ and our proof is complete.
 
 ### Anki
-TARGET DECK: Math::Set theory  
+TARGET DECK: Math::Set  
 START
 Math prop
 Question_eng: Equivalence Relations and Partitions (theorem)

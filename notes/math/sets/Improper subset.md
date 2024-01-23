@@ -14,7 +14,7 @@ Cамо множество и пустое множество — называю
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Set theory
+TARGET DECK: Math::Set
 START
 Math prop
 Question_eng: Improper subset
