@@ -9,6 +9,8 @@ parent:
 connected:
   - "[[519.21  Probability theory]]"
   - "[[Стандартное нормальное распределение]]"
+tags:
+  - empty
 ---
 
 

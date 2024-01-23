@@ -11,6 +11,7 @@ connected:
 > [!tip] Sum of permutations for k classes
 $\sum_{n_1+\ldots+n_k=n} P(n_1, \ldots, n_k) = k^n$
 
+
 ### k=2
 [[Rising Sum of Binomial Coefficients]]
 

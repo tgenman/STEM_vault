@@ -2,11 +2,11 @@
 aliases:
   - Симметричная разность множеств
 publish: true
+anki: false
 parent:
   - "[[Операции над множествами]]"
 connected:
   - "[[Difference of Sets]]"
-anki: false
 ---
 
 

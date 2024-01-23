@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2024-01-23 18:29
 parent:
   - "[[Combinatorial identities]]"
