@@ -23,6 +23,7 @@ $\mathbb{P}$ - [[Prime numbers P]]
 
 [[Возведение в степень]]
 
+[[Равенство по модулю]]
 
 [[Aleph number]]
 [[Continuum]]

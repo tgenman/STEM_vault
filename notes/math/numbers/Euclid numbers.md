@@ -1,9 +1,14 @@
 ---
-aliases: [Числа Евклида]
+aliases:
+  - Числа Евклида
 publish: true
+anki: false
+tags:
+  - empty
+parent:
+  - "[[Prime numbers P]]"
+  - "[[👤 Euclid]]"
 ---
-author: [[👤 Euclid]]
-links: [[Prime numbers]]
 
 The Euclid numbers are the numbers you get when you multiply the first nn primes together and add one, so the first three Euclid numbers are
 
