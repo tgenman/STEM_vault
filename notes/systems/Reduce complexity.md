@@ -6,4 +6,4 @@ links: [[Heuristic|Эвристика]], [[Complexity]]
 
 ---
 
-Главные технический императив [[004.41 Software Development MOC|разработки ПО]]
+Главные технический императив [[004.41 Software Development MOC 1|разработки ПО]]
