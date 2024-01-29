@@ -6,7 +6,7 @@ connected:
 ---
 
 # Главные предметы
-- [[🎓🌿 Introduction to combinatorics 23-24 - MIPT|🎓🌿 Combinatorics]]
+- [[🎓🌳 Introduction to combinatorics 23-24 - MIPT|🎓🌿 Combinatorics]]
 	- [[📚 Комбинаторика - Виленкин]]
 	- [видеоразбор задач из Виленкина](https://www.youtube.com/watch?v=tGTfLCNeEXY)
 - [[🎓🌿 Introduction to graph theory 23-24 MIPT|🎓🌿 Graphs]]
