@@ -40,7 +40,7 @@ DESCRIPTION:  is the number of vertices that are [[Adjacent in graph|adjacent]] 
  is the number of edges incident with $v$.
 FORMULA: $$\deg v = |N(v)|$$
 ADDITIONAL: $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
-<!--ID: 1699164516907-->
+ID: 1699164516907
 END
 
 

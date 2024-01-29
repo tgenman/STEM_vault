@@ -29,7 +29,7 @@ Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $
 DESCRIPTION: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231104195420.png]]
-<!--ID: 1699125265709-->
+ID: 1699125265709
 END
 
 

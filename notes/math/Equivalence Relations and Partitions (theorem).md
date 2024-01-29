@@ -43,7 +43,7 @@ $$
 Also, each partition of $S$ gives rise to an equivalence relation $∼$ on $S$ where $a ∼ b$ if and only if a and b are in the same cell of the partition.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697900657287-->
+ID: 1697900657287
 END
 
 

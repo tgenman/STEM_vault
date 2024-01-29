@@ -30,7 +30,7 @@ DESCRIPTION: Sum of permutations for k classes
 $k^n =$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1706021732501-->
+ID: 1706021732501
 END
 
 > [!question]- Sum of permutations for 3 classes
@@ -43,7 +43,7 @@ DESCRIPTION: Sum of permutations for 3 classes
 $3^n =$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1706021732517-->
+ID: 1706021732517
 END
 
 

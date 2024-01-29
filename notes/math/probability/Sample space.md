@@ -34,7 +34,7 @@ TITLE: Sample space $\Omega$
 DESCRIPTION: the set of all possible outcomes of an experiment
 FORMULA: 
 ADDITIONAL: 
-<!--ID: 1697972538023-->
+ID: 1697972538023
 END
 
 START
@@ -50,5 +50,5 @@ ADDITIONAL: ### Example
 Tossing a dice
 $\Omega = \{1, 2, 3, 4, 5, 6\}$
 $A = \{1, 3, 5\}$ - outcome is odd
-<!--ID: 1697972538037-->
+ID: 1697972538037
 END

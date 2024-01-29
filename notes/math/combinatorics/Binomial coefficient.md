@@ -35,7 +35,7 @@ TITLE: $$\binom{n}{k} =$$
 DESCRIPTION: $$= \frac{n!}{k!(n-k)!}$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699125498477-->
+ID: 1699125498477
 END
 
 > [!question]-
@@ -46,7 +46,7 @@ TITLE: $$\binom{0}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698689820228-->
+ID: 1698689820228
 END
 
 > [!question]-
@@ -57,7 +57,7 @@ TITLE: $$\binom{1}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698689820237-->
+ID: 1698689820237
 END
 
 
@@ -69,7 +69,7 @@ TITLE: $$\binom{n}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698689820242-->
+ID: 1698689820242
 END
 
 > [!question]-
@@ -80,5 +80,5 @@ TITLE: $$\binom{n}{1} = ?$$
 DESCRIPTION: $$ = n$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698689820246-->
+ID: 1698689820246
 END

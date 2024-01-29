@@ -25,5 +25,5 @@ TITLE: Law of sines
 DESCRIPTION: formula
 FORMULA: $$\frac{{\sin \alpha}}{{a}} = \frac{{\sin \beta}}{{b}} = \frac{{\sin \gamma}}{{c}}$$
 ADDITIONAL:  ![[Pasted image 20230731213232.png]]
-<!--ID: 1697915677599-->
+ID: 1697915677599
 END

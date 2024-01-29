@@ -35,7 +35,7 @@ if $\deg  u \neq \deg v$ for every two vertices $u$ and $v$ of $G$.
 Actually, no graph has this property.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705262930870-->
+ID: 1705262930870
 END
 
 > [!question]- Nearly irregular graph
@@ -47,7 +47,7 @@ DESCRIPTION: is a graph $G$ of order $n ≥ 2$
 if exactly two vertices of $G$ have the same degree.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705262930879-->
+ID: 1705262930879
 END
 
 

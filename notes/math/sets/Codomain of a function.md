@@ -27,7 +27,7 @@ TITLE: Codomain (Кодомен), Target set
 DESCRIPTION: Множество, в рамках которого рассматриваются возможные выходные значения функции.
 FORMULA: ![[Pasted image 20240117200108.png|300]]
 ADDITIONAL:
-<!--ID: 1706040595541-->
+ID: 1706040595541
 END
 
 

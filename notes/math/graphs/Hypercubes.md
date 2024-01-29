@@ -30,7 +30,7 @@ DESCRIPTION: is $K_2$ if $n = 1$,
 while for $n ≥ 2$, $Q_n$ is defined recursively as the [[Cartesian product of sets (A x B)]] $Q_{n−1} \square K_2$ . 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231104171611.png]]
-<!--ID: 1699164293883-->
+ID: 1699164293883
 END
 
 

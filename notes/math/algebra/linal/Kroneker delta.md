@@ -24,7 +24,7 @@ TITLE: Kroneker delta
 DESCRIPTION: $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
 > - $1$ if $i = j$
 > - $0$ if $i \ne j$
-<!--ID: 1706545740973-->
+ID: 1706545740973
 END
 
 

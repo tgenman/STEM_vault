@@ -23,7 +23,7 @@ TITLE: Girth of $G$ $g(G)$
 DESCRIPTION: the length of a smallest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705258523774-->
+ID: 1705258523774
 END
 
 

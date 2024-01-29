@@ -23,7 +23,7 @@ TITLE: Order of graph (n)
 DESCRIPTION: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699164654357-->
+ID: 1699164654357
 END
 
 

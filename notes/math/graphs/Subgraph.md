@@ -31,7 +31,7 @@ DESCRIPTION: if $V(H)⊆V(G)$ and $E(H)⊆E(G)$
 in which case we write $H ⊆ G$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165738437-->
+ID: 1699165738437
 END
 
 > [!question]-
@@ -42,7 +42,7 @@ TITLE: Supergraph
 DESCRIPTION: If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165738456-->
+ID: 1699165738456
 END
 
 > [!question]-
@@ -53,7 +53,7 @@ TITLE: Proper subgraph
 DESCRIPTION: If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165738466-->
+ID: 1699165738466
 END
 
 

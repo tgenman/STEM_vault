@@ -22,7 +22,7 @@ TITLE: Parallel edges
 DESCRIPTION: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705600079765-->
+ID: 1705600079765
 END
 
 

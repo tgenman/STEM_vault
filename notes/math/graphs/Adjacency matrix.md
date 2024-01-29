@@ -46,7 +46,7 @@ FORMULA: - all entries along the main diagonal of $A$ are $0$ since no vertex of
 - Second, $A$ is a  symmetric matrix, that is, row i of $A$ is identical to column $i$ of $A$ for every integer $i$ with $1 ≤ i ≤ n$.
 - if we were to add the entries in row $i$ (or in column $i$), then we obtain the degree of $v_i$.
 ADDITIONAL:
-<!--ID: 1705260885188-->
+ID: 1705260885188
 END
 
 

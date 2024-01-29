@@ -27,7 +27,7 @@ $H$ is a [[Subgraph|subgraph]] of $G$ and
 $V(H)=V(G)$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699170889234-->
+ID: 1699170889234
 END
 
 

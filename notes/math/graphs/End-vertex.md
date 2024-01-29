@@ -24,7 +24,7 @@ TITLE: End-vertex
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699131882675-->
+ID: 1699131882675
 END
 
 

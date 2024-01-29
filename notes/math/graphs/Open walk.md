@@ -20,7 +20,7 @@ TITLE: Open walk
 DESCRIPTION: A walk whose initial and terminal vertices are distinct
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705348914030-->
+ID: 1705348914030
 END
 
 

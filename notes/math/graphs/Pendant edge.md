@@ -23,7 +23,7 @@ TITLE: Pendant edge
 DESCRIPTION: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165371489-->
+ID: 1699165371489
 END
 
 

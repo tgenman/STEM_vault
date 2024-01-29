@@ -37,7 +37,7 @@ TITLE: Cartesian product of $A$ and $B$.
 DESCRIPTION: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699126600775-->
+ID: 1699126600775
 END
 
 > [!question]- [[Cardinality|Мощность]] декартового произведения множеств
@@ -48,7 +48,7 @@ TITLE: [[Cardinality|Мощность]] декартового произвед�
 DESCRIPTION: равна произведению мощностей этих множеств
 FORMULA: $$|A \times B | = |A| \cdot |B|$$
 ADDITIONAL:
-<!--ID: 1699126600788-->
+ID: 1699126600788
 END
 
 #### Anki
@@ -65,5 +65,5 @@ DESCRIPTION: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
 6. $A \times (B_1 \setminus B_2) = (A \times B_1) \setminus (A \times B_2)$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705775628748-->
+ID: 1705775628748
 END

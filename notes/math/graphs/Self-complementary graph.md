@@ -31,7 +31,7 @@ DESCRIPTION: if $G$ is isomorphic to $\bar{G}$.
 FORMULA: if $G$ is a self-complementary graph of order $n$, 
 then its size is $m = \binom n2 / 2 = n(n − 1)/4$.
 ADDITIONAL: ![[Pasted image 20231103174136.png]]
-<!--ID: 1699131845868-->
+ID: 1699131845868
 END
 
 

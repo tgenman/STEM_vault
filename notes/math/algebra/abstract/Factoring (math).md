@@ -31,5 +31,5 @@ $$x^2-x-2=(x+1)(x-2).$$
 - The expression on the left is called the standard form of the polynomial.
 - The expression on the right is its factored form.
 ADDITIONAL:
-<!--ID: 1697915973890-->
+ID: 1697915973890
 END

@@ -27,7 +27,7 @@ TITLE: Pascal Rule $\binom nk+\binom n{k+1} =$
 DESCRIPTION: Pascal Rule $\binom{n+1}{k+1} =$
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20240121214326.png]]
-<!--ID: 1698168213895-->
+ID: 1698168213895
 END
 
 

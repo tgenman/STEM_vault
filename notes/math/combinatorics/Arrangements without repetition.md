@@ -33,6 +33,6 @@ TITLE:  Arrangements without repetition
 DESCRIPTION:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
 FORMULA: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 ADDITIONAL:
-<!--ID: 1698069638670-->
+ID: 1698069638670
 END
 

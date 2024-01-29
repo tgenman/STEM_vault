@@ -34,7 +34,7 @@ $A \subset \Omega$ - [[Event]]
 $P(A) = \frac{|A|}{n}$ - [[Probability]]
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697972721265-->
+ID: 1697972721265
 END
 
 START
@@ -49,5 +49,5 @@ DESCRIPTION: - $P(\Omega) = 1$
 - $\bar{A}:=\Omega\backslash A\text{ paвна }P(\bar{A})=1-P(A)$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697972721278-->
+ID: 1697972721278
 END

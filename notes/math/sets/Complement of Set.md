@@ -31,7 +31,7 @@ TITLE: Complement of Set 112
 **Дополнением** к множеству $A$ (или его **отрицанием**)
 DESCRIPTION: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
 PICTURE: ![[Pasted image 20220712111557.png|500]]
-<!--ID: 1706031862933-->
+ID: 1706031862933
 END
 
 > [!question]- Properties of Complement of Set

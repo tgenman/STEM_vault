@@ -21,7 +21,7 @@ TITLE: Combinations with repetitions
 DESCRIPTION: $$\bar{C_{n}^k} = \left(\binom{n}{k} \right) = \binom{n+k-1}{k} = \frac{(n+k-1)!}{k!(n-1)!} = C_{n+k-1}^k$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705262071018-->
+ID: 1705262071018
 END
 
 

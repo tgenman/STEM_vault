@@ -51,7 +51,7 @@ By the induction hypothesis, for each integer $t$ with $1 \le t \le n$, the inte
 
 By the Principle of Mathematical Induction, $a_{ij}^{(k)}$ is the number of different $v_i - v_j$ walks of length $k$ in $G$ for every positive integer $k$. □
 ADDITIONAL:
-<!--ID: 1705602083793-->
+ID: 1705602083793
 END
 
 

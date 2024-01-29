@@ -24,7 +24,7 @@ TITLE: Closed walk
 DESCRIPTION: A [[Walk W|walk]] whose initial and terminal vertices are same
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705262071040-->
+ID: 1705262071040
 END
 
 

@@ -34,5 +34,5 @@ DESCRIPTION: A ==k-combination== from n elements (n-element set A) is an k-eleme
 FORMULA: $$C_{n}^k = \binom{n}{k} = \frac{A_n^k}{k!} = \frac{n!}{k!(n-k)!}$$
 ADDITIONAL: Connected with [[Permutations with repetitions]]
 $$C_n^k = P(k, n-k)$$
-<!--ID: 1698069941441-->
+ID: 1698069941441
 END

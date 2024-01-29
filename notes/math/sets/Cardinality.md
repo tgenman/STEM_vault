@@ -34,7 +34,7 @@ DESCRIPTION: The number of elements in a set $X$.
 > Denoted by $|X|$ or $\#X$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1706040051697-->
+ID: 1706040051697
 END
 
 

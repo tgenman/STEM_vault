@@ -31,7 +31,7 @@ DESCRIPTION:  - $\Omega\in\mathcal{A};$
 	- т.е. замкнута относительно операций $\cap$, $\cup$, (\\ , $\bigtriangleup$ )
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699126216098-->
+ID: 1699126216098
 END
 
 

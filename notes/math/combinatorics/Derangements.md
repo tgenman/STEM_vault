@@ -57,7 +57,7 @@ DESCRIPTION: число перестано­вок $n$ элементов, пр�
 $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
 FORMULA: $D_n = P_n - \binom{n}{1} P_{n-1} + \binom{n}{2} P_{n-2} - \ldots + (-1)^n \binom{n}{n} = n! \left[ 1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + \frac{(-1)^n}{n!} \right].$
 ADDITIONAL:
-<!--ID: 1698688139448-->
+ID: 1698688139448
 END
 
 START
@@ -66,7 +66,7 @@ TITLE: Approximate value of Derangements
 DESCRIPTION: $$d_n\sim\frac{n!}e$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698688139452-->
+ID: 1698688139452
 END
 
 

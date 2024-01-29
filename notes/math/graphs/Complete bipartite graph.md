@@ -41,7 +41,7 @@ ADDITIONAL: If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has
  order $s+t$ 
  size $st$ 
  is denoted by $K_{s,t}$ (or $K_{t,s}$).
-<!--ID: 1699165908034-->
+ID: 1699165908034
 END
 
 
@@ -53,7 +53,7 @@ TITLE: Graph named Star
 DESCRIPTION: The complete bipartite graph $K_{1,t}$ 
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165908053-->
+ID: 1699165908053
 END
 
 > [!question]-
@@ -64,5 +64,5 @@ TITLE: Graph called Claw
 DESCRIPTION: The star $K_{1,3}$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165908065-->
+ID: 1699165908065
 END

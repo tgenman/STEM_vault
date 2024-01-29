@@ -20,7 +20,7 @@ TITLE: Minimum degree
 DESCRIPTION: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699164425904-->
+ID: 1699164425904
 END
 
 

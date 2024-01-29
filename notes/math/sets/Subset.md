@@ -38,7 +38,7 @@ DESCRIPTION: if every element of $B$ is in $A$.
 The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705599998539-->
+ID: 1705599998539
 END
 
 > [!question]-
@@ -56,7 +56,7 @@ DESCRIPTION: - **Самопринадлежность**
 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и [[Empty Set]]
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705599998544-->
+ID: 1705599998544
 END
 
 

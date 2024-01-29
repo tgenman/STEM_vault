@@ -29,7 +29,7 @@ DESCRIPTION: If $N$ items are put in $N-1$ containers then at least one containe
 If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one pigeonhole contains at least $N/K$ pigeons
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698068782659-->
+ID: 1698068782659
 END
 
 #### Anki
@@ -43,7 +43,7 @@ DESCRIPTION: 1. Если $A = A_1 \cup A_2 \cup \ldots \cup A_k$, то для н
 2. Если задана функция $f$ из $A$ в $B$, и при этом $\left| A \right| > \left| B \right|$, то найдутся $x, y \in A$, такие, что $x \neq y$ и $f(x) = f(y)$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705778426714-->
+ID: 1705778426714
 END
 
 

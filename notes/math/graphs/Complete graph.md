@@ -32,7 +32,7 @@ DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [
 FORMULA: $$m = \binom{n}{2}$$
 ADDITIONAL: 
 PICTURE: ![[Pasted image 20231031224948.png]]
-<!--ID: 1699130250667-->
+ID: 1699130250667
 END
 
 

@@ -33,7 +33,7 @@ DESCRIPTION: For two (not necessarily distinct) vertices $u$ and $v$ in a graph 
 FORMULA: $$W_1 = (x,w,y,w,v,u,w)$$
 ![[Pasted image 20231123204833.png]]
 ADDITIONAL:
-<!--ID: 1705600533271-->
+ID: 1705600533271
 END
 
 > [!question]- length of W
@@ -44,7 +44,7 @@ TITLE:  length of W
 DESCRIPTION: The number of edges encountered in $W$ (including multiplicities)  .
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705600533278-->
+ID: 1705600533278
 END
 
 > [!question]-
@@ -55,7 +55,7 @@ TITLE: Equal Walks
 DESCRIPTION: Two $u−v$ walks $W =(u=u_0,u_1,...,u_k =v)$ and $W′ =(u=v_0,v_1,...,v_l = v)$  in a graph are equal if $k=l$ and $u_i =v_i$ for all $i$ with $0≤i≤k$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705600533281-->
+ID: 1705600533281
 END
 
 

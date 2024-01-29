@@ -29,7 +29,7 @@ DESCRIPTION: An ==equivalence relation== $\mathscr{R}$ on a set $S$ is one that 
 3. ([[Transitive]]) If $x \mathscr{R} y$ and $y \mathscr{R} z$ then $x \mathscr{R} z$.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697899492168-->
+ID: 1697899492168
 END
 
 

@@ -42,7 +42,7 @@ We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their num
 $Aut(G)$ is a [[Group|group]] under the operation of composition
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705261959421-->
+ID: 1705261959421
 END
 
 > [!question]- Vertex-transitive (symmetric) graph
@@ -56,7 +56,7 @@ DESCRIPTION: Graphs in which all vertices are similar, such as (called):
 - the [[The Petersen Graph|n-cube]]  $Q_n$, 
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705261959431-->
+ID: 1705261959431
 END
 
 > [!question]- Asymmetric graphs
@@ -67,7 +67,7 @@ TITLE: Asymmetric graphs
 DESCRIPTION: graphs in which no two vertices are similar
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705261959444-->
+ID: 1705261959444
 END
 
 

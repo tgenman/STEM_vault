@@ -26,7 +26,7 @@ DESCRIPTION: if $V(G)$ can be partitioned into $k$ subsets $V_1, V_2, . . . , V_
 FORMULA: 
 ADDITIONAL:A $1$-partite graph is then an [[Empty graph]] empty graph 
 A $2$-partite graph is [[519.172.5 Bipartite graph]]. 
-<!--ID: 1699170412388-->
+ID: 1699170412388
 END
 
 

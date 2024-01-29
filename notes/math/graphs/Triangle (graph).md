@@ -26,7 +26,7 @@ DESCRIPTION: 3-cycle
 [[Complete graph]] with $n=3$
 FORMULA: $C_3 = K_3$
 ADDITIONAL:
-<!--ID: 1699131352172-->
+ID: 1699131352172
 END
 
 

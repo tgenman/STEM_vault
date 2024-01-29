@@ -33,7 +33,7 @@ $$\sum_{v\in V(G)}\deg v=2m.$$
 FORMULA: 
 ADDITIONAL: ### Proof
 When summing the degrees of the vertices of $G$, each edge of $G$ is counted twice, once for each of its two incident vertices.
-<!--ID: 1699170117944-->
+ID: 1699170117944
 END
 
 

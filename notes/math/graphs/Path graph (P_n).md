@@ -26,7 +26,7 @@ DESCRIPTION: is a [[Simple Graph (G)|graph]] of order $n$ and size $n−1$ whose
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231031230228.png]] 
 $P_1 = K_1, P_2 = K_2$
-<!--ID: 1698822236404-->
+ID: 1698822236404
 END
 
 

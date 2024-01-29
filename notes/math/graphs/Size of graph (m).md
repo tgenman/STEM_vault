@@ -23,7 +23,7 @@ TITLE: Size ($m$) of $G$
 DESCRIPTION: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699164832914-->
+ID: 1699164832914
 END
 
 

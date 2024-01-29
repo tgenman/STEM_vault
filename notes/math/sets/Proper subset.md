@@ -22,7 +22,7 @@ TITLE: Proper subset
 DESCRIPTION: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699129807675-->
+ID: 1699129807675
 END
 
 

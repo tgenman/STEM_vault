@@ -22,7 +22,7 @@ TITLE: Loop (graph)
 DESCRIPTION: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705263594120-->
+ID: 1705263594120
 END
 
 

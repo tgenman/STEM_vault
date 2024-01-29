@@ -22,7 +22,7 @@ TITLE: Improper subset
 DESCRIPTION: Cамо множество и пустое множество
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699130367605-->
+ID: 1699130367605
 END
 
 

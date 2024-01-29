@@ -24,7 +24,7 @@ DESCRIPTION: is a collection of nonempty [[Subset|subsets]] of $S$ such that eve
 The subsets are the ==cells== of the partition.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697898285975-->
+ID: 1697898285975
 END
 
 

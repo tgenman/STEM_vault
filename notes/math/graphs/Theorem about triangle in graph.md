@@ -37,7 +37,7 @@ $$m^{\prime}=m-(\deg u+\deg v)+1>\lfloor n^2/4\rfloor-n+1.$$
 Thus,
 $$m^{\prime}>\frac{n^2}4-n+1=\frac{n^2-4n+4}4=\frac{(n-2)^2}4.$$
 From the defining property of the graph $G$, it follows that $G^{\prime}$ contains a triangle producing a contradiction.
-<!--ID: 1699170839925-->
+ID: 1699170839925
 END
 
 

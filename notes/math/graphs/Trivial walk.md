@@ -22,7 +22,7 @@ Math_ONE_side
 TITLE: Trivial walk
 DESCRIPTION: is walk consist of a single vertex
 A trivial walk is therefore a [[Closed walk]] closed walk.
-<!--ID: 1705602331022-->
+ID: 1705602331022
 END
 
 

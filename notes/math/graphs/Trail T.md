@@ -29,7 +29,7 @@ FORMULA: $$T = (u,v,y,w,v)$$
 
 ![[Pasted image 20231123204833.png]]
 ADDITIONAL:
-<!--ID: 1705600364821-->
+ID: 1705600364821
 END
 
 

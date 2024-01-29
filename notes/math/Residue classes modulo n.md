@@ -24,7 +24,7 @@ TITLE: Residue classes modulo n (Modulus)
 DESCRIPTION: $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{2},\ldots,\overline{n-1}}$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1697899492182-->
+ID: 1697899492182
 END
 
 

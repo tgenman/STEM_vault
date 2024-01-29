@@ -38,7 +38,7 @@ TITLE: Sum of Binomial Coefficients over Lower Index $\sum_{i\operatorname{=}0}^
 DESCRIPTION: Sum of Binomial Coefficients over Lower Index $2^n =$
 FORMULA:
 ADDITIONAL:
-<!--ID: 1698168880304-->
+ID: 1698168880304
 END
 
 

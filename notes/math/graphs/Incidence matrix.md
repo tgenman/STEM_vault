@@ -26,7 +26,7 @@ TITLE: The incidence matrix of $G$
 DESCRIPTION: is the $n×m$ matrix $M_G := (m_{ve})$, where $m_ve$ is the number of times ($0, 1$, or $2$) that vertex $v$ and edge $e$ are [[Incident vertex and edge|incident]] .
 FORMULA: ![[Pasted image 20231216223158.png]]
 ADDITIONAL:
-<!--ID: 1705263185771-->
+ID: 1705263185771
 END
 
 

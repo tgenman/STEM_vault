@@ -32,7 +32,7 @@ TITLE: Indicator function
 DESCRIPTION: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698688139475-->
+ID: 1698688139475
 END
 
 START
@@ -45,7 +45,7 @@ $$1_{A\cap B}=1_A\cdot1_B$$
 
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698688139477-->
+ID: 1698688139477
 END
 
 

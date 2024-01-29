@@ -20,7 +20,7 @@ TITLE: Maximum degree ($∆(G)$)
 DESCRIPTION: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699165371508-->
+ID: 1699165371508
 END
 
 

@@ -50,5 +50,5 @@ DESCRIPTION: is the probability of event $A$ calculated with just the outcomes w
 FORMULA: $$P(A|B)P(B) = P(A \cap B).$$
 $$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
 ADDITIONAL:
-<!--ID: 1702137389003-->
+ID: 1702137389003
 END

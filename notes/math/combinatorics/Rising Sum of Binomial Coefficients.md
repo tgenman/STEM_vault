@@ -54,7 +54,7 @@ DESCRIPTION: Rising Sum of Binomial Coefficients
 $\binom{n+m+1}{n+1} =$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698168880333-->
+ID: 1698168880333
 END
 
 

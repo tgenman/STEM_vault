@@ -23,7 +23,7 @@ TITLE: Incident vertex and edge
 DESCRIPTION: The vertex $u$ and the edge $uv$ are said to be incident with each other.
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699130467965-->
+ID: 1699130467965
 END
 
 

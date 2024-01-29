@@ -36,7 +36,7 @@ DESCRIPTION: is that graph with vertex set $V(G)$ such that two vertices are [[A
 FORMULA: ![[Pasted image 20231103173134.png]]
 ADDITIONAL:If $G$ is a graph of order $n$ and size $m$, then $\bar{G}$ is a graph of order $n$ and size $\binom n2 - m$. 
 The complement $K_n$ of the complete graph Kn is the [[Empty graph|empty graph]] of order $n$.
-<!--ID: 1699132151354-->
+ID: 1699132151354
 END
 
 

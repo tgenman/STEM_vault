@@ -32,7 +32,7 @@ While the conditions that $d_i ≤ n − 1$ for all $i (1 ≤ i ≤ n)$ and $\su
 It is not all that unusual for a graphical sequence to be the degree sequence of more than one graph.
 FORMULA: ![[Pasted image 20231104194929.png]]
 ADDITIONAL:
-<!--ID: 1699132057004-->
+ID: 1699132057004
 END
 
 

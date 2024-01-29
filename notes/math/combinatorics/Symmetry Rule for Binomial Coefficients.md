@@ -25,7 +25,7 @@ TITLE: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
 DESCRIPTION: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1698168213881-->
+ID: 1698168213881
 END
 
 

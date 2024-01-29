@@ -29,7 +29,7 @@ DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]
 or [[Multigraph (H)]] + [[Loop (graph)]]
 FORMULA: ![[Pasted image 20231115154026.png]]
 ADDITIONAL:
-<!--ID: 1705600203513-->
+ID: 1705600203513
 END
 
 

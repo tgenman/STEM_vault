@@ -22,7 +22,7 @@ TITLE: Dominating vertex
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705262169569-->
+ID: 1705262169569
 END
 
 

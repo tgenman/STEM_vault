@@ -23,7 +23,7 @@ $\sum_{j=0}^m C_{p}^k C_{n-p}^{m-k} = C_p^0 C_{n-p}^m + C_p^1 C_{n-p}^{m-1} + \l
 DESCRIPTION: Chu-Vandermonde Identity $C_n^m =$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1706029342188-->
+ID: 1706029342188
 END
 
 

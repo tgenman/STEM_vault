@@ -21,7 +21,7 @@ TITLE: The clique number $ω(G)$ of a graph $G$
 DESCRIPTION: is the [[Order of graph (n)|order]] of the largest [[Clique]]
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705261600873-->
+ID: 1705261600873
 END
 
 

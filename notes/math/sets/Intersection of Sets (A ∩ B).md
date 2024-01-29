@@ -26,5 +26,5 @@ TITLE: Intersection of Sets (A ∩ B)
 DESCRIPTION: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
 FORMULA: ![[Pasted image 20220630190715.png]]
 ADDITIONAL:
-<!--ID: 1706040702788-->
+ID: 1706040702788
 END

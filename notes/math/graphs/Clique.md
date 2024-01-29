@@ -27,7 +27,7 @@ TITLE: Сlique
 DESCRIPTION: Complete  Subgrap of $G$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705258440998-->
+ID: 1705258440998
 END
 
 > [!question]- k-clique
@@ -38,7 +38,7 @@ TITLE: k-clique
 DESCRIPTION: A clique of order $k$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1705258441000-->
+ID: 1705258441000
 END
 
 

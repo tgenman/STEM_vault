@@ -30,7 +30,7 @@ FORMULA: Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
 ADDITIONAL:
 PICTURE: ![[Pasted image 20231123204833.png]]
-<!--ID: 1705600616969-->
+ID: 1705600616969
 END
 
 

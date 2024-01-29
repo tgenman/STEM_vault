@@ -21,7 +21,7 @@ TITLE: The average degree of a graph $G$ of order $n$ and size $m$ is
 DESCRIPTION: $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 FORMULA: 
 ADDITIONAL:
-<!--ID: 1699170504197-->
+ID: 1699170504197
 END
 
 
