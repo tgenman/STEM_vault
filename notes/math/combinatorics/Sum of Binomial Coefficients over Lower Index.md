@@ -33,10 +33,10 @@ How many subsets has an $n$-element set?
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of Binomial Coefficients over Lower Index $\sum_{i\operatorname{=}0}^n\binom ni = \binom n0+\binom n1+\ldots+\binom nn =$
-Title_rus: 
-Description_eng: Sum of Binomial Coefficients over Lower Index $2^n =$
-Description_rus: 
+TITLE: Sum of Binomial Coefficients over Lower Index $\sum_{i\operatorname{=}0}^n\binom ni = \binom n0+\binom n1+\ldots+\binom nn =$
+TITLE_rus: 
+DESCRIPTION: Sum of Binomial Coefficients over Lower Index $2^n =$
+DESCRIPTION_rus: 
 Formula_main:
 Formula_additional:
 <!--ID: 1698168880304-->

@@ -27,10 +27,10 @@ connected:
 TARGET DECK: Math::Set
 START
 Math def
-Title_eng: Complement of Set
-Title_rus: **Дополнением** к множеству $A$ (или его **отрицанием**) 
-Description_eng: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
-Description_rus: 
+TITLE: Complement of Set
+TITLE_rus: **Дополнением** к множеству $A$ (или его **отрицанием**) 
+DESCRIPTION: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
+DESCRIPTION_rus: 
 Formula_main: ![[Pasted image 20220712111557.png|500]]
 Formula_additional:
 <!--ID: 1706031862933-->

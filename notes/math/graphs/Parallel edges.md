@@ -18,10 +18,10 @@ is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Parallel edges
-Title_rus: 
-Description_eng: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
-Description_rus: 
+TITLE: Parallel edges
+TITLE_rus: 
+DESCRIPTION: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705600079765-->

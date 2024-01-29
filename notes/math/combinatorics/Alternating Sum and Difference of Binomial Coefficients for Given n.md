@@ -35,12 +35,12 @@ $$\binom{n}{0} - \binom{n}{1} + \ldots + (-1)^n\binom{n}{n} = \binom{n-1}{0} - (
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Alternating Sum and Difference of Binomial Coefficients for Given n 
+TITLE: Alternating Sum and Difference of Binomial Coefficients for Given n 
 $\forall n\in\mathbb{Z}:\sum_{i=0}^n{(-1)^i\binom ni} = \binom n0-\binom n1+\ldots+(-1)^n\binom nn$ 
-Title_rus: 
-Description_eng: Alternating Sum and Difference of Binomial Coefficients for Given n
+TITLE_rus: 
+DESCRIPTION: Alternating Sum and Difference of Binomial Coefficients for Given n
 $0$, if $n>0$
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698168880317-->

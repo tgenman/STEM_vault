@@ -18,10 +18,10 @@ connected:
 TARGET DECK: Math::Geometry  
 START
 Math def
-Title_eng: Polyhedron (3D)
-Title_rus: 
-Description_eng: Многогранник
-Description_rus: 
+TITLE: Polyhedron (3D)
+TITLE_rus: 
+DESCRIPTION: Многогранник
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705600801036-->

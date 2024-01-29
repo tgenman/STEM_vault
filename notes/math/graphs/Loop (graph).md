@@ -18,10 +18,10 @@ is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Loop (graph)
-Title_rus: 
-Description_eng: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
-Description_rus: 
+TITLE: Loop (graph)
+TITLE_rus: 
+DESCRIPTION: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705263594120-->

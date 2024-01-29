@@ -20,10 +20,10 @@ $$
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
-Title_rus: 
-Description_eng: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
-Description_rus: 
+TITLE: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
+TITLE_rus: 
+DESCRIPTION: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698168213881-->

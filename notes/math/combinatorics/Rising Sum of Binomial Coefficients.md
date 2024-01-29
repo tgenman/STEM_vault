@@ -47,12 +47,12 @@ $$
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Rising Sum of Binomial Coefficients 
+TITLE: Rising Sum of Binomial Coefficients 
 $\sum_{j=0}^m\binom{n+j}n=\binom nn+\binom{n+1}n+\ldots+\binom{n+m}n =$
-Title_rus: 
-Description_eng: Rising Sum of Binomial Coefficients
+TITLE_rus: 
+DESCRIPTION: Rising Sum of Binomial Coefficients
 $\binom{n+m+1}{n+1} =$
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698168880333-->

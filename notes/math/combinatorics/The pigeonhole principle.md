@@ -37,12 +37,12 @@ END
 TARGET DECK: Math::Combinatorics    
 START
 Math def
-Title_eng: Математические формулировки принципа Дирихле
-Title_rus: 
-Description_eng: 1. Если $A = A_1 \cup A_2 \cup \ldots \cup A_k$, то для некоторого $i$ выполнено $\left| A_i \right| \geq \left\lceil \frac{|A|}{k} \right\rceil$ и для некоторого $j$ выполнено $\left| A_j \right| \leq \left\lfloor \frac{|A|}{k} \right\rfloor$.
+TITLE: Математические формулировки принципа Дирихле
+TITLE_rus: 
+DESCRIPTION: 1. Если $A = A_1 \cup A_2 \cup \ldots \cup A_k$, то для некоторого $i$ выполнено $\left| A_i \right| \geq \left\lceil \frac{|A|}{k} \right\rceil$ и для некоторого $j$ выполнено $\left| A_j \right| \leq \left\lfloor \frac{|A|}{k} \right\rfloor$.
 
 2. Если задана функция $f$ из $A$ в $B$, и при этом $\left| A \right| > \left| B \right|$, то найдутся $x, y \in A$, такие, что $x \neq y$ и $f(x) = f(y)$.
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705778426714-->

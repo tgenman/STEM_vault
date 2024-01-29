@@ -17,10 +17,10 @@ is the [[Order of graph (n)|order]] of the largest [[Clique]]
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: The clique number $ω(G)$ of a graph $G$ 
-Title_rus: 
-Description_eng: is the [[Order of graph (n)|order]] of the largest [[Clique]]
-Description_rus: 
+TITLE: The clique number $ω(G)$ of a graph $G$ 
+TITLE_rus: 
+DESCRIPTION: is the [[Order of graph (n)|order]] of the largest [[Clique]]
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705261600873-->

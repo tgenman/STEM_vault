@@ -27,9 +27,9 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Non labeled graph
-Title_rus: 
-Description_eng: 
+TITLE: Non labeled graph
+TITLE_rus: 
+DESCRIPTION: 
 Можно сказать что [[519.175.1 Isomorphic Graphs|изоморфные графы]] это различные изображения одного и того же непомеченного графа.
 
 Два изоморфных непомеченных графа будут считаться одинаковыми
@@ -40,7 +40,7 @@ Description_eng:
 ![[Pasted image 20231216214510.png]]
 
 Число помеченных графов можно приближенно рассчитать по [[Формула Пойа]] 
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705263691192-->

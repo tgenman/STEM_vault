@@ -17,10 +17,10 @@ connected:
 TARGET DECK: Math::Graph  
 START
 Math def
-Title_eng: Circumferen of $G$ $c(G)$
-Title_rus: 
-Description_eng: the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
-Description_rus: 
+TITLE: Circumferen of $G$ $c(G)$
+TITLE_rus: 
+DESCRIPTION: the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705261456133-->

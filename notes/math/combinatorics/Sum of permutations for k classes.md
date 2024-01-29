@@ -24,12 +24,12 @@ $\sum_{n_1+n_2+n_3=n} P(n_1, n_2, n_3) = 3^n$
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of permutations for k classes
+TITLE: Sum of permutations for k classes
 $\sum_{n_1+\ldots+n_k=n} P(n_1, \ldots, n_k) =$
-Title_rus: 
-Description_eng: Sum of permutations for k classes
+TITLE_rus: 
+DESCRIPTION: Sum of permutations for k classes
 $k^n =$
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706021732501-->
@@ -39,12 +39,12 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of permutations for 3 classes
+TITLE: Sum of permutations for 3 classes
 $\sum_{n_1+n_2+n_3=n} P(n_1, n_2, n_3) =$
-Title_rus: 
-Description_eng: Sum of permutations for 3 classes
+TITLE_rus: 
+DESCRIPTION: Sum of permutations for 3 classes
 $3^n =$
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706021732517-->

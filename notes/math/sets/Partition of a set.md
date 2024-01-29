@@ -17,11 +17,11 @@ The subsets are the ==cells== of the partition.
 TARGET DECK: Math::Set 
 START
 Math def
-Title_eng: A partition of a set $S$ 
-Title_rus: Разбиение множества
-Description_eng: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
+TITLE: A partition of a set $S$ 
+TITLE_rus: Разбиение множества
+DESCRIPTION: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1697898285975-->

@@ -23,10 +23,10 @@ connected:
 TARGET DECK: Math::Set  
 START
 Math def
-Title_eng: Codomain (Кодомен), Target set
-Title_rus: 
-Description_eng: Множество, в рамках которого рассматриваются возможные выходные значения функции.
-Description_rus: 
+TITLE: Codomain (Кодомен), Target set
+TITLE_rus: 
+DESCRIPTION: Множество, в рамках которого рассматриваются возможные выходные значения функции.
+DESCRIPTION_rus: 
 Formula_main: ![[Pasted image 20240117200108.png|300]]
 Formula_additional:
 <!--ID: 1706040595541-->

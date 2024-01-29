@@ -22,10 +22,10 @@ $$T = (u,v,y,w,v)$$
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Trail T
-Title_rus: Цепь
-Description_eng: A [[Walk W|walk]] in a graph $G$ in which no [[Edge of graph (E)|edge]] is repeated
-Description_rus: 
+TITLE: Trail T
+TITLE_rus: Цепь
+DESCRIPTION: A [[Walk W|walk]] in a graph $G$ in which no [[Edge of graph (E)|edge]] is repeated
+DESCRIPTION_rus: 
 Formula_main: $$T = (u,v,y,w,v)$$
 
 ![[Pasted image 20231123204833.png]]

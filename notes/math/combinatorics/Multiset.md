@@ -21,10 +21,10 @@ is a collection of objects in which each object can appear more than once.
 TARGET DECK: Math::Set
 START
 Math def
-Title_eng: Multiset
-Title_rus: Множество с повторениями
-Description_eng: is a collection of objects in which each object can appear more than once.
-Description_rus: 
+TITLE: Multiset
+TITLE_rus: Множество с повторениями
+DESCRIPTION: is a collection of objects in which each object can appear more than once.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705599792918-->

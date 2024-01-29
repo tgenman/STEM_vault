@@ -22,10 +22,10 @@ $$\binom nk+\binom n{k+1}=\binom{n+1}{k+1} $$
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Pascal Rule $\binom nk+\binom n{k+1} =$
-Title_rus: 
-Description_eng: Pascal Rule $\binom{n+1}{k+1} =$
-Description_rus: 
+TITLE: Pascal Rule $\binom nk+\binom n{k+1} =$
+TITLE_rus: 
+DESCRIPTION: Pascal Rule $\binom{n+1}{k+1} =$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: ![[Pasted image 20240121214326.png]]
 <!--ID: 1698168213895-->

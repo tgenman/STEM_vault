@@ -16,10 +16,10 @@ A walk whose initial and terminal vertices are distinct
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Open walk
-Title_rus: 
-Description_eng: A walk whose initial and terminal vertices are distinct
-Description_rus: 
+TITLE: Open walk
+TITLE_rus: 
+DESCRIPTION: A walk whose initial and terminal vertices are distinct
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705348914030-->

@@ -27,11 +27,11 @@ $A = \{1, 3, 5\}$ - outcome is odd
 TARGET DECK: Math::Probability
 START
 Math def
-Title_eng: Sample space $\Omega$ 
+TITLE: Sample space $\Omega$ 
 (Informal definition)
-Title_rus: Пространство элементарных исходов $\Omega$
-Description_eng: the set of all possible outcomes of an experiment
-Description_rus: 
+TITLE_rus: Пространство элементарных исходов $\Omega$
+DESCRIPTION: the set of all possible outcomes of an experiment
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: 
 <!--ID: 1697972538023-->

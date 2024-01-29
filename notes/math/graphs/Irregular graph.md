@@ -29,12 +29,12 @@ if exactly two vertices of $G$ have the same degree.
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Irregular graph
-Title_rus: 
-Description_eng: is a nontrivial graph $G$ 
+TITLE: Irregular graph
+TITLE_rus: 
+DESCRIPTION: is a nontrivial graph $G$ 
 if $\deg  u \neq \deg v$ for every two vertices $u$ and $v$ of $G$. 
 Actually, no graph has this property.
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705262930870-->
@@ -44,11 +44,11 @@ END
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Nearly irregular graph
-Title_rus: 
-Description_eng: is a graph $G$ of order $n ≥ 2$ 
+TITLE: Nearly irregular graph
+TITLE_rus: 
+DESCRIPTION: is a graph $G$ of order $n ≥ 2$ 
 if exactly two vertices of $G$ have the same degree.
-Description_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705262930879-->

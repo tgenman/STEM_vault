@@ -23,10 +23,10 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: Сlique
-Title_rus: 
-Description_eng: Complete  Subgrap of $G$
-Description_rus: 
+TITLE: Сlique
+TITLE_rus: 
+DESCRIPTION: Complete  Subgrap of $G$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705258440998-->
@@ -36,10 +36,10 @@ END
 TARGET DECK: Math::Graph
 START
 Math def
-Title_eng: k-clique
-Title_rus: 
-Description_eng: A clique of order $k$
-Description_rus: 
+TITLE: k-clique
+TITLE_rus: 
+DESCRIPTION: A clique of order $k$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705258441000-->

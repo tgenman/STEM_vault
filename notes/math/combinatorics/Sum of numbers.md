@@ -62,11 +62,11 @@ $$
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of numbers for power 1
+TITLE: Sum of numbers for power 1
 $1+2+3+4+\ldots+n=\binom11+\binom21+\ldots+\binom n1=\binom{n+1}2 =$
-Title_rus: 
-Description_eng: $\frac{n(n+1)}2 =$
-Description_rus: 
+TITLE_rus: 
+DESCRIPTION: $\frac{n(n+1)}2 =$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706020955777-->
@@ -76,11 +76,11 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of numbers for power 2
+TITLE: Sum of numbers for power 2
 $1^2+2^2+3^2+4^2+\ldots+n^2 =$
-Title_rus: 
-Description_eng: $\frac{(n+1)n(2n+1)}{6} =$
-Description_rus: 
+TITLE_rus: 
+DESCRIPTION: $\frac{(n+1)n(2n+1)}{6} =$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706020955796-->
@@ -90,11 +90,11 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math def
-Title_eng: Sum of numbers for power 2
+TITLE: Sum of numbers for power 2
 $1^3+2^3+3^3+4^3+\ldots+n^3 =$
-Title_rus: 
-Description_eng: $\frac{n^2(n+1)^2}{4} =$
-Description_rus: 
+TITLE_rus: 
+DESCRIPTION: $\frac{n^2(n+1)^2}{4} =$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706021072861-->

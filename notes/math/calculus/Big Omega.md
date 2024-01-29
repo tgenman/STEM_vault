@@ -18,10 +18,10 @@ parent:
 TARGET DECK: Math::Calculus
 START
 Math def
-Title_eng: Функция $f(n)$ является $\Omega(g(n))$
-Title_rus: Асимптотическая оценка снизу
-Description_eng: если существуют такие положительные константы $C$ и $n_0$, что для всех $n \geq n_0$ выполняется неравенство $|f(n)| \geq C \cdot |g(n)|$.
-Description_rus: 
+TITLE: Функция $f(n)$ является $\Omega(g(n))$
+TITLE_rus: Асимптотическая оценка снизу
+DESCRIPTION: если существуют такие положительные константы $C$ и $n_0$, что для всех $n \geq n_0$ выполняется неравенство $|f(n)| \geq C \cdot |g(n)|$.
+DESCRIPTION_rus: 
 Formula_main: Это означает, что $f(n)$ растёт по крайней мере так же быстро, как $g(n)$, умноженное на константу $C$. Иными словами, $\Omega(g(n))$ определяет "нижний порог" для роста функции $f(n)$.
 Formula_additional:
 <!--ID: 1705867137796-->
