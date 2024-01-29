@@ -42,10 +42,10 @@ Math prop
 TITLE: Sample space $\Omega$ 
 (Formal definition)
 TITLE_rus: Пространство элементарных исходов $\Omega$
-Answer_eng: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
+DESCRIPTION: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
 - $\omega \in \Omega$ - [[Elementary event]] (element of set)
 - $A \subset \Omega$ - an [[Event]] (subset of set)
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: ### Example
 Tossing a dice

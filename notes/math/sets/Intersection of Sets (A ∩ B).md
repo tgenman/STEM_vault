@@ -23,8 +23,8 @@ START
 Math prop
 TITLE: Intersection of Sets (A ∩ B)
 TITLE_rus: **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
-Answer_eng: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
-Answer_rus: 
+DESCRIPTION: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
+DESCRIPTION_rus: 
 Formula_main: ![[Pasted image 20220630190715.png]]
 Formula_additional:
 <!--ID: 1706040702788-->

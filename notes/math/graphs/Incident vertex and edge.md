@@ -21,8 +21,8 @@ START
 Math prop
 TITLE: Incident vertex and edge
 TITLE_rus: 
-Answer_eng: The vertex $u$ and the edge $uv$ are said to be incident with each other.
-Answer_rus: 
+DESCRIPTION: The vertex $u$ and the edge $uv$ are said to be incident with each other.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699130467965-->

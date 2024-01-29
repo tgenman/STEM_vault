@@ -52,9 +52,9 @@ START
 Math prop
 TITLE: Derangements
 TITLE_rus: Перестановки без неподвижных точек, Смещения
-Answer_eng: число перестано­вок $n$ элементов, при кото­рых ни один из элементов не стоит на своем месте
+DESCRIPTION: число перестано­вок $n$ элементов, при кото­рых ни один из элементов не стоит на своем месте
 $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: $D_n = P_n - \binom{n}{1} P_{n-1} + \binom{n}{2} P_{n-2} - \ldots + (-1)^n \binom{n}{n} = n! \left[ 1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + \frac{(-1)^n}{n!} \right].$
 Formula_additional:
 <!--ID: 1698688139448-->
@@ -64,8 +64,8 @@ START
 Math prop
 TITLE: Approximate value of Derangements
 TITLE_rus: 
-Answer_eng: $$d_n\sim\frac{n!}e$$
-Answer_rus: 
+DESCRIPTION: $$d_n\sim\frac{n!}e$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698688139452-->

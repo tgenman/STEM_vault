@@ -24,8 +24,8 @@ START
 Math prop
 TITLE:  Factoring
 TITLE_rus: 
-Answer_eng: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
-Answer_rus: 
+DESCRIPTION: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
+DESCRIPTION_rus: 
 Formula_main: 
 $$x^2-x-2=(x+1)(x-2).$$
 

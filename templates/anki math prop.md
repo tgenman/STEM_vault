@@ -5,8 +5,8 @@ TARGET DECK: Math:: #обс/фикс
 Math prop
 TITLE: 
 TITLE_rus: 
-Answer_eng: 
-Answer_rus: 
+DESCRIPTION: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 END

@@ -21,8 +21,8 @@ START
 Math prop
 TITLE: Trivial walk
 TITLE_rus: 
-Answer_eng: is walk consist of a single vertex
-Answer_rus: A trivial walk is therefore a [[Closed walk]] closed walk.
+DESCRIPTION: is walk consist of a single vertex
+DESCRIPTION_rus: A trivial walk is therefore a [[Closed walk]] closed walk.
 Formula_main: 
 Formula_additional:
 <!--ID: 1705602331022-->

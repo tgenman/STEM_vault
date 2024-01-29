@@ -30,11 +30,11 @@ START
 Math prop
 TITLE: Properties of Random experiment
 TITLE_rus: 
-Answer_eng: - повторяемость
+DESCRIPTION: - повторяемость
 - отсутствие детерминистической регулярности
 - статистическая устойчивость частот
 	- в разных сериях экспериментов, частотное распределение событий должно сохраняться
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1697971998299-->
@@ -44,14 +44,14 @@ START
 Math prop
 TITLE: Математическая модель случайного эксперимента
 TITLE_rus: 
-Answer_eng: - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
+DESCRIPTION: - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
 	- [[Elementary event]] и [[Sample space]]
 - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет
 - Частоты событий $\frac{N(A)}{N}$ <-> P(A)
 	- [[Probability]] - это идеализированное представление о частоте
 	- $P(\Omega) = 1$
 	- $P(A \sqcup B) = P(A) + P(B)$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1697971998309-->

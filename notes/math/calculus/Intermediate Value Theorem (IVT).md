@@ -20,10 +20,10 @@ START
 Math prop
 TITLE: Intermediate Value Theorem (IVT)
 TITLE_rus: 
-Answer_eng: While the [[Extreme Value Theorem (EVT)]]  says something about maximum (and minimum) values, the ==Intermediate Value Theorem== says something about the values in between.
+DESCRIPTION: While the [[Extreme Value Theorem (EVT)]]  says something about maximum (and minimum) values, the ==Intermediate Value Theorem== says something about the values in between.
  
 IVT says that if $f$ is continuous on an interval $[a,b]$, then for every number $z$ between $f(a)$ and $f(b)$,there is some $p$ in $[a,b]$ for which $f(p)=z.$ In other words, "all the intermediate values will get hit by $f$."
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1697919356872-->

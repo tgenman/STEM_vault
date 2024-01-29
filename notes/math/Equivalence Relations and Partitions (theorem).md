@@ -34,14 +34,14 @@ START
 Math prop
 TITLE: Equivalence Relations and Partitions (theorem)
 TITLE_rus: 
-Answer_eng: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
+DESCRIPTION: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
 
 $$
 \bar{a}=\{x\in S\mid x\sim a\}.
 $$
 
 Also, each partition of $S$ gives rise to an equivalence relation $∼$ on $S$ where $a ∼ b$ if and only if a and b are in the same cell of the partition.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1697900657287-->

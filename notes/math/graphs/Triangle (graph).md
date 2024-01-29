@@ -23,9 +23,9 @@ START
 Math prop
 TITLE: Triangle (graph)
 TITLE_rus: 
-Answer_eng: 3-cycle
+DESCRIPTION: 3-cycle
 [[Complete graph]] with $n=3$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: $C_3 = K_3$
 Formula_additional:
 <!--ID: 1699131352172-->

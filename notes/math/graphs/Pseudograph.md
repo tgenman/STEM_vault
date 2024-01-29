@@ -25,9 +25,9 @@ START
 Math prop
 TITLE: Pseudograph
 TITLE_rus: Псевдограф
-Answer_eng: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
+DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
 or [[Multigraph (H)]] + [[Loop (graph)]]
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: ![[Pasted image 20231115154026.png]]
 Formula_additional:
 <!--ID: 1705600203513-->

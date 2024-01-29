@@ -42,11 +42,11 @@ START
 Math prop
 TITLE: Properties of Complement of Set
 TITLE_rus: 
-Answer_eng: - $A \cup \overline{A} = U$
+DESCRIPTION: - $A \cup \overline{A} = U$
 - $A \cap \overline{A} = \emptyset$
 - $\overline{U} = \emptyset$
 - $\bar{\bar{A}} = A$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706031862937-->

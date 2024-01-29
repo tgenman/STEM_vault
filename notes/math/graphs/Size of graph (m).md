@@ -21,8 +21,8 @@ START
 Math prop
 TITLE: Size ($m$) of $G$
 TITLE_rus: 
-Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
-Answer_rus: 
+DESCRIPTION: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164832914-->

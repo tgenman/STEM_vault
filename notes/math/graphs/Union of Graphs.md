@@ -28,10 +28,10 @@ START
 Math prop
 TITLE: Union of Graphs
 TITLE_rus: The union $G = G_1+G_2$
-Answer_eng: has 
+DESCRIPTION: has 
 vertex set $V(G) = V(G_1)∪V(G_2)$ and 
 edge set $E(G) = E(G_1) ∪ E(G_2)$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: ![[Pasted image 20231104144008.png]]
 <!--ID: 1699129936360-->

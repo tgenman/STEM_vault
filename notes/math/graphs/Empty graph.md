@@ -21,8 +21,8 @@ START
 Math prop
 TITLE: Empty graph
 TITLE_rus: 
-Answer_eng: if size $m = 0$
-Answer_rus: 
+DESCRIPTION: if size $m = 0$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699132303418-->

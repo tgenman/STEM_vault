@@ -25,8 +25,8 @@ START
 Math prop
 TITLE: Neighbours
 TITLE_rus: 
-Answer_eng: Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
-Answer_rus: 
+DESCRIPTION: Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164787998-->
@@ -38,8 +38,8 @@ START
 Math prop
 TITLE: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
 TITLE_rus: 
-Answer_eng: The set of neighbours of a vertex $v$
-Answer_rus: 
+DESCRIPTION: The set of neighbours of a vertex $v$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164788012-->
@@ -51,8 +51,8 @@ START
 Math prop
 TITLE: Closed neighborhood of $v$
 TITLE_rus: 
-Answer_eng: The set $N[v] = N(v) ∪ {v}$ 
-Answer_rus: 
+DESCRIPTION: The set $N[v] = N(v) ∪ {v}$ 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164788026-->

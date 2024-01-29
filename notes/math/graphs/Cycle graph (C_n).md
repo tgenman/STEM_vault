@@ -30,8 +30,8 @@ START
 Math prop
 TITLE: Cycle $C_n$ (n-cycle) 
 TITLE_rus: 
-Answer_eng: is a graph of order $n$ and size $m$ whose vertices can be labeled by $v_1, v_2, . . . , v_n$ and whose edges are $v_1v_n$ and $v_iv_{i+1}$ for $i = 1,2,...,n−1$ (for an integer $n ≥ 3$)
-Answer_rus: 
+DESCRIPTION: is a graph of order $n$ and size $m$ whose vertices can be labeled by $v_1, v_2, . . . , v_n$ and whose edges are $v_1v_n$ and $v_iv_{i+1}$ for $i = 1,2,...,n−1$ (for an integer $n ≥ 3$)
+DESCRIPTION_rus: 
 Formula_main: - 3-cycle is a [[Triangle (graph)]], 
 > - 4-cycle is a ==quadrilateral==
 > - 5-cycle is a ==pentagon ==

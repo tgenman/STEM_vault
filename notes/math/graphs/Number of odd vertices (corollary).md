@@ -25,8 +25,8 @@ START
 Math prop
 TITLE: Number of odd vertices (corollary)
 TITLE_rus: 
-Answer_eng: Every graph has an even number of odd vertices.
-Answer_rus: 
+DESCRIPTION: Every graph has an even number of odd vertices.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: ### Proof
 Proof. Suppose that $G$ is a graph of size $m$. By [[Handshaking Lemma]],

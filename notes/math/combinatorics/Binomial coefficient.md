@@ -33,8 +33,8 @@ START
 Math prop
 TITLE: $$\binom{n}{k} =$$
 TITLE_rus: 
-Answer_eng: $$= \frac{n!}{k!(n-k)!}$$
-Answer_rus: 
+DESCRIPTION: $$= \frac{n!}{k!(n-k)!}$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699125498477-->
@@ -46,8 +46,8 @@ START
 Math prop
 TITLE: $$\binom{0}{0} = ?$$
 TITLE_rus: 
-Answer_eng: $$ = 1$$
-Answer_rus: 
+DESCRIPTION: $$ = 1$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698689820228-->
@@ -59,8 +59,8 @@ START
 Math prop
 TITLE: $$\binom{1}{0} = ?$$
 TITLE_rus: 
-Answer_eng: $$ = 1$$
-Answer_rus: 
+DESCRIPTION: $$ = 1$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698689820237-->
@@ -73,8 +73,8 @@ START
 Math prop
 TITLE: $$\binom{n}{0} = ?$$
 TITLE_rus: 
-Answer_eng: $$ = 1$$
-Answer_rus: 
+DESCRIPTION: $$ = 1$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698689820242-->
@@ -86,8 +86,8 @@ START
 Math prop
 TITLE: $$\binom{n}{1} = ?$$
 TITLE_rus: 
-Answer_eng: $$ = n$$
-Answer_rus: 
+DESCRIPTION: $$ = n$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698689820246-->

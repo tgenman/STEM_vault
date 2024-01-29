@@ -35,8 +35,8 @@ START
 Math prop
 TITLE: Cartesian product of $A$ and $B$.
 TITLE_rus: 
-Answer_eng: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
-Answer_rus: 
+DESCRIPTION: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699126600775-->
@@ -48,8 +48,8 @@ START
 Math prop
 TITLE: [[Cardinality|Мощность]] декартового произведения множеств
 TITLE_rus: 
-Answer_eng: равна произведению мощностей этих множеств
-Answer_rus: 
+DESCRIPTION: равна произведению мощностей этих множеств
+DESCRIPTION_rus: 
 Formula_main: $$|A \times B | = |A| \cdot |B|$$
 Formula_additional:
 <!--ID: 1699126600788-->
@@ -62,13 +62,13 @@ START
 Math prop
 TITLE: Свойства декартового произведения множеств
 TITLE_rus: 
-Answer_eng: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
+DESCRIPTION: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
 2. $A \times (B_1 \cup B_2) = (A \times B_1) \cup (A \times B_2)$
 3. $(A_1 \cap A_2) \times B = (A_1 \times B) \cap (A_2 \times B)$
 4. $A \times (B_1 \cap B_2) = (A \times B_1) \cap (A \times B_2)$
 5. $(A_1 \setminus A_2) \times B = (A_1 \times B) \setminus (A_2 \times B)$
 6. $A \times (B_1 \setminus B_2) = (A \times B_1) \setminus (A \times B_2)$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705775628748-->

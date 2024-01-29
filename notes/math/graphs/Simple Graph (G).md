@@ -49,8 +49,8 @@ START
 Math prop
 TITLE: Graph (G)
 TITLE_rus: 
-Answer_eng: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
-Answer_rus: 
+DESCRIPTION: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
+DESCRIPTION_rus: 
 Formula_main: $$G = (V,E)$$
 Formula_additional:
 <!--ID: 1699164911412-->

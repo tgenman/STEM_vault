@@ -17,9 +17,9 @@ START
 Math prop
 TITLE: The bijection rule
 TITLE_rus: 
-Answer_eng: Let $A$ and $B$ be two finite sets. 
+DESCRIPTION: Let $A$ and $B$ be two finite sets. 
 Then there exists are [[Bijective mapping property (function)|Bijection]] $\phi: A \rightarrow B$ if and only if the sets $A$ and $B$ have the same number of elements
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698068168814-->

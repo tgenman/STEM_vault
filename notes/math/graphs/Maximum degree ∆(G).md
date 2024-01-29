@@ -18,8 +18,8 @@ START
 Math prop
 TITLE: Maximum degree ($∆(G)$)
 TITLE_rus: 
-Answer_eng: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
-Answer_rus: 
+DESCRIPTION: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165371508-->

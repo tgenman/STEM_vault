@@ -28,9 +28,9 @@ START
 Math prop
 TITLE: A graph $H$ is a subgraph of a graph $G$
 TITLE_rus: 
-Answer_eng: if $V(H)⊆V(G)$ and $E(H)⊆E(G)$
+DESCRIPTION: if $V(H)⊆V(G)$ and $E(H)⊆E(G)$
 in which case we write $H ⊆ G$.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165738437-->
@@ -42,8 +42,8 @@ START
 Math prop
 TITLE: Supergraph
 TITLE_rus: 
-Answer_eng: If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
-Answer_rus: 
+DESCRIPTION: If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165738456-->
@@ -55,8 +55,8 @@ START
 Math prop
 TITLE: Proper subgraph
 TITLE_rus: 
-Answer_eng: If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
-Answer_rus: 
+DESCRIPTION: If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165738466-->

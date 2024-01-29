@@ -22,8 +22,8 @@ START
 Math prop
 TITLE: **Объединение** $A∪B$ 
 TITLE_rus: 
-Answer_eng: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
-Answer_rus: 
+DESCRIPTION: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
+DESCRIPTION_rus: 
 Formula_main: ![[Pasted image 20220630193329.png]]
 Formula_additional:
 <!--ID: 1706032088984-->

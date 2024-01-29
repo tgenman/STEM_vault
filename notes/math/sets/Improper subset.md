@@ -19,8 +19,8 @@ START
 Math prop
 TITLE: Improper subset
 TITLE_rus: Несобственное подмножество
-Answer_eng: Cамо множество и пустое множество
-Answer_rus: 
+DESCRIPTION: Cамо множество и пустое множество
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699130367605-->

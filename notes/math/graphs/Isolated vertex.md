@@ -18,8 +18,8 @@ START
 Math prop
 TITLE: Isolated vertex
 TITLE_rus: 
-Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
-Answer_rus: 
+DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699132208101-->

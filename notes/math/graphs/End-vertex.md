@@ -22,8 +22,8 @@ START
 Math prop
 TITLE: End-vertex
 TITLE_rus: 
-Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
-Answer_rus: 
+DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699131882675-->

@@ -20,8 +20,8 @@ START
 Math prop
 TITLE: Pendant edge
 TITLE_rus: Висячее ребро 
-Answer_eng: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
-Answer_rus: 
+DESCRIPTION: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165371489-->

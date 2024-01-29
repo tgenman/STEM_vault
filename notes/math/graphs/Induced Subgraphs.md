@@ -40,10 +40,10 @@ START
 Math prop
 TITLE: Induced subgraph
 TITLE_rus: Порожденный подграф
-Answer_eng: is a subgraph $H$ of $G$ if: 
+DESCRIPTION: is a subgraph $H$ of $G$ if: 
 if there is a nonempty vertex subset $S$ of $V(G)$ such that $H = G[S]$.
 $G[V(G)] = G$. 
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699171145822-->
@@ -55,10 +55,10 @@ START
 Math prop
 TITLE: Edge-induced subgraph
 TITLE_rus: Порожденный подграф
-Answer_eng: is a subgraph $H$ of $G$ if:
+DESCRIPTION: is a subgraph $H$ of $G$ if:
 there is a nonempty  edge subset $X$ of $E(G)$ such that $H = G[X]$. 
 Thus, $G[E(G)] = G$ if and only if $G$ has no isolated vertices.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699171145833-->
@@ -70,10 +70,10 @@ START
 Math prop
 TITLE: Induced by vertex set $S$
 TITLE_rus: Порожденный подграф
-Answer_eng: Subgraph $G[S]$ of $G$ induced by $S$ (for a nonempty  vertex subset $S$ of $V(G)$) if:
+DESCRIPTION: Subgraph $G[S]$ of $G$ induced by $S$ (for a nonempty  vertex subset $S$ of $V(G)$) if:
  has $S$ as its vertex set and
  two vertices $u$ and $v$ are adjacent in $G[S]$ if and only if $u$ and $v$ are adjacent in $G$.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699171145843-->
@@ -85,10 +85,10 @@ START
 Math prop
 TITLE: Induced by edge set $X$
 TITLE_rus: Порожденный подграф
-Answer_eng: > Subgraph $G[X]$ of $G$ induced by $X$ (for a nonempty  edge subset $X$ of $E{} (G)$) if:
+DESCRIPTION: > Subgraph $G[X]$ of $G$ induced by $X$ (for a nonempty  edge subset $X$ of $E{} (G)$) if:
  has $X$ as its edge set and
  a vertex $v$ belongs to $G[X]$ if $v$ is incident with at least one edge in $X$. 
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699171145854-->

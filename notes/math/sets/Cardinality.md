@@ -31,9 +31,9 @@ START
 Math prop
 TITLE: Cardinality
 TITLE_rus: 
-Answer_eng: The number of elements in a set $X$.
+DESCRIPTION: The number of elements in a set $X$.
 > Denoted by $|X|$ or $\#X$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1706040051697-->

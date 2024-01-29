@@ -28,8 +28,8 @@ START
 Math prop
 TITLE: Indicator function
 TITLE_rus: Индикаторная функция
-Answer_eng: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
-Answer_rus: 
+DESCRIPTION: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698688139475-->
@@ -39,11 +39,11 @@ START
 Math prop
 TITLE: Properties of Indicator function
 TITLE_rus: Свойства Индикаторная функция
-Answer_eng: $$I_{\bar{A}} = 1 - I_{A}$$
+DESCRIPTION: $$I_{\bar{A}} = 1 - I_{A}$$
 $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698688139477-->

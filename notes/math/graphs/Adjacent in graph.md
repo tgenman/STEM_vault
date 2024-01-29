@@ -25,8 +25,8 @@ START
 Math prop
 TITLE: Adjacent vertices 
 TITLE_rus: 
-Answer_eng: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
-Answer_rus: 
+DESCRIPTION: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699126049535-->
@@ -39,8 +39,8 @@ START
 Math prop
 TITLE: Adjacent edges
 TITLE_rus: 
-Answer_eng: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
-Answer_rus: 
+DESCRIPTION: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699126049540-->

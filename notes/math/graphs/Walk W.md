@@ -29,8 +29,8 @@ START
 Math prop
 TITLE:  $u − v$ walk $W$
 TITLE_rus: Маршрут
-Answer_eng: For two (not necessarily distinct) vertices $u$ and $v$ in a graph $G$, a $u − v$ walk $W$ in $G$ is a sequence of vertices in $G$, beginning with $u$ and ending at $v$ such that consecutive vertices in $W$ are [[Adjacent in graph|adjacent]] in $G$.
-Answer_rus: 
+DESCRIPTION: For two (not necessarily distinct) vertices $u$ and $v$ in a graph $G$, a $u − v$ walk $W$ in $G$ is a sequence of vertices in $G$, beginning with $u$ and ending at $v$ such that consecutive vertices in $W$ are [[Adjacent in graph|adjacent]] in $G$.
+DESCRIPTION_rus: 
 Formula_main: $$W_1 = (x,w,y,w,v,u,w)$$
 ![[Pasted image 20231123204833.png]]
 Formula_additional:
@@ -43,8 +43,8 @@ START
 Math prop
 TITLE:  length of W
 TITLE_rus: 
-Answer_eng: The number of edges encountered in $W$ (including multiplicities)  .
-Answer_rus: 
+DESCRIPTION: The number of edges encountered in $W$ (including multiplicities)  .
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705600533278-->
@@ -56,8 +56,8 @@ START
 Math prop
 TITLE: Equal Walks
 TITLE_rus: 
-Answer_eng: Two $u−v$ walks $W =(u=u_0,u_1,...,u_k =v)$ and $W′ =(u=v_0,v_1,...,v_l = v)$  in a graph are equal if $k=l$ and $u_i =v_i$ for all $i$ with $0≤i≤k$
-Answer_rus: 
+DESCRIPTION: Two $u−v$ walks $W =(u=u_0,u_1,...,u_k =v)$ and $W′ =(u=v_0,v_1,...,v_l = v)$  in a graph are equal if $k=l$ and $u_i =v_i$ for all $i$ with $0≤i≤k$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705600533281-->

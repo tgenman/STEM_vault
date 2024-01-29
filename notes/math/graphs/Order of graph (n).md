@@ -21,8 +21,8 @@ START
 Math prop
 TITLE: Order of graph (n)
 TITLE_rus: 
-Answer_eng: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
-Answer_rus: 
+DESCRIPTION: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164654357-->

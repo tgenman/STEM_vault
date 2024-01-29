@@ -18,8 +18,8 @@ START
 Math prop
 TITLE: Minimum degree
 TITLE_rus: 
-Answer_eng: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
-Answer_rus: 
+DESCRIPTION: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699164425904-->

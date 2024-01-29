@@ -20,12 +20,12 @@ START
 Math prop
 TITLE: The substraction principle (combinatorics)
 TITLE_rus: 
-Answer_eng: Let $A$ be a finite set and $A \subset B$ then
+DESCRIPTION: Let $A$ be a finite set and $A \subset B$ then
 $$
 |B| = |A| - |A \backslash B|
 $$
 
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1698065777629-->

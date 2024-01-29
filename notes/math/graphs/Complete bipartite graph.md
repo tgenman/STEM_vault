@@ -36,8 +36,8 @@ START
 Math prop
 TITLE: A graph $G$ is complete bipartite
 TITLE_rus: 
-Answer_eng: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
-Answer_rus: 
+DESCRIPTION: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional: If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has 
  order $s+t$ 
@@ -53,8 +53,8 @@ START
 Math prop
 TITLE: Graph named Star
 TITLE_rus: 
-Answer_eng: The complete bipartite graph $K_{1,t}$ 
-Answer_rus: 
+DESCRIPTION: The complete bipartite graph $K_{1,t}$ 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165908053-->
@@ -66,8 +66,8 @@ START
 Math prop
 TITLE: Graph called Claw
 TITLE_rus: 
-Answer_eng: The star $K_{1,3}$
-Answer_rus: 
+DESCRIPTION: The star $K_{1,3}$
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699165908065-->

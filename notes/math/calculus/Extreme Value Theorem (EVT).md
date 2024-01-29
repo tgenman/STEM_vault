@@ -22,10 +22,10 @@ START
 Math prop
 TITLE: Extreme Value Theorem (EVT)
 TITLE_rus: 
-Answer_eng: Suppose  is continuous at every point in an interval  
+DESCRIPTION: Suppose  is continuous at every point in an interval  
 
 The Extreme Value Theorem says that $f$ takes on a maximum value and a minimum value.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: In other words, there is at least one point $p$ in $[a,b]$ such that $f(p)\geq f(x)$ for all $x$ in $[a,b]$, and there is at least one point $q$ in $[a,b]$ such that $f(q)\leq f(x)$ for all $x$ in $[a,b].$
 Formula_additional:
 <!--ID: 1697919149961-->

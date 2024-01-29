@@ -34,9 +34,9 @@ START
 Math prop
 TITLE: A set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
 TITLE_rus: Подмножество
-Answer_eng: if every element of $B$ is in $A$. 
+DESCRIPTION: if every element of $B$ is in $A$. 
 The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705599998539-->
@@ -48,7 +48,7 @@ START
 Math prop
 TITLE: Свойства подмножеств
 TITLE_rus: 
-Answer_eng: - **Самопринадлежность** 
+DESCRIPTION: - **Самопринадлежность** 
 	- $A⊆A$
 - **Транзитивность**
 	- Если $B⊆A$ и $A⊆K$, то $B⊆K$`
@@ -56,7 +56,7 @@ Answer_eng: - **Самопринадлежность**
 	- Если $A⊆B$ и $B⊆A$, то $A=B$
 - For any set $A$, $A$ itself and $∅$ are both subsets of $A$. 
 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и [[Empty Set]]
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705599998544-->

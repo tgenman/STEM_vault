@@ -19,8 +19,8 @@ START
 Math prop
 TITLE: Proper subset
 TITLE_rus: Собственное подмножество
-Answer_eng: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
-Answer_rus: 
+DESCRIPTION: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699129807675-->

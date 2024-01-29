@@ -22,10 +22,10 @@ START
 Math prop
 TITLE: $H$ is a spanning subgraph of $G$ 
 TITLE_rus: Остовный подграф
-Answer_eng: If:
+DESCRIPTION: If:
 $H$ is a [[Subgraph|subgraph]] of $G$ and 
 $V(H)=V(G)$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1699170889234-->

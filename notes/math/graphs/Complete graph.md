@@ -29,8 +29,8 @@ START
 Math prop
 TITLE: Complete graph $K_n$
 TITLE_rus: 
-Answer_eng: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
-Answer_rus: 
+DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
+DESCRIPTION_rus: 
 Formula_main: $$m = \binom{n}{2}$$
 Formula_additional: ![[Pasted image 20231031224948.png]]
 <!--ID: 1699130250667-->

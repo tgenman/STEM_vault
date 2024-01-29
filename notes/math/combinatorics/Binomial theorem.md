@@ -40,9 +40,9 @@ START
 Math prop
 TITLE: Binomial theorem
 TITLE_rus: 
-Answer_eng: $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
+DESCRIPTION: $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
 $$=\binom n0a^n+\binom n1a^{n-1}b+\ldots+\binom nnb^n$$
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: Binomial Theorem. Proof
 
 $$(a+b)^n=\sum_{k=0}^n\binom{n}{k}a^{n-k}b^k. \rhd (a+b)^n=(a+b)\cdotp(a+b)\cdotp...\cdotp(a+b)$$

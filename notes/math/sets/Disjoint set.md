@@ -22,8 +22,8 @@ START
 Math prop
 TITLE: Sets are disjoint
 TITLE_rus: 
-Answer_eng:  if no two of them share a common element
-Answer_rus: 
+DESCRIPTION:  if no two of them share a common element
+DESCRIPTION_rus: 
 Formula_main: 
 Formula_additional:
 <!--ID: 1705513882724-->

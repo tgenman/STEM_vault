@@ -31,9 +31,9 @@ START
 Math prop
 TITLE: Pascal’s triangle
 TITLE_rus: 
-Answer_eng: Each row $n$ consist of the $\binom{n}{k}$:  
+DESCRIPTION: Each row $n$ consist of the $\binom{n}{k}$:  
 $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, $\binom{4}{4} = 1$.
-Answer_rus: 
+DESCRIPTION_rus: 
 Formula_main: $$
 $(a + b)^n = ?$  
 $(1 + x)^0 = 1$  
