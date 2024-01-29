@@ -16,8 +16,8 @@ is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Minimum degree
-Question_rus: 
+TITLE: Minimum degree
+TITLE_rus: 
 Answer_eng: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 Answer_rus: 
 Formula_main: 

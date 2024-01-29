@@ -22,8 +22,8 @@ Proof. Assume, to the contrary, that there exists an irregular graph $G$ of orde
 TARGET DECK: Math::Graph 
 START
 Math prop
-Question_eng:  Theorem about no existence irregular graph
-Question_rus: 
+TITLE:  Theorem about no existence irregular graph
+TITLE_rus: 
 Answer_eng: No graph is irregular
 Answer_rus: 
 Formula_main: Proof

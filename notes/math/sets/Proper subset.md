@@ -17,8 +17,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Proper subset
-Question_rus: Собственное подмножество
+TITLE: Proper subset
+TITLE_rus: Собственное подмножество
 Answer_eng: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
 Answer_rus: 
 Formula_main: 

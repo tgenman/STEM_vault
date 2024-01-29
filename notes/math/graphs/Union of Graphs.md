@@ -26,8 +26,8 @@ If a graph $G$ consists of $k (≥ 2)$ disjoint copies of a graph $H$, then we w
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Union of Graphs
-Question_rus: The union $G = G_1+G_2$
+TITLE: Union of Graphs
+TITLE_rus: The union $G = G_1+G_2$
 Answer_eng: has 
 vertex set $V(G) = V(G_1)∪V(G_2)$ and 
 edge set $E(G) = E(G_1) ∪ E(G_2)$

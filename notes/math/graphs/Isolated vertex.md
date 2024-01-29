@@ -16,8 +16,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Isolated vertex
-Question_rus: 
+TITLE: Isolated vertex
+TITLE_rus: 
 Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 Answer_rus: 
 Formula_main: 

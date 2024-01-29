@@ -34,8 +34,8 @@ $$
 TARGET DECK: Math::Common
 START
 Math prop
-Question_eng: Сomplex conjugate
-Question_rus: 
+TITLE: Сomplex conjugate
+TITLE_rus: 
 Answer_eng: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
 Answer_rus: 
 Formula_main: So, if $z=a+bi$, then $\overline{z}=a-bi.$

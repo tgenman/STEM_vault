@@ -20,8 +20,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: End-vertex
-Question_rus: 
+TITLE: End-vertex
+TITLE_rus: 
 Answer_eng: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 Answer_rus: 
 Formula_main: 

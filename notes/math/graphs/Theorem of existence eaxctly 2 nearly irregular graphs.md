@@ -24,8 +24,8 @@ We show by induction that for each integer $n \geq 2$ there are exactly two near
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Theorem of existence eaxctly 2 nearly irregular graphs
-Question_rus: 
+TITLE: Theorem of existence eaxctly 2 nearly irregular graphs
+TITLE_rus: 
 Answer_eng: For every integer $n ≥ 2$, there are exactly two nearly irregular graphs of order $n$.
 Answer_rus: 
 Formula_main: ### Proof

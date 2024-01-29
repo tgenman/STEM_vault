@@ -22,8 +22,8 @@ $$
 TARGET DECK: Math::Common  
 START
 Math prop
-Question_eng:  Factoring
-Question_rus: 
+TITLE:  Factoring
+TITLE_rus: 
 Answer_eng: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
 Answer_rus: 
 Formula_main: 

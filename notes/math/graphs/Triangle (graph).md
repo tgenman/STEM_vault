@@ -21,8 +21,8 @@ $C_3 = K_3$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Triangle (graph)
-Question_rus: 
+TITLE: Triangle (graph)
+TITLE_rus: 
 Answer_eng: 3-cycle
 [[Complete graph]] with $n=3$
 Answer_rus: 

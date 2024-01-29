@@ -18,8 +18,8 @@ $$
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: The substraction principle (combinatorics)
-Question_rus: 
+TITLE: The substraction principle (combinatorics)
+TITLE_rus: 
 Answer_eng: Let $A$ be a finite set and $A \subset B$ then
 $$
 |B| = |A| - |A \backslash B|

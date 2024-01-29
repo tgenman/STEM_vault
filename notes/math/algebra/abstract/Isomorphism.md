@@ -25,8 +25,8 @@ connected:
 TARGET DECK: Math::Algebra
 START
 Math prop
-Question_eng: Isomorphism
-Question_rus: Изоморфизм
+TITLE: Isomorphism
+TITLE_rus: Изоморфизм
 Answer_eng: 
 Answer_rus: это [[Homomorphism|гомоморфизм]], который также является [[Bijective mapping property (function)|биективной функцией]] , т.е., он является однозначным и обратимым. Это означает, что каждый элемент одной структуры соответствует ровно одному элементу другой структуры, и наоборот.
 Formula_main: **Свойства**:

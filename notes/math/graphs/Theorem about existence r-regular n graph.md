@@ -25,8 +25,8 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Theorem about existence r-regular n graph
-Question_rus: 
+TITLE: Theorem about existence r-regular n graph
+TITLE_rus: 
 Answer_eng: For integers $r$ and $n$, there exists an $r$-regular graph of order $n$ if and only if
 $0 ≤ r ≤ n − 1$ 
 $r$ and $n$ are not both odd.

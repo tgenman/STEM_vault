@@ -19,8 +19,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Empty graph
-Question_rus: 
+TITLE: Empty graph
+TITLE_rus: 
 Answer_eng: if size $m = 0$
 Answer_rus: 
 Formula_main: 

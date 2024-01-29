@@ -27,8 +27,8 @@ $$m = \binom{n}{2}$$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Complete graph $K_n$
-Question_rus: 
+TITLE: Complete graph $K_n$
+TITLE_rus: 
 Answer_eng: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 Answer_rus: 
 Formula_main: $$m = \binom{n}{2}$$

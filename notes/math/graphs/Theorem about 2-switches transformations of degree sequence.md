@@ -23,8 +23,8 @@ We proceed by induction on the order $n$ of $G$ and $H.$ If $n\leq 4,$ then the 
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Theorem about 2-switches transformations of degree sequence
-Question_rus: 
+TITLE: Theorem about 2-switches transformations of degree sequence
+TITLE_rus: 
 Answer_eng: If $G$ and $H$ are two graphs with the same [[Degree Sequence]], then $H$ can be transformed into $G$ by a (possibly empty) sequence of [[2-switch]]
 Answer_rus: 
 Formula_main: 

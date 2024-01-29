@@ -39,9 +39,9 @@ END
 
 START
 Math prop
-Question_eng: Sample space $\Omega$ 
+TITLE: Sample space $\Omega$ 
 (Formal definition)
-Question_rus: Пространство элементарных исходов $\Omega$
+TITLE_rus: Пространство элементарных исходов $\Omega$
 Answer_eng: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
 - $\omega \in \Omega$ - [[Elementary event]] (element of set)
 - $A \subset \Omega$ - an [[Event]] (subset of set)

@@ -16,8 +16,8 @@ Any root $r$ of $f(x)$ that is a rational number must have the property that if 
 TARGET DECK: Math::Common  
 START
 Math prop
-Question_eng: Rational root theorem
-Question_rus: 
+TITLE: Rational root theorem
+TITLE_rus: 
 Answer_eng: Any root $r$ of $f(x)$ that is a rational number must have the property that if $r=\frac ab$ is written in lowest terms - that is, $a$ and $b$ are both integers with no common factors - then $a$ must divide the constant term $p_0$ of $f(x)$, and $b$ must divide the leading coefficient $p_n$ of $f(x).$
 Answer_rus: 
 Formula_main: 

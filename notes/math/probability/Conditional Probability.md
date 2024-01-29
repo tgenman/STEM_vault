@@ -45,8 +45,8 @@ $$
 TARGET DECK: Math::Probability
 START
 Math prop
-Question_eng: The conditional probability $\mathbb{P}(A|B)$
-Question_rus: 
+TITLE: The conditional probability $\mathbb{P}(A|B)$
+TITLE_rus: 
 Answer_eng: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 Answer_rus: 
 Formula_main: $$P(A|B)P(B) = P(A \cap B).$$

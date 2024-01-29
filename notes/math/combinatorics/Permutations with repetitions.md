@@ -31,8 +31,8 @@ $$P(k_1, k_2, ..., k_m) = \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: Permutations with repetitions
-Question_rus: Перестановки с повторениями
+TITLE: Permutations with repetitions
+TITLE_rus: Перестановки с повторениями
 Answer_eng: упорядочиваем набор объектов, в котором некоторые из них идентичны (повторяются). 
 Здесь также порядок важен, но из-за повторений общее количество уникальных перестановок уменьшается.
 Answer_rus: 

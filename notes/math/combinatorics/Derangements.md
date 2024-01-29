@@ -50,8 +50,8 @@ $d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{
 TARGET DECK: Math::Combinatorics  
 START
 Math prop
-Question_eng: Derangements
-Question_rus: Перестановки без неподвижных точек, Смещения
+TITLE: Derangements
+TITLE_rus: Перестановки без неподвижных точек, Смещения
 Answer_eng: число перестано­вок $n$ элементов, при кото­рых ни один из элементов не стоит на своем месте
 $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
 Answer_rus: 
@@ -62,8 +62,8 @@ END
 
 START
 Math prop
-Question_eng: Approximate value of Derangements
-Question_rus: 
+TITLE: Approximate value of Derangements
+TITLE_rus: 
 Answer_eng: $$d_n\sim\frac{n!}e$$
 Answer_rus: 
 Formula_main: 

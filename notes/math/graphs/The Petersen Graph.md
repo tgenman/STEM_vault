@@ -21,8 +21,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: The Petersen Graph (Cubic graph)
-Question_rus: 
+TITLE: The Petersen Graph (Cubic graph)
+TITLE_rus: 
 Answer_eng: A [[519.172.4 Regular Graphs|3-regular]] graph
 Answer_rus: 
 Formula_main: 

@@ -16,8 +16,8 @@ is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Maximum degree ($∆(G)$)
-Question_rus: 
+TITLE: Maximum degree ($∆(G)$)
+TITLE_rus: 
 Answer_eng: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 Answer_rus: 
 Formula_main: 

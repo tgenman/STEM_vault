@@ -29,8 +29,8 @@ $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, 
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: Pascal’s triangle
-Question_rus: 
+TITLE: Pascal’s triangle
+TITLE_rus: 
 Answer_eng: Each row $n$ consist of the $\binom{n}{k}$:  
 $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, $\binom{4}{4} = 1$.
 Answer_rus: 

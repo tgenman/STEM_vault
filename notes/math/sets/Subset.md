@@ -32,8 +32,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: A set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
-Question_rus: Подмножество
+TITLE: A set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
+TITLE_rus: Подмножество
 Answer_eng: if every element of $B$ is in $A$. 
 The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
 Answer_rus: 
@@ -46,8 +46,8 @@ END
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Свойства подмножеств
-Question_rus: 
+TITLE: Свойства подмножеств
+TITLE_rus: 
 Answer_eng: - **Самопринадлежность** 
 	- $A⊆A$
 - **Транзитивность**

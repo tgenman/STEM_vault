@@ -20,8 +20,8 @@ In other words, there is at least one point $p$ in $[a,b]$ such that $f(p)\geq f
 TARGET DECK: Math::Calculus
 START
 Math prop
-Question_eng: Extreme Value Theorem (EVT)
-Question_rus: 
+TITLE: Extreme Value Theorem (EVT)
+TITLE_rus: 
 Answer_eng: Suppose  is continuous at every point in an interval  
 
 The Extreme Value Theorem says that $f$ takes on a maximum value and a minimum value.

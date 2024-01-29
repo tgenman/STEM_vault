@@ -47,8 +47,8 @@ Graphs are so named because they can be represented graphically
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Graph (G)
-Question_rus: 
+TITLE: Graph (G)
+TITLE_rus: 
 Answer_eng: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
 Answer_rus: 
 Formula_main: $$G = (V,E)$$

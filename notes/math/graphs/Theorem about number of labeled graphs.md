@@ -24,8 +24,8 @@ tags:
 TARGET DECK: Math::Graph 
 START
 Math prop
-Question_eng: Theorem about number of labeled graphs
-Question_rus: 
+TITLE: Theorem about number of labeled graphs
+TITLE_rus: 
 Answer_eng: Число помеченных графов с n вершинами равно $2^k$, где $k=\frac{n(n-1)}{2}$
 Answer_rus: 
 Formula_main: #### Proof

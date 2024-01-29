@@ -3,8 +3,8 @@
 TARGET DECK: Math:: #обс/фикс  
 >>START
 Math prop
-Question_eng: 
-Question_rus: 
+TITLE: 
+TITLE_rus: 
 Answer_eng: 
 Answer_rus: 
 Formula_main: 

@@ -23,8 +23,8 @@ which, of course, is an even number. Since the sum of the degrees of the even ve
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Number of odd vertices (corollary)
-Question_rus: 
+TITLE: Number of odd vertices (corollary)
+TITLE_rus: 
 Answer_eng: Every graph has an even number of odd vertices.
 Answer_rus: 
 Formula_main: 

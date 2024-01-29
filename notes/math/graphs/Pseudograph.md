@@ -23,8 +23,8 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Pseudograph
-Question_rus: Псевдограф
+TITLE: Pseudograph
+TITLE_rus: Псевдограф
 Answer_eng: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
 or [[Multigraph (H)]] + [[Loop (graph)]]
 Answer_rus: 

@@ -24,8 +24,8 @@ Using the join operation, we see that $\bar{K_s} ∨ \bar{K_t} = K_{s,t}$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: The join $G = G_1 ∨ G_2$ 
-Question_rus: 
+TITLE: The join $G = G_1 ∨ G_2$ 
+TITLE_rus: 
 Answer_eng: has 
 vertex set $V(G) = V(G_1) ∪ V(G_2)$ and 
 edge set $E(G) = E(G_1) ∪ E(G_2) ∪ \set{uv : u ∈ V (G_1), v ∈ V (G_2)}$

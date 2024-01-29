@@ -15,8 +15,8 @@ Then there exists are [[Bijective mapping property (function)|Bijection]] $\phi:
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: The bijection rule
-Question_rus: 
+TITLE: The bijection rule
+TITLE_rus: 
 Answer_eng: Let $A$ and $B$ be two finite sets. 
 Then there exists are [[Bijective mapping property (function)|Bijection]] $\phi: A \rightarrow B$ if and only if the sets $A$ and $B$ have the same number of elements
 Answer_rus: 

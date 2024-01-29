@@ -18,8 +18,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Pendant edge
-Question_rus: Висячее ребро 
+TITLE: Pendant edge
+TITLE_rus: Висячее ребро 
 Answer_eng: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 Answer_rus: 
 Formula_main: 

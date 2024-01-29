@@ -26,8 +26,8 @@ that is, if $G$ is a self-complementary graph of order $n$, then either $n ≡ 0
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Self-complementary graph
-Question_rus: 
+TITLE: Self-complementary graph
+TITLE_rus: 
 Answer_eng: if $G$ is isomorphic to $\bar{G}$.
 Answer_rus: 
 Formula_main: if $G$ is a self-complementary graph of order $n$, 

@@ -20,8 +20,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Sets are disjoint
-Question_rus: 
+TITLE: Sets are disjoint
+TITLE_rus: 
 Answer_eng:  if no two of them share a common element
 Answer_rus: 
 Formula_main: 

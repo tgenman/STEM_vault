@@ -20,8 +20,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: **Объединение** $A∪B$ 
-Question_rus: 
+TITLE: **Объединение** $A∪B$ 
+TITLE_rus: 
 Answer_eng: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
 Answer_rus: 
 Formula_main: ![[Pasted image 20220630193329.png]]

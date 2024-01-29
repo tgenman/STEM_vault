@@ -21,8 +21,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Intersection of Sets (A ∩ B)
-Question_rus: **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
+TITLE: Intersection of Sets (A ∩ B)
+TITLE_rus: **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
 Answer_eng: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
 Answer_rus: 
 Formula_main: ![[Pasted image 20220630190715.png]]

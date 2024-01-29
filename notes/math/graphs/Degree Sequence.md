@@ -26,8 +26,8 @@ We commonly write the degree sequence of a graph as a nonincreasing sequence.
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Degree sequence of a graph $G$ of order $n$ 
-Question_rus: 
+TITLE: Degree sequence of a graph $G$ of order $n$ 
+TITLE_rus: 
 Answer_eng: A sequence $d_1, d_2, . . . , d_n$ of nonnegative integers
 if the vertices of $G$ can be labeled $v_1,v_2,...,v_n$ so that $\deg v_i = d_i$ for $1 ≤ i ≤ n$.
 Answer_rus: 

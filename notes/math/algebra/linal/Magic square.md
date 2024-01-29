@@ -18,8 +18,8 @@ $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 TARGET DECK: Math::Linal 
 START
 Math prop
-Question_eng: Magic square
-Question_rus: 
+TITLE: Magic square
+TITLE_rus: 
 Answer_eng: A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
 Answer_rus: 
 Formula_main: $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$

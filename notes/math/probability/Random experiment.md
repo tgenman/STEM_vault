@@ -28,8 +28,8 @@ connected: []
 TARGET DECK: Math::Probability
 START
 Math prop
-Question_eng: Properties of Random experiment
-Question_rus: 
+TITLE: Properties of Random experiment
+TITLE_rus: 
 Answer_eng: - повторяемость
 - отсутствие детерминистической регулярности
 - статистическая устойчивость частот
@@ -42,8 +42,8 @@ END
 
 START
 Math prop
-Question_eng: Математическая модель случайного эксперимента
-Question_rus: 
+TITLE: Математическая модель случайного эксперимента
+TITLE_rus: 
 Answer_eng: - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
 	- [[Elementary event]] и [[Sample space]]
 - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет

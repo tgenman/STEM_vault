@@ -19,8 +19,8 @@ $$m$$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Size ($m$) of $G$
-Question_rus: 
+TITLE: Size ($m$) of $G$
+TITLE_rus: 
 Answer_eng: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 Answer_rus: 
 Formula_main: 

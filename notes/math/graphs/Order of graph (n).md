@@ -19,8 +19,8 @@ $$n$$
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Order of graph (n)
-Question_rus: 
+TITLE: Order of graph (n)
+TITLE_rus: 
 Answer_eng: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 Answer_rus: 
 Formula_main: 

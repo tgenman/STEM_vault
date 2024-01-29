@@ -26,8 +26,8 @@ $$1_{A\cap B}=1_A\cdot1_B$$
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: Indicator function
-Question_rus: Индикаторная функция
+TITLE: Indicator function
+TITLE_rus: Индикаторная функция
 Answer_eng: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
 Answer_rus: 
 Formula_main: 
@@ -37,8 +37,8 @@ END
 
 START
 Math prop
-Question_eng: Properties of Indicator function
-Question_rus: Свойства Индикаторная функция
+TITLE: Properties of Indicator function
+TITLE_rus: Свойства Индикаторная функция
 Answer_eng: $$I_{\bar{A}} = 1 - I_{A}$$
 $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$

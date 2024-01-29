@@ -20,8 +20,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: $H$ is a spanning subgraph of $G$ 
-Question_rus: Остовный подграф
+TITLE: $H$ is a spanning subgraph of $G$ 
+TITLE_rus: Остовный подграф
 Answer_eng: If:
 $H$ is a [[Subgraph|subgraph]] of $G$ and 
 $V(H)=V(G)$

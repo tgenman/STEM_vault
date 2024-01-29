@@ -19,8 +19,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Incident vertex and edge
-Question_rus: 
+TITLE: Incident vertex and edge
+TITLE_rus: 
 Answer_eng: The vertex $u$ and the edge $uv$ are said to be incident with each other.
 Answer_rus: 
 Formula_main: 

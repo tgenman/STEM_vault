@@ -28,8 +28,8 @@ connected:
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Кортеж
-Question_rus: 
+TITLE: Кортеж
+TITLE_rus: 
 Answer_eng: конечный упорядоченный список элементов
 Answer_rus: 
 Formula_main: Определим понятие кортежа индуктивно. 

@@ -24,9 +24,9 @@ One consequence of [[Theorem about 2-switches transformations of graphical seque
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: 2-switch 
+TITLE: 2-switch 
 Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H)$
-Question_rus: 
+TITLE_rus: 
 Answer_eng: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 
 Answer_rus: 
 Formula_main: 

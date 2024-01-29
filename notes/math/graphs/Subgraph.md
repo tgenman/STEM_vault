@@ -26,8 +26,8 @@ If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: A graph $H$ is a subgraph of a graph $G$
-Question_rus: 
+TITLE: A graph $H$ is a subgraph of a graph $G$
+TITLE_rus: 
 Answer_eng: if $V(H)⊆V(G)$ and $E(H)⊆E(G)$
 in which case we write $H ⊆ G$.
 Answer_rus: 
@@ -40,8 +40,8 @@ END
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Supergraph
-Question_rus: 
+TITLE: Supergraph
+TITLE_rus: 
 Answer_eng: If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 Answer_rus: 
 Formula_main: 
@@ -53,8 +53,8 @@ END
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Proper subgraph
-Question_rus: 
+TITLE: Proper subgraph
+TITLE_rus: 
 Answer_eng: If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
 Answer_rus: 
 Formula_main: 

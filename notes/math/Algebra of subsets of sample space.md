@@ -22,8 +22,8 @@ connected:
 TARGET DECK: Math::Algebra
 START
 Math prop
-Question_eng: Система множеств $\mathcal{A}$ называется aлгеброй, если выполняются следующие 3 свойства:
-Question_rus: 
+TITLE: Система множеств $\mathcal{A}$ называется aлгеброй, если выполняются следующие 3 свойства:
+TITLE_rus: 
 Answer_eng:  - $\Omega\in\mathcal{A};$
 - $A \in \mathcal{F} \Rightarrow \bar{A} = \Omega \text{\\} A \in \mathcal{F}$ 
 	- $\emptyset\in\mathcal{F}$ т.к. $\bar{\Omega} = \emptyset \in \mathcal{F}$ 

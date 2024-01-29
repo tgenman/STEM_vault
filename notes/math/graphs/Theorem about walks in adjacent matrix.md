@@ -34,8 +34,8 @@ By the Principle of Mathematical Induction, $a_{ij}^{(k)}$ is the number of diff
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Theorem about walks in adjacent matrix
-Question_rus: 
+TITLE: Theorem about walks in adjacent matrix
+TITLE_rus: 
 Answer_eng: Let $G$ be a graph with vertex set $V(G) = \{v_1, v_2, \ldots, v_n\}$ and [[Adjacency matrix|adjacency matrix]]  $A$. For each positive integer $k$, the number of different $v_i - v_j$  [[Walk W|walks]] of length $k$ in $G$ is the $(i,j)$-entry in the matrix $A^k$.
 Answer_rus: 
 Formula_main: ### Proof

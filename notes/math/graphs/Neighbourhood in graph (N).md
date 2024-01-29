@@ -23,8 +23,8 @@ connected:
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Neighbours
-Question_rus: 
+TITLE: Neighbours
+TITLE_rus: 
 Answer_eng: Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
 Answer_rus: 
 Formula_main: 
@@ -36,8 +36,8 @@ END
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
-Question_rus: 
+TITLE: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
+TITLE_rus: 
 Answer_eng: The set of neighbours of a vertex $v$
 Answer_rus: 
 Formula_main: 
@@ -49,8 +49,8 @@ END
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Closed neighborhood of $v$
-Question_rus: 
+TITLE: Closed neighborhood of $v$
+TITLE_rus: 
 Answer_eng: The set $N[v] = N(v) ∪ {v}$ 
 Answer_rus: 
 Formula_main: 

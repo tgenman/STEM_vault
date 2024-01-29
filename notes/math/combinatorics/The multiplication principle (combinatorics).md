@@ -23,8 +23,8 @@ $$
 TARGET DECK: Math::Combinatorics  
 START
 Math prop
-Question_eng: The multiplication principle (combinatorics)
-Question_rus: 
+TITLE: The multiplication principle (combinatorics)
+TITLE_rus: 
 Answer_eng: Suppose that $A_1,..., A_n$ are finite sets, $|A_i| = a_i$
 If $A = \{(x_1,...x_n): x_i \in A_i\}$,   then
 

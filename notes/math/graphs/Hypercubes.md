@@ -25,8 +25,8 @@ The graph $Q_n$ is an $n$-regular graph of order $2^n$.
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: The $n$-cube $Q_n$ (hypercube)
-Question_rus: 
+TITLE: The $n$-cube $Q_n$ (hypercube)
+TITLE_rus: 
 Answer_eng: is $K_2$ if $n = 1$, 
 while for $n ≥ 2$, $Q_n$ is defined recursively as the [[Cartesian product of sets (A x B)]] $Q_{n−1} \square K_2$ . 
 Answer_rus: 

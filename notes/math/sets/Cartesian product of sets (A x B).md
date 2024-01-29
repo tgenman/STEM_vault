@@ -33,8 +33,8 @@ $$|A \times B | = |A| \cdot |B|$$
 TARGET DECK: Math::Set 
 START
 Math prop
-Question_eng: Cartesian product of $A$ and $B$.
-Question_rus: 
+TITLE: Cartesian product of $A$ and $B$.
+TITLE_rus: 
 Answer_eng: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 Answer_rus: 
 Formula_main: 
@@ -46,8 +46,8 @@ END
 TARGET DECK: Math::Set   
 START
 Math prop
-Question_eng: [[Cardinality|Мощность]] декартового произведения множеств
-Question_rus: 
+TITLE: [[Cardinality|Мощность]] декартового произведения множеств
+TITLE_rus: 
 Answer_eng: равна произведению мощностей этих множеств
 Answer_rus: 
 Formula_main: $$|A \times B | = |A| \cdot |B|$$
@@ -60,8 +60,8 @@ END
 TARGET DECK: Math::Set  
 START
 Math prop
-Question_eng: Свойства декартового произведения множеств
-Question_rus: 
+TITLE: Свойства декартового произведения множеств
+TITLE_rus: 
 Answer_eng: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
 2. $A \times (B_1 \cup B_2) = (A \times B_1) \cup (A \times B_2)$
 3. $(A_1 \cap A_2) \times B = (A_1 \times B) \cap (A_2 \times B)$

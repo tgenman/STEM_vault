@@ -27,8 +27,8 @@ $P(A) = \frac{|A|}{n}$ - [[Probability]]
 TARGET DECK: Math::Probability
 START
 Math prop
-Question_eng: Classical definition of probability
-Question_rus: 
+TITLE: Classical definition of probability
+TITLE_rus: 
 Answer_eng: $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
 $A \subset \Omega$ - [[Event]]
 $P(A) = \frac{|A|}{n}$ - [[Probability]]
@@ -40,8 +40,8 @@ END
 
 START
 Math prop
-Question_eng: Probability Properties
-Question_rus: 
+TITLE: Probability Properties
+TITLE_rus: 
 Answer_eng: - $P(\Omega) = 1$
 - $𝑃 (𝐴) = 0 ⇔ 𝐴 = ∅$ - только [[Empty Set]]  имеет нулевую вероятность
 - $P(A \sqcup B ) = P(A) + P(B)$ - $A, B$ are disjoint sets

@@ -24,8 +24,8 @@ Suppose that this statement is false. Let $W=\{v_2,v_3,\ldots,v_{\Delta+1}\}.$ A
 TARGET DECK: Math::Graph
 START
 Math prop
-Question_eng: Theorem about 2-switches transformations of graphical sequence
-Question_rus: 
+TITLE: Theorem about 2-switches transformations of graphical sequence
+TITLE_rus: 
 Answer_eng: Let $s : d_1,d_2,...,d_n$ be a [[Graphical sequence|graphical sequence]] with $∆ = d_1 ≥ d_2 ≥ ··· ≥ d_n$ and let $\mathcal{G}_s$ be the set of all graphs $F$ with [[Degree Sequence|degree sequence]] $s$ such that $V(F)={v_1,v_2,...,v_n}$ where $\deg v_i =d_i$ for $1≤i≤n$. 
 Then every graph $H ∈ \mathcal{G}_s$  can be transformed into a graph $G ∈ \mathcal{G}_s$ by a sequence of [[2-switch]]es such that $N_G(v_1) = {v_2, v_3, . . . , v_{∆+1}}$
 Answer_rus: 

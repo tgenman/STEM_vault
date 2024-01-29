@@ -31,8 +31,8 @@ $$
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: $$\binom{n}{k} =$$
-Question_rus: 
+TITLE: $$\binom{n}{k} =$$
+TITLE_rus: 
 Answer_eng: $$= \frac{n!}{k!(n-k)!}$$
 Answer_rus: 
 Formula_main: 
@@ -44,8 +44,8 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: $$\binom{0}{0} = ?$$
-Question_rus: 
+TITLE: $$\binom{0}{0} = ?$$
+TITLE_rus: 
 Answer_eng: $$ = 1$$
 Answer_rus: 
 Formula_main: 
@@ -57,8 +57,8 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: $$\binom{1}{0} = ?$$
-Question_rus: 
+TITLE: $$\binom{1}{0} = ?$$
+TITLE_rus: 
 Answer_eng: $$ = 1$$
 Answer_rus: 
 Formula_main: 
@@ -71,8 +71,8 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: $$\binom{n}{0} = ?$$
-Question_rus: 
+TITLE: $$\binom{n}{0} = ?$$
+TITLE_rus: 
 Answer_eng: $$ = 1$$
 Answer_rus: 
 Formula_main: 
@@ -84,8 +84,8 @@ END
 TARGET DECK: Math::Combinatorics
 START
 Math prop
-Question_eng: $$\binom{n}{1} = ?$$
-Question_rus: 
+TITLE: $$\binom{n}{1} = ?$$
+TITLE_rus: 
 Answer_eng: $$ = n$$
 Answer_rus: 
 Formula_main: 

@@ -26,8 +26,8 @@ connected:
 TARGET DECK: Math::Geometry
 START
 Math prop
-Question_eng: ==Правильный многогранник== или ==плато́ново тело== 
-Question_rus: 
+TITLE: ==Правильный многогранник== или ==плато́ново тело== 
+TITLE_rus: 
 Answer_eng: это [[Выпуклый многогранник (3D)]], состоящий из одинаковых [[Правильный многоугльник (2D)]] и обладающий пространственной симметрией.
 Answer_rus: 
 Formula_main: - [[Tetrahedron (4)]]

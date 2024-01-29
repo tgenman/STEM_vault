@@ -17,8 +17,8 @@ Cамо множество и пустое множество — называю
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Improper subset
-Question_rus: Несобственное подмножество
+TITLE: Improper subset
+TITLE_rus: Несобственное подмножество
 Answer_eng: Cамо множество и пустое множество
 Answer_rus: 
 Formula_main: 

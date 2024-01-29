@@ -40,8 +40,8 @@ END
 TARGET DECK: Math::Set
 START
 Math prop
-Question_eng: Properties of Complement of Set
-Question_rus: 
+TITLE: Properties of Complement of Set
+TITLE_rus: 
 Answer_eng: - $A \cup \overline{A} = U$
 - $A \cap \overline{A} = \emptyset$
 - $\overline{U} = \emptyset$
