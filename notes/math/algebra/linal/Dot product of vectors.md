@@ -3,8 +3,15 @@ aliases:
   - Скалярное произведение векторов
   - Scalar product
 publish: true
-tags:
-  - anki
+anki: false
+tags: 
+parent:
+  - "[[Multiplication]]"
+  - "[[Scalar]]"
+  - "[[Vector]]"
+  - "[[Vectors opeartions]]"
+connected:
+  - "[[Cross product of vectors]]"
 ---
 
 
@@ -40,8 +47,7 @@ $$\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\
 **Connected with:**
 - [[Cauchy-Буняковского-Schwarz Inequality]]
 - [[Holder's Inequality]]
-- [[Vectors opeartions]]
-- [[Cross product of vectors]]
+- 
 
 
 
