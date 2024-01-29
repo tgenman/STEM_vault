@@ -1,0 +1,13 @@
+---
+aliases: [СОЛИД принципы]
+publish: true
+---
+links: [[004.41 Software Development MOC 1|Разработка ПО]], [[Object-oriented programming|ООП]]
+
+---
+
+-   [[Single responsibility principle]]
+-   [[Open-closed principle]]
+-   [[Liskov substitution principle]]
+-   [[Interface segregation principle]]
+-   [[Dependency inversion principle]]
