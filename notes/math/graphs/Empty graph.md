@@ -20,9 +20,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Empty graph
-TITLE_rus: 
 DESCRIPTION: if size $m = 0$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699132303418-->

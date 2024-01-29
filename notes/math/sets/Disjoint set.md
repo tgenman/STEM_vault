@@ -21,9 +21,7 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Sets are disjoint
-TITLE_rus: 
 DESCRIPTION:  if no two of them share a common element
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705513882724-->

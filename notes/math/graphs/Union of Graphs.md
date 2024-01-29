@@ -27,11 +27,10 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Union of Graphs
-TITLE_rus: The union $G = G_1+G_2$
+The union $G = G_1+G_2$
 DESCRIPTION: has 
 vertex set $V(G) = V(G_1)∪V(G_2)$ and 
 edge set $E(G) = E(G_1) ∪ E(G_2)$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231104144008.png]]
 <!--ID: 1699129936360-->

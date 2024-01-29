@@ -19,9 +19,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Dominating vertex
-TITLE_rus: 
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705262169569-->

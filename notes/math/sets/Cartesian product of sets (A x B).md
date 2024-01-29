@@ -34,9 +34,7 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Cartesian product of $A$ and $B$.
-TITLE_rus: 
 DESCRIPTION: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699126600775-->
@@ -47,9 +45,7 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: [[Cardinality|Мощность]] декартового произведения множеств
-TITLE_rus: 
 DESCRIPTION: равна произведению мощностей этих множеств
-DESCRIPTION_rus: 
 FORMULA: $$|A \times B | = |A| \cdot |B|$$
 ADDITIONAL:
 <!--ID: 1699126600788-->
@@ -61,14 +57,12 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Свойства декартового произведения множеств
-TITLE_rus: 
 DESCRIPTION: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
 2. $A \times (B_1 \cup B_2) = (A \times B_1) \cup (A \times B_2)$
 3. $(A_1 \cap A_2) \times B = (A_1 \times B) \cap (A_2 \times B)$
 4. $A \times (B_1 \cap B_2) = (A \times B_1) \cap (A \times B_2)$
 5. $(A_1 \setminus A_2) \times B = (A_1 \times B) \setminus (A_2 \times B)$
 6. $A \times (B_1 \setminus B_2) = (A \times B_1) \setminus (A \times B_2)$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705775628748-->

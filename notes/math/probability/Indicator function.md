@@ -23,13 +23,13 @@ $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: Indicator function
-TITLE_rus: Индикаторная функция
+Индикаторная функция
 DESCRIPTION: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698688139475-->
@@ -38,12 +38,11 @@ END
 START
 Math_ONE_side
 TITLE: Properties of Indicator function
-TITLE_rus: Свойства Индикаторная функция
+Свойства Индикаторная функция
 DESCRIPTION: $$I_{\bar{A}} = 1 - I_{A}$$
 $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698688139477-->

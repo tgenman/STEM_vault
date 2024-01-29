@@ -19,13 +19,12 @@ $$
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Common  
 START
 Math_ONE_side
 TITLE:  Factoring
-TITLE_rus: 
 DESCRIPTION: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
-DESCRIPTION_rus: 
 FORMULA: 
 $$x^2-x-2=(x+1)(x-2).$$
 

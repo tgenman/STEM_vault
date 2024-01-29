@@ -28,9 +28,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Complete graph $K_n$
-TITLE_rus: 
 DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
-DESCRIPTION_rus: 
 FORMULA: $$m = \binom{n}{2}$$
 ADDITIONAL: 
 PICTURE: ![[Pasted image 20231031224948.png]]

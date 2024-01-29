@@ -31,13 +31,12 @@ $$
 $$
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Common
 START
 Math_ONE_side
 TITLE: Сomplex conjugate
-TITLE_rus: 
 DESCRIPTION: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
-DESCRIPTION_rus: 
 FORMULA: So, if $z=a+bi$, then $\overline{z}=a-bi.$
 ADDITIONAL:If $z=a+bi$, then $\Re(z)=a.$ Therefore, $z+\overline{z}=a+bi+a-bi=2a$
 Therefore, $\Re(z)=(z+\overline{z})/2.$

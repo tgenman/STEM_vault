@@ -18,9 +18,8 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Proper subset
-TITLE_rus: Собственное подмножество
+Собственное подмножество
 DESCRIPTION: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699129807675-->

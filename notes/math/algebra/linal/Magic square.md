@@ -19,9 +19,7 @@ TARGET DECK: Math::Linal
 START
 Math_ONE_side
 TITLE: Magic square
-TITLE_rus: 
 DESCRIPTION: A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
-DESCRIPTION_rus: 
 FORMULA: $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 ADDITIONAL:
 <!--ID: 1699125606002-->

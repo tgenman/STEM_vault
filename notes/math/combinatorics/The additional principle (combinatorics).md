@@ -18,18 +18,13 @@ $$
 Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: The additional principle (combinatorics)
-TITLE_rus: 
 DESCRIPTION: If $A_1,..., A_n$ are pairwise disjoint sets ($A_i \cap A_j = \emptyset$  wherever $i \neq j$), then
-$$
-|A_1 \cup ... \cup A_n| = |A_1 + ... + A_n| = \sum_{k=1}^{n} |A_i|
-$$
-
-DESCRIPTION_rus: Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
-FORMULA: 
-ADDITIONAL:
+$|A_1 \cup ... \cup A_n| = |A_1 + ... + A_n| = \sum_{k=1}^{n} |A_i|$
+Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
 <!--ID: 1698065507923-->
 END

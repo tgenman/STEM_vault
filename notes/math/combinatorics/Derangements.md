@@ -47,14 +47,14 @@ $d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics  
 START
 Math_ONE_side
 TITLE: Derangements
-TITLE_rus: Перестановки без неподвижных точек, Смещения
+Перестановки без неподвижных точек, Смещения
 DESCRIPTION: число перестано­вок $n$ элементов, при кото­рых ни один из элементов не стоит на своем месте
 $$d_n=n!\left(1-\frac{1}{1!}+\frac{1}{2!}-\ldots+(-1)^n\frac{1}{n!}\right)$$
-DESCRIPTION_rus: 
 FORMULA: $D_n = P_n - \binom{n}{1} P_{n-1} + \binom{n}{2} P_{n-2} - \ldots + (-1)^n \binom{n}{n} = n! \left[ 1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + \frac{(-1)^n}{n!} \right].$
 ADDITIONAL:
 <!--ID: 1698688139448-->
@@ -63,9 +63,7 @@ END
 START
 Math_ONE_side
 TITLE: Approximate value of Derangements
-TITLE_rus: 
 DESCRIPTION: $$d_n\sim\frac{n!}e$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698688139452-->

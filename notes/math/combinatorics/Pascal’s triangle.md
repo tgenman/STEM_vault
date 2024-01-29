@@ -26,14 +26,13 @@ $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, 
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: Pascal’s triangle
-TITLE_rus: 
 DESCRIPTION: Each row $n$ consist of the $\binom{n}{k}$:  
 $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, $\binom{4}{4} = 1$.
-DESCRIPTION_rus: 
 FORMULA: $$
 $(a + b)^n = ?$  
 $(1 + x)^0 = 1$  

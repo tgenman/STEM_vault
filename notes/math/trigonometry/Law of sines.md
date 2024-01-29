@@ -17,13 +17,12 @@ $$
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Common
 START
 Math_TWO_side
 TITLE: Law of sines
-TITLE_rus: 
 DESCRIPTION: formula
-DESCRIPTION_rus: 
 FORMULA: $$\frac{{\sin \alpha}}{{a}} = \frac{{\sin \beta}}{{b}} = \frac{{\sin \gamma}}{{c}}$$
 ADDITIONAL:  ![[Pasted image 20230731213232.png]]
 <!--ID: 1697915677599-->

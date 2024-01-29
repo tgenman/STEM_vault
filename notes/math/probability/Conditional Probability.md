@@ -46,9 +46,7 @@ TARGET DECK: Math::Probability
 START
 Math_ONE_side
 TITLE: The conditional probability $\mathbb{P}(A|B)$
-TITLE_rus: 
 DESCRIPTION: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
-DESCRIPTION_rus: 
 FORMULA: $$P(A|B)P(B) = P(A \cap B).$$
 $$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
 ADDITIONAL:

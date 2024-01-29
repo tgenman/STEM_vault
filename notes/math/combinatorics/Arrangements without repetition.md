@@ -29,9 +29,8 @@ TARGET DECK: Math::Combinatorics
 START
 Math_TWO_side
 TITLE:  Arrangements without repetition
-TITLE_rus:  Размещение без повторений
+Размещение без повторений
 DESCRIPTION:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
-DESCRIPTION_rus:
 FORMULA: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 ADDITIONAL:
 <!--ID: 1698069638670-->

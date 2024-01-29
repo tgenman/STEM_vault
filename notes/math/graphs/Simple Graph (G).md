@@ -48,9 +48,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Graph (G)
-TITLE_rus: 
 DESCRIPTION: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
-DESCRIPTION_rus: 
 FORMULA: $$G = (V,E)$$
 ADDITIONAL:
 <!--ID: 1699164911412-->

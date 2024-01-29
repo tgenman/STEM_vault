@@ -25,11 +25,9 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: The join $G = G_1 ∨ G_2$ 
-TITLE_rus: 
 DESCRIPTION: has 
 vertex set $V(G) = V(G_1) ∪ V(G_2)$ and 
 edge set $E(G) = E(G_1) ∪ E(G_2) ∪ \set{uv : u ∈ V (G_1), v ∈ V (G_2)}$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231104144447.png]]
 <!--ID: 1699170276195-->

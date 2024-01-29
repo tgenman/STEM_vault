@@ -32,9 +32,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: The complement $\bar{G}$ of a graph G 
-TITLE_rus: 
 DESCRIPTION: is that graph with vertex set $V(G)$ such that two vertices are [[Adjacent in graph|adjacent]] adjacent in $\bar{G}$ if and only if these vertices are not adjacent in $G$.
-DESCRIPTION_rus: 
 FORMULA: ![[Pasted image 20231103173134.png]]
 ADDITIONAL:If $G$ is a graph of order $n$ and size $m$, then $\bar{G}$ is a graph of order $n$ and size $\binom n2 - m$. 
 The complement $K_n$ of the complete graph Kn is the [[Empty graph|empty graph]] of order $n$.

@@ -4,9 +4,7 @@ TARGET DECK: Math:: #обс/фикс
 >>START
 Math_ONE_side
 TITLE: 
-TITLE_rus: 
 DESCRIPTION: 
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 PICTURE:

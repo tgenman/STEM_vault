@@ -22,9 +22,8 @@ TARGET DECK: Math::Set
 START
 Math_TWO_side
 TITLE: Multiset
-TITLE_rus: Множество с повторениями
+Множество с повторениями
 DESCRIPTION: is a collection of objects in which each object can appear more than once.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705599792918-->

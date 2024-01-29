@@ -24,13 +24,12 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Path $P$
-TITLE_rus: Простая цепь
+Простая цепь
 DESCRIPTION: a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
-DESCRIPTION_rus: 
 FORMULA: Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
-![[Pasted image 20231123204833.png]]
 ADDITIONAL:
+PICTURE: ![[Pasted image 20231123204833.png]]
 <!--ID: 1705600616969-->
 END
 

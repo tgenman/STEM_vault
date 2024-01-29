@@ -24,9 +24,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Neighbours
-TITLE_rus: 
 DESCRIPTION: Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699164787998-->
@@ -37,9 +35,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
-TITLE_rus: 
 DESCRIPTION: The set of neighbours of a vertex $v$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699164788012-->
@@ -50,9 +46,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Closed neighborhood of $v$
-TITLE_rus: 
 DESCRIPTION: The set $N[v] = N(v) ∪ {v}$ 
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699164788026-->

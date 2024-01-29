@@ -17,13 +17,12 @@ $$
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_TWO_side
 TITLE: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
-TITLE_rus: 
 DESCRIPTION: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698168213881-->

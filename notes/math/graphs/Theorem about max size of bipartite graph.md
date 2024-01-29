@@ -28,9 +28,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Theorem about max size of bipartite graph
-TITLE_rus: 
 DESCRIPTION: The [[Size of graph (m)|size]] of every ==bipartite graph== of order $n$ is at most $⌊\frac{n^2}{4}⌋$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ### Proof
 Let $G$ be bipartite graph of order $n$ with partite sets $U$ and $W.$ Then $|U|= x$ and $|W|= n- x$ for some integer $x$ with $1\leq x\leq n- 1.$ Hence the size of $G$ is at most $x(n-x).$

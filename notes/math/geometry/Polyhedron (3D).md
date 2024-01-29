@@ -19,9 +19,7 @@ TARGET DECK: Math::Geometry
 START
 Math_TWO_side
 TITLE: Polyhedron (3D)
-TITLE_rus: 
 DESCRIPTION: Многогранник
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705600801036-->

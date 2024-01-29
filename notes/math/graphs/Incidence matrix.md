@@ -23,9 +23,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: The incidence matrix of $G$ 
-TITLE_rus: 
 DESCRIPTION: is the $n×m$ matrix $M_G := (m_{ve})$, where $m_ve$ is the number of times ($0, 1$, or $2$) that vertex $v$ and edge $e$ are [[Incident vertex and edge|incident]] .
-DESCRIPTION_rus: 
 FORMULA: ![[Pasted image 20231216223158.png]]
 ADDITIONAL:
 <!--ID: 1705263185771-->

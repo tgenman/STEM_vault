@@ -22,9 +22,8 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Intersection of Sets (A ∩ B)
-TITLE_rus: **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
+**Пересечение** $A∩B$ двух множеств $A$ и $B$ 
 DESCRIPTION: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
-DESCRIPTION_rus: 
 FORMULA: ![[Pasted image 20220630190715.png]]
 ADDITIONAL:
 <!--ID: 1706040702788-->

@@ -32,9 +32,7 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{k} =$$
-TITLE_rus: 
 DESCRIPTION: $$= \frac{n!}{k!(n-k)!}$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699125498477-->
@@ -45,9 +43,7 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{0}{0} = ?$$
-TITLE_rus: 
 DESCRIPTION: $$ = 1$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698689820228-->
@@ -58,9 +54,7 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{1}{0} = ?$$
-TITLE_rus: 
 DESCRIPTION: $$ = 1$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698689820237-->
@@ -72,9 +66,7 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{0} = ?$$
-TITLE_rus: 
 DESCRIPTION: $$ = 1$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698689820242-->
@@ -85,9 +77,7 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{1} = ?$$
-TITLE_rus: 
 DESCRIPTION: $$ = n$$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1698689820246-->

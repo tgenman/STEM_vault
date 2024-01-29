@@ -17,9 +17,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Isolated vertex
-TITLE_rus: 
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699132208101-->

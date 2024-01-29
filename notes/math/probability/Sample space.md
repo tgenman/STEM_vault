@@ -24,14 +24,14 @@ $A = \{1, 3, 5\}$ - outcome is odd
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Probability
 START
 Math_TWO_side
 TITLE: Sample space $\Omega$ 
 (Informal definition)
-TITLE_rus: Пространство элементарных исходов $\Omega$
+Пространство элементарных исходов $\Omega$
 DESCRIPTION: the set of all possible outcomes of an experiment
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: 
 <!--ID: 1697972538023-->
@@ -41,11 +41,10 @@ START
 Math_ONE_side
 TITLE: Sample space $\Omega$ 
 (Formal definition)
-TITLE_rus: Пространство элементарных исходов $\Omega$
+Пространство элементарных исходов $\Omega$
 DESCRIPTION: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
 - $\omega \in \Omega$ - [[Elementary event]] (element of set)
 - $A \subset \Omega$ - an [[Event]] (subset of set)
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ### Example
 Tossing a dice

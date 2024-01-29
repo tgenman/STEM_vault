@@ -18,9 +18,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Circumferen of $G$ $c(G)$
-TITLE_rus: 
 DESCRIPTION: the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705261456133-->

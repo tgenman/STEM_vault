@@ -23,9 +23,8 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Trail T
-TITLE_rus: Цепь
+Цепь
 DESCRIPTION: A [[Walk W|walk]] in a graph $G$ in which no [[Edge of graph (E)|edge]] is repeated
-DESCRIPTION_rus: 
 FORMULA: $$T = (u,v,y,w,v)$$
 
 ![[Pasted image 20231123204833.png]]

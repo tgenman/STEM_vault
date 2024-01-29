@@ -18,9 +18,8 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Improper subset
-TITLE_rus: Несобственное подмножество
+Несобственное подмножество
 DESCRIPTION: Cамо множество и пустое множество
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699130367605-->

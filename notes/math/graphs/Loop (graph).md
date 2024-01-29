@@ -19,9 +19,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Loop (graph)
-TITLE_rus: 
 DESCRIPTION: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705263594120-->

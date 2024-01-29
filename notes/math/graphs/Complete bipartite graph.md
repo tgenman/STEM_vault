@@ -35,9 +35,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: A graph $G$ is complete bipartite
-TITLE_rus: 
 DESCRIPTION: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has 
  order $s+t$ 
@@ -52,9 +50,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Graph named Star
-TITLE_rus: 
 DESCRIPTION: The complete bipartite graph $K_{1,t}$ 
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699165908053-->
@@ -65,9 +61,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Graph called Claw
-TITLE_rus: 
 DESCRIPTION: The star $K_{1,3}$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699165908065-->

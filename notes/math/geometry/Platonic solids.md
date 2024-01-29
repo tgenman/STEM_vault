@@ -27,9 +27,7 @@ TARGET DECK: Math::Geometry
 START
 Math_ONE_side
 TITLE: ==Правильный многогранник== или ==плато́ново тело== 
-TITLE_rus: 
 DESCRIPTION: это [[Выпуклый многогранник (3D)]], состоящий из одинаковых [[Правильный многоугльник (2D)]] и обладающий пространственной симметрией.
-DESCRIPTION_rus: 
 FORMULA: - [[Tetrahedron (4)]]
 - [[Octahedron (5)]]
 - [[Cube (6)]]

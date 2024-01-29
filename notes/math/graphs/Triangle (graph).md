@@ -22,10 +22,8 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Triangle (graph)
-TITLE_rus: 
 DESCRIPTION: 3-cycle
 [[Complete graph]] with $n=3$
-DESCRIPTION_rus: 
 FORMULA: $C_3 = K_3$
 ADDITIONAL:
 <!--ID: 1699131352172-->

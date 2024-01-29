@@ -24,9 +24,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Adjacent vertices 
-TITLE_rus: 
 DESCRIPTION: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699126049535-->
@@ -38,9 +36,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Adjacent edges
-TITLE_rus: 
 DESCRIPTION: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699126049540-->

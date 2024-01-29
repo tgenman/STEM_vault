@@ -19,9 +19,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Parallel edges
-TITLE_rus: 
 DESCRIPTION: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705600079765-->

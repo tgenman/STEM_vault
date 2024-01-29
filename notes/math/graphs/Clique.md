@@ -24,9 +24,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Сlique
-TITLE_rus: 
 DESCRIPTION: Complete  Subgrap of $G$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705258440998-->
@@ -37,9 +35,7 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: k-clique
-TITLE_rus: 
 DESCRIPTION: A clique of order $k$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705258441000-->

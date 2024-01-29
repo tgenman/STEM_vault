@@ -27,9 +27,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Self-complementary graph
-TITLE_rus: 
 DESCRIPTION: if $G$ is isomorphic to $\bar{G}$.
-DESCRIPTION_rus: 
 FORMULA: if $G$ is a self-complementary graph of order $n$, 
 then its size is $m = \binom n2 / 2 = n(n − 1)/4$.
 ADDITIONAL: ![[Pasted image 20231103174136.png]]

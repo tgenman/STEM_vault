@@ -19,9 +19,8 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Pendant edge
-TITLE_rus: Висячее ребро 
+Висячее ребро 
 DESCRIPTION: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699165371489-->

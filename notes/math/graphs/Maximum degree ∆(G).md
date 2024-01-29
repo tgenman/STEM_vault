@@ -17,9 +17,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Maximum degree ($∆(G)$)
-TITLE_rus: 
 DESCRIPTION: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699165371508-->

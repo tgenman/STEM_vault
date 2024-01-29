@@ -22,9 +22,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: The Petersen Graph (Cubic graph)
-TITLE_rus: 
 DESCRIPTION: A [[519.172.4 Regular Graphs|3-regular]] graph
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231101184708.png]]
 <!--ID: 1699170028935-->

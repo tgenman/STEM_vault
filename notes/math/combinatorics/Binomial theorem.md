@@ -35,14 +35,13 @@ $$=\sum_{k=0}^{n-1}\binom{n-1}{k}(a^{n-k}b^k+a^{n-1-k}b^{k+1})=\sum_{k=0}^na^{n-
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: Binomial theorem
-TITLE_rus: 
 DESCRIPTION: $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
 $$=\binom n0a^n+\binom n1a^{n-1}b+\ldots+\binom nnb^n$$
-DESCRIPTION_rus: 
 FORMULA: Binomial Theorem. Proof
 
 $$(a+b)^n=\sum_{k=0}^n\binom{n}{k}a^{n-k}b^k. \rhd (a+b)^n=(a+b)\cdotp(a+b)\cdotp...\cdotp(a+b)$$

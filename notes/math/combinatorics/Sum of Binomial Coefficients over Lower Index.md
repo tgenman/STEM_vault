@@ -30,13 +30,12 @@ How many subsets has an $n$-element set?
 
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Combinatorics
 START
 Math_TWO_side
 TITLE: Sum of Binomial Coefficients over Lower Index $\sum_{i\operatorname{=}0}^n\binom ni = \binom n0+\binom n1+\ldots+\binom nn =$
-TITLE_rus: 
 DESCRIPTION: Sum of Binomial Coefficients over Lower Index $2^n =$
-DESCRIPTION_rus: 
 FORMULA:
 ADDITIONAL:
 <!--ID: 1698168880304-->

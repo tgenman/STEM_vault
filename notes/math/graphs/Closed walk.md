@@ -20,9 +20,8 @@ TARGET DECK: Math::Graph
 START
 Math_TWO_side
 TITLE: Closed walk
-TITLE_rus: Замкнутый маршрут
+Замкнутый маршрут
 DESCRIPTION: A [[Walk W|walk]] whose initial and terminal vertices are same
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705262071040-->

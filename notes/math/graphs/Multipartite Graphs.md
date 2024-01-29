@@ -22,9 +22,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: A graph $G$ is a $k$-partite graph ($k \in N$ $k ≥ 1$)
-TITLE_rus: 
 DESCRIPTION: if $V(G)$ can be partitioned into $k$ subsets $V_1, V_2, . . . , V_k$ ( called partite sets) such that every edge of $G$ joins vertices in two different partite sets.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:A $1$-partite graph is then an [[Empty graph]] empty graph 
 A $2$-partite graph is [[519.172.5 Bipartite graph]]. 

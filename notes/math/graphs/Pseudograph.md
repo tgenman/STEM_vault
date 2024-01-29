@@ -24,10 +24,9 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Pseudograph
-TITLE_rus: Псевдограф
+Псевдограф
 DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
 or [[Multigraph (H)]] + [[Loop (graph)]]
-DESCRIPTION_rus: 
 FORMULA: ![[Pasted image 20231115154026.png]]
 ADDITIONAL:
 <!--ID: 1705600203513-->

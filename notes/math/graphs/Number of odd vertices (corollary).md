@@ -24,9 +24,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Number of odd vertices (corollary)
-TITLE_rus: 
 DESCRIPTION: Every graph has an even number of odd vertices.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ### Proof
 Proof. Suppose that $G$ is a graph of size $m$. By [[Handshaking Lemma]],

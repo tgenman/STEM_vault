@@ -20,9 +20,7 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Incident vertex and edge
-TITLE_rus: 
 DESCRIPTION: The vertex $u$ and the edge $uv$ are said to be incident with each other.
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1699130467965-->

@@ -20,11 +20,8 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: Trivial walk
-TITLE_rus: 
 DESCRIPTION: is walk consist of a single vertex
-DESCRIPTION_rus: A trivial walk is therefore a [[Closed walk]] closed walk.
-FORMULA: 
-ADDITIONAL:
+A trivial walk is therefore a [[Closed walk]] closed walk.
 <!--ID: 1705602331022-->
 END
 

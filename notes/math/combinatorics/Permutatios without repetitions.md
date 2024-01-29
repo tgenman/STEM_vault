@@ -27,10 +27,9 @@ TARGET DECK: Math::Combinatorics
 START
 Math_ONE_side
 TITLE: Permutatios without repetitions
-TITLE_rus: Перестановки без повторения
+Перестановки без повторения
 DESCRIPTION: 1. Число [[Arrangements without repetition|размещений]] если $n = k$ (то есть всего множества элементов)
 > 2. Всевозможные [[Tuple|кортежи]], каждый из которых содежит все эти элементы по одному разу и которые отличаются друг от друга лишь порядком элементов
-DESCRIPTION_rus: 
 FORMULA: $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 ADDITIONAL: #### Пример
 Например, если у нас есть $3$ разных книги (A, B, C), то количество способов их упорядочить равно $3!=3×2×1=6$ (ABC, ACB, BAC, BCA, CAB, CBA).

@@ -21,9 +21,7 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: **Объединение** $A∪B$ 
-TITLE_rus: 
 DESCRIPTION: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
-DESCRIPTION_rus: 
 FORMULA: ![[Pasted image 20220630193329.png]]
 ADDITIONAL:
 <!--ID: 1706032088984-->

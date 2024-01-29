@@ -29,9 +29,7 @@ TARGET DECK: Math::Set
 START
 Math_ONE_side
 TITLE: Кортеж
-TITLE_rus: 
 DESCRIPTION: конечный упорядоченный список элементов
-DESCRIPTION_rus: 
 FORMULA: Определим понятие кортежа индуктивно. 
 Кортежем длины 0 называется пустое множество. 
 Если $T = (a_1,...,a_n)$ кортеж длины $n$, то (a,a1,...,an) = {a,{a,T}} есть кортеж длины n + 1. 

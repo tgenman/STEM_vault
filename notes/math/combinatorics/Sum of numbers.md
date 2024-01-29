@@ -64,9 +64,7 @@ START
 Math_TWO_side
 TITLE: Sum of numbers for power 1
 $1+2+3+4+\ldots+n=\binom11+\binom21+\ldots+\binom n1=\binom{n+1}2 =$
-TITLE_rus: 
 DESCRIPTION: $\frac{n(n+1)}2 =$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1706020955777-->
@@ -78,9 +76,7 @@ START
 Math_TWO_side
 TITLE: Sum of numbers for power 2
 $1^2+2^2+3^2+4^2+\ldots+n^2 =$
-TITLE_rus: 
 DESCRIPTION: $\frac{(n+1)n(2n+1)}{6} =$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1706020955796-->
@@ -92,9 +88,7 @@ START
 Math_TWO_side
 TITLE: Sum of numbers for power 2
 $1^3+2^3+3^3+4^3+\ldots+n^3 =$
-TITLE_rus: 
 DESCRIPTION: $\frac{n^2(n+1)^2}{4} =$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1706021072861-->

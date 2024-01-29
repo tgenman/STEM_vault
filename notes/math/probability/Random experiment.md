@@ -25,16 +25,15 @@ connected: []
 	- $P(A \sqcup B) = P(A) + P(B)$
 
 ### Anki
+> [!question]-
 TARGET DECK: Math::Probability
 START
 Math_ONE_side
 TITLE: Properties of Random experiment
-TITLE_rus: 
 DESCRIPTION: - повторяемость
 - отсутствие детерминистической регулярности
 - статистическая устойчивость частот
 	- в разных сериях экспериментов, частотное распределение событий должно сохраняться
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1697971998299-->
@@ -43,7 +42,6 @@ END
 START
 Math_ONE_side
 TITLE: Математическая модель случайного эксперимента
-TITLE_rus: 
 DESCRIPTION: - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
 	- [[Elementary event]] и [[Sample space]]
 - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет
@@ -51,7 +49,6 @@ DESCRIPTION: - Разные результаты экспериментов  <->
 	- [[Probability]] - это идеализированное представление о частоте
 	- $P(\Omega) = 1$
 	- $P(A \sqcup B) = P(A) + P(B)$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1697971998309-->

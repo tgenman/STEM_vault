@@ -31,7 +31,6 @@ TARGET DECK: Math::Combinatorics
 START
 Math_TWO_side
 TITLE: Числа Стирлинга второго рода $S(n, k)$
-TITLE_rus: 
 DESCRIPTION: Количество всех способов разбить $n$ объектов на $k$ непустых групп
 $S_n^m = \frac{1}{m!} \left[ m^n - \binom{m}{1} (m - 1)^n + \ldots + (-1)^k \binom{m}{k} (m - k)^n + \ldots + (-1)^{m-1} \binom{m}{m-1} \right].$
 Обозначение: $S_n^k$ или $\left\{ \begin{matrix} n \\ k \end{matrix} \right\}$
@@ -43,7 +42,6 @@ $S_n^m = \frac{1}{m!} \left[ m^n - \binom{m}{1} (m - 1)^n + \ldots + (-1)^k \bin
 
 $S(3,2) = 3$
 $S(10,5) = 42525$
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL:
 <!--ID: 1705843330675-->

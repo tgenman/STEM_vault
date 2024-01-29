@@ -26,10 +26,8 @@ TARGET DECK: Math::Graph
 START
 Math_ONE_side
 TITLE: The $n$-cube $Q_n$ (hypercube)
-TITLE_rus: 
 DESCRIPTION: is $K_2$ if $n = 1$, 
 while for $n ≥ 2$, $Q_n$ is defined recursively as the [[Cartesian product of sets (A x B)]] $Q_{n−1} \square K_2$ . 
-DESCRIPTION_rus: 
 FORMULA: 
 ADDITIONAL: ![[Pasted image 20231104171611.png]]
 <!--ID: 1699164293883-->
