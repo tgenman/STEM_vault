@@ -17,13 +17,13 @@ connected:
 > [!question]- Dominating vertex
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Dominating vertex
 TITLE_rus: 
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705262169569-->
 END
 

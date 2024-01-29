@@ -25,7 +25,7 @@ $$C_n^k = P(k, n-k)$$
 > [!question]- Combinations without repetitions
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE:  Combinations without repetitions
 TITLE_rus: 
 DESCRIPTION: A ==k-combination== from n elements (n-element set A) is an k-element subset of A. 
@@ -33,8 +33,8 @@ DESCRIPTION: A ==k-combination== from n elements (n-element set A) is an k-eleme
 > - Сочетания  - это в точности [[Set (math)|подмножества]]  из $k$ элементов заданного множества из $n$ элементов
 > - an k-element subset of A. 
 DESCRIPTION_rus: 
-Formula_main: $$C_{n}^k = \binom{n}{k} = \frac{A_n^k}{k!} = \frac{n!}{k!(n-k)!}$$
-Formula_additional: Connected with [[Permutations with repetitions]]
+FORMULA: $$C_{n}^k = \binom{n}{k} = \frac{A_n^k}{k!} = \frac{n!}{k!(n-k)!}$$
+ADDITIONAL: Connected with [[Permutations with repetitions]]
 $$C_n^k = P(k, n-k)$$
 <!--ID: 1698069941441-->
 END

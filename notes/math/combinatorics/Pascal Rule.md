@@ -21,13 +21,13 @@ $$\binom nk+\binom n{k+1}=\binom{n+1}{k+1} $$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE: Pascal Rule $\binom nk+\binom n{k+1} =$
 TITLE_rus: 
 DESCRIPTION: Pascal Rule $\binom{n+1}{k+1} =$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: ![[Pasted image 20240121214326.png]]
+FORMULA: 
+ADDITIONAL: ![[Pasted image 20240121214326.png]]
 <!--ID: 1698168213895-->
 END
 

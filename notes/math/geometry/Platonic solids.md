@@ -25,18 +25,18 @@ connected:
 > [!question]-
 TARGET DECK: Math::Geometry
 START
-Math prop
+Math_ONE_side
 TITLE: ==Правильный многогранник== или ==плато́ново тело== 
 TITLE_rus: 
 DESCRIPTION: это [[Выпуклый многогранник (3D)]], состоящий из одинаковых [[Правильный многоугльник (2D)]] и обладающий пространственной симметрией.
 DESCRIPTION_rus: 
-Formula_main: - [[Tetrahedron (4)]]
+FORMULA: - [[Tetrahedron (4)]]
 - [[Octahedron (5)]]
 - [[Cube (6)]]
 - [[Dodecahedron (12)]]
 - [[Icosahedron (20)]]
 
 ![[Pasted image 20231219215243.png]]
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705601025307-->
 END

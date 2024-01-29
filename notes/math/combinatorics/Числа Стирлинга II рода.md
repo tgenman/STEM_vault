@@ -29,7 +29,7 @@ $S(10,5) = 42525$
 > [!question]- Числа Стирлинга второго рода $S(n, k)$
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE: Числа Стирлинга второго рода $S(n, k)$
 TITLE_rus: 
 DESCRIPTION: Количество всех способов разбить $n$ объектов на $k$ непустых групп
@@ -44,8 +44,8 @@ $S_n^m = \frac{1}{m!} \left[ m^n - \binom{m}{1} (m - 1)^n + \ldots + (-1)^k \bin
 $S(3,2) = 3$
 $S(10,5) = 42525$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705843330675-->
 END
 

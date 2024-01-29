@@ -26,7 +26,7 @@ connected:
 > [!question]- Non labeled graph
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Non labeled graph
 TITLE_rus: 
 DESCRIPTION: 
@@ -41,8 +41,8 @@ DESCRIPTION:
 
 Число помеченных графов можно приближенно рассчитать по [[Формула Пойа]] 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705263691192-->
 END
 

@@ -23,13 +23,13 @@ tags:
 > [!question]- Theorem about number of labeled graphs
 TARGET DECK: Math::Graph 
 START
-Math prop
+Math_ONE_side
 TITLE: Theorem about number of labeled graphs
 TITLE_rus: 
 DESCRIPTION: Число помеченных графов с n вершинами равно $2^k$, где $k=\frac{n(n-1)}{2}$
 DESCRIPTION_rus: 
-Formula_main: #### Proof
+FORMULA: #### Proof
 Рассмотрим две произвольные вершины $u$ и $v$ в графе. Есть ровно две возможности: эти вершины или соединены ребром, или эти вершины не соединены ребром. Такие возможности имеются у всех $k = \frac{n(n-1)}{2}$ пар вершин (это максимально возможное число ребер в графе с $n$ вершинами). Поэтому число всех помеченных графов с $n$ вершинами равно $2^{k}$.
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705263490869-->
 END

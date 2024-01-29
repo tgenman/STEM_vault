@@ -26,28 +26,26 @@ connected:
 > [!question]- Complement of Set
 TARGET DECK: Math::Set
 START
-Math def
-TITLE: Complement of Set
-TITLE_rus: **Дополнением** к множеству $A$ (или его **отрицанием**) 
+Math_TWO_side
+TITLE: Complement of Set 112
+**Дополнением** к множеству $A$ (или его **отрицанием**)
 DESCRIPTION: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
-DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20220712111557.png|500]]
-Formula_additional:
+PICTURE: ![[Pasted image 20220712111557.png|500]]
 <!--ID: 1706031862933-->
 END
 
 > [!question]- Properties of Complement of Set
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: Properties of Complement of Set
-TITLE_rus: 
 DESCRIPTION: - $A \cup \overline{A} = U$
-- $A \cap \overline{A} = \emptyset$
-- $\overline{U} = \emptyset$
-- $\bar{\bar{A}} = A$
-DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
-<!--ID: 1706031862937-->
+> - $A \cap \overline{A} = \emptyset$
+> - $\overline{U} = \emptyset$
+> - $\bar{\bar{A}} = A$
+> 
+ID: 1706031862937
 END
+
+
+

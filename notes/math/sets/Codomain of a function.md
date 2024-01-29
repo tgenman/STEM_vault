@@ -22,13 +22,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Set  
 START
-Math def
+Math_TWO_side
 TITLE: Codomain (Кодомен), Target set
 TITLE_rus: 
 DESCRIPTION: Множество, в рамках которого рассматриваются возможные выходные значения функции.
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20240117200108.png|300]]
-Formula_additional:
+FORMULA: ![[Pasted image 20240117200108.png|300]]
+ADDITIONAL:
 <!--ID: 1706040595541-->
 END
 

@@ -18,13 +18,13 @@ A trivial walk is therefore a [[Closed walk]] closed walk.
 > [!question]- Trivial walk
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Trivial walk
 TITLE_rus: 
 DESCRIPTION: is walk consist of a single vertex
 DESCRIPTION_rus: A trivial walk is therefore a [[Closed walk]] closed walk.
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705602331022-->
 END
 

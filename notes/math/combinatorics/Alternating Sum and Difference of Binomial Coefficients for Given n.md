@@ -34,15 +34,15 @@ $$\binom{n}{0} - \binom{n}{1} + \ldots + (-1)^n\binom{n}{n} = \binom{n-1}{0} - (
 #### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE: Alternating Sum and Difference of Binomial Coefficients for Given n 
 $\forall n\in\mathbb{Z}:\sum_{i=0}^n{(-1)^i\binom ni} = \binom n0-\binom n1+\ldots+(-1)^n\binom nn$ 
 TITLE_rus: 
 DESCRIPTION: Alternating Sum and Difference of Binomial Coefficients for Given n
 $0$, if $n>0$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698168880317-->
 END
 

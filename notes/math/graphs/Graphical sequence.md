@@ -24,7 +24,7 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Graphical sequence
 TITLE_rus: 
 DESCRIPTION: is a finite sequence $s$ of nonnegative integers
@@ -32,8 +32,8 @@ if $s$ is a [[Degree Sequence|degree sequence]]  of some graph.
 While the conditions that $d_i ≤ n − 1$ for all $i (1 ≤ i ≤ n)$ and $\sum_{i=1}^{n} \deg v_i$ is even are necessary for s to be graphical, they are not sufficient.
 It is not all that unusual for a graphical sequence to be the degree sequence of more than one graph.
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20231104194929.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20231104194929.png]]
+ADDITIONAL:
 <!--ID: 1699132057004-->
 END
 

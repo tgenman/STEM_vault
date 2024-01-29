@@ -32,26 +32,26 @@ $$|A \times B | = |A| \cdot |B|$$
 > [!question]- Cartesian product of $A$ and $B$.
 TARGET DECK: Math::Set 
 START
-Math prop
+Math_ONE_side
 TITLE: Cartesian product of $A$ and $B$.
 TITLE_rus: 
 DESCRIPTION: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699126600775-->
 END
 
 > [!question]- [[Cardinality|Мощность]] декартового произведения множеств
 TARGET DECK: Math::Set   
 START
-Math prop
+Math_ONE_side
 TITLE: [[Cardinality|Мощность]] декартового произведения множеств
 TITLE_rus: 
 DESCRIPTION: равна произведению мощностей этих множеств
 DESCRIPTION_rus: 
-Formula_main: $$|A \times B | = |A| \cdot |B|$$
-Formula_additional:
+FORMULA: $$|A \times B | = |A| \cdot |B|$$
+ADDITIONAL:
 <!--ID: 1699126600788-->
 END
 
@@ -59,7 +59,7 @@ END
 > [!question]-
 TARGET DECK: Math::Set  
 START
-Math prop
+Math_ONE_side
 TITLE: Свойства декартового произведения множеств
 TITLE_rus: 
 DESCRIPTION: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
@@ -69,7 +69,7 @@ DESCRIPTION: 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$
 5. $(A_1 \setminus A_2) \times B = (A_1 \times B) \setminus (A_2 \times B)$
 6. $A \times (B_1 \setminus B_2) = (A \times B_1) \setminus (A \times B_2)$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705775628748-->
 END

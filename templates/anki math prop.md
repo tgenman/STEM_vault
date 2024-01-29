@@ -2,11 +2,12 @@
 > [!question]-
 TARGET DECK: Math:: #обс/фикс  
 >>START
-Math prop
+Math_ONE_side
 TITLE: 
 TITLE_rus: 
 DESCRIPTION: 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
+PICTURE:
 END

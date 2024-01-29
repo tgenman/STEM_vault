@@ -17,13 +17,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Pendant edge
 TITLE_rus: Висячее ребро 
 DESCRIPTION: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699165371489-->
 END
 

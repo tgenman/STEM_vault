@@ -20,13 +20,13 @@ is a collection of objects in which each object can appear more than once.
 > [!question]-
 TARGET DECK: Math::Set
 START
-Math def
+Math_TWO_side
 TITLE: Multiset
 TITLE_rus: Множество с повторениями
 DESCRIPTION: is a collection of objects in which each object can appear more than once.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705599792918-->
 END
 

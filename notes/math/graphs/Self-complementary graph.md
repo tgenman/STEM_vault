@@ -25,14 +25,14 @@ that is, if $G$ is a self-complementary graph of order $n$, then either $n ≡ 0
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Self-complementary graph
 TITLE_rus: 
 DESCRIPTION: if $G$ is isomorphic to $\bar{G}$.
 DESCRIPTION_rus: 
-Formula_main: if $G$ is a self-complementary graph of order $n$, 
+FORMULA: if $G$ is a self-complementary graph of order $n$, 
 then its size is $m = \binom n2 / 2 = n(n − 1)/4$.
-Formula_additional: ![[Pasted image 20231103174136.png]]
+ADDITIONAL: ![[Pasted image 20231103174136.png]]
 <!--ID: 1699131845868-->
 END
 

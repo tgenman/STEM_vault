@@ -19,14 +19,14 @@ created: 2023-12-19 21:44
 > [!question]- Tetrahedron (4)
 TARGET DECK: Math::Geometry
 START
-Math prop
+Math_ONE_side
 TITLE: Tetrahedron (4)
 TITLE_rus: Тетраэдер
 DESCRIPTION: Тетраэдр является треугольной [[Пирамида|пирамидой]] при принятии любой из граней за основание. У тетраэдра 4 грани, 4 вершины и 6 рёбер. 
 Тетраэдр, у которого все грани — равносторонние треугольники, называется ==правильным==. 
 ==Правильный тетраэдр== является одним из пяти [[Platonic solids|правильных многогранников]].
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20201004113910.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20201004113910.png]]
+ADDITIONAL:
 <!--ID: 1705263813656-->
 END

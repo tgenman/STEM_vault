@@ -22,13 +22,13 @@ $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 > [!question]- An arrangement with repetition
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE: An arrangement with repetition
 TITLE_rus: Размещения с повторениями (расстановки)
 DESCRIPTION: is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements can occures not once
 DESCRIPTION_rus: используются, когда мы выбираем и упорядочиваем $k$ объектов из набора из $n$ объектов, причем каждый объект можно выбирать неоднократно. То есть, один и тот же объект может появляться в выборке более одного раза.
-Formula_main: $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
-Formula_additional:
+FORMULA: $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
+ADDITIONAL:
 <!--ID: 1705261015599-->
 END
 

@@ -21,15 +21,15 @@ $$T = (u,v,y,w,v)$$
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Trail T
 TITLE_rus: Цепь
 DESCRIPTION: A [[Walk W|walk]] in a graph $G$ in which no [[Edge of graph (E)|edge]] is repeated
 DESCRIPTION_rus: 
-Formula_main: $$T = (u,v,y,w,v)$$
+FORMULA: $$T = (u,v,y,w,v)$$
 
 ![[Pasted image 20231123204833.png]]
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705600364821-->
 END
 

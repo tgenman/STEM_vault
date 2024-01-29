@@ -16,13 +16,13 @@ is the [[Order of graph (n)|order]] of the largest [[Clique]]
 > [!question]- The clique number $ω(G)$ of a graph $G$ 
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: The clique number $ω(G)$ of a graph $G$ 
 TITLE_rus: 
 DESCRIPTION: is the [[Order of graph (n)|order]] of the largest [[Clique]]
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705261600873-->
 END
 

@@ -25,14 +25,14 @@ When summing the degrees of the vertices of $G$, each edge of $G$ is counted twi
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Handshaking Lemma
 TITLE_rus: Лемма о рукопожатиях
 DESCRIPTION: If $G$ is a graph of size $m$, then
 $$\sum_{v\in V(G)}\deg v=2m.$$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: ### Proof
+FORMULA: 
+ADDITIONAL: ### Proof
 When summing the degrees of the vertices of $G$, each edge of $G$ is counted twice, once for each of its two incident vertices.
 <!--ID: 1699170117944-->
 END

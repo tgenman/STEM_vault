@@ -19,12 +19,12 @@ connected:
 > [!question]-
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: **Объединение** $A∪B$ 
 TITLE_rus: 
 DESCRIPTION: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20220630193329.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20220630193329.png]]
+ADDITIONAL:
 <!--ID: 1706032088984-->
 END

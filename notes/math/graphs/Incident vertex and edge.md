@@ -18,13 +18,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Incident vertex and edge
 TITLE_rus: 
 DESCRIPTION: The vertex $u$ and the edge $uv$ are said to be incident with each other.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699130467965-->
 END
 

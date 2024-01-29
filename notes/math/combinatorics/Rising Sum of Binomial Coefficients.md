@@ -46,15 +46,15 @@ $$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE: Rising Sum of Binomial Coefficients 
 $\sum_{j=0}^m\binom{n+j}n=\binom nn+\binom{n+1}n+\ldots+\binom{n+m}n =$
 TITLE_rus: 
 DESCRIPTION: Rising Sum of Binomial Coefficients
 $\binom{n+m+1}{n+1} =$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698168880333-->
 END
 

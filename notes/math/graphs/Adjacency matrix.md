@@ -31,7 +31,7 @@ $$
 > [!question]- The adjacency matrix
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: The adjacency matrix
 TITLE_rus: 
 DESCRIPTION:  Suppose that $G$ is a graph of order $n$, where $V(G) = \{v_1, v_2, \ldots, v_n\}$. The adjacency matrix of $G$ is the $n \times n$ zero-one matrix $A(G) = [a_{ij}]$, or simply $A = [a_{ij}]$, where
@@ -44,10 +44,10 @@ a_{ij} =
 $$
 ![[Pasted image 20231123220529.png]]
 DESCRIPTION_rus: 
-Formula_main: - all entries along the main diagonal of $A$ are $0$ since no vertex of $G$ is adjacent to itself. 
+FORMULA: - all entries along the main diagonal of $A$ are $0$ since no vertex of $G$ is adjacent to itself. 
 - Second, $A$ is a  symmetric matrix, that is, row i of $A$ is identical to column $i$ of $A$ for every integer $i$ with $1 ≤ i ≤ n$.
 - if we were to add the entries in row $i$ (or in column $i$), then we obtain the degree of $v_i$.
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705260885188-->
 END
 

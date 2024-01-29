@@ -23,14 +23,14 @@ One consequence of [[Theorem about 2-switches transformations of graphical seque
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: 2-switch 
 Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H)$
 TITLE_rus: 
 DESCRIPTION: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: ![[Pasted image 20231104195420.png]]
+FORMULA: 
+ADDITIONAL: ![[Pasted image 20231104195420.png]]
 <!--ID: 1699125265709-->
 END
 

@@ -25,18 +25,18 @@ $$1_{A\cap B}=1_A\cdot1_B$$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math prop
+Math_ONE_side
 TITLE: Indicator function
 TITLE_rus: Индикаторная функция
 DESCRIPTION: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698688139475-->
 END
 
 START
-Math prop
+Math_ONE_side
 TITLE: Properties of Indicator function
 TITLE_rus: Свойства Индикаторная функция
 DESCRIPTION: $$I_{\bar{A}} = 1 - I_{A}$$
@@ -44,8 +44,8 @@ $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698688139477-->
 END
 

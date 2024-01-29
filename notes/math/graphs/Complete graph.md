@@ -26,13 +26,14 @@ $$m = \binom{n}{2}$$
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Complete graph $K_n$
 TITLE_rus: 
 DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 DESCRIPTION_rus: 
-Formula_main: $$m = \binom{n}{2}$$
-Formula_additional: ![[Pasted image 20231031224948.png]]
+FORMULA: $$m = \binom{n}{2}$$
+ADDITIONAL: 
+PICTURE: ![[Pasted image 20231031224948.png]]
 <!--ID: 1699130250667-->
 END
 

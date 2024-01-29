@@ -27,7 +27,7 @@ connected: []
 ### Anki
 TARGET DECK: Math::Probability
 START
-Math prop
+Math_ONE_side
 TITLE: Properties of Random experiment
 TITLE_rus: 
 DESCRIPTION: - повторяемость
@@ -35,13 +35,13 @@ DESCRIPTION: - повторяемость
 - статистическая устойчивость частот
 	- в разных сериях экспериментов, частотное распределение событий должно сохраняться
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697971998299-->
 END
 
 START
-Math prop
+Math_ONE_side
 TITLE: Математическая модель случайного эксперимента
 TITLE_rus: 
 DESCRIPTION: - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
@@ -52,8 +52,8 @@ DESCRIPTION: - Разные результаты экспериментов  <->
 	- $P(\Omega) = 1$
 	- $P(A \sqcup B) = P(A) + P(B)$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697971998309-->
 END
 

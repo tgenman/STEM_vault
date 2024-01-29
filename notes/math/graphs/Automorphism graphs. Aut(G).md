@@ -34,7 +34,7 @@ $Aut(G)$ is a [[Group|group]] under the operation of composition
 > [!question]- Automorphism $Aut(G)$
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Automorphism $Aut(G)$
 TITLE_rus: 
 DESCRIPTION: is an [[519.175.1 Isomorphic Graphs|isomorphism]] of the graph to itself.
@@ -42,15 +42,15 @@ The automorphisms of a graph reflect its [[Symmetry|symmetries]].
 We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their number by $aut(G)$. 
 $Aut(G)$ is a [[Group|group]] under the operation of composition
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705261959421-->
 END
 
 > [!question]- Vertex-transitive (symmetric) graph
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Vertex-transitive (symmetric) graph
 TITLE_rus: 
 DESCRIPTION: Graphs in which all vertices are similar, such as (called):
@@ -58,21 +58,21 @@ DESCRIPTION: Graphs in which all vertices are similar, such as (called):
 - the [[Complete bipartite graph|complete bipartite graph]] $K_{n,n}$
 - the [[The Petersen Graph|n-cube]]  $Q_n$, 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705261959431-->
 END
 
 > [!question]- Asymmetric graphs
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Asymmetric graphs
 TITLE_rus: 
 DESCRIPTION: graphs in which no two vertices are similar
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705261959444-->
 END
 

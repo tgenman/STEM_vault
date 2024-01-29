@@ -18,13 +18,13 @@ $$m$$
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Size ($m$) of $G$
 TITLE_rus: 
 DESCRIPTION: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699164832914-->
 END
 

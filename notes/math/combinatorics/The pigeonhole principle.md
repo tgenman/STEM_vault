@@ -20,15 +20,15 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 ### Anki
 TARGET DECK: Math::Combinatorics  
 START
-Math prop
+Math_ONE_side
 TITLE: The pigeonhole principle
 TITLE_rus: Принцип Дирихле
 DESCRIPTION: If $N$ items are put in $N-1$ containers then at least one container must contains more than one item
 
 If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one pigeonhole contains at least $N/K$ pigeons
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698068782659-->
 END
 
@@ -36,15 +36,15 @@ END
 > [!question]-
 TARGET DECK: Math::Combinatorics    
 START
-Math def
+Math_TWO_side
 TITLE: Математические формулировки принципа Дирихле
 TITLE_rus: 
 DESCRIPTION: 1. Если $A = A_1 \cup A_2 \cup \ldots \cup A_k$, то для некоторого $i$ выполнено $\left| A_i \right| \geq \left\lceil \frac{|A|}{k} \right\rceil$ и для некоторого $j$ выполнено $\left| A_j \right| \leq \left\lfloor \frac{|A|}{k} \right\rfloor$.
 
 2. Если задана функция $f$ из $A$ в $B$, и при этом $\left| A \right| > \left| B \right|$, то найдутся $x, y \in A$, такие, что $x \neq y$ и $f(x) = f(y)$.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705778426714-->
 END
 

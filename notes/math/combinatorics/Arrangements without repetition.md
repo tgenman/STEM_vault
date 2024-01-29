@@ -27,13 +27,13 @@ $A_5^3=\frac{5!}{(5−3)!}=60$
 > [!question]- Arrangements without repetition
 TARGET DECK: Math::Combinatorics
 START
-Math def
+Math_TWO_side
 TITLE:  Arrangements without repetition
 TITLE_rus:  Размещение без повторений
 DESCRIPTION:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
 DESCRIPTION_rus:
-Formula_main: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
-Formula_additional:
+FORMULA: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
+ADDITIONAL:
 <!--ID: 1698069638670-->
 END
 

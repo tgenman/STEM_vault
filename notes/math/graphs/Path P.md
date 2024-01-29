@@ -22,15 +22,15 @@ $$P = (u,v,w,y)$$
 > [!question]- Path $P$
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Path $P$
 TITLE_rus: Простая цепь
 DESCRIPTION: a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
 DESCRIPTION_rus: 
-Formula_main: Every ==nontrivial path== is necessarily an [[Open walk]].
+FORMULA: Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
 ![[Pasted image 20231123204833.png]]
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705600616969-->
 END
 

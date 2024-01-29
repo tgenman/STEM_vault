@@ -19,13 +19,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: End-vertex
 TITLE_rus: 
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699131882675-->
 END
 

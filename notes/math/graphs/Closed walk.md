@@ -18,13 +18,13 @@ A [[Walk W|walk]] whose initial and terminal vertices are same
 > [!question]- Closed walk
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Closed walk
 TITLE_rus: Замкнутый маршрут
 DESCRIPTION: A [[Walk W|walk]] whose initial and terminal vertices are same
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705262071040-->
 END
 

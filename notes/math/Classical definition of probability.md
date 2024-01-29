@@ -26,20 +26,20 @@ $P(A) = \frac{|A|}{n}$ - [[Probability]]
 ### Anki
 TARGET DECK: Math::Probability
 START
-Math prop
+Math_ONE_side
 TITLE: Classical definition of probability
 TITLE_rus: 
 DESCRIPTION: $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
 $A \subset \Omega$ - [[Event]]
 $P(A) = \frac{|A|}{n}$ - [[Probability]]
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697972721265-->
 END
 
 START
-Math prop
+Math_ONE_side
 TITLE: Probability Properties
 TITLE_rus: 
 DESCRIPTION: - $P(\Omega) = 1$
@@ -50,7 +50,7 @@ DESCRIPTION: - $P(\Omega) = 1$
 - $P(A,\cup...\cup A_k)\leq P(A_1)+...+P(A_k)$
 - $\bar{A}:=\Omega\backslash A\text{ paвна }P(\bar{A})=1-P(A)$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697972721278-->
 END

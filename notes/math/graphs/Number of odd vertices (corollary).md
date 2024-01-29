@@ -22,13 +22,13 @@ which, of course, is an even number. Since the sum of the degrees of the even ve
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Number of odd vertices (corollary)
 TITLE_rus: 
 DESCRIPTION: Every graph has an even number of odd vertices.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: ### Proof
+FORMULA: 
+ADDITIONAL: ### Proof
 Proof. Suppose that $G$ is a graph of size $m$. By [[Handshaking Lemma]],
 $$\sum_{v\in V(G)}\deg v=2m.$$
 which, of course, is an even number. Since the sum of the degrees of the even vertices of $G$ is even, the sum of the degrees of the odd vertices of $G$ must be even as well, implying that $G$ has an even number of odd vertices.

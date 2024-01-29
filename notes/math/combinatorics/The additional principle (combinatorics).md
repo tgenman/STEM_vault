@@ -20,7 +20,7 @@ $$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math prop
+Math_ONE_side
 TITLE: The additional principle (combinatorics)
 TITLE_rus: 
 DESCRIPTION: If $A_1,..., A_n$ are pairwise disjoint sets ($A_i \cap A_j = \emptyset$  wherever $i \neq j$), then
@@ -29,7 +29,7 @@ $$
 $$
 
 DESCRIPTION_rus: Если некоторый объект $А$ можно выбрать $m$ способами, а другой объект R можно выбрать $n$ способами, то выбор «либо $А$, либо $В$» можно осуществить $m + n$ способами.
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698065507923-->
 END

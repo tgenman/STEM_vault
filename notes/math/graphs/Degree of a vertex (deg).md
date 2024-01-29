@@ -33,15 +33,15 @@ Not exist a [[Simple Graph (G)|graph]]  where all nodes have different degrees.
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Degree of a vertex (deg)
 TITLE_rus: 
 DESCRIPTION:  is the number of vertices that are [[Adjacent in graph|adjacent]] to $v$. 
  is the number of vertices in its [[Neighbourhood in graph (N)|neighborhood]] $N(v)$. 
  is the number of edges incident with $v$.
 DESCRIPTION_rus: 
-Formula_main: $$\deg v = |N(v)|$$
-Formula_additional: $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
+FORMULA: $$\deg v = |N(v)|$$
+ADDITIONAL: $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
 <!--ID: 1699164516907-->
 END
 

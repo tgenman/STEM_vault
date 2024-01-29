@@ -22,13 +22,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Adjacent vertices 
 TITLE_rus: 
 DESCRIPTION: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699126049535-->
 END
 
@@ -36,13 +36,13 @@ END
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Adjacent edges
 TITLE_rus: 
 DESCRIPTION: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699126049540-->
 END
 

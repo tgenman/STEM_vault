@@ -31,21 +31,21 @@ connected:
 > [!question]- Subset
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: A set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
 TITLE_rus: Подмножество
 DESCRIPTION: if every element of $B$ is in $A$. 
 The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705599998539-->
 END
 
 > [!question]-
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: Свойства подмножеств
 TITLE_rus: 
 DESCRIPTION: - **Самопринадлежность** 
@@ -57,8 +57,8 @@ DESCRIPTION: - **Самопринадлежность**
 - For any set $A$, $A$ itself and $∅$ are both subsets of $A$. 
 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и [[Empty Set]]
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705599998544-->
 END
 

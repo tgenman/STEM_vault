@@ -18,13 +18,13 @@ $$n$$
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Order of graph (n)
 TITLE_rus: 
 DESCRIPTION: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699164654357-->
 END
 

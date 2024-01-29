@@ -22,7 +22,7 @@ $$
 ### Anki
 TARGET DECK: Math::Combinatorics  
 START
-Math prop
+Math_ONE_side
 TITLE: The multiplication principle (combinatorics)
 TITLE_rus: 
 DESCRIPTION: Suppose that $A_1,..., A_n$ are finite sets, $|A_i| = a_i$
@@ -33,7 +33,7 @@ $$
 $$
 
 DESCRIPTION_rus: Если объект $А$ можно выбрать $m$ способами и если после каждого такого выбора объект $В$ можно выбрать $n$ способами, то выбор пары $(А; В)$ в указанном порядке можно осуществить $m \cdot n$ способами.
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698065740005-->
 END

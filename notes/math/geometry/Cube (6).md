@@ -23,12 +23,12 @@ anki: false
 > [!question]- Cube (6)
 TARGET DECK: Math::Geometry
 START
-Math prop
+Math_ONE_side
 TITLE: Cube (6)
 TITLE_rus: Гексаэдр Куб 
 DESCRIPTION:  ==Куб==(др.-греч. κύβος[1]) (иногда гекса́эдр[2][3] или правильный гекса́эдр[4][5]) — правильный многогранник, каждая грань которого представляет собой квадрат. Частный случай параллелепипеда и призмы.
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20201004121939.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20201004121939.png]]
+ADDITIONAL:
 <!--ID: 1705601177573-->
 END

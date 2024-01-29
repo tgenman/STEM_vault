@@ -18,13 +18,13 @@ As we can see, $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{
 ### Anki
 TARGET DECK: Math::Set
 START
-Math def
+Math_TWO_side
 TITLE: Residue classes modulo n (Modulus)
 TITLE_rus: 
 DESCRIPTION: $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{2},\ldots,\overline{n-1}}$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697899492182-->
 END
 

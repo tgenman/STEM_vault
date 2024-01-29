@@ -17,7 +17,7 @@ $$
 ### Anki
 TARGET DECK: Math::Combinatorics
 START
-Math prop
+Math_ONE_side
 TITLE: The substraction principle (combinatorics)
 TITLE_rus: 
 DESCRIPTION: Let $A$ be a finite set and $A \subset B$ then
@@ -26,8 +26,8 @@ $$
 $$
 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1698065777629-->
 END
 

@@ -19,15 +19,15 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: $H$ is a spanning subgraph of $G$ 
 TITLE_rus: Остовный подграф
 DESCRIPTION: If:
 $H$ is a [[Subgraph|subgraph]] of $G$ and 
 $V(H)=V(G)$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699170889234-->
 END
 

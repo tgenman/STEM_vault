@@ -17,13 +17,13 @@ is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 > [!question]- Parallel edges
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Parallel edges
 TITLE_rus: 
 DESCRIPTION: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705600079765-->
 END
 

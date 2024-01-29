@@ -16,13 +16,13 @@ Cамо множество и пустое множество — называю
 > [!question]-
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: Improper subset
 TITLE_rus: Несобственное подмножество
 DESCRIPTION: Cамо множество и пустое множество
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699130367605-->
 END
 

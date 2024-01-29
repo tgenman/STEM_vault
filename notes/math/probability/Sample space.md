@@ -26,19 +26,19 @@ $A = \{1, 3, 5\}$ - outcome is odd
 ### Anki
 TARGET DECK: Math::Probability
 START
-Math def
+Math_TWO_side
 TITLE: Sample space $\Omega$ 
 (Informal definition)
 TITLE_rus: Пространство элементарных исходов $\Omega$
 DESCRIPTION: the set of all possible outcomes of an experiment
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: 
+FORMULA: 
+ADDITIONAL: 
 <!--ID: 1697972538023-->
 END
 
 START
-Math prop
+Math_ONE_side
 TITLE: Sample space $\Omega$ 
 (Formal definition)
 TITLE_rus: Пространство элементарных исходов $\Omega$
@@ -46,8 +46,8 @@ DESCRIPTION: - ==Sample space $\Omega$ ==- abstract set - пространств
 - $\omega \in \Omega$ - [[Elementary event]] (element of set)
 - $A \subset \Omega$ - an [[Event]] (subset of set)
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional: ### Example
+FORMULA: 
+ADDITIONAL: ### Example
 Tossing a dice
 $\Omega = \{1, 2, 3, 4, 5, 6\}$
 $A = \{1, 3, 5\}$ - outcome is odd

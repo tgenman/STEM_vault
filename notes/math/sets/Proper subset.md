@@ -16,13 +16,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: Proper subset
 TITLE_rus: Собственное подмножество
 DESCRIPTION: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699129807675-->
 END
 

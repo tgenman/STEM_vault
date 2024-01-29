@@ -24,7 +24,7 @@ created: 2023-12-19 21:49
 #### Anki
 > [!question]-
 TARGET DECK: Math::Geometry START
-Math prop
+Math_ONE_side
 TITLE: Octahedron (5)
 TITLE_rus: Октаэдр
 DESCRIPTION: ==Окта́эдр== (греч. οκτάεδρον от οκτώ «восемь» + έδρα «основание») — многогранник с восемью гранями.
@@ -34,6 +34,6 @@ DESCRIPTION_rus: Пра́вильный окта́эдр является одн
 - квадратная бипирамида в любом из трёх ортогональных направлений;
 - треугольная антипризма в любом из четырёх направлений;
 - трёхмерный шар в метрике городских кварталов.
-Formula_main: ![[Pasted image 20201004121022.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20201004121022.png]]
+ADDITIONAL:
 END

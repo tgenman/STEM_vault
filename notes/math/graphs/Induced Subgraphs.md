@@ -37,60 +37,60 @@ If  $E(H) = E(G) \cap \binom{V(H)}{2}$ then $H$ is induced subgraph
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Induced subgraph
 TITLE_rus: Порожденный подграф
 DESCRIPTION: is a subgraph $H$ of $G$ if: 
 if there is a nonempty vertex subset $S$ of $V(G)$ such that $H = G[S]$.
 $G[V(G)] = G$. 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699171145822-->
 END
 
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Edge-induced subgraph
 TITLE_rus: Порожденный подграф
 DESCRIPTION: is a subgraph $H$ of $G$ if:
 there is a nonempty  edge subset $X$ of $E(G)$ such that $H = G[X]$. 
 Thus, $G[E(G)] = G$ if and only if $G$ has no isolated vertices.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699171145833-->
 END
 
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Induced by vertex set $S$
 TITLE_rus: Порожденный подграф
 DESCRIPTION: Subgraph $G[S]$ of $G$ induced by $S$ (for a nonempty  vertex subset $S$ of $V(G)$) if:
  has $S$ as its vertex set and
  two vertices $u$ and $v$ are adjacent in $G[S]$ if and only if $u$ and $v$ are adjacent in $G$.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699171145843-->
 END
 
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Induced by edge set $X$
 TITLE_rus: Порожденный подграф
 DESCRIPTION: > Subgraph $G[X]$ of $G$ induced by $X$ (for a nonempty  edge subset $X$ of $E{} (G)$) if:
  has $X$ as its edge set and
  a vertex $v$ belongs to $G[X]$ if $v$ is incident with at least one edge in $X$. 
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699171145854-->
 END
 

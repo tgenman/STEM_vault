@@ -17,12 +17,12 @@ connected:
 > [!question]-
 TARGET DECK: Math::Geometry  
 START
-Math def
+Math_TWO_side
 TITLE: Polyhedron (3D)
 TITLE_rus: 
 DESCRIPTION: Многогранник
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705600801036-->
 END

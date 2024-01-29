@@ -31,7 +31,7 @@ We show that $\bar{a}\subseteq\bar{b}$. Let $x\in\bar{a}.$ Then $x\sim a.$But$a\
 ### Anki
 TARGET DECK: Math::Set  
 START
-Math prop
+Math_ONE_side
 TITLE: Equivalence Relations and Partitions (theorem)
 TITLE_rus: 
 DESCRIPTION: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
@@ -42,8 +42,8 @@ $$
 
 Also, each partition of $S$ gives rise to an equivalence relation $∼$ on $S$ where $a ∼ b$ if and only if a and b are in the same cell of the partition.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697900657287-->
 END
 

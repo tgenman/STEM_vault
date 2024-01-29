@@ -18,13 +18,13 @@ connected:
 > [!question]- Girth of $G$ $g(G)$
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Girth of $G$ $g(G)$
 TITLE_rus: 
 DESCRIPTION: the length of a smallest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705258523774-->
 END
 

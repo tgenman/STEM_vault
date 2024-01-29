@@ -48,12 +48,12 @@ $q:(3; 4)⟶{0; 1}.$
 > [!question]- A function $φ$
 TARGET DECK: Math::Algebra
 START
-Math prop
+Math_ONE_side
 TITLE: A function $φ$
 TITLE_rus: Функция
 DESCRIPTION: mapping $X$ into $Y$ is a [[Relation]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 DESCRIPTION_rus: это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго.
-Formula_main: Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. 
+FORMULA: Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. 
 We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
 $$f:X⟶Y$$
 - The [[Domain Dom(f) or Preimage|domain]] of $φ$ is the set $X$ and 
@@ -72,7 +72,7 @@ $f:R⟶R,$
 $g:N⟶R∖{3},$
 $p:Z⟶[1; 7],$
 $q:(3; 4)⟶{0; 1}.$
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705514233645-->
 END
 

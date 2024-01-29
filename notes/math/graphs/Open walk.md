@@ -15,13 +15,13 @@ A walk whose initial and terminal vertices are distinct
 > [!question]- Open walk
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Open walk
 TITLE_rus: 
 DESCRIPTION: A walk whose initial and terminal vertices are distinct
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705348914030-->
 END
 

@@ -19,15 +19,15 @@ $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
 > [!question]- Kroneker delta
 TARGET DECK: Math::Linal
 >>START
-Math def
+Math_TWO_side
 TITLE: Kroneker delta
 TITLE_rus: 
 DESCRIPTION: $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
 > - $1$ if $i = j$
 > - $0$ if $i \ne j$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 END
 
 

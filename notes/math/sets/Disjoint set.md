@@ -19,13 +19,13 @@ connected:
 > [!question]- Sets are disjoint
 TARGET DECK: Math::Set
 START
-Math prop
+Math_ONE_side
 TITLE: Sets are disjoint
 TITLE_rus: 
 DESCRIPTION:  if no two of them share a common element
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705513882724-->
 END
 

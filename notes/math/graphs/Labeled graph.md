@@ -25,26 +25,26 @@ connected:
 > [!question]- Labeled graph
 TARGET DECK: Math::Graph 
 START
-Math def
+Math_TWO_side
 TITLE: Labeled graph
 TITLE_rus: Граф с $n$ вершинами называется помеченным, 
 DESCRIPTION: если его вершинам присвоены номера $1, 2, ..., n$
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20231218225715.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20231218225715.png]]
+ADDITIONAL:
 <!--ID: 1705263411201-->
 END
 
 > [!question]-
 TARGET DECK: Math::Graph 
 START
-Math def
+Math_TWO_side
 TITLE: Два помеченных графа считаются различнымии,
 TITLE_rus: 
 DESCRIPTION: если существует хотя бы одна такая пара вершин $i$ и $j$, что в одном графе эти вершины образуют ребро, а в другом нет
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705263411220-->
 END
 

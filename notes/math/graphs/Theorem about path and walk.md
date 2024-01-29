@@ -29,12 +29,12 @@ whose length is less than $k$ and such that every edge of $W'$ belongs to $W$. T
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Theorem about path and walk
 TITLE_rus: 
 DESCRIPTION: Let $u$ and $v$ be two vertices of a graph $G$. For every $u − v$ [[Walk W|walk]]  $W$ in $G,$ there exists a $u−v$ [[Path P|path]] $P$ such that every edge of $P$ belongs to$ W$.
 DESCRIPTION_rus: 
-Formula_main: ### Proof. 
+FORMULA: ### Proof. 
 Let $W$ be a $u - v$ walk. Among all $u - v$ walks in $G$, every edge of which belongs to $W$, let
 
 $$ P = (u = u_0, u_1, ..., u_k = v) $$
@@ -44,7 +44,7 @@ be one of minimum length. Thus, the length of $P$ is $k$. We claim that $P$ is a
 $$ W' = (u = u_0, u_1, ..., u_{i-1}, u_i = u_j, u_{j+1}, ..., u_k = v) $$
 
 whose length is less than $k$ and such that every edge of $W'$ belongs to $W$. This is a contradiction.
-Formula_additional:
+ADDITIONAL:
 <!--ID: 1705601974450-->
 END
 

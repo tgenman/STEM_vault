@@ -20,12 +20,12 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Multigraph (H)
 TITLE_rus: Мультиграфы
 DESCRIPTION: is a nonempty set of vertices, every two of which are joined by a finite number of edges. Hence a multigraph $H$ may be expressed as $H = (V,E)$, where $E$ is a multiset of $2$-element subsets of $V$
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20231115154708.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20231115154708.png]]
+ADDITIONAL:
 <!--ID: 1705600364830-->
 END

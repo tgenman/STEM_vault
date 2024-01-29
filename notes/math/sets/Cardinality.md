@@ -28,14 +28,14 @@ Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if t
 > [!question]- Cardinality
 TARGET DECK: Math::Set 
 START
-Math prop
+Math_ONE_side
 TITLE: Cardinality
 TITLE_rus: 
 DESCRIPTION: The number of elements in a set $X$.
 > Denoted by $|X|$ or $\#X$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1706040051697-->
 END
 

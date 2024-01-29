@@ -22,26 +22,26 @@ connected:
 > [!question]- Сlique
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: Сlique
 TITLE_rus: 
 DESCRIPTION: Complete  Subgrap of $G$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705258440998-->
 END
 
 > [!question]- k-clique
 TARGET DECK: Math::Graph
 START
-Math def
+Math_TWO_side
 TITLE: k-clique
 TITLE_rus: 
 DESCRIPTION: A clique of order $k$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1705258441000-->
 END
 

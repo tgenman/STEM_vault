@@ -18,13 +18,13 @@ connected:
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Empty graph
 TITLE_rus: 
 DESCRIPTION: if size $m = 0$
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1699132303418-->
 END
 

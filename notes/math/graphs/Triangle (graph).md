@@ -20,14 +20,14 @@ $C_3 = K_3$
 > [!question]-
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Triangle (graph)
 TITLE_rus: 
 DESCRIPTION: 3-cycle
 [[Complete graph]] with $n=3$
 DESCRIPTION_rus: 
-Formula_main: $C_3 = K_3$
-Formula_additional:
+FORMULA: $C_3 = K_3$
+ADDITIONAL:
 <!--ID: 1699131352172-->
 END
 

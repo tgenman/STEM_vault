@@ -22,14 +22,14 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 > [!question]- Pseudograph
 TARGET DECK: Math::Graph
 START
-Math prop
+Math_ONE_side
 TITLE: Pseudograph
 TITLE_rus: Псевдограф
 DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
 or [[Multigraph (H)]] + [[Loop (graph)]]
 DESCRIPTION_rus: 
-Formula_main: ![[Pasted image 20231115154026.png]]
-Formula_additional:
+FORMULA: ![[Pasted image 20231115154026.png]]
+ADDITIONAL:
 <!--ID: 1705600203513-->
 END
 

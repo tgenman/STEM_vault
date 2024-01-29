@@ -16,14 +16,14 @@ The subsets are the ==cells== of the partition.
 ### Anki
 TARGET DECK: Math::Set 
 START
-Math def
+Math_TWO_side
 TITLE: A partition of a set $S$ 
 TITLE_rus: Разбиение множества
 DESCRIPTION: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
 DESCRIPTION_rus: 
-Formula_main: 
-Formula_additional:
+FORMULA: 
+ADDITIONAL:
 <!--ID: 1697898285975-->
 END
 
