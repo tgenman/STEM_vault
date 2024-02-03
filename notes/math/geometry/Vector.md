@@ -9,6 +9,8 @@ tags:
   - anki
 ---
 
+Vector - are [[Linear combination]] of the elements of a [[Basis VS]]
+
 [[Unit vector]]
 
 ==Вектор== - класс эквивалентности направленных отрезков

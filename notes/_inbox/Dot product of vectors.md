@@ -1,24 +1,17 @@
 ---
-aliases:
-  - Скалярное произведение векторов
-  - Scalar product
-  - Inner product
+aliases: 
 publish: true
 anki: false
-tags: 
+created: 2024-02-03 18:17
 parent:
-  - "[[Multiplication]]"
-  - "[[Scalar]]"
-  - "[[Vector]]"
-  - "[[Vectors opeartions]]"
+  - "[[Inner product of vectors]]"
 connected:
-  - "[[Cross product of vectors]]"
+  - "[[Euclidian norm (L2)]]"
 ---
 
-![[Pasted image 20240203125746.png]]
-
-Dot product это частный случай Inner Product
-${} \vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b}) {}$ - Dot product
+> [!tip] Dot product 
+это частный случай [[Inner product of vectors]]
+$\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 
 
 
@@ -38,20 +31,6 @@ $$\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\
 Для скалярного произведения действуют несколько свойств. О свойстве коммутативности вы уже знаете. А вот ещё два:
 - $(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$ — ассоциативность скалярного произведения: скаляр $k$ из него можно вынести за скобки.
 - $(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$ — дистрибутивность скалярного произведения.
-
-
-![[Pasted image 20220719132344.png]]
-
-
-**Cources:**
-- 
-
-
-**Connected with:**
-- [[Cauchy-Буняковского-Schwarz Inequality]]
-- [[Holder's Inequality]]
-- 
-
 
 
 

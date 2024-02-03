@@ -44,5 +44,5 @@ $[\bar a \times \bar a] = 0$
 
 **Connected with:**
 - [[Vectors opeartions]]
-- [[Dot product of vectors]]
+- [[Inner product of vectors]]
 

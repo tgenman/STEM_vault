@@ -2,24 +2,32 @@
 aliases:
   - Норма вектора
 publish: true
-created: 2023-08-11 16:41
+created: 2024-02-03 17:59
 parent:
   - "[[Vector|Вектор]]"
+anki: false
+connected:
+  - "[[Unit vector]]"
+tags:
+  - empty
 ---
- 
-Найти длину вектора — это значит вычислить его **норму**. Метрика Минковского
 
-Норма вектора ${} |\bar{a}|$ или $||\bar{a}||$ - его длина
+> [!tip] A norm on a vector space $V$ is 
+a function $\|\cdot\|: V \to \mathbb{R}$ which assigns each [[Vector]] vector $x \in V$ its *length* $\|x\| \in \mathbb{R}$.
 
-$$L_p = ∣\bar{a}∣_p = (\sum_{i=1}^{n} |a|^p)^{1/p} \text{, где p — положительное действительное число}$$
+A norm must satisfy the following properties:
+- Absolutely [[Homogeneous]]: $\forall x \in V, \forall \lambda \in \mathbb{R} \quad \|\lambda x\| = |\lambda| \|x\|$
+- [[Positive definite]]: $\forall x \in V \quad \|x\| \geq 0$ and $\|x\| = 0 \iff x = 0$
+- [[The triangle inequality]] $\forall x, y \in V \quad \|x + y\| \leq \|x\| + \|y\|$
 
-На практике чаще всего работают с векторными нормами при $p=1, 2, ∞$
-- [[L1 норма]]
-- [[L2 норма]]
-- [[Максимальная норма]]
+
+- [[Lp norm]]
+	- [[Manhattan norm (L1)]]
+	- [[Euclidian norm (L2)]]
+	- [[Max norm (L_infinity)]]
 - [[Unit vector]]
 
-
+ 
 
 
 
