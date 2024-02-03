@@ -27,3 +27,5 @@ $\mathbb{P}$ - [[Prime numbers P]]
 
 [[Aleph number]]
 [[Continuum]]
+
+[[Scalar]]
