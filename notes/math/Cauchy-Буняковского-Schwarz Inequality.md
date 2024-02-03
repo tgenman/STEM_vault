@@ -11,9 +11,11 @@ connected:
 tags:
   - anki
 ---
-$$
-\frac{a + b}{2} = \sqrt{ab}
-$$
+
+
+[[Inner product of vectors]] двух веторов меньше или равно произведению их [[Norm of vector]]
+
+$\frac{a + b}{2} = \sqrt{ab}$
 
 $$
 \forall x, y \in R: x^2 + y^2 \geq 2|xy| 
