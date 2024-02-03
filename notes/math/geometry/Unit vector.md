@@ -3,7 +3,7 @@ aliases:
 publish: true
 parent:
   - "[[Vector]]"
-  - "[[Нормирование вектора|Норма вектора]]"
+  - "[[Norm of vector|Норма вектора]]"
 ---
 #анки
 

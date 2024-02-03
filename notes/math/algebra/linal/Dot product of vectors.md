@@ -2,20 +2,23 @@
 aliases:
   - Скалярное произведение векторов
   - Scalar product
+  - Inner product
 publish: true
 tags:
   - anki
 ---
 
+![[Pasted image 20240203125746.png]]
 
-$\vec{a} = a_x \vec{i} + a_y \vec{j} + a_z \vec{k}$  
-$\vec{b} = b_x \vec{i} + b_y \vec{j} + b_z \vec{k}$ 
-$$
-\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}
-$$
-$$
-\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z
-$$
+Dot product это частный случай Inner Product
+${} \vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b}) {}$ - Dot product
+
+
+
+${} \vec{a} = a_x \vec{i} + a_y \vec{j} + a_z \vec{k}$  
+$\vec{b} = b_x \vec{i} + b_y \vec{j} + b_z \vec{k} {}$ 
+$\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
+
 
 $$\cos(\vec{a},\vec{b})=\frac{\vec{a}\cdot\vec{b}}{|\vec{a}|\cdot|\vec{b}|}$$
 
