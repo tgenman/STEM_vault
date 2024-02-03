@@ -7,7 +7,7 @@ parent:
   - "[[512.1 Elementary Algebra MOC]]"
 connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
-  - "[[Dot product of vectors|Скалярное произведение векторов]]"
+  - "[[Inner product of vectors|Скалярное произведение векторов]]"
 tags:
   - anki
 ---
