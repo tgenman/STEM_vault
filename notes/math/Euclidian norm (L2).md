@@ -23,4 +23,5 @@ DESCRIPTION: $$L_2= ∣\bar{a}∣_2 = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
 FORMULA: 
 ADDITIONAL:
 PICTURE: ![[Pasted image 20240203175211.png|300]]
+ID: 1707035105940
 END

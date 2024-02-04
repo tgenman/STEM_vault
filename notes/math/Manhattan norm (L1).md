@@ -29,4 +29,5 @@ DESCRIPTION: Сумма взятых по модулю координат век
 FORMULA: $L_1 = \sum_{i=1}^{n} |a|$
 ADDITIONAL:
 PICTURE: ![[Pasted image 20240203174411.png|300]]  
+ID: 1707035105923
 END 

@@ -16,6 +16,7 @@ connected:
 created: 2023-10-14 12:29
 ---
 
+[[Linal - Homework 1]]
 
 The task in your screenshot involves computing the nth power of a matrix A, where A is given by:
 
