@@ -1,12 +1,15 @@
 ---
+aliases:
+  - Перестановочные матрицы
 publish: true
+anki: false
 ---
-
-[[Matrix|Матрицы]], для которых $AB=BA$, называют **перестановочными** или коммутативными.
+> [!tip] Commutative matrix
+[[Matrix|Матрицы]], для которых $AB=BA$
 
 Перестановочными бывают только [[Квадратная матрица|квадратные матрицы]]   одного и того же размера.
 
-Например, $A=\begin{pmatrix} 2 & -3 \\ 1 & 0 \end{pmatrix}$ и $B=\begin{pmatrix} 4 & -3 \\ 1 & 2 \end{pmatrix}$. Проверим!
+Например, $A=\begin{pmatrix} 2 & -3 \\ 1 & 0 \end{pmatrix}$ и $B=\begin{pmatrix} 4 & -3 \\ 1 & 2 \end{pmatrix}$. 
 
 $AB=\begin{pmatrix} 2 & -3 \\ 1 & 0 \end{pmatrix}\cdot\begin{pmatrix} 4 & -3 \\ 1 & 2 \end{pmatrix}=\begin{pmatrix}2\cdot4-3\cdot1 & 2\cdot(-3)-3\cdot2 \\ 1\cdot4+0\cdot1 & 1\cdot(-3)+0\cdot2\end{pmatrix}=\begin{pmatrix} 5 & -12 \\ 4 & -3 \end{pmatrix}$.
 

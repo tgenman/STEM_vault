@@ -17,7 +17,12 @@ tag:#анки OR tag:#anki
 "anki: false" -tag:#empty -path:system -path:abstract -path:probability
 ```
 
+---
+### Linal Anki Debt 
 
+```query
+("anki: false" OR tag:#anki) path:linal
+```
 
 
 ---

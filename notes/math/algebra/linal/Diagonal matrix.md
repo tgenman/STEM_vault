@@ -1,6 +1,7 @@
 ---
+aliases:
+  - Диагональная матрица
 publish: true
-aliases: 
 created: 2023-10-30 20:13
 parent:
   - "[[Квадратная матрица]]"

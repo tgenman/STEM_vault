@@ -6,7 +6,7 @@ publish: true
 ---
 #анки
 
-
+https://en.wikipedia.org/wiki/Elementary_matrix
 ### Types
 - Adding $m$ times the second row to the first row correspond to
 $$

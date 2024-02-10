@@ -17,7 +17,7 @@ a function $\|\cdot\|: V \to \mathbb{R}$ which assigns each [[Vector]] vector $x
 
 #### Properties
 A norm must satisfy the following properties:
-- Absolutely [[Homogeneous]]: $\forall x \in V, \forall \lambda \in \mathbb{R} \quad \|\lambda x\| = |\lambda| \|x\|$
+- Absolutely [[Homogeneous 1]]: $\forall x \in V, \forall \lambda \in \mathbb{R} \quad \|\lambda x\| = |\lambda| \|x\|$
 - [[Positive definite]]: $\forall x \in V \quad \|x\| \geq 0$ and $\|x\| = 0 \iff x = 0$
 - [[The triangle inequality]] $\forall x, y \in V \quad \|x + y\| \leq \|x\| + \|y\|$
 

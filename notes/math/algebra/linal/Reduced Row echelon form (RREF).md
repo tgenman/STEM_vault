@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Приведенная ступенчатая форма (ПСФ)
 publish: true
 parent:
   - "[[The Gaussian Elimination Method|Метод Гаусса]]"
@@ -12,7 +14,7 @@ A matrix is in _row echelon form_ if:
 
 ![[Pasted image 20230912205352.png]]
 
-A _pivot_ is the first nonzero entry of a row of a matrix in row echelon form.
+A _pivot (leading element) is the first nonzero entry of a row of a matrix in row echelon form. ()
 
 A matrix is in _reduced row echelon form_ if it is in row echelon form, and in addition:
 4. Each pivot is equal to 1.
