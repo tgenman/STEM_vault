@@ -21,7 +21,7 @@ tag:#анки OR tag:#anki
 ### Linal Anki Debt 
 
 ```query
-("anki: false" OR tag:#anki) path:linal
+("anki: false" OR tag:#анки OR tag:#anki) path:linal
 ```
 
 

@@ -2,20 +2,33 @@
 aliases:
   - Единичная матрица
 publish: true
-created: 2023-09-10 10:30
+anki: true
+created: 2024-02-10 23:59
 parent:
   - "[[Diagonal matrix]]"
 connected:
   - "[[Identity element]]"
   - "[[Matrix]]"
-tags:
-  - anki
+  - "[[Unit vector]]"
+  - "[[Kroneker delta]]"
 ---
 
-**Единичной матрицей $E$** называют [[Diagonal matrix]], все элементы на [[Главная диагональ квадратной матрицы|главной диагонали]]  которой равны 1.
+> [!tip] Identity matrix $E$ ($I$) 
+> называют [[Diagonal matrix]], все элементы на [[Главная диагональ квадратной матрицы|главной диагонали]]  которой равны 1.
+$I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 
-$$I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$$
-$I_{ij} = \delta_{ij}$  [[Kroneker delta]]:
+#### Anki
+> [!question]- Identity matrix $E$ ($I$) 
+TARGET DECK: Math::Linal
+START
+Math_TWO_side
+TITLE: Identity matrix $E$ ($I$) 
+DESCRIPTION: называют [[Diagonal matrix]], все элементы на [[Главная диагональ квадратной матрицы|главной диагонали]]  которой равны 1.
+FORMULA: $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
+ADDITIONAL:
+PICTURE:
+ID: 1707598894886
+END
 
 
 

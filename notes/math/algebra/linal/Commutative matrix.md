@@ -3,11 +3,14 @@ aliases:
   - Перестановочные матрицы
 publish: true
 anki: false
+connected:
+  - "[[Commutative]]"
 ---
-> [!tip] Commutative matrix
+
+> [!tip] [[Commutative]] matrix
 [[Matrix|Матрицы]], для которых $AB=BA$
 
-Перестановочными бывают только [[Квадратная матрица|квадратные матрицы]]   одного и того же размера.
+Перестановочными бывают только [[Square matrix|квадратные матрицы]]   одного и того же размера.
 
 Например, $A=\begin{pmatrix} 2 & -3 \\ 1 & 0 \end{pmatrix}$ и $B=\begin{pmatrix} 4 & -3 \\ 1 & 2 \end{pmatrix}$. 
 
@@ -21,7 +24,7 @@ $BA=AB$.
 
 ---
 
-[[Zero Matrix]] соответствующего размера будет перестановочной с любой [[Квадратная матрица|квадратной]].
+[[Zero Matrix]] соответствующего размера будет перестановочной с любой [[Square matrix|квадратной]].
 
 Например, $\begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}\cdot\begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{pmatrix}=\begin{pmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9\end{pmatrix}\cdot\begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}=\begin{pmatrix} 0 & 0 & 0 \\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{pmatrix}$.
 

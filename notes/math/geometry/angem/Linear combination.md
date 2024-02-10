@@ -2,23 +2,30 @@
 aliases:
   - Линейная комбинация векторов
 publish: true
+anki: true
 created: 2023-08-10 15:29
-tags:
-  - anki
+tags: 
+parent:
+  - "[[Vector space V]]"
 ---
-![[Screenshot 2022-07-07 at 21.05.21.png]]
 
-Это линейная комбинация [[Система векторов|системы векторов]] с заданными коэффициентами
+> [!tip] Linear combination
+Пусть $\vec{a_1}, \vec{a_2}, \ldots, \vec{a_n}$ — конечная система векторов, а $k_1, k_2, \ldots, k_n$ — произвольные вещественные числа. Тогда:
+Вектор $\vec{a} = k_1 \cdot \vec{a_1} + k_2 \cdot \vec{a_2} + \ldots + k_n \cdot \vec{a_n}$ — это линейная комбинация системы векторов с заданными коэффициентами.
 
-
-Если для $\Large \bar{b}$ $\Large \exists$ л.к. $\small k_1*\bar{a_1} + ... + k_n*\bar{a_n} = \bar{b}$  , то  $\bar{b}$  линейно выражается через $\bar{a_1},..., \bar{a_n}$
-
-
-
-
-
-**Connected with:**
-- [[Система векторов]]
+#### Anki
+> [!question]- Linear combination
+TARGET DECK: Math::Linal
+START
+Math_ONE_side
+TITLE: Linear combination
+DESCRIPTION: Пусть $\vec{a_1}, \vec{a_2}, \ldots, \vec{a_n}$ — конечная система векторов, а $k_1, k_2, \ldots, k_n$ — произвольные вещественные числа. Тогда:
+Вектор $\vec{a} = k_1 \cdot \vec{a_1} + k_2 \cdot \vec{a_2} + \ldots + k_n \cdot \vec{a_n}$ — это линейная комбинация системы векторов с заданными коэффициентами.
+FORMULA: 
+ADDITIONAL:
+PICTURE:
+ID: 1707597585888
+END
 
 
 

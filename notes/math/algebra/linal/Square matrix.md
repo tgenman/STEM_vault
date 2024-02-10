@@ -1,7 +1,16 @@
 ---
+aliases:
+  - Квадратная матрица
 publish: true
-created: 2023-08-14 16:11
+created: 2024-02-11 00:03
+anki: false
+parent:
+  - "[[Matrix]]"
+connected: 
+tags:
+  - empty
 ---
+
 
 [[Matrix|Матрица]] в которой число строк и столбцов совпадает
 
@@ -23,14 +32,9 @@ a_{11} & a_{12} & a_{13} \\
 \end{bmatrix}
 $$
 
-Виды:
-- [[Singular matrix|Вырожденная матрица]]
 
 
 
-
-**Connected with:**
-- [[Matrix|Матрица]]
 
 
 

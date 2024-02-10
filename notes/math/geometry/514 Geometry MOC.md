@@ -37,7 +37,8 @@ publish: true
 Arc - дуга
 Semicircle - полуокружность
 
-
+[[Circle]]
+	[[Radius]]
 
 
 
