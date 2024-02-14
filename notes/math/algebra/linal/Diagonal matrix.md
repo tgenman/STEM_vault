@@ -7,7 +7,7 @@ created: 2024-02-10 23:56
 parent:
   - "[[Square matrix]]"
 connected:
-  - "[[Главная диагональ квадратной матрицы]]"
+  - "[[Diagonal of square matrix]]"
 ---
 
 > [!tip] Diagonal matrix

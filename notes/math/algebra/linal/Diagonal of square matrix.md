@@ -1,13 +1,13 @@
 ---
+aliases:
+  - Главная диагональ квадратной матрицы
 publish: true
-aliases: 
 created: 2023-10-30 20:11
 parent:
   - "[[Matrix|Матрица]]"
 connected:
-  - "[[Побочная диагональ квадратной матрицы]]"
-tags:
-  - anki
+  - "[[Antidiagonal of square matrix]]"
+anki: false
 ---
 
 **Главная диагональ [[Square matrix|квадратной матрицы]]** — диагональ, идущая из левого верхнего угла в правый нижний угол.

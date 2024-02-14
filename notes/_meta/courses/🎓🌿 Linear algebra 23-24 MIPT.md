@@ -18,9 +18,9 @@ created: 2023-10-14 12:29
   
 [[Linear algebra - Homework 1]]
 [[Linear algebra - Homework 2]]
-[[Linal - Homework 3]]
-[[Linal - Homework 4]]
-[[Linal - Homework 5]]
+[[Linear algebra - Homework 3]]
+[[Linear algebra - Homework 4]]
+[[Linear algebra - Homework 5]]
 [[Linal - Homework 6]]
 [[Linal - Homework 7]]
 [[Linal - Homework 8]]

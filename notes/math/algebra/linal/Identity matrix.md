@@ -14,7 +14,7 @@ connected:
 ---
 
 > [!tip] Identity matrix $E$ ($I$) 
-> называют [[Diagonal matrix]], все элементы на [[Главная диагональ квадратной матрицы|главной диагонали]]  которой равны 1.
+> называют [[Diagonal matrix]], все элементы на [[Diagonal of square matrix|главной диагонали]]  которой равны 1.
 $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 
 #### Anki
@@ -23,7 +23,7 @@ TARGET DECK: Math::Linal
 START
 Math_TWO_side
 TITLE: Identity matrix $E$ ($I$) 
-DESCRIPTION: называют [[Diagonal matrix]], все элементы на [[Главная диагональ квадратной матрицы|главной диагонали]]  которой равны 1.
+DESCRIPTION: называют [[Diagonal matrix]], все элементы на [[Diagonal of square matrix|главной диагонали]]  которой равны 1.
 FORMULA: $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 ADDITIONAL:
 PICTURE:

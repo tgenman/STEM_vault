@@ -1,12 +1,13 @@
 ---
-aliases: 
+aliases:
+  - Побочная диагональ квадратной матрицы
 publish: true
 anki: true
 created: 2024-02-10 23:58
 parent:
   - "[[Matrix|Матрица]]"
 connected:
-  - "[[Главная диагональ квадратной матрицы]]"
+  - "[[Diagonal of square matrix]]"
 ---
 
 > [!tip] **Побочная диагональ [[Square matrix|квадратной матрицы]]** 
