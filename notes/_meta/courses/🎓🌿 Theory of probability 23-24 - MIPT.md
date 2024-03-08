@@ -26,6 +26,7 @@ control: диф зачет
 - [Семинары - Берговин ВМК МГУ](https://www.youtube.com/playlist?list=PLhe7c-LCgl4KJYe2Ba-x3rC_PhIMfr5U1)
 
 
+[МИТ - плейлист по терверу](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 
 ### Plan

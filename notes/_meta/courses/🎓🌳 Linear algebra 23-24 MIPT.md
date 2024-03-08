@@ -1,7 +1,7 @@
 ---
 tags:
   - course🎓
-  - status/IN_PROGRESS_🌿
+  - status/DONE_🌳
 publish: true
 author:
   - "[[👤 Елишев, Андрей Михайлович]]"
