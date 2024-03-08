@@ -41,7 +41,7 @@ $$
 
 
 #### Anki
-> [!question]-
+> [!question]- The conditional probability $\mathbb{P}(A|B)$
 TARGET DECK: Math::Probability
 START
 Math_ONE_side

@@ -2,6 +2,7 @@
 aliases:
   - Элементарное событие
   - Элементарный исход
+  - Outcome
 publish: true
 anki: true
 created: 2023-10-20 20:22
