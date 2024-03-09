@@ -1,8 +1,16 @@
 ---
-aliases: Среднее арифметическое
+aliases:
+  - Среднее арифметическое
 publish: true
+anki: false
+created: 2024-03-08 14:58
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#анки
+
 
 The **mean** — or average — is the sum of the values in the set divided by the number of items in the set.
 
