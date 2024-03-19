@@ -1,7 +1,7 @@
 ---
 tags:
   - course🎓
-  - status/IN_PROGRESS_🌿
+  - status/DONE_🌳
 publish: true
 author:
   - "[[👤 Торопов, Никита Игоревич]]"
@@ -63,19 +63,22 @@ connected:
 	- [ ] Required reading: CLZ: 3.2-3.3
 	- [ ] Optional further reading: BM: 4.2, 6.2, 8.5
 
-- Week 5. Cut-vertices and Blocks.
+- Week 5. Cut-vertices and Blocks. 
 	- [ ] Required reading: CLZ: 3.1
 	- [ ] Optional further reading: BM: 5.1-5.2
 	- [ ] Home assignment (deadline: flexible) : 
 		- CLZ: 
-			- [ ] 3.44, 
-			- [ ] 3.46, 
-			- [ ] 3.68, 
-			- [ ] 3.2, 
-			- [ ] 3.8, 
-			- [ ] 3.14, 
+			- [x] 3.44, ✅ 2024-03-15
+			- [x] 3.46, ✅ 2024-03-15
+			- [x] 3.68, ✅ 2024-03-15
+			- [x] 3.2, ✅ 2024-03-15
+			- [x] 3.8, ✅ 2024-03-15
+			- [x] 3.14, ✅ 2024-03-15
 		- BM: 
 			- [ ] 5.2.5 
+[[Introduction to graph theory. HW 5. ]]
+
+
 
 - Week 6. Cuts and Connectivity. Eulerian Graphs.
 	- [ ] Required reading: CLZ: 4.1, 5.1-5.2.
@@ -89,6 +92,23 @@ connected:
 		- BM: 
 			- [ ] 9.1.2, 
 			- [ ] 9.1.3(b) 
+[[Introduction to graph theory. HW 6]]
+
+Topic 7. Hamiltonian Graphs.
+Reading: CLZ: 6.2
+
+Topic 8. Planarity
+Reading: CLZ: 10.1, 10.3
+
+Topic 9. Matching
+Reading: CLZ: 12.1
+
+Topic 10. Graph Colouring, Chromatic number and Chromatic Index
+Reading: CLZ: 14.1, 14.3, 16.2, 17.1
+
+Pre Exam Home Assignment (Topics 7-10, Deadline: before the exam)
+6.4, 10.2, 10.32, 12.8(b), 14.8, 14.9(b), 17.1, 17.2
+
 
 
 
