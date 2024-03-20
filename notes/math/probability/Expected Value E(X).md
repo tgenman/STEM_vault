@@ -19,13 +19,19 @@ tags:
 ---
 
 > [!tip] The expected value
-$E(X) = \int x dF(x) =  \begin{cases} \sum_x xf(x) & \text{if } X \text{ is discrete} \\\int xf(x) dx & \text{if} X \text{ is continuous}\end{cases}$
+$E[X] = \int x dF(x) =  \begin{cases} \sum_x xp_X(x) & \text{if } X \text{ is discrete} \\\int xf_X(x) dx & \text{if} X \text{ is continuous}\end{cases}$
 assuming that the sum (or integral) is well defined. 
 
+$p_X$ -[[Probability mass function (PMF) p_X(x)|PMF]]
+$f_x$ - [[Probability density function (PDF) f_X(x)|PDF]]
+
 We use the following notation to denote the expected value of $X$:
-$E(X) = EX = \int x dF(x) = \mu = \mu_X$
+$E[X] = EX = \int x dF(x) = \mu = \mu_X$
 
 
+#### Discrete case
+We define the expected value (also called the expectation or the mean) of a random variable $X$, with [[Probability mass function (PMF) p_X(x)|PMF]] $p_X$, by
+$$E[X] = \sum_x xp_X(x).$$
 
 
 
