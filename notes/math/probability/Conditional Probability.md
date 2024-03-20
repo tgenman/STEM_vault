@@ -18,8 +18,8 @@ tags:
 Нaзывают еще теоремой умножения:
 $$P(A|B)P(B) = P(A \cap B)$$
 
+#### Properties
 - Conditional probabilities can also be viewed as a probability law on a new universe $B$, because all of the conditional probability is concentrated on $B$.
-
 - If the possible outcomes are  [[Classical definition of probability|finitely many]] and equally likely, then
 $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
 
@@ -30,7 +30,7 @@ $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elemen
 
 Ответ на первый вопрос кажется естественным: $P(A|B) = 0$, поскольку 1 является нечетным числом. Второй вопрос задачи уже не такой тривиальный. Если выпало четное число очков, то пространство элементарных исходов сужается до множества $B$. Множество элементарных исходов состоит из 3-х элементов: выпало 2 очка, выпало 4 очка и выпало 6 очков, причем только один из них благоприятен и состоит в том, что кость выпала числом 2 вверху. Таким образом, искомая вероятность равняется $P(A|B) = \frac{1}{3}$.
 
-В общем случае условная вероятность определяется следующим образом. Пусть в пространстве элементарных исходов $\Omega = \{\omega_1, ..., \omega_n\}$ задано некоторое непустое событие $B = \{\omega_{i1}, ..., \omega_{ik}\}, k \ge 1$. Пусть также задано другое событие $A$. Тогда вероятность $P(A|B)$ события $A$ при условии, что событие $B$ уже реализовалось, можно определить следующим образом:
+В общем случае условная вероятность определяется следующим образом. Пусть в пространстве элементарных исходов $\Omega = \{\omega_1, ..., \omega_n\}$ задано некоторое непустое событие $B = \{\omega_{i_1}, ..., \omega_{i_k}\}, k \ge 1$. Пусть также задано другое событие $A$. Тогда вероятность $P(A|B)$ события $A$ при условии, что событие $B$ уже реализовалось, можно определить следующим образом:
 $$P(A|B)P(B) = P(A \cap B).$$
 
 Действительно, если событие $B$ уже реализовалось, то $B$ становится новым множеством элементарных исходов, а множеством благоприятных исходов станет множество $A \cap B$:
@@ -51,6 +51,9 @@ DESCRIPTION: is the probability of event $A$ calculated with just the outcomes w
 FORMULA:  $P(A | B) = \frac{P(A \cap B)}{P(B)} = \frac{|A \cap B|}{|B|}$
 $$P(A|B)P(B) = P(A \cap B)$$
 $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
-ADDITIONAL: Conditional probabilities can also be viewed as a probability law on a new universe $B$, because all of the conditional probability is concentrated on $B$.
+ADDITIONAL: 
+> - Conditional probabilities can also be viewed as a probability law on a new universe $B$, because all of the conditional probability is concentrated on $B$.
+> - If the possible outcomes are  [[Classical definition of probability|finitely many]] and equally likely, then
+> $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
 ID: 1702137389003
 END
