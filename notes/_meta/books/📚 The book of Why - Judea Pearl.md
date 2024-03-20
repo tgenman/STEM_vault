@@ -2,7 +2,7 @@
 tags: book📚
 publish: true
 ---
-links: [[Наука]]  [[Байесианство]] [[Формула Байеса (теорема)]]
+links: [[Наука]]  [[Байесианство]] [[Bayes' Rule]]
 title: The Book of Why: The New Science of Cause and Effect
 author: [[👤Pearl, Judea]]
 recom: [[👤Левенчук, Анатолий]], [[👤Медведева, Пион]]

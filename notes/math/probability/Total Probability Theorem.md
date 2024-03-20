@@ -6,7 +6,7 @@ created: 2023-12-09 19:16
 parent:
   - "[[Conditional Probability|Условная вероятность]]"
 connected:
-  - "[[Формула Байеса (теорема)|Формула Байеса]]"
+  - "[[Bayes' Rule|Формула Байеса]]"
 tags:
   - theorem
 ---
@@ -16,6 +16,7 @@ Let $A_1, \ldots, A_n$ be disjoint events that form a partition of the sample sp
 $P(B) = P(A_1 \cap B) + \ldots + P(A_n \cap B)$
 $= P(A_1)P(B | A_1) + \ldots + P(A_n)P(B | A_n) = \sum_{i=1}^{k} P(A|B_i)P(B_i)$
 
+![[Pasted image 20240320170930.png|300]]
 
 ###### Proof
 Исходя из свойств вероятности:
@@ -52,7 +53,7 @@ TITLE: Total Probability Theorem
 DESCRIPTION: Let $A_1, \ldots, A_n$ be disjoint events that form a partition of the sample space (each possible outcome is included in exactly one of the events $A_1, \ldots, A_n$) and assume that $P(A_i) > 0$, for all $i$. Then, for any event $B$, we have
 FORMULA: $P(B) = P(A_1 \cap B) + \ldots + P(A_n \cap B)$
 $= P(A_1)P(B | A_1) + \ldots + P(A_n)P(B | A_n) = \sum_{i=1}^{k} P(A|B_i)P(B_i)$
-ADDITIONAL:
+ADDITIONAL: ![[Pasted image 20240320170930.png]]
 ID: 1702152660415
 END
 

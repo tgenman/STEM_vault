@@ -9,21 +9,24 @@ parent:
   - "[[Conditional Probability]]"
 connected:
   - "[[Total Probability Theorem]]"
+  - "[[Возможные миры]]"
 tags:
   - theorem
 ---
-[[Возможные миры]]
-[[Априорная вероятность]], [[Свидетельство]], [[Апостериорная вероятность]]
 
-Пусть события $B_1, \ldots, B_k$ попарно не пересекаются и в объединении дают все множество элементарных исходов. Тогда вероятность события $A$ при условии, что произошло событие $B_i$ по [[Total Probability Theorem]] формуле полной вероятности равна:
+[[Априорная вероятность]]
+[[Свидетельство]]
+[[Апостериорная вероятность]]
 
-$$ P(A) = \sum_{i=1}^{k} P(A|B_i)P(B_i). $$
+> [!tip] Bayes' Rule
+Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
+$P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
 
-Часто бывает необходимо найти вероятность $P(B_i|A)$ события $B_i$ при условии, что событие $A$ произошло. 
+$P(A_i)$ - initial beliefs
+$P(A_i|B)$ - revised beliefs
 
-> [!tip] Теорема Байеса
-Теорема. Вероятность $P(B_i|A)$ события $B_i$ при условии, что событие $A$ произошло:
-$$ P(B_i|A) = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}. $$
+![[Pasted image 20240320170930.png|300]]
+
 
 #### Proof
 Если применить теорему умножения вероятностей разными способами:
@@ -46,23 +49,22 @@ $$ P(B_1) = p, \quad P(B_2) = 1 - p, \quad P(A|B_1) = 1, \quad P(A|B_2) = \frac{
 $$ P(B_1|A) = \frac{p}{p + \frac{1}{k}(1 - p)}. $$
 
 #### Anki
-> [!question]-
+> [!question]- Bayes' Rule
 TARGET DECK: Math::Probability  
 START
 Math_TWO_side
-TITLE: Bayes’ Theorem
-Теорема Байеса
-DESCRIPTION: Вероятность $P(B_i|A)$ события $B_i$ при условии, что событие $A$ произошло:
-$$ P(B_i|A) = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}. $$
+TITLE: Bayes' Rule
+DESCRIPTION: Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
+$P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
+$P(A_i)$ - initial beliefs
+$P(A_i|B)$ - revised beliefs
 FORMULA: Если применить теорему умножения вероятностей разными способами:
-$$ P(A \cap B_i) = P(A|B_i)P(B_i) = P(B_i|A)P(A), $$
+$P(A \cap B_i) = P(A|B_i)P(B_i) = P(B_i|A)P(A), $
 то с учетом формулы полной вероятности можно получить требуемое выражение:
-$$ P(B_i|A) = \frac{P(A|B_i)P(B_i)}{P(A)} = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}. $$
-ADDITIONAL:
+$P(B_i|A) = \frac{P(A|B_i)P(B_i)}{P(A)} = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}. $
+ADDITIONAL: ![[Pasted image 20240320170930.png]]
 ID: 1702152670494
 END
-
-
 
 
 

@@ -6,9 +6,12 @@ anki: true
 created: 2023-07-07 10:02
 parent:
   - "[[Probability]]"
+  - "[[519.21  Probability theory]]"
 connected:
-  - "[[519.21  Probability theory|Probability theory]]"
-tags:
+  - "[[The multiplication rule (conditional probability)]]"
+  - "[[Total Probability Theorem]]"
+  - "[[Bayes' Rule|Bayes’ Theorem]]"
+tags: 
 ---
 
 > [!tip] The conditional probability $\mathbb{P}(A|B)$
@@ -17,28 +20,25 @@ tags:
 
 Нaзывают еще теоремой умножения:
 $$P(A|B)P(B) = P(A \cap B)$$
-
+![[Pasted image 20240320164442.png|300]]
 #### Properties
 - Conditional probabilities can also be viewed as a probability law on a new universe $B$, because all of the conditional probability is concentrated on $B$.
 - If the possible outcomes are  [[Classical definition of probability|finitely many]] and equally likely, then
 $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
-
+- [[The multiplication rule (conditional probability)]]
 
 
 ###### Example
-Пример. Пусть игральную кость бросают один раз. Событие $A$ состоит в том, что выпало четное число очков. Требуется найти вероятность $P(A|B)$ события $A$, если уже известно, что событие $B$ произошло. Как изменится ответ, если в качестве события $B$ взять событие, состоящее в том, что выпало 2 очка?
+Event $A$: Airplane is flying above
+Event $B$: Something registers on radar screen
+![[Pasted image 20240320165213.png|300]]
 
-Ответ на первый вопрос кажется естественным: $P(A|B) = 0$, поскольку 1 является нечетным числом. Второй вопрос задачи уже не такой тривиальный. Если выпало четное число очков, то пространство элементарных исходов сужается до множества $B$. Множество элементарных исходов состоит из 3-х элементов: выпало 2 очка, выпало 4 очка и выпало 6 очков, причем только один из них благоприятен и состоит в том, что кость выпала числом 2 вверху. Таким образом, искомая вероятность равняется $P(A|B) = \frac{1}{3}$.
+- $P(A \cap B) = P(A) \cdot P(B | A) = 0.05 \cdot 0.99$
+- $P(B) = 0.05 \cdot 0.99 + 0.95 \cdot 0.1 = 0.1445$
+- $P(A | B) = \frac{0.05 \cdot 0.99}{0.1445} = 0.34$
 
-В общем случае условная вероятность определяется следующим образом. Пусть в пространстве элементарных исходов $\Omega = \{\omega_1, ..., \omega_n\}$ задано некоторое непустое событие $B = \{\omega_{i_1}, ..., \omega_{i_k}\}, k \ge 1$. Пусть также задано другое событие $A$. Тогда вероятность $P(A|B)$ события $A$ при условии, что событие $B$ уже реализовалось, можно определить следующим образом:
-$$P(A|B)P(B) = P(A \cap B).$$
+$P(A | B) = \frac{P(A \cap B)}{P(B)}$
 
-Действительно, если событие $B$ уже реализовалось, то $B$ становится новым множеством элементарных исходов, а множеством благоприятных исходов станет множество $A \cap B$:
-$$P(A|B) = \frac{|A \cap B|}{|B|} = \frac{|A \cap B|}{1}{\frac{1}{|\Omega|}} = \frac{P(A \cap B)}{P(B)}$$
-
-Здесь несколько раз было использовано определение вероятности.
-
-Замечание. Если множество $B$ пустое, то по определению условную вероятность $P(A|B)$ полагают равной нулю.
 
 
 #### Anki
@@ -55,5 +55,25 @@ ADDITIONAL:
 > - Conditional probabilities can also be viewed as a probability law on a new universe $B$, because all of the conditional probability is concentrated on $B$.
 > - If the possible outcomes are  [[Classical definition of probability|finitely many]] and equally likely, then
 > $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
+> [[The multiplication rule (conditional probability)]]
+> ![[Pasted image 20240320164442.png]]
 ID: 1702137389003
+END
+
+> [!question]- Example of conditional probability
+TARGET DECK: Math::Probability
+START
+Math_ONE_side
+TITLE: Example of conditional probability
+DESCRIPTION:
+> Event $A$: Airplane is flying above
+> Event $B$: Something registers on radar screen
+> ![[Pasted image 20240320165213.png|300]]
+> - $P(A \cap B) = P(A) \cdot P(B | A) = 0.05 \cdot 0.99$
+> - $P(B) = 0.05 \cdot 0.99 + 0.95 \cdot 0.1 = 0.1445$
+> - $P(A | B) = \frac{0.05 \cdot 0.99}{0.1445} = 0.34$
+> $P(A | B) = \frac{P(A \cap B)}{P(B)}$
+FORMULA:  
+ADDITIONAL: 
+ID: 1710942863144
 END

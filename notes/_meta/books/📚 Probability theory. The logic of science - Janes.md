@@ -9,7 +9,7 @@ connected:
   - "[[519.21  Probability theory]]"
   - "[[519.22 Statistic]]"
   - "[[Научный метод]]"
-  - "[[Формула Байеса (теорема)|Формула Байеса]]"
+  - "[[Bayes' Rule|Формула Байеса]]"
 author:
   - E. T. Jaynes, G. Larry Bretthorst
 family: 
