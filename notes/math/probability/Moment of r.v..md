@@ -1,11 +1,12 @@
 ---
-aliases: 
+aliases:
+  - Момент
 publish: true
 anki: false
 created: 2024-01-06 13:08
-parent: 
-connected:
-  - "#обс/linking"
+parent:
+  - "[[Random Variable r.v.]]"
+connected: []
 tags:
   - empty
 ---

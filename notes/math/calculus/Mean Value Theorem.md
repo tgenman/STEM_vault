@@ -21,5 +21,5 @@ tags:
 
 
 **Connected with:**
-- [[Mean]]
+- [[Expected Value E(X)]]
 

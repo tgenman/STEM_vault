@@ -8,8 +8,7 @@ parent:
   - "[[Independence]]"
   - "[[Conditional Probability]]"
 connected: 
-tags:
-  - empty
+tags: []
 ---
 
 > [!tip] Conditional independence
@@ -19,7 +18,7 @@ $P(A \cap B | C) = P(A | C)P(B | C)$
 If in addition, $P(B \cap C) > 0$, conditional independence is equivalent to the condition $P(A | B \cap C) = P(A | C)$
 
 #### Anki
-> [!question]-
+> [!question]- Conditional independence
 TARGET DECK: Math::Probability
 START
 Math_ONE_side

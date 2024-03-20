@@ -6,7 +6,7 @@ publish: true
 
 ==**mode**== which is the value in a data set that occurs most frequently.
 
-Unlike [[Median]] and [[Mean]], mode is also useful in evaluating data sets that contain non-numerical values.
+Unlike [[Median]] and [[Expected Value E(X)]], mode is also useful in evaluating data sets that contain non-numerical values.
 
 A distribution is considered ==**bimodal**== when it has two peaks, even if the peaks do not have identical heights.
 

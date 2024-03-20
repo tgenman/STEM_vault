@@ -22,5 +22,5 @@ When this happens, the median is calculated by finding the mean of the middle tw
 
 **Connected with:**
 - [[519.22 Statistic|Статистика]]
-- [[Mean]]
+- [[Expected Value E(X)]]
 
