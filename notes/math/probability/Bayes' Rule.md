@@ -14,16 +14,13 @@ tags:
   - theorem
 ---
 
-[[Априорная вероятность]]
-[[Свидетельство]]
-[[Апостериорная вероятность]]
-
 > [!tip] Bayes' Rule
 Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
 $P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
 
-$P(A_i)$ - initial beliefs
-$P(A_i|B)$ - revised beliefs
+$P(A_i)$ - initial beliefs [[Априорная вероятность]]
+$P(B|A_i)$ - prior [[Свидетельство]]
+$P(A_i|B)$ - revised beliefs [[Апостериорная вероятность]]
 
 ![[Pasted image 20240320170930.png|300]]
 
@@ -56,8 +53,9 @@ Math_TWO_side
 TITLE: Bayes' Rule
 DESCRIPTION: Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
 $P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
-$P(A_i)$ - initial beliefs
-$P(A_i|B)$ - revised beliefs
+$P(A_i)$ - initial beliefs [[Априорная вероятность]]
+$P(B|A_i)$ - prior [[Свидетельство]]
+$P(A_i|B)$ - revised beliefs [[Апостериорная вероятность]]
 FORMULA: Если применить теорему умножения вероятностей разными способами:
 $P(A \cap B_i) = P(A|B_i)P(B_i) = P(B_i|A)P(A), $
 то с учетом формулы полной вероятности можно получить требуемое выражение:

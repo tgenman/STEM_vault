@@ -6,10 +6,10 @@ created: 2024-03-08 12:25
 parent:
   - "[[Conditional Probability]]"
 connected:
-  - "[[Попарная независимость]]"
+  - "[[Pairwise Independence]]"
   - "[[Независимость в совокупности]]"
   - "[[Conditional independence]]"
-tags:
+tags: 
 ---
 
 > [!tip] Independence
