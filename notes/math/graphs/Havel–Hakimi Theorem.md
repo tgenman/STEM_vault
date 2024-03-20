@@ -1,7 +1,7 @@
 ---
 aliases: 
 publish: true
-anki: false
+anki: true
 created: 2023-11-15 13:49
 parent:
   - "[[Graphical sequence]]"
@@ -50,6 +50,36 @@ $s_7^{\prime}=s_7:0,0,0,0.$
 
  ![[Pasted image 20231115140410.png]]
 
+#### Anki
+> [!question]- Havel–Hakimi Theorem
+TARGET DECK: Math::Graph
+START
+Math_ONE_side
+TITLE: Havel–Hakimi Theorem
+DESCRIPTION: 
+> A sequence $s: d_1, d_2, \ldots, d_n$ of nonnegative integers with $\Delta = d_1 \geq d_2 \geq \cdots \geq d_n$ and $\Delta \geq 1$ is graphical if and only if the sequence
+> $$s_1: d_2 - 1, d_3 - 1, \ldots, d_{\Delta + 1} - 1, d_{\Delta + 2}, \ldots, d_n$$
+> is [[Graphical sequence|graphical]].
+FORMULA: 
+ADDITIONAL: Illistration of algorithm
+> $s:5,3,3,3,3,2,2,2,1,1,1.$
+> After one application of Theorem (deleting $5$ from $s$ and subtracting 1 from the next five terms), we obtain
+> $s_1^{\prime}:2,2,2,2,1,2,2,1,1,1.$
+> Reordering this sequence, we have
+> $s_1:2,2,2,2,2,2,1,1,1,1.$
+> Continuing in this manner, we get
+> $s_2^{\prime}:1,1,2,2,2,1,1,1,1$ $s_2:2,2,2,1,1,1,1,1$
+> $s_3^{\prime}=s_3:1,1,1,1,1,1,1$
+> $s_4^{\prime}:0,1,1,1,1,1$
+> $s_4:1,1,1,1,1,1,0$ 
+> $s_5^{\prime}:0,1,1,1,1,0$ 
+> $s_5:1,1,1,1,0,0$ 
+> $s_6^{\prime}:0,1,1,0,0$
+> $s_6:1,1,0,0,0$ 
+> $s_7^{\prime}=s_7:0,0,0,0.$
+PICTURE: ![[Pasted image 20231115140330.png]]
+ID: 1710668074359
+END
 
 
 

@@ -51,7 +51,6 @@ ADDITIONAL:
 ID: 1699126600788
 END
 
-#### Anki
 > [!question]-
 TARGET DECK: Math::Set  
 START
