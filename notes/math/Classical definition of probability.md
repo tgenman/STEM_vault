@@ -31,7 +31,7 @@ $P(A) = \frac{\text{number of elements of } A}{n}$
 ##### Some Properties of Probability Laws
 - $𝑃 (𝐴) = 0 ⇔ 𝐴 = ∅$ - только [[Empty Set]]  имеет нулевую вероятность
 - If $A \subset B$, then $P(A) \leq P(B)$.
-- $𝑃 (𝐴 ∪ 𝐵) = 𝑃(𝐴)+𝑃(𝐵)−𝑃(𝐴∩𝐵)$ -  [[Inclusion-Exclusion principle]]
+- $𝑃 (𝐴 ∪ 𝐵) = 𝑃(𝐴)+𝑃(𝐵)−𝑃(𝐴∩𝐵)$ -  [[Sum Rule of Probability]]
 - $P(A,\cup...\cup A_k)\leq P(A_1)+...+P(A_k)$
 	- $P(A \cup B) \leq P(A) + P(B)$.
 - $\bar{A}:=\Omega\backslash A$  =>  $P(\bar{A})=1-P(A)$

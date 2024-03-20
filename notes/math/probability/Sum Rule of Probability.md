@@ -7,7 +7,6 @@ parent:
   - "[[Probability]]"
 connected:
   - "[[Inclusion-Exclusion principle]]"
-  - "[[Product Rule of Probability]]"
 tags:
   - empty
 ---
