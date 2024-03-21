@@ -7,7 +7,7 @@ parent:
   - "[[Discrete Random Variable]]"
 connected:
   - "[[Схема испытиний Бернулли]]"
-  - "[[Binomial r.v. Bin(n)]]"
+  - "[[Binomial(n, p) - Binomial r.v.]]"
   - "[[Indicator function]]"
 tags: 
 ---
@@ -28,7 +28,13 @@ For all its simplicity, the Bernoulli random variable is very important. In prac
 - A person who can be either healthy or sick with a certain disease.
 - The preference of a person who can be either for or against a certain political candidate.
 
-Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial r.v. Bin(n)]] 
+Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial(n, p) - Binomial r.v.]] 
+
+#### [[Expected Value E(X)]]
+
+$X = \begin{cases} 1, & \text{w.p. } p \\0, & \text{w.p. } 1-p \end{cases}$
+$E[X] = 1\cdot p + 0\cdot(1-p) = p$
+
 
 
 #### Anki
@@ -47,9 +53,24 @@ ADDITIONAL:
 > - The state of a telephone at a given time that can be either free or busy.
 > - A person who can be either healthy or sick with a certain disease.
 > - The preference of a person who can be either for or against a certain political candidate.
-> Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial r.v. Bin(n)]] 
+> Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial(n, p) - Binomial r.v.]] 
 PICTURE:
 Using [[Indicator function]]
 ![[Pasted image 20240320190523.png|300]]
 ID: 1710951062308
 END
+
+> [!question]- Expected Value E(X) of Bernoulli r.v.
+TARGET DECK: Math::Probability 
+START
+Math_ONE_side
+TITLE: Expected Value E(X) of Bernoulli r.v.
+DESCRIPTION: 
+$X = \begin{cases} 1, & \text{w.p. } p \\0, & \text{w.p. } 1-p \end{cases}$
+$E[X] = 1\cdot p + 0\cdot(1-p) = p$
+FORMULA: 
+ADDITIONAL:
+PICTURE:
+ID: 1711010147059
+END
+
