@@ -7,7 +7,7 @@ parent:
   - "[[Discrete Random Variable]]"
 connected:
   - "[[👤 Poisson, Simeon Denis]]"
-  - "[[Binomial(n, p) - Binomial r.v.]]"
+  - "[[Binomial(n, p)]]"
 tags:
   - empty
 ---
@@ -20,7 +20,7 @@ $$ \sum_{k=0}^{\infty} e^{-\lambda} \frac{\lambda^k}{k!} = e^{-\lambda} \left(1 
 
 ![[Pasted image 20240321113857.png]]
 
-More precisely, the Poisson PMF with parameter $\lambda$ is a good approximation for a [[Binomial(n, p) - Binomial r.v.|binomial]]  PMF with parameters $n$ and $p$, i.e.,
+More precisely, the Poisson PMF with parameter $\lambda$ is a good approximation for a [[Binomial(n, p)|binomial]]  PMF with parameters $n$ and $p$, i.e.,
 
 $e^{-\lambda} \frac{\lambda^k}{k!} \approx \frac{n!}{k!(n - k)!} p^k(1 - p)^{n-k}, \quad k = 0,1,\ldots,n$
 

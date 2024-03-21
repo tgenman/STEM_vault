@@ -8,6 +8,7 @@ parent:
 connected: 
 tags:
 ---
+
 > [!tip] Geometric random variable
 > - parameter: $0 < p \leq 1$
 > - [[Random experiment|Experiment]]: infinitely many independent tosses of a coin; $P(\text{Heads}) = p$

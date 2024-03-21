@@ -45,13 +45,7 @@ $E[X] = \sum_x x p_X(x) \geq \sum_x a p_X(x) = a \sum_x P_X(x) = a \cdot 1 = a$
 $E[c] = c \cdot p(c) = c$
 
 
-#### Calculating $E[g(X)]$
-- $E[Y] = E[g(X)] = \sum_x g(x) p_X(x)$
-	-  In general, $E[g(X)] \neq g(E[X])$
-
-###### Proof:
-$\sum_y \sum_{x:g(x)=y} g(x) p_X(x) = \sum_y y \sum_{x:g(x)=y} p_X(x) = \sum_y y p_Y(y) = E[Y]$
-
+#### [[Expected Value Rule for functions of r.v.]]
 
 #### [[Linearity of expectation]]
 
@@ -100,19 +94,6 @@ FORMULA:
 ADDITIONAL:
 PICTURE:
 ID: 1711011618300
-END
-
-> [!question]- Calculating $E[g(X)]$
-TARGET DECK: Math::Probability
-START
-Math_ONE_side
-TITLE: Calculating $E[g(X)]$
-DESCRIPTION: $E[Y] = E[g(X)] = \sum_x g(x) p_X(x)$
-FORMULA: In general, $E[g(X)] \neq g(E[X])$
-ADDITIONAL: Proof:
-$\sum_y \sum_{x:g(x)=y} g(x) p_X(x) = \sum_y y \sum_{x:g(x)=y} p_X(x) = \sum_y y p_Y(y) = E[Y]$
-PICTURE:
-ID: 1711012211417
 END
 
 > [!question]- Requirement for well-definig $E[x]$

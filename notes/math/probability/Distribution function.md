@@ -5,7 +5,7 @@ publish: true
 anki: false
 created: 2023-10-29 20:19
 parent:
-  - "[[Distribution in R]]"
+  - "[[Distribution of r.v.]]"
 connected:
   - "[[Function (math)]]"
 tags:

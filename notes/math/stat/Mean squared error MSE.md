@@ -5,7 +5,7 @@ aliases:
   - Сумма квадратов остатков
 publish: true
 connected:
-  - "[[Среднеквадратичное отклонение]]"
+  - "[[Standard deviation]]"
 ---
 #анки
 

@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2024-03-20 19:02
 parent:
-  - "[[Bernoulli(p) - Bernoulli r.v.]]"
+  - "[[Bernoulli(p)]]"
   - "[[Discrete Random Variable]]"
 connected:
   - "[[Схема испытиний Бернулли]]"
@@ -13,7 +13,7 @@ tags:
 ---
 
 > [!tip] Binomial r.v. parameter n
-> is multiple [[Bernoulli(p) - Bernoulli r.v.]]:
+> is multiple [[Bernoulli(p)]]:
 > - [[Random experiment|experiment]]: $n$ independent tosses of a coin with $P(\text{Heads}) = p$
 > - [[Sample space]]: Set of sequences of $H$ and $T$, of length $n$
 > - Random variable $X$: number of Heads observed
@@ -36,7 +36,7 @@ START
 Math_ONE_side
 TITLE: Binomial r.v. Bin(n)
 DESCRIPTION: 
-> is multiple [[Bernoulli(p) - Bernoulli r.v.]]:
+> is multiple [[Bernoulli(p)]]:
 > - [[Random experiment|experiment]]: $n$ independent tosses of a coin with $P(\text{Heads}) = p$
 > - [[Sample space]]: Set of sequences of $H$ and $T$, of length $n$
 > - Random variable $X$: number of Heads observed

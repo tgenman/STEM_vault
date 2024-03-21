@@ -9,6 +9,7 @@ parent:
 connected: 
 tags:
 ---
+
 > [!tip] the $n$th moment 
 $E[X^n]$, the expected value of the random variable $X^n$. 
 
@@ -16,7 +17,7 @@ $E[X^n]$, the expected value of the random variable $X^n$.
 - the 2nd moment of $X$ is [[Variance V(X)]]
 
 #### Anki
-> [!question]-
+> [!question]- the $n$th moment 
 TARGET DECK: Math::Probability 
 START
 Math_ONE_side

@@ -2,6 +2,8 @@
 aliases:
   - Дисперсия
   - Dispersion
+  - Second moment
+  - Второй момент
 publish: true
 anki: false
 created: 2024-01-06 13:08
@@ -9,16 +11,54 @@ parent:
   - "[[Moment of r.v.]]"
 connected:
   - "[[Expected Value E(X)]]"
-  - "[[Среднеквадратичное отклонение]]"
+  - "[[Standard deviation]]"
 tags:
-  - empty
 ---
 
+> [!tip] Variance 
+a measure of the spread of a [[Probability mass function (PMF) p_X(x)|PMF]] 
+
+$\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
+$\text{var}(X) = E[(X - E[X])^2]$
 
 
+#### Properties
+- $\text{var}(aX + b) = a^2\text{var}(X)$
+	- $\text{var}(aX + b) = \sum_{x} (ax + b - E[aX + b])^2 p_X(x)$ $= \sum_{x} (ax + b - aE[X] - b)^2 p_X(x)$ $= a^2 \sum_{x} (x - E[X])^2 p_X(x) = a^2 \text{var}(X).$
+- $\text{var}(X) = E[X^2] - (E[X])^2$ - Variance in Terms of [[Moment of r.v.|Moments]]  Expression
+	- $\text{var}(X) = E[(X-\mu)^2] = E[X^2 - 2\mu X + \mu^2]$ $= E[X^2] - 2\mu E[X] + \mu^2 = E[X^2] - (E[X])^2$
 
 
+#### Anki
+> [!question]- Variance
+TARGET DECK: Math::Probability
+START
+Math_ONE_side
+TITLE: Variance
+DESCRIPTION: a measure of the spread of a [[Probability mass function (PMF) p_X(x)|PMF]] 
+FORMULA: 
+> $\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
+> $\text{var}(X) = E[(X - E[X])^2]$
+ADDITIONAL:
+PICTURE:
+ID: 1711017251662
+END
 
+> [!question]- Properties of Variance
+TARGET DECK: Math::Probability
+START
+Math_ONE_side
+TITLE: Properties of Variance
+DESCRIPTION: 
+> - $\text{var}(aX + b) = a^2\text{var}(X)$
+> 	- $\text{var}(aX + b) = \sum_{x} (ax + b - E[aX + b])^2 p_X(x)$ $= \sum_{x} (ax + b - aE[X] - b)^2 p_X(x)$ $= a^2 \sum_{x} (x - E[X])^2 p_X(x) = a^2 \text{var}(X).$
+> - $\text{var}(X) = E[X^2] - (E[X])^2$ - Variance in Terms of [[Moment of r.v.|Moments]]  Expression
+> 	- $\text{var}(X) = E[(X-\mu)^2] = E[X^2 - 2\mu X + \mu^2]$ $= E[X^2] - 2\mu E[X] + \mu^2 = E[X^2] - (E[X])^2$
+FORMULA: 
+ADDITIONAL:
+PICTURE:
+ID: 1711017251672
+END
 
 
 
