@@ -21,16 +21,17 @@ tags:
 > [!tip] The expected value
 $E[X] = \int x dF(x) =  \begin{cases} \sum_x xp_X(x) & \text{if } X \text{ is discrete} \\\int xf_X(x) dx & \text{if} X \text{ is continuous}\end{cases}$
 assuming that the sum (or integral) is well defined. 
+Requirement for well-definig $E[x]$ : $\sum_{x} |x|p(x) < \infty$
 
-$p_X$ -[[Probability mass function (PMF) p_X(x)|PMF]]
-$f_x$ - [[Probability density function (PDF) f_X(x)|PDF]]
+$p_X$ -[[PMF - p_X(x)|PMF]]
+$f_x$ - [[PDF - f_X(x)|PDF]]
 
 We use the following notation to denote the expected value of $X$:
 $E[X] = EX = \int x dF(x) = \mu = \mu_X$
 
 
 #### Discrete case
-We define the expected value (also called the expectation or the mean) of a random variable $X$, with [[Probability mass function (PMF) p_X(x)|PMF]] $p_X$, by
+We define the expected value (also called the expectation or the mean) of a random variable $X$, with [[PMF - p_X(x)|PMF]] $p_X$, by
 $$E[X] = \sum_x xp_X(x).$$
 ![[Pasted image 20240321124118.png|300]]
 
@@ -49,8 +50,7 @@ $E[c] = c \cdot p(c) = c$
 
 #### [[Linearity of expectation]]
 
-#### Requirement for well-definig $E[x]$
- $\sum_{x} |x|p(x) < \infty$
+
 
 
 
@@ -67,9 +67,10 @@ TITLE: Expected Value E(X)
 DESCRIPTION: 
 $E[X] = \int x dF(x) =  \begin{cases} \sum_x xp_X(x) & \text{if } X \text{ is discrete} \\\int xf_X(x) dx & \text{if} X \text{ is continuous}\end{cases}$
 assuming that the sum (or integral) is well defined. 
+Requirement for well-definig $E[x]$ : $\sum_{x} |x|p(x) < \infty$
 FORMULA: 
-$p_X$ -[[Probability mass function (PMF) p_X(x)|PMF]]
-$f_x$ - [[Probability density function (PDF) f_X(x)|PDF]]
+$p_X$ -[[PMF - p_X(x)|PMF]]
+$f_x$ - [[PDF - f_X(x)|PDF]]
 ADDITIONAL:
 We use the following notation to denote the expected value of $X$:
 $E[X] = EX = \int x dF(x) = \mu = \mu_X$

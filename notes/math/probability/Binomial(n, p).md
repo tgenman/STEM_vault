@@ -8,8 +8,7 @@ parent:
   - "[[Discrete Random Variable]]"
 connected:
   - "[[Схема испытиний Бернулли]]"
-tags:
-  - empty
+tags: []
 ---
 
 > [!tip] Binomial r.v. parameter n

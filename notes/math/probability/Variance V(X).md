@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!tip] Variance 
-a measure of the spread of a [[Probability mass function (PMF) p_X(x)|PMF]] 
+a measure of the spread of a [[PMF - p_X(x)|PMF]] 
 
 $\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
 $\text{var}(X) = E[(X - E[X])^2]$
@@ -35,7 +35,7 @@ TARGET DECK: Math::Probability
 START
 Math_ONE_side
 TITLE: Variance
-DESCRIPTION: a measure of the spread of a [[Probability mass function (PMF) p_X(x)|PMF]] 
+DESCRIPTION: a measure of the spread of a [[PMF - p_X(x)|PMF]] 
 FORMULA: 
 > $\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
 > $\text{var}(X) = E[(X - E[X])^2]$

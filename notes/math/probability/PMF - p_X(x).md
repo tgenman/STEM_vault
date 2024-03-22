@@ -1,14 +1,15 @@
 ---
 aliases:
   - PMF
+  - Probability mass function
 publish: true
 anki: false
 created: 2024-03-20 18:02
 parent:
   - "[[Discrete Random Variable]]"
 connected:
-  - "[[Probability density function (PDF) f_X(x)|PDF]]"
-tags:
+  - "[[PDF - f_X(x)|PDF]]"
+tags: 
 ---
 
 > [!tip] Probability mass function (PMF) $p_X(x)$
