@@ -10,21 +10,36 @@ connected:
 tags:
 ---
 
-> [!tip] the $n$th moment 
-$E[X^n]$, the expected value of the random variable $X^n$. 
+> [!tip] Moment of r.v.
+the moments of a function are certain quantitative measures related to the shape of the function's graph.
 
-- the 1st moment of $X$ is just [[Expected Value E(X)]]
-- the 2nd moment of $X$ is [[Variance V(X)]]
+- [[Raw moment]]
+	- [[Expected Value E(X)]]  - Mean
+- [[Central moment]]
+	- Mean deviation
+	- [[Variance V(X)]]
+		- [[Standard deviation]]
+- [[Standardized moment]]
+	- [[Skewness (3)]]
+	- [[Kurtosis (4) Kurt(X)]]
 
 #### Anki
-> [!question]- the $n$th moment 
+> [!question]- Moment of r.v. 
 TARGET DECK: Math::Probability 
 START
 Math_ONE_side
-TITLE: the $n$th moment 
-DESCRIPTION: $E[X^n]$, the expected value of the random variable $X^n$. 
+TITLE: Moment of r.v.
+DESCRIPTION: the moments of a function are certain quantitative measures related to the shape of the function's graph
 FORMULA: 
 ADDITIONAL:
+> - [[Raw moment]]
+> 	- [[Expected Value E(X)]]  - Mean
+> - [[Central moment]]
+> 	- Mean deviation
+> 	- [[Variance V(X)]]
+> - [[Standardized moment]]
+> 	- [[Skewness (3)]]
+> 	- [[Kurtosis (4) Kurt(X)
 PICTURE:
 ID: 1711014493263
 END
