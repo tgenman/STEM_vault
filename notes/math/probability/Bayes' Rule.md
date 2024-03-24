@@ -57,9 +57,9 @@ $P(A_i)$ - initial beliefs [[Априорная вероятность]]
 $P(B|A_i)$ - prior [[Свидетельство]]
 $P(A_i|B)$ - revised beliefs [[Апостериорная вероятность]]
 FORMULA: Если применить теорему умножения вероятностей разными способами:
-$P(A \cap B_i) = P(A|B_i)P(B_i) = P(B_i|A)P(A), $
+$P(A \cap B_i) = P(A|B_i)P(B_i) = P(B_i|A)P(A)$
 то с учетом формулы полной вероятности можно получить требуемое выражение:
-$P(B_i|A) = \frac{P(A|B_i)P(B_i)}{P(A)} = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}. $
+$P(B_i|A) = \frac{P(A|B_i)P(B_i)}{P(A)} = \frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{k} P(A|B_j)P(B_j)}$
 ADDITIONAL: ![[Pasted image 20240320170930.png]]
 ID: 1702152670494
 END

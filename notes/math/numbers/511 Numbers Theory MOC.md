@@ -29,3 +29,5 @@ $\mathbb{P}$ - [[Prime numbers P]]
 [[Continuum]]
 
 [[Scalar]]
+
+![[Screenshot 2024-02-23 at 22.34.30.png]]

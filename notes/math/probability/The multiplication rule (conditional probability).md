@@ -8,6 +8,7 @@ parent:
 connected: 
 tags: []
 ---
+
 > [!tip] Multiplication Rule
 Assuming that all of the conditioning events have positive probability, we have
 $P\left(\bigcap_{i=1}^{n} A_i\right) = P(A_1)P(A_2 | A_1)P(A_3 | A_1 \cap A_2) \cdots P\left(A_n | \bigcap_{i=1}^{n-1} A_i\right)$

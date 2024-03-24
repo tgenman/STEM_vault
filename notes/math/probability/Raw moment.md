@@ -27,7 +27,7 @@ START
 Math_ONE_side
 TITLE: Raw moment
 DESCRIPTION: is a moment about zero
-FORMULA: $\mu'_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{discrete distribution} \\ \int x^n f(x)dx, & \text{continuous distribution} \end{cases}$
+FORMULA: $\mu_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{discrete distribution} \\ \int x^n f(x)dx, & \text{continuous distribution} \end{cases}$
 ADDITIONAL: - [[Expected Value E(X)]]  - Mean
 PICTURE:
 ID: 1711097073285
