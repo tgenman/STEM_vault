@@ -18,7 +18,7 @@ tags:
 Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
 $P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
 
-$P(A_i)$ - initial beliefs [[Априорная вероятность]]
+$P(A_i)$ - initial beliefs [[Prior probability]]
 $P(B|A_i)$ - prior [[Свидетельство]]
 $P(A_i|B)$ - revised beliefs [[Апостериорная вероятность]]
 
@@ -53,7 +53,7 @@ Math_TWO_side
 TITLE: Bayes' Rule
 DESCRIPTION: Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
 $P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
-$P(A_i)$ - initial beliefs [[Априорная вероятность]]
+$P(A_i)$ - initial beliefs [[Prior probability]]
 $P(B|A_i)$ - prior [[Свидетельство]]
 $P(A_i|B)$ - revised beliefs [[Апостериорная вероятность]]
 FORMULA: Если применить теорему умножения вероятностей разными способами:

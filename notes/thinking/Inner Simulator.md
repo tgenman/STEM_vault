@@ -111,7 +111,7 @@ For instance, if I have a goal of applying to a particular school next fall, the
 
 ## Inner Simulator—Further Resources
 
-[[👤Kahneman, Daniel|Kahneman]] and [[👤Tversky, Amos|Tversky]] (1982) proposed that people often use a simulation [[Heuristic]] to make judgments. Mental simulation of a scenario is used to make predictions by imagining a situation and then running the simulation to see what happens next, and it is also to give explanations for events by mentally changing [[Априорная вероятность|prior]] events and seeing if the outcomes changes.
+[[👤Kahneman, Daniel|Kahneman]] and [[👤Tversky, Amos|Tversky]] (1982) proposed that people often use a simulation [[Heuristic]] to make judgments. Mental simulation of a scenario is used to make predictions by imagining a situation and then running the simulation to see what happens next, and it is also to give explanations for events by mentally changing [[Prior probability|prior]] events and seeing if the outcomes changes.
 
 [[📚🌀 Judgment Under Uncertainty - Kahneman, Slovic, Tversky  🇬🇧🇷🇺]]
 
