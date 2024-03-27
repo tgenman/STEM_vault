@@ -7,7 +7,7 @@ connected:
   - "[[Machine Learning MOC]]"
 ---
 
-[Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+[[Персоны в AI]]
 
 
 - Подготовка по Deep Learning
@@ -25,10 +25,12 @@ connected:
 		- Нейронные сети
 			- ~~[3blue - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) 
 			- [Зоопарк архитектур нейронных сетей](https://habr.com/ru/companies/wunderfund/articles/313696/)
-			- [(разраб OpenAI) Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+			- [(разраб OpenAI Andrej Karpathy) Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 			- [[🎓🌀Нейронные сети - Степик]]
 			- [[🎓🌀Нейронные сети и обработка текста - Степик 1]]
 			- [[🎓🌀Нейронные сети и компьютерное зрение - Степик]]
+		- ML ops
+			- [Курс MLOps от girafe-ai](https://github.com/girafe-ai/mlops) 
 
 
 

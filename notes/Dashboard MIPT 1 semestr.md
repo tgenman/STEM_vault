@@ -14,7 +14,7 @@ connected:
 	- [[📚 Теория графов для учителей и школьников - Мельников|📚 Учебник для школьников]]
 	- [[📚 Graph Theory - BM]]
 	- [[📚 Graphs and digraphs - CLZ]]
-- [[🎓🌿 Theory of probability 23-24 - MIPT|🎓🌿 Probability]]
+- [[🎓🌳 Theory of probability 23-24 - MIPT|🎓🌿 Probability]]
 
 
 ### Bookmarks
