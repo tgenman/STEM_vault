@@ -12,6 +12,6 @@ The **correlation coefficient** $r$ measures the strength and direction of a 
 
 **Connected with:**
 - [[Linear and Polynomial Regression]]
-- [[519.22 Statistic]]
+- [[519.22 Statistic MOC]]
 - [[Coefficient of determination]]
 

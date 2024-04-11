@@ -18,7 +18,7 @@ Because the regression line minimizes squared errors, regression is also calledÂ
 
 
 **Connected with:**
-- [[519.22 Statistic]]
+- [[519.22 Statistic MOC]]
 - [[Linear and Polynomial Regression]]
 - [[Total Sum of Squares (TSS or SST)]]
 

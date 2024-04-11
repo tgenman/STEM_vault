@@ -20,5 +20,5 @@ publish: true
 
 
 **Connected with:**
-- [[519.22 Statistic|Статистика]]
+- [[519.22 Statistic MOC|Статистика]]
 

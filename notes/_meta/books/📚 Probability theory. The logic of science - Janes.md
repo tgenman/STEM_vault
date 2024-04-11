@@ -7,7 +7,7 @@ tags:
 publish: true
 connected:
   - "[[519.21  Probability theory]]"
-  - "[[519.22 Statistic]]"
+  - "[[519.22 Statistic MOC]]"
   - "[[Научный метод]]"
   - "[[Bayes' Rule|Формула Байеса]]"
 author:

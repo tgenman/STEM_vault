@@ -4,8 +4,9 @@ publish: true
 anki: false
 created: 2024-03-20 17:23
 parent:
+  - "[[Statistical inference]]"
+connected:
   - "[[Bayes' Rule]]"
-connected: []
 tags:
   - empty
 ---

@@ -12,5 +12,5 @@ publish: true
 
 **Connected with:**
 - [[Mean squared error MSE]]
-- [[519.22 Statistic]]
+- [[519.22 Statistic MOC]]
 

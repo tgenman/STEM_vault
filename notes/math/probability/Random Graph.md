@@ -7,6 +7,7 @@ created: 2024-01-06 21:42
 parent:
   - "[[Simple Graph (G)|Граф]]"
   - "[[Схема испытиний Бернулли]]"
+  - "[[Randomness]]"
 connected:
   - "[[519.21  Probability theory]]"
   - "[[519.175.4 Random graphs MOC]]"

@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2024-01-06 12:59
 parent:
-  - "[[519.22 Statistic]]"
+  - "[[519.22 Statistic MOC]]"
 connected:
   - "[[519.21  Probability theory]]"
 ---

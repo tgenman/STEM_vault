@@ -6,7 +6,8 @@ anki: true
 created: 2024-03-20 11:32
 parent:
   - "[[519.21  Probability theory]]"
-  - "[[519.22 Statistic]]"
+  - "[[519.22 Statistic MOC]]"
+  - "[[Randomness]]"
 connected:
   - "[[Discrete Random Variable]]"
   - "[[General Random Variables]]"

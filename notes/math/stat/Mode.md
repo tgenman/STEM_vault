@@ -23,5 +23,5 @@ The mode is useful for several things:
 
 
 **Connected with:**
-- [[519.22 Statistic]]
+- [[519.22 Statistic MOC]]
 

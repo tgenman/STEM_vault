@@ -35,7 +35,7 @@ connected:
 		- [[519.175.4 Random graphs MOC]]
 - 519.2 Теория вероятностей и математическая статистика
 	- [[519.21  Probability theory]]
-	- [[519.22 Statistic]]
+	- [[519.22 Statistic MOC]]
 - [[519.83 🃏Game Theory]]
 
 ![[Pasted image 20231227230322.png]]

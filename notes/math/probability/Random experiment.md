@@ -6,7 +6,8 @@ anki: true
 created: 2023-10-20 19:58
 parent:
   - "[[519.21  Probability theory|Probability theory]]"
-connected: []
+  - "[[Randomness]]"
+connected:
 ---
 ### Properties
 - повторяемость
