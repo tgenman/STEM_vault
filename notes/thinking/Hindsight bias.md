@@ -2,7 +2,7 @@
 aliases: [Склонность к запоздалым суждениям]
 publish: true
 ---
-links: [[Cognitive Bias]]
+links: [[Cognitive Bias MOC]]
 
 ---
 

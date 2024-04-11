@@ -14,3 +14,6 @@ connected:
 tags:
   - empty
 ---
+
+Randomness is a way of modeling lack of information; 
+with perfect information about the conditions of kissing (including what goes in the kissers’ mind), physics or sociology would allow us to predict the outcome.

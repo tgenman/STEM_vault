@@ -1,9 +1,17 @@
 ---
-aliases: [Bias, Cognitive Biases, Когнитивное искажение, Когнитивные искажения]
+aliases:
+  - Cognitive Biases
+  - Когнитивное искажение
+  - Когнитивные искажения
 publish: true
----
-links: [[Rationality]], [[162.5 Logical Fallacies]]
-
+created: 2024-04-11 15:32
+parent:
+  - "[[Rationality]]"
+  - "[[Bias]]"
+connected:
+  - "[[162.5 Logical Fallacies]]"
+tags:
+  - pkm🏷/moc
 ---
 
 ==Bias== - A systematic distortion of one’s actions or reasoning due to factors not relevant to the situation at hand (e.g. one might reject a new policy recommendation out of a “[[Status quo bias]],” in which one favors current ways of doing things regardless of cost or opportunity) .

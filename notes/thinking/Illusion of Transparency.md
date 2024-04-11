@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-links: [[Cognitive Bias|Bias]]
+links: [[Cognitive Bias MOC|Bias]]
 
 ---
 

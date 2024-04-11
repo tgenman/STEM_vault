@@ -15,3 +15,6 @@ is a set of [[Distribution of r.v.|distributions]]  (or [[PDF - f_X(x)|densities
 
 - [[Parametric model]]
 - [[Nonparametric model]]
+
+Complicated process “=” Simple process + [[Random noise]]
+

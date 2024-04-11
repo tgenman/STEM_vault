@@ -2,7 +2,7 @@
 aliases: [Гиперболическое дисконтирование]
 publish: true
 ---
-links: [[Cognitive Bias|Bias]], [[📚 CFAR - Handbook 2019]]
+links: [[Cognitive Bias MOC|Bias]], [[📚 CFAR - Handbook 2019]]
 
 ---
 
