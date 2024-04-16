@@ -5,9 +5,10 @@ tags:
 publish: true
 created: 2024-04-16 19:17
 parent:
-  - "[[Matrix]]"
+  - "[[Matrix Operations]]"
 connected:
   - "[[Commutative matrix]]"
+  - "[[Hadamard product]]"
 ---
 
 Матрицу $A$ можно умножить на матрицу $B$ только если количество столбцов $A$ равно количеству строк B.B.

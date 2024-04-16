@@ -6,13 +6,9 @@ anki: false
 created: 2024-02-11 00:02
 parent:
   - "[[Square matrix]]"
-connected: 
+connected:
+  - "[[Matrix Transpose]]"
 tags:
   - empty
 ---
-links: [[Matrix|Матрица]], [[Transpose matrix|Транспонирование матрицы]]
-
----
-#анки
-
 

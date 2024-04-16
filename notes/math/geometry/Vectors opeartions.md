@@ -15,7 +15,7 @@ Outer product
 
 **Connected with:**
 - [[Vector]]
-- [[Операции над матрицами]]
+- [[Matrix Operations]]
 
 
 

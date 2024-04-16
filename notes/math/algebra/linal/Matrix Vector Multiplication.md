@@ -3,7 +3,7 @@ publish: true
 aliases: 
 created: 2023-10-30 20:16
 parent:
-  - "[[Операции над матрицами]]"
+  - "[[Matrix Operations]]"
   - "[[Vectors opeartions|Операции над векторами]]"
 connected:
   - "[[Vector|Вектор]]"

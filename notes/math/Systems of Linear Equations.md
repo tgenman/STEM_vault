@@ -16,7 +16,7 @@ A system of equations is called _inconsistent_ if it has no solutions. It is c
 
 ### Solution Methods
 
-- Решение через нахождение [[Inverse Matrix]]
+- Решение через нахождение [[Matrix Inverse]]
 $$A⋅X=B$$
 $$A^{−1}A⋅X=A^{−1}B⇔EX=A^{−1}B⇔X=A^{−1}B$$
 

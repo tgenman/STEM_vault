@@ -2,9 +2,13 @@
 aliases:
   - Элементарные преобразования матрицы
 publish: true
+anki: false
 parent:
-  - "[[512.64  Linear algebra MOC]]"
   - "[[Systems of Linear Equations]]"
+  - "[[Matrix Operations]]"
+connected: 
+tags: 
+created: 2024-04-16 19:46
 ---
 
 С помощью [[Elementary matrices]] привести ее к такому виду

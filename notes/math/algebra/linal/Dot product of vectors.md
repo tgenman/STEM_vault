@@ -14,6 +14,7 @@ connected:
 это частный случай [[Inner product of vectors]]
 $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
+Commonly, the dot product between two vectors $a, b$ is denoted by $a^\top b$ or $\langle a, b \rangle$.
 
 
 $\cos(\vec{a},\vec{b})=\frac{\vec{a}\cdot\vec{b}}{|\vec{a}|\cdot|\vec{b}|}$
@@ -42,6 +43,7 @@ TITLE: Dot product of vectors
 DESCRIPTION: это частный случай [[Inner product of vectors]]
 FORMULA: $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
+Commonly, the dot product between two vectors  is denoted by  or .
 ADDITIONAL:
 PICTURE: ![[Pasted image 20220719125413.png|500]]
 ID: 1707598158528
