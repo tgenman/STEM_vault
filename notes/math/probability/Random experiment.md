@@ -18,7 +18,7 @@ connected:
 
 ### Математическая модель 
 - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
-	- [[Elementary event]] и [[Sample space]]
+	- [[Elementary event]] и [[stem/notes/Sample space]]
 - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет
 - Частоты событий $\frac{N(A)}{N}$ <-> P(A)
 	- [[Probability]] - это идеализированное представление о частоте
@@ -47,7 +47,7 @@ Math_ONE_side
 TITLE: Математическая модель случайного эксперимента
 DESCRIPTION: 
 > - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
-> 	- [[Elementary event]] и [[Sample space]]
+> 	- [[Elementary event]] и [[stem/notes/Sample space]]
 > - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет
 > - Частоты событий $\frac{N(A)}{N}$ <-> P(A)
 > 	- [[Probability]] - это идеализированное представление о частоте

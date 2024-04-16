@@ -14,7 +14,7 @@ tags: []
 > [!tip] Binomial r.v. parameter n
 > is multiple [[Bernoulli(p)]]:
 > - [[Random experiment|experiment]]: $n$ independent tosses of a coin with $P(\text{Heads}) = p$
-> - [[Sample space]]: Set of sequences of $H$ and $T$, of length $n$
+> - [[stem/notes/Sample space]]: Set of sequences of $H$ and $T$, of length $n$
 > - Random variable $X$: number of Heads observed
 > - Model of: number of successes in a given number of independent trials
 
@@ -37,7 +37,7 @@ TITLE: Binomial r.v. Bin(n)
 DESCRIPTION: 
 > is multiple [[Bernoulli(p)]]:
 > - [[Random experiment|experiment]]: $n$ independent tosses of a coin with $P(\text{Heads}) = p$
-> - [[Sample space]]: Set of sequences of $H$ and $T$, of length $n$
+> - [[stem/notes/Sample space]]: Set of sequences of $H$ and $T$, of length $n$
 > - Random variable $X$: number of Heads observed
 > - Model of: number of successes in a given number of independent trials
 FORMULA: 

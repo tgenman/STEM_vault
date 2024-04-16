@@ -12,7 +12,7 @@ tags:
 > [!tip] Geometric random variable
 > - parameter: $0 < p \leq 1$
 > - [[Random experiment|Experiment]]: infinitely many independent tosses of a coin; $P(\text{Heads}) = p$
-> - [[Sample space]]: Set of infinite sequences of $H$ and $T$
+> - [[stem/notes/Sample space]]: Set of infinite sequences of $H$ and $T$
 > - Random variable $X$: number of tosses until the first Heads
 
 $p_X(k) = (1-p)^{k-1}p, \quad k = 1,2,\dots$
@@ -31,7 +31,7 @@ TITLE: Geometric discrete r.v.
 DESCRIPTION: 
 > - parameter: $0 < p \leq 1$
 > - [[Random experiment|Experiment]]: infinitely many independent tosses of a coin; $P(\text{Heads}) = p$
-> - [[Sample space]]: Set of infinite sequences of $H$ and $T$
+> - [[stem/notes/Sample space]]: Set of infinite sequences of $H$ and $T$
 > - Random variable $X$: number of tosses until the first Heads
 FORMULA: $p_X(k) = (1-p)^{k-1}p, \quad k = 1,2,\dots$
 ADDITIONAL: $\sum_{k=1}^{\infty} p_X(k) = \sum_{k=1}^{\infty} (1 - p)^{k-1}p = p \sum_{k=0}^{\infty} (1 - p)^k = p \cdot \frac{1}{1 - (1 - p)} = 1$
