@@ -7,7 +7,7 @@ created: 2023-10-20 20:26
 parent:
   - "[[519.21  Probability theory|Probability theory]]"
 connected:
-  - "[[stem/notes/Sample space]]"
+  - "[[Sample space]]"
   - "[[Elementary event]]"
 tags:
   - empty

@@ -12,7 +12,7 @@ tags:
   - empty
 ---
 
-$\Omega=\mathbb{R}$ -  [[stem/notes/Sample space]] [[Real numbers R]]
+$\Omega=\mathbb{R}$ -  [[Sample space]] [[Real numbers R]]
 $\mathcal{F}=\mathcal{B}(\mathbb{R})$ -  [[517.518.113 Borel sigma-algebra]]
 P 一 [[Probability measure]] on $(\Omega,\mathcal{F})$ 一 ==distribution==
 

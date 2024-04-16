@@ -9,7 +9,7 @@ parent:
 connected:
 ---
 ##### Classical definition of probability 
-$\Omega = \{\omega_1, ..., \omega_n\}$ - [[stem/notes/Sample space]] of [[Elementary event]]s
+$\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
 $A \subset \Omega$ - [[Event]]
 $P(A) = \frac{|A|}{n}$ - [[Probability]] [[Probability measure]]
 
@@ -46,7 +46,7 @@ START
 Math_ONE_side
 TITLE: Classical definition of probability
 DESCRIPTION: 
-> $\Omega = \{\omega_1, ..., \omega_n\}$ - [[stem/notes/Sample space]] of [[Elementary event]]s
+> $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
 > $A \subset \Omega$ - [[Event]]
 > $P(A) = \frac{|A|}{n}$ - [[Probability]]
 ID: 1697972721265

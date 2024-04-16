@@ -9,7 +9,7 @@ created: 2023-10-20 20:22
 parent:
   - "[[519.21  Probability theory|Probability theory]]"
 connected:
-  - "[[stem/notes/Sample space]]"
+  - "[[Sample space]]"
 ---
 
 > [!tip] Elementary event

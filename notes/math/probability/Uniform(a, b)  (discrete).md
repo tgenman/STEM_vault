@@ -12,7 +12,7 @@ tags:
 > [!tip] Uniform r.v. (discrete)
 > - Parameters: integers $a, b$; $a \leq b$
 > - [[Random experiment|Experiment]]: Pick one of $a, a + 1, \ldots, b$ at random; all equally likely
-> - [[stem/notes/Sample space]]: $\{a, a + 1, \ldots, b\}$
+> - [[Sample space]]: $\{a, a + 1, \ldots, b\}$
 > - Random variable $X$: $X(\omega) = \omega$
 > - Model of: complete ignorance
 
@@ -48,7 +48,7 @@ TITLE: Uniform r.v. (discrete)
 DESCRIPTION: 
 > - Parameters: integers $a, b$; $a \leq b$
 > - [[Random experiment|Experiment]]: Pick one of $a, a + 1, \ldots, b$ at random; all equally likely
-> - [[stem/notes/Sample space]]: $\{a, a + 1, \ldots, b\}$ 
+> - [[Sample space]]: $\{a, a + 1, \ldots, b\}$ 
 > - Random variable $X$: $X(\omega) = \omega$
 > - Model of: complete ignorance
 FORMULA: 
