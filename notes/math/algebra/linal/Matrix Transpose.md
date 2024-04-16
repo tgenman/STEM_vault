@@ -8,6 +8,7 @@ parent:
   - "[[Matrix Operations]]"
 connected:
   - "[[Symmetric matrix]]"
+  - "[[Matrix Inverse]]"
 tags:
 ---
 
@@ -24,6 +25,7 @@ $$\mathrm{A}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{12}}&\color{blu
 -   $(AB)^{T}=B^{T}A^{T}$
 -   $(\lambda A)^{T}=\lambda A^{T}$
 -   $\det A=\det A^{T}$
+- $(A^{−1})^T=(A^T)^{−1}$
 
 
 #### Anki
@@ -50,6 +52,7 @@ DESCRIPTION:
 > -   $(AB)^{T}=B^{T}A^{T}$
 > -   $(\lambda A)^{T}=\lambda A^{T}$
 > -   $\det A=\det A^{T}$
+> - $(A^{−1})^T=(A^T)^{−1}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

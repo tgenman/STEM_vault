@@ -2,57 +2,65 @@
 aliases:
   - Обратная матрица
 publish: true
-anki: false
+anki: true
 created: 2024-04-16 19:39
 parent:
   - "[[Matrix]]"
   - "[[Matrix Operations]]"
-connected: 
-tags:
-  - empty
+  - "[[Calculation Matrix Inverse]]"
+connected:
+  - "[[Matrix Transpose]]"
+  - "[[Square matrix]]"
+tags: []
 ---
 
 > [!tip] Matrix Inverse
-Consider a square matrix $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
+Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
 
 
-[[Matrix|Матрица]] имеет обратную матрицу, только если [[Determinant of matrix|определитель]] не равен нулю
-Обратные матрицы существуют только для квадратных.
+### Properties of Matrix Inverse
+- ==Matrix Inverse== определяется единственным образом;
+- [[Matrix|Матрица]] имеет обратную матрицу, только если [[Determinant of matrix|определитель]] не равен нулю
+- Обратные матрицы существуют только для квадратных.
+- $AA^{−1}=A^{−1}A=E$  
+- $(AB)^{−1}=B^{−1}A^{−1}$
+-  $(A + B)^{−1} \neq A^{−1} + B^{−1}$
+- $(A^{−1})^{−1}=A$ 
+- $(A^{−1})^T=(A^T)^{−1}$
+- $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
 
+#### Anki
+> [!question]- Matrix Inverse
+TARGET DECK: Math::Linal 
+START
+Math_ONE_side
+TITLE: Matrix Inverse
+DESCRIPTION: Consider a square matrix $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
+FORMULA: 
+ADDITIONAL:
+PICTURE:
+ID: 1713287272971
+END
 
-### Свойства обратных матриц
-1.  $AA^{−1}=A^{−1}A=E$ — коммутативность произведения матрицы и обратной ей;
-2.  ==Обратная матрица== определяется единственным образом;
-3.  $(AB)^{−1}=B^{−1}A^{−1}$— расчёт матрицы, обратной произведению.
-4. $(A^{−1})^{−1}=A$ - если $A$ обратима, то $A−1$ также обратима
-5. $(A^{−1})^T=(A^T)^{−1}$ - [[Matrix Transpose|транспонирование]] обратной матрицы
-6. $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ -  Умножение обратной матрицы на скаляр
-
-
-
-### Вычисление обратной матрицы
-
-$$A^{-1}=\dfrac1{|A|}\cdot {A_{ij}}^T,$$
-где $|A|$ — определитель матрицы $A$,
-
-${A_{ij}}^T$ — транспонированная матрица алгебраических дополнений соответствующих элементов матрицы $A$.
-
-### 2х2
-Из исходной матрицы $2{\times}2$ всегда получают транспонированную матрицу алгебраических дополнений одним и тем же образом: элементы главной диагонали меняются местами, элементы побочной меняют знак.
-
-$$\begin{pmatrix} a & b \\ c & d \end{pmatrix}^{-1} = \dfrac{1}{a d - bc} \begin{pmatrix} d & -b \\ -c & a \end{pmatrix}$$
-
-### Способы нахождения
-- Adjugate 
-- Using row operations
-- Using [[Elementary matrices]]
-
-
----
-
-Чтобы подчеркнуть, что было до преобразования, а что получилось после, 
-точку $W$ называют **образом** точки $Z$, а 
-точку $Z$ — **прообразом** точки $W$  - до умножения на [[Матрица линейного преобразования]]
-
+> [!question]- Properties of Matrix Inverse
+TARGET DECK: Math::Linal 
+START
+Math_ONE_side
+TITLE: Properties of Matrix Inverse
+DESCRIPTION: 
+> - ==Matrix Inverse== определяется единственным образом;
+> - [[Matrix|Матрица]] имеет обратную матрицу, только если [[Determinant of matrix|определитель]] не равен нулю
+> - Обратные матрицы существуют только для квадратных.
+> - $AA^{−1}=A^{−1}A=E$  
+> - $(AB)^{−1}=B^{−1}A^{−1}$
+> -  $(A + B)^{−1} \neq A^{−1} + B^{−1}$
+> - $(A^{−1})^{−1}=A$ 
+> - $(A^{−1})^T=(A^T)^{−1}$
+> - $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
+FORMULA: 
+ADDITIONAL:
+PICTURE:
+ID: 1713287272977
+END
 
 

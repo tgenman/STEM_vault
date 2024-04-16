@@ -31,7 +31,7 @@ START
 Math_ONE_side
 TITLE: Cardinality
 DESCRIPTION: The number of elements in a set $X$.
-> Denoted by $|X|$ or $\#X$
+> Denoted by $|X|$
 FORMULA: 
 ADDITIONAL:
 ID: 1706040051697

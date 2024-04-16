@@ -20,6 +20,7 @@ created: 2024-04-16 19:26
 		- [[Hadamard product]]
 - [[Matrix Transpose]]
 - [[Matrix Inverse]]
+	- [[Calculation Matrix Inverse]]
 - [[The Gaussian Elimination Method]]
 
 
