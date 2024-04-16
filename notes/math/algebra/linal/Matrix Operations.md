@@ -2,7 +2,6 @@
 publish: true
 aliases:
   - Операции над матрицами
-anki: false
 parent:
   - "[[Matrix]]"
 connected:
@@ -21,7 +20,6 @@ created: 2024-04-16 19:26
 - [[Matrix Transpose]]
 - [[Matrix Inverse]]
 	- [[Calculation Matrix Inverse]]
-- [[The Gaussian Elimination Method]]
 
 
 

@@ -24,7 +24,7 @@ $L_1 = \sum_{i=1}^{n} |a|$
 TARGET DECK: Math::Linal
 START
 Math_ONE_side
-TITLE: 
+TITLE: $L_1$ норма (Manhattan norm (L1))
 DESCRIPTION: Сумма взятых по модулю координат вектора
 FORMULA: $L_1 = \sum_{i=1}^{n} |a|$
 ADDITIONAL:

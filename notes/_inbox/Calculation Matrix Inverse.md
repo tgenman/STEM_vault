@@ -25,7 +25,7 @@ $$\begin{pmatrix} a & b \\ c & d \end{pmatrix}^{-1} = \dfrac{1}{a d - bc} \begin
 ### Способы нахождения
 - Adjugate 
 - Using row operations
-- Using [[Elementary matrices]]
+- Using [[Elementary transformations]]
 
 
 ---

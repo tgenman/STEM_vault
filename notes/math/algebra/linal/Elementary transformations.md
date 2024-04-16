@@ -1,12 +1,23 @@
 ---
 aliases:
-  - Элементарные преобразования матрицы
   - Row operaions
+  - Elementary matrices
 publish: true
+anki: false
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
+created: 2024-04-16 20:17
 ---
-#анки
 
 https://en.wikipedia.org/wiki/Elementary_matrix
+
+- Exchange of two equations (rows in the matrix representing the system of equations) 
+- Multiplication of an equation (row) with a constant λ ∈ R\{0} 
+- Addition of two equations (rows)
+
 ### Types
 - Adding $m$ times the second row to the first row correspond to
 $$
