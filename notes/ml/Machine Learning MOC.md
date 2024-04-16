@@ -5,6 +5,8 @@ publish: true
 ---
 links: [[🌍Interests MOC]], [[004.432.2 🐍 Python MOC]], [[Deep Learning MOC]]
 
+[[Вастрик - Машинное обучение]]
+
 ---
 
 ![[BED72584-D248-42EF-803E-16C6878D5607.jpeg]]
