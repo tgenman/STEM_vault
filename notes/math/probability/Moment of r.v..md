@@ -23,6 +23,8 @@ the moments of a function are certain quantitative measures related to the shape
 	- [[Skewness (3)]]
 	- [[Kurtosis (4) Kurt(X)]]
 
+[[Производящая функция моментов случайной M_X(s)]]
+
 #### Anki
 > [!question]- Moment of r.v. 
 TARGET DECK: Math::Probability 

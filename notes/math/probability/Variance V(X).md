@@ -16,7 +16,7 @@ tags:
 ---
 
 > [!tip] Variance 
-a measure of the spread of a [[PMF - p_X(x)|PMF]] 
+a measure of the spread of a [[PMF - p_X(x)|PMF]]  and [[PDF - f_X(x)|PDF]]
 
 $\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
 $\text{var}(X) = E[(X - E[X])^2]$

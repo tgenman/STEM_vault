@@ -3,6 +3,7 @@ aliases:
   - Перестановки без неподвижных точек
   - Субфакториал
   - Смещения
+  - Беспорядки
 publish: true
 anki: false
 created: 2023-10-30 20:35
@@ -47,7 +48,7 @@ $d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{
 
 
 ### Anki
-> [!question]-
+> [!question]- Derangements
 TARGET DECK: Math::Combinatorics  
 START
 Math_ONE_side
@@ -60,6 +61,8 @@ ADDITIONAL:
 ID: 1698688139448
 END
 
+> [!question]- Approximate value of Derangements
+TARGET DECK: Math::Combinatorics  
 START
 Math_ONE_side
 TITLE: Approximate value of Derangements

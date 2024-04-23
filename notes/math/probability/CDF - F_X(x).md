@@ -2,6 +2,7 @@
 aliases:
   - CDF
   - Cumulative distribution function
+  - Функция распределения
 publish: true
 anki: false
 created: 2024-03-20 18:33
