@@ -4,11 +4,11 @@ publish: true
 anki: false
 created: 2024-04-24 11:47
 parent:
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
   - "[[General Random Variables]]"
   - "[[Normal distribution]]"
 connected: 
-tags:
+tags: 
 ---
 
 

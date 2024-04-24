@@ -6,9 +6,12 @@ created: 2024-03-20 19:02
 parent:
   - "[[Bernoulli(p)]]"
   - "[[Discrete Random Variable]]"
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
 connected:
   - "[[Схема испытиний Бернулли]]"
+  - "[[Poisson(lambda)]]"
+  - "[[Multinomial formula]]"
+  - "[[Negative Binomial NB(r, p)]]"
 tags:
 ---
 

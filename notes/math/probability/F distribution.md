@@ -4,10 +4,10 @@ publish: true
 anki: false
 created: 2024-04-24 13:21
 parent:
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
   - "[[General Random Variables]]"
 connected: 
-tags:
+tags: 
 ---
 
 > [!tip] F distribution   $F(d_1, d_2)$

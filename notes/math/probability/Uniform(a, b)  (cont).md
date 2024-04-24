@@ -5,10 +5,10 @@ anki: true
 created: 2024-04-24 11:13
 parent:
   - "[[General Random Variables]]"
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
 connected:
   - "[[Uniform(a, b)  (discrete)]]"
-tags:
+tags: 
 ---
 
 > [!tip] Uniform $\text{Unif}(a, b)$ - continious

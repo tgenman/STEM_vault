@@ -5,8 +5,9 @@ anki: true
 created: 2024-03-20 19:18
 parent:
   - "[[Discrete Random Variable]]"
-  - "[[Distribution of r.v.]]"
-connected: 
+  - "[[Distribution of r.v. MOC]]"
+connected:
+  - "[[Hypergeometric Hyp(N, m, n)]]"
 tags:
 ---
 

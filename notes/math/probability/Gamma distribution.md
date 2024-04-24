@@ -5,9 +5,9 @@ anki: false
 created: 2024-04-24 13:32
 parent:
   - "[[General Random Variables]]"
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
 connected: 
-tags:
+tags: 
 ---
 
 > [!tip] Gamma  $\text{Gamma}(\alpha, \beta)$ 

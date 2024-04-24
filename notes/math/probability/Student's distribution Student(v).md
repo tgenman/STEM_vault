@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2024-04-24 12:38
 parent:
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
   - "[[General Random Variables]]"
 connected:
   - "#обс/linking"

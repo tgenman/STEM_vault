@@ -13,7 +13,7 @@ tags:
 
 > [!tip] Kurtosis 
 (from Greek: κυρτός, kyrtos or kurtos, meaning "curved, arching") 
-is a measure of the "tailedness" of the [[Distribution of r.v.|probability distribution]] of a real-valued random variable.
+is a measure of the "tailedness" of the [[Distribution of r.v. MOC|probability distribution]] of a real-valued random variable.
 
 $\text{Kurt}[X] = \mathbb{E}\left[\left(\frac{X - \mu}{\sigma}\right)^4\right] = \frac{\mathbb{E}[(X - \mu)^4]}{(\mathbb{E}[(X - \mu)^2])^2} = \frac{\mu_4}{\sigma^4}$
 
@@ -28,7 +28,7 @@ Math_ONE_side
 TITLE: Kurtosis
 DESCRIPTION: 
 (from Greek: κυρτός, kyrtos or kurtos, meaning "curved, arching") 
-is a measure of the "tailedness" of the [[Distribution of r.v.|probability distribution]] of a real-valued random variable.
+is a measure of the "tailedness" of the [[Distribution of r.v. MOC|probability distribution]] of a real-valued random variable.
 FORMULA: $\text{Kurt}[X] = \mathbb{E}\left[\left(\frac{X - \mu}{\sigma}\right)^4\right] = \frac{\mathbb{E}[(X - \mu)^4]}{(\mathbb{E}[(X - \mu)^2])^2} = \frac{\mu_4}{\sigma^4}$
 ADDITIONAL:
 PICTURE:

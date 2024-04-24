@@ -5,10 +5,10 @@ anki: false
 created: 2024-03-21 11:20
 parent:
   - "[[Discrete Random Variable]]"
-  - "[[Distribution of r.v.]]"
+  - "[[Distribution of r.v. MOC]]"
 connected:
   - "[[Uniform(a, b)  (cont)]]"
-tags:
+tags: 
 ---
 
 > [!tip] Uniform r.v. $U(a, b)$
