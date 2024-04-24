@@ -6,7 +6,8 @@ created: 2024-03-21 11:20
 parent:
   - "[[Discrete Random Variable]]"
   - "[[Distribution of r.v.]]"
-connected: 
+connected:
+  - "[[Uniform(a, b)  (cont)]]"
 tags:
 ---
 
