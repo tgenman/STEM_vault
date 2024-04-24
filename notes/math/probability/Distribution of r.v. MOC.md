@@ -47,6 +47,6 @@ P 一 [[Probability measure]] on $(\Omega,\mathcal{F})$ 一 ==distribution==
 
 
 
-
+[[Distribution comparing]]
 
 ![[Pasted image 20240423180438.png]]
