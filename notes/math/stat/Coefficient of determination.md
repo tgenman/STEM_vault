@@ -24,5 +24,5 @@ SST - [[Total Sum of Squares (TSS or SST)]]
 
 **Connected with:**
 - [[519.22 Statistic MOC]]
-- [[Correlation coefficient]]
+- [[Correlation]]
 

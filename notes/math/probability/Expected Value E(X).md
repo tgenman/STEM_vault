@@ -14,8 +14,8 @@ connected:
   - "[[Median]]"
   - "[[Variance V(X)]]"
   - "[[Пари Паскаля]]"
-tags:
-  - empty
+  - "[[Conditional expectation]]"
+tags: []
 ---
 
 > [!tip] The expected value
@@ -35,27 +35,18 @@ We define the expected value (also called the expectation or the mean) of a rand
 $$E[X] = \sum_x xp_X(x).$$
 ![[Pasted image 20240321124118.png|300]]
 
-#### Elementary properties of expectations
-
+#### Properties of expectations
+- $P[X = c] = 1 \Rightarrow E[X] = c$
+- $E[cX] = cE[X]$
+- $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
+- $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
+	- $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen inequality]])
+- $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
+- $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
+- $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$
 - If $X \geq 0$, then $E[X] \geq 0$
-
 - If $a \leq X \leq b$, then $a \leq E[X] \leq b$
-$E[X] = \sum_x x p_X(x) \geq \sum_x a p_X(x) = a \sum_x P_X(x) = a \cdot 1 = a$
-
-- If $c$ is a constant, $E[c] = c$
-$E[c] = c \cdot p(c) = c$
-
-
-#### [[Expected Value Rule for functions of r.v.]]
-
-#### [[Linearity of expectation]]
-
-
-
-
-
-
-
+- $\mathbb{E} [X] = \sum_{x=1}^{\infty} \mathbb{P} [X \geq x]$ X discrete
 
 
 #### Anki
@@ -84,13 +75,17 @@ START
 Math_ONE_side
 TITLE: Elementary properties of expectations
 DESCRIPTION: 
+> - $P[X = c] = 1 \Rightarrow E[X] = c$
+> - $E[cX] = cE[X]$
+> - $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
+> - $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
+> 	- $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen inequality]])
+> - $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
+> - $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
+> - $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$
 > - If $X \geq 0$, then $E[X] \geq 0$
-> 
 > - If $a \leq X \leq b$, then $a \leq E[X] \leq b$
-> $E[X] = \sum_x x p_X(x) \geq \sum_x a p_X(x) = a \sum_x P_X(x) = a \cdot 1 = a$
-> 
-> - If $c$ is a constant, $E[c] = c$
-> $E[c] = c \cdot p(c) = c$
+> - $\mathbb{E} [X] = \sum_{x=1}^{\infty} \mathbb{P} [X \geq x]$ X discrete
 FORMULA: 
 ADDITIONAL:
 PICTURE:

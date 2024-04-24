@@ -28,7 +28,7 @@ A function from the sample space $\Omega$ to the real numbers
 
 
 #### Properties
-- A  [[Function (math)|function]] of a ==random variable== defines another ==random variable==.
+- A  [[Function (math)|function]] of a ==random variable== defines another ==random variable==. - [[Functions of random variables]]
 - We can associate with each random variable certain "averages" of interest, such as the [[Expected Value E(X)]]  and [[Variance V(X)]] .
 - A ==random variable== can be [[Conditional Probability|conditioned]]  on an [[Event]] or on another ==random variable==.
 - There is a notion of [[Independence]] of a ==random variable== from an [[Event]] or from another ==random variable==.

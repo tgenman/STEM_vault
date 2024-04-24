@@ -1,9 +1,7 @@
 ---
-aliases: [Случайная выборка]
+aliases:
+  - Случайная выборка
 publish: true
+parent:
+  - "[[519.22 Statistic MOC]]"
 ---
-links: [[519.22 Statistic]]
-
----
-
-
