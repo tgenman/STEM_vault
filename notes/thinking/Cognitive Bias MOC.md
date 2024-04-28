@@ -1,8 +1,7 @@
 ---
 aliases:
-  - Cognitive Biases
+  - Cognitive Bias
   - Когнитивное искажение
-  - Когнитивные искажения
 publish: true
 created: 2024-04-11 15:32
 parent:
