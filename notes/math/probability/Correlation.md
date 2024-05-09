@@ -6,6 +6,7 @@ anki: false
 created: 2024-04-24 18:54
 parent:
   - "[[Random Variable (r.v.) X]]"
+  - "[[Pearson]]"
 connected:
   - "[[Covariance]]"
 tags:

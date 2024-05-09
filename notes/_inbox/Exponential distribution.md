@@ -10,7 +10,8 @@ connected:
 tags: []
 ---
 
-> [!tip] Exponential  distribution  $\text{Exp}(\beta)$
+> [!tip] Exponential  distribution  $\text{Exp}(\beta)$, where $\beta = \frac{1}{\lambda}$
+> - $\lambda$ - rate
 > - [[PDF - f_X(x)|PDF]]: $f_X(x) = \frac{1}{\beta}e^{-x/\beta}$
 > - [[CDF - F_X(x)|CDF]]: $F_X(x) = 1 - e^{-x/\beta}$
 > - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \beta$
