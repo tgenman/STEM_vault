@@ -45,6 +45,7 @@ parent:
 [[VR рабочий стол]]
 [[Testing]]
 [[Computer Science MOC]]
+[[ssh]]
 
 [[Data Structures]]
 [[Databases MOC]]
