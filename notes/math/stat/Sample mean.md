@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Выборочное среднее
 publish: true
 anki: false
 created: 2024-04-24 18:51
@@ -10,3 +11,7 @@ connected:
 tags:
   - empty
 ---
+
+
+
+

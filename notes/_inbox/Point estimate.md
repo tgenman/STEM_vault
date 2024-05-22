@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Оценка случайной величины
 publish: true
 anki: false
 created: 2024-04-11 13:50

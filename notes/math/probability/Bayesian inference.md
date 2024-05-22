@@ -10,7 +10,7 @@ connected:
 tags:
   - empty
 ---
-
+[[Байес, Томас]]
 
 - initial beliefs $P(A_i)$ on possible causes of an observed event $B$
 - model of the world under each $A_i$: $P(B | A_i)$
