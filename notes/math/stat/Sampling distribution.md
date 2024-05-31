@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Выборочное распределение
 publish: true
 anki: false
 created: 2024-04-11 16:01
