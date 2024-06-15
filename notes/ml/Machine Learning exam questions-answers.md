@@ -507,17 +507,17 @@ PICTURE:
 ID: 1717833556717
 END
 
-> [!question]- Dropout
+> [!question]- Dropout Regularization
 TARGET DECK: Math::Machine Learning 0
 START
-Math_ONE_side
-TITLE: Dropout
+Math_TWO_side
+TITLE: Dropout Regularization
 DESCRIPTION: 
-Dropout is a regularization technique used in neural networks to prevent overfitting by randomly dropping units and their connections during training.
+Dropout is a regularization technique where randomly selected neurons are ignored during training. This prevents overfitting by ensuring that the model does not rely too heavily on any individual neuron.
+FORMULA: 
+During training: $\mathbf{h} = \mathbf{h} \odot \mathbf{r}$ where $\mathbf{r} \sim \text{Bernoulli}(p)$
 ADDITIONAL:
-- **Training Stage**: Randomly drops units (neurons) and their connections.
-- **Evaluation Stage**: All units are active, and no dropout is applied.
-- **Example**: If a layer has 50% dropout, half of the neurons are dropped out during each iteration of training.
+In the evaluation stage, no neurons are dropped, but the output is scaled by the dropout rate $p$. This ensures the expected value of the output is the same during training and evaluation. For example, if $p=0.5$, the output is scaled by $0.5$ during evaluation.
 PICTURE:
 ID: 1717833556722
 END
@@ -643,3 +643,6 @@ Example: Max pooling with a 2x2 window and stride 2 reduces the input dimensions
 PICTURE:
 ID: 1717833618945
 END
+
+
+
