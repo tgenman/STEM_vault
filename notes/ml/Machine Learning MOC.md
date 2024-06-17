@@ -21,25 +21,18 @@ parent:
 
 
 
-
-- [[Regression (machine learning)]]
-	- [[Linear regression]]
-	- [[Polynomial regression]]
-
 - Функции ошибок
 [[Mean absolute error]]
 [[Mean squared error]] Root Mean S E [[Standard deviation]]
 
 
 -  [[Gradient Descent]]
-Использование одной точки за раз называется [[стохастическим градиентным спуском]]. Применение мини-пакета называется [[мини-пакетным градиентным спуском]].
-Использование всего набора данных называется [[пакетным градиентным спуском]] batch gradient descent
+	- [[Stochastic gradient descent]]
+	- [[Mini-batch gradient descent]]
+	- [[Batch gradient descent]]
 
 ---
 
-
-
-![[Pasted image 20230503093156.png]]
 
 
 ### По типам алгоритмов
@@ -51,25 +44,14 @@ parent:
 		- [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
 		- [[Support Vector Machine (SVM)]]
 	- [[Regression (machine learning)]] 
+		- [[Linear regression]]
+		- [[Polynomial regression]]
 		- [[Linear and Polynomial Regression]]
 		- Ridge-Lasso Regression
 - [[Unsupervised Learning]]
 	- [[Clustering (machine learning)]]
-		- [[K-means clustering]]
-		- [Mean-Shift](https://en.wikipedia.org/wiki/Mean_shift)
-		- [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
-		- Agglomerative
-		- Fuzzy C-Mean
 	- [[Поиск правил (ассоциация)]]
-		- Euclat
-		- Apriori
-		- FP-Grwoth
 	- [[Dimension reduction (generalization)]]
-		- t-SNE
-		- PSA
-		- LSA
-		- SVD
-		- LDA
 	- Генеративные алгоритмы
 		- GAN
 - [[Reinforcement Learning]]
@@ -85,7 +67,6 @@ parent:
 	- [[Multilayer percepton]] (MLP)
 
 
-### По решаемым задачам
 
 
 
