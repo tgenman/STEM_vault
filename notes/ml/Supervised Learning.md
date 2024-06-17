@@ -1,7 +1,10 @@
 ---
-aliases: Обучение с учителем (Классическое машинное обучение)
+aliases:
+  - Обучение с учителем
 publish: true
 created: 2023-05-03 11:02
+parent:
+  - "[[004.8 Machine Learning (notion)|ML]]"
 ---
 
 

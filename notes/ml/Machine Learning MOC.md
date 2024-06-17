@@ -6,6 +6,7 @@ tags:
 publish: true
 connected:
   - "[[004.432.2 🐍 Python MOC]]"
+  - "[[Deep Learning MOC]]"
 parent:
   - "[[004.8 Machine Learning (notion)]]"
 ---
@@ -68,6 +69,7 @@ https://www.fast.ai/2020/08/21/fastai2-launch/
 ![[Pasted image 20230503093156.png]]
 
 
+### По типам алгоритмов
 - [[Классическое машинное обучение]]
 	- [[Supervised Learning]] 
 		-  [[Classification ML]]
@@ -122,6 +124,7 @@ https://www.fast.ai/2020/08/21/fastai2-launch/
 	- Перцептоны (MLP)
 
 
+### По решаемым задачам
 
 
 
