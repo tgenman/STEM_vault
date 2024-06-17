@@ -31,5 +31,5 @@ created: 2023-05-03 13:47
 
 
 **Connected with:**
-- subtype of [[Unsupervised Learning]]
+- subtype of [[stem/notes/ml/Unsupervised Learning]]
 

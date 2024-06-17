@@ -2,7 +2,7 @@
 tags: course🎓
 publish: true
 ---
-links: [[Data Science]]
+links: [[Machine Learning MOC]]
 status: #status/ON_HOLD_🌥️
 author: 
 provider: [[Yandex Praktikum]]

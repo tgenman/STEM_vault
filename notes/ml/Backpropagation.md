@@ -23,5 +23,5 @@ created: 2023-05-03 23:10
 
 **Connected with:**
 - [[Neural Networks]]
-- [[Neural Networks and Deep Learning]]
+- [[Deep Learning (notion)]]
 

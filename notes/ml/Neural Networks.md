@@ -2,10 +2,16 @@
 aliases:
   - Нейронные сети
 publish: true
+parent:
+  - "[[Deep Learning (notion)]]"
+connected:
+  - "[[AI]]"
 ---
-links: [[Deep Learning MOC]], [[AI]]
 
----
+[[Recurrent Neural Network|RNN]]
+[[Convolutional neural network|CNN]]
 
-[[Natural Language Processing|Обработка естественных языков]]
+[[Natural Language Processing]]
 [[Computer Vision]]
+
+[[Архитектура нейронных сетей]]

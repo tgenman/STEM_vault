@@ -70,7 +70,7 @@ https://www.fast.ai/2020/08/21/fastai2-launch/
 
 
 ### По типам алгоритмов
-- [[Классическое машинное обучение]]
+- k
 	- [[Supervised Learning]] 
 		-  [[Classification ML]]
 			- [[Naive Bayes]]
@@ -81,7 +81,7 @@ https://www.fast.ai/2020/08/21/fastai2-launch/
 		- [[Regression (machine learning)]] 
 			- [[Linear and Polynomial Regression]]
 			- Ridge-Lasso Regression
-	- [[Unsupervised Learning]] 
+	- [[stem/notes/ml/Unsupervised Learning]] 
 		- [[Clustering (machine learning)]]
 			- [[K-means clustering]]
 			- [Mean-Shift](https://en.wikipedia.org/wiki/Mean_shift)
@@ -111,7 +111,7 @@ https://www.fast.ai/2020/08/21/fastai2-launch/
 	- [[Стейкинг (ансамблевые методы)]]
 	- [[Беггинг (ансамблевые методы)]]
 	- [[Бустинг (ансамблевые методы)]] 
-- [[Neural Networks and Deep Learning]]
+- [[Deep Learning (notion)]]
 	- Convolutional Neural Networks (CNN)
 		- DCNN
 	- Recurrent Neural Networks (RNN)

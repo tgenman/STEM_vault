@@ -17,15 +17,3 @@ parent:
 
 
 
-
-
-
-
-
-
-
-**Connected with:**
-- as subtype of [[Классическое машинное обучение]]
-
-
-

@@ -4,7 +4,7 @@ tags:
   - status/BACKLOG_🌰
 publish: true
 ---
-links: [[Data Science]] [[Deep Learning MOC]]
+links: [[Machine Learning MOC]] [[Deep Learning MOC]]
 author: 
 provider: [[Yandex Praktikum]]
 platform:  [[Yandex Praktikum]]
