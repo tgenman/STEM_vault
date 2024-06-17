@@ -2,7 +2,7 @@
 aliases: Hyperbolic secant, Гиперболический секант
 publish: true
 ---
-#анки
+#anki
 
 
 - Гиперболический секан

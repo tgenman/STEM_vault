@@ -2,7 +2,7 @@
 aliases: Cosecant, Косекант
 publish: true
 ---
-#анки
+#anki
 
 $$
 \csc \alpha = \frac{1}{\sin \alpha}

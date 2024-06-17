@@ -2,7 +2,7 @@
 aliases: Cotangent, Котангенс
 publish: true
 ---
-#анки
+#anki
 
 $$
 \cot \alpha = \frac{\cos \alpha}{\sin \alpha}

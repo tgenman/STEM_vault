@@ -9,7 +9,7 @@ connected:
   - "[[Point]]"
   - "[[Line]]"
 ---
-#анки
+#anki
 
 A _plane_ is a flat sheet that is infinite in all directions.
 

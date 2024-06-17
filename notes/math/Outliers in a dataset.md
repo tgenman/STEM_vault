@@ -2,7 +2,7 @@
 aliases: Выбросы
 publish: true
 ---
-#анки
+#anki
 
 Specifically, an ==outlier== is any data point that is:
 - smaller than (First [[Quartile]]) − (1.5×[[Interquartile range|IQR]])

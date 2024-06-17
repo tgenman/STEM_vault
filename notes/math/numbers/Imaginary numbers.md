@@ -2,7 +2,7 @@
 aliases: Мнимые числа
 publish: true
 ---
-#анки
+#anki
 
 ### Imaginary Powers
 $i^1 = i$

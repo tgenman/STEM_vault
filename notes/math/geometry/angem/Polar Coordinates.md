@@ -3,7 +3,7 @@ aliases: Полярная система координат
 publish: true
 ---
 
-#анки
+#anki
 
 Adding any **even** multiple of $π$ to $a$ gives us the **same** result.
 

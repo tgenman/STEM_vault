@@ -9,7 +9,7 @@ connected:
   - "[[Line]]"
   - "[[Plane]]"
 ---
-#анки
+#anki
 
 Let $n$ be a [[Natural numbers N|positive whole number]] . We define
 

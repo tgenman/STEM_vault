@@ -2,7 +2,7 @@
 aliases: След Матрицы
 publish: true
 ---
-#анки
+#anki
 
 $$
 tr A = a_{11} + ... a_{nn} = \lambda_1 + \lambda_n

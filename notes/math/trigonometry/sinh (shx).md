@@ -2,7 +2,7 @@
 aliases: Hyperbolic sine, Гиперболический синус
 publish: true
 ---
-#анки
+#anki
 
 
 - Гиперболический синус sinh or shx 

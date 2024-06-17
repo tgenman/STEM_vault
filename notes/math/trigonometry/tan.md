@@ -2,7 +2,7 @@
 aliases: Tangent, Тангенс
 publish: true
 ---
-#анки
+#anki
 
 $$
 \tan \alpha = \frac{\sin \alpha}{\cos \alpha}

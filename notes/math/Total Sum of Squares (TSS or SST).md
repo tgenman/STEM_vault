@@ -2,7 +2,7 @@
 aliases:
 publish: true
 ---
-#анки
+#anki
 
 ![[Pasted image 20230829202557.png]]
 

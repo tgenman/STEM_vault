@@ -2,7 +2,7 @@
 aliases: Сферические координаты
 publish: true
 ---
-#анки
+#anki
 
 ![[Pasted image 20230823165427.png]]
 

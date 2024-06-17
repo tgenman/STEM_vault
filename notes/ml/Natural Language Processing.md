@@ -3,6 +3,6 @@ aliases:
   - Обработка естественных языков
 publish: true
 ---
-links: [[Нейронные сети]]
+links: [[Neural Networks]]
 
 ---

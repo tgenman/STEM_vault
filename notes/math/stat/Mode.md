@@ -2,7 +2,7 @@
 aliases: Мода
 publish: true
 ---
-#анки
+#anki
 
 ==**mode**== which is the value in a data set that occurs most frequently.
 

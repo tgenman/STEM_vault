@@ -2,7 +2,7 @@
 aliases: Парадокс Симспсона
 publish: true
 ---
-#анки
+#anki
 
 ![[Pasted image 20230829195522.png]]
 

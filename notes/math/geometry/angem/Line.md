@@ -9,7 +9,7 @@ connected:
   - "[[Plane]]"
   - "[[Point]]"
 ---
-#анки
+#anki
 
 _line_ is a ray that is _straight_ and _infinite_ in both directions.
 

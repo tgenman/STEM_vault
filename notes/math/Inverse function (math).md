@@ -5,7 +5,7 @@ publish: true
 parent:
   - "[[Function (math)]]"
 ---
-#анки
+#anki
 
 ![[Pasted image 20230915111732.png|300]]
 

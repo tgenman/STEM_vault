@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Нейронные сети
 publish: true
 ---
 links: [[Deep Learning MOC]], [[AI]]

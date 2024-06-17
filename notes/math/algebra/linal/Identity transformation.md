@@ -2,7 +2,7 @@
 aliases: Отражение само в себя
 publish: true
 ---
-#анки
+#anki
 
  An ==**identity function**== is a function that always returns the same value that was used as its argument.
 

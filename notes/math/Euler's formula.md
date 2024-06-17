@@ -2,7 +2,7 @@
 aliases: Формула Эйлера
 publish: true
 ---
-#анки
+#anki
 
 $$
 e^{i\pi} + 1 = 0 

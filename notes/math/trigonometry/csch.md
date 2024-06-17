@@ -2,7 +2,7 @@
 aliases: Hyperbolic cosecant, Гиперболический косекант
 publish: true
 ---
-#анки
+#anki
 
 
 

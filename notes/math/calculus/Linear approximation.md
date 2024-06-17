@@ -2,7 +2,7 @@
 aliases:
 publish: true
 ---
-#анки
+#anki
 
 It is sometimes very useful to replace a complicated function $f$ by its linear approximation $L$.
 

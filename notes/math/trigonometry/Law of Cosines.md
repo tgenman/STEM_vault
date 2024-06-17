@@ -2,7 +2,7 @@
 aliases: Закон косинусов
 publish: true
 ---
-#анки
+#anki
 
 $$
 c^2 = a^2 + b^2 - 2ab \cos \gamma

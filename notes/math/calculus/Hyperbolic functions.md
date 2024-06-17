@@ -2,7 +2,7 @@
 aliases: Гиперболические функции
 publish: true
 ---
-#анки
+#anki
 
 - [[sinh (shx)|Hyperbolic sine]] 
 - [[cosh (chx)|Hyperbolic cosine]]

@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-#анки
+#anki
 
 
 Связано с непрерывностью в [[Domain Dom(f) or Preimage]]

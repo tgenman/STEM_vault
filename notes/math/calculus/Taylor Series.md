@@ -2,7 +2,7 @@
 aliases: Ряд Тейлора, Taylor polynomials
 publish: true
 ---
-#анки
+#anki
 
 
 ![[Pasted image 20230803165525.png]]

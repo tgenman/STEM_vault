@@ -2,7 +2,7 @@
 aliases: Hyperbolic cotangent, Гиперболический котангенс
 publish: true
 ---
-#анки
+#anki
 
 
 - Гиперболический котангенс **cthx** or **coth** 

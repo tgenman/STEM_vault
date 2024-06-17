@@ -4,7 +4,7 @@ publish: true
 tags:
   - theorem
 ---
-#анки
+#anki
 
 
 

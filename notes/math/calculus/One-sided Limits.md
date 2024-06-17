@@ -2,7 +2,7 @@
 aliases: Односторонний предел
 publish: true
 ---
-#анки
+#anki
 
 ## Right-side limit
 ![[Pasted image 20230804143811.png]]

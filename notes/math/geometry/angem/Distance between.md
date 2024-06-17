@@ -4,7 +4,7 @@ publish: true
 parent:
   - "[[512.64  Linear algebra MOC]]"
 ---
-#анки
+#anki
 
 ### Between two [[Point]]s
 $$

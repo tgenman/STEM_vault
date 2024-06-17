@@ -2,7 +2,7 @@
 aliases: Hyperbolic tangent, Гиперболический тангенс
 publish: true
 ---
-#анки
+#anki
 
 
 - Гиперболический тангенс **tanh** or **thx** 

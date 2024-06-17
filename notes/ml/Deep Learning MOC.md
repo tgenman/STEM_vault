@@ -11,7 +11,7 @@ connected:
 
 [[Deep Learning (notion)]]
 
-[[Нейронные сети]]
+[[Neural Networks]]
 
 
 

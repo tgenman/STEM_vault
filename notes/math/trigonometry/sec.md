@@ -2,7 +2,7 @@
 aliases: Secant, Секант
 publish: true
 ---
-#анки
+#anki
 
 $$
 \sec \alpha = \frac{1}{\cos \alpha}

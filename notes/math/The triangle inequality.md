@@ -2,7 +2,7 @@
 aliases: Неравенство треугольника
 publish: true
 ---
-#анки
+#anki
 
 
 

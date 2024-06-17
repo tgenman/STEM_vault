@@ -2,7 +2,7 @@
 aliases: Гладкая функция
 publish: true
 ---
-#анки
+#anki
 
 Criterias:
 1. [[Domain Dom(f) or Preimage|ОДЗ]] is all [[Real numbers R|Real Numbers]]

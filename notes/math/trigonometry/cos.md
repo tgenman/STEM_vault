@@ -2,7 +2,7 @@
 aliases: Сosine, Косинус
 publish: true
 ---
-#анки
+#anki
 
 ![[Pasted image 20230803151016.png]]
 

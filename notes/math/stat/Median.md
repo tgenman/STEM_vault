@@ -2,7 +2,7 @@
 aliases: Медиана
 publish: true
 ---
-#анки
+#anki
 
 The **median** is the value that splits a set in half when it is ordered from least to greatest.
 

@@ -5,7 +5,7 @@ publish: true
 links: [[Function (math)|Функция]]
 
 ---
-#анки
+#anki
 
 
 ![[Pasted image 20220727102326.png|300]]  

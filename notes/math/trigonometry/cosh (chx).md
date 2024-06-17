@@ -2,7 +2,7 @@
 aliases: Hyperbolic cosine, Гиперболический косинус
 publish: true
 ---
-#анки
+#anki
 
 
 
