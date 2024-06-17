@@ -1,6 +1,6 @@
 ---
 aliases: [Физика]
-tags: pkm🏷/moc
+tags: MOC
 publish: true
 ---
 links: [[🌍Interests MOC]], [[51 Math MOC]]

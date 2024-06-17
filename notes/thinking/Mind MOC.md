@@ -1,6 +1,6 @@
 ---
 aliases: [Разум, Интеллект]
-tags: pkm🏷/moc
+tags: MOC
 publish: true
 ---
 links:  [[000 🗄Index]]

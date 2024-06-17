@@ -2,7 +2,7 @@
 aliases:
   - Глубокое обучение МОС
 tags:
-  - pkm🏷/moc
+  - MOC
 publish: true
 parent: 
 connected:

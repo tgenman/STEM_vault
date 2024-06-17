@@ -3,7 +3,7 @@ aliases:
   - Mathematics
   - Математика
 tags:
-  - pkm🏷/moc
+  - MOC
 publish: true
 parent:
   - "[[🌍Interests MOC]]"

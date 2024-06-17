@@ -10,7 +10,7 @@ parent:
 connected:
   - "[[Distribution function]]"
 tags:
-  - pkm🏷/moc
+  - MOC
 ---
 
 $\Omega=\mathbb{R}$ -  [[Sample space]] [[Real numbers R]]

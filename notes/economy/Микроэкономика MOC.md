@@ -1,7 +1,7 @@
 ---
 publish: true
 tags:
-  - pkm🏷/moc
+  - MOC
 parent:
   - "[[330 Economy MOC]]"
 ---

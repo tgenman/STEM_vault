@@ -3,7 +3,7 @@ aliases:
   - Числа
   - Теория Чисел
 tags:
-  - pkm🏷/moc
+  - MOC
 publish: true
 parent:
   - "[[51 Math MOC]]"

@@ -2,7 +2,7 @@
 aliases:
   - Алгебра
 tags:
-  - pkm🏷/moc
+  - MOC
 publish: true
 parent:
   - "[[51 Math MOC]]"

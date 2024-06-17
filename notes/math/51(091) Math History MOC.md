@@ -6,7 +6,7 @@ parent:
   - "[[51 Math MOC]]"
   - "[[История MOC]]"
 tags:
-  - pkm🏷/moc
+  - MOC
 ---
 
 

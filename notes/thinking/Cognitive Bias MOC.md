@@ -10,7 +10,7 @@ parent:
 connected:
   - "[[162.5 Logical Fallacies]]"
 tags:
-  - pkm🏷/moc
+  - MOC
 ---
 
 ==Bias== - A systematic distortion of one’s actions or reasoning due to factors not relevant to the situation at hand (e.g. one might reject a new policy recommendation out of a “[[Status quo bias]],” in which one favors current ways of doing things regardless of cost or opportunity) .
