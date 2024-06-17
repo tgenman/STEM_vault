@@ -4,7 +4,7 @@ publish: true
 created: 2024-06-08 10:43
 connected:
   - "[[Machine Learning MOC]]"
-  - "[[Вастрик - Машинное обучение]]"
+  - "[[004.8 Machine Learning (notion)]]"
 ---
 
 [[Machine Learning exam Theoretical minimum]]

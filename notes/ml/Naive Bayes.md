@@ -1,7 +1,11 @@
 ---
-aliases: Наивный Байес, Наивный байесовский классификатор
+aliases:
+  - Наивный Байес
+  - Наивный байесовский классификатор
 publish: true
 created: 2023-05-03 11:20
+parent:
+  - "[[Classification ML]]"
 ---
 
 ![[Pasted image 20230503112221.png]]
@@ -16,6 +20,3 @@ created: 2023-05-03 11:20
 - [Bayesian_poisoning](https://en.wikipedia.org/wiki/Bayesian_poisoning)
 - http://datareview.info/article/6-prostyih-shagov-dlya-osvoeniya-naivnogo-bayesovskogo-algoritma-s-primerom-koda-na-python/
 
-
-**Connected with:**
-- subtype of [[Classification (machine learning)]]

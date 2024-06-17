@@ -17,7 +17,7 @@ $$
 R^2 = 1 - \frac{SSR}{SST}
 $$
 
-SSR - [[Mean squared error MSE|Sum of squared residuals SSR]]
+SSR - [[Mean squared error|Sum of squared residuals SSR]]
 SST - [[Total Sum of Squares (TSS or SST)]]
 
 

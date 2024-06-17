@@ -3,7 +3,6 @@ aliases: [Глубокое обучение]
 tags: pkm🏷/moc
 publish: true
 ---
-links: [[🌍Interests MOC]]
 
 ---
 

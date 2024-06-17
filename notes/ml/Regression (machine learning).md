@@ -17,7 +17,7 @@ publish: true
 - [[Linear and Polynomial Regression]]
 - Ridge-Lasso Regression
 
-Схожесть регрессии и [[Classification (machine learning)|классификации]] подтверждается еще и тем, что многие классификаторы, после небольшого тюнинга, превращаются в регрессоры.
+Схожесть регрессии и [[Classification ML|классификации]] подтверждается еще и тем, что многие классификаторы, после небольшого тюнинга, превращаются в регрессоры.
 
 
 [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/supervised-learning-740383a2feab)

@@ -1,8 +1,13 @@
 ---
-aliases: Классификация (машинное обучение)
+aliases:
+  - Классификация (машинное обучение)
 publish: true
 created: 2023-05-03 11:01
+parent:
+  - "[[Supervised Learning]]"
 ---
+
+
 
 «Разделяет объекты по заранее известному признаку. Носки по цветам, документы по языкам, музыку по жанрам»
 ![[Pasted image 20230503110504.png|300]]
@@ -22,15 +27,3 @@ created: 2023-05-03 11:01
 - [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
 - [[Support Vector Machine (SVM)]]
 
----
-
-
-
-
-
-
-
-
-
-**Connected with:**
-- as subtype of [[Supervised Learning]]

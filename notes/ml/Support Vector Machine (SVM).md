@@ -24,7 +24,7 @@ created: 2023-05-03 12:06
 
 
 **Connected with:**
-- subtype of [[Classification (machine learning)]]
+- subtype of [[Classification ML]]
 
 
 

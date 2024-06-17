@@ -11,6 +11,6 @@ publish: true
 
 
 **Connected with:**
-- [[Mean squared error MSE]]
+- [[Mean squared error]]
 - [[519.22 Statistic MOC]]
 

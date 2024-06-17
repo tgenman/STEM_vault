@@ -13,7 +13,7 @@ tags:
   - empty
 ---
 
-[[Bias]] and [[Standard error]] are strongly connected in a [[Mean squared error MSE|MSE]]:
+[[Bias]] and [[Standard error]] are strongly connected in a [[Mean squared error|MSE]]:
 $\text{MSE}(\hat{\theta}) = \text{bias}^2(\hat{\theta}) + \text{se}^2(\hat{\theta})$
 $\text{MSE}(\hat{\theta}) = \text{bias}^2(\hat{\theta}) + \text{Var}(\hat{\theta})$
 

@@ -9,7 +9,7 @@ created: 2023-05-03 11:02
 
 
 ## Subtypes:
-- [[Classification (machine learning)]] 
+- [[Classification ML]] 
 - [[Regression (machine learning)]]
 
 
