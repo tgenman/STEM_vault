@@ -5,7 +5,7 @@ publish: true
 tags:
   - MOC
 ---
-links: [[004 🧿IT MOC|ИТ]], [[510.5 🐜Algorithms MOC|Алгоритмы]]
+links: [[004 IT MOC|ИТ]], [[510.5 🐜Algorithms MOC|Алгоритмы]]
 
 ---
 

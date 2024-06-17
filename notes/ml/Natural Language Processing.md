@@ -3,6 +3,6 @@ aliases:
   - Обработка естественных языков
 publish: true
 ---
-links: [[Neural Networks]]
+links: [[Neural Networks (notion)]]
 
 ---

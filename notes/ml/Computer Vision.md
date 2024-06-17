@@ -5,6 +5,6 @@ publish: true
 parent:
   - "[[Deep Learning (notion)]]"
 connected:
-  - "[[Neural Networks]]"
+  - "[[Neural Networks (notion)]]"
 created: 2024-06-17 14:33
 ---

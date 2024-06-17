@@ -6,12 +6,12 @@ aliases:
 tags:
   - MOC
 publish: true
-parent:
-  - "[[🌍Interests MOC]]"
+parent: []
 ---
 [[Computer Science MOC]]
-[[004.41 Software Development MOC 1]]
-[[Deep Learning MOC]]
+[[004.41 Software Development MOC]]
+[[004. 8 AI MOC]]
+004.85 [[Machine Learning MOC]]
 [[510.5 🐜Algorithms MOC]]
 
 

@@ -2,6 +2,6 @@
 aliases: [Структуры данных]
 publish: true
 ---
-links: [[004 🧿IT MOC|ИТ]]
+links: [[004 IT MOC|ИТ]]
 
 ---

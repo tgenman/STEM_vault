@@ -3,7 +3,7 @@ tags: book📚/essays
 publish: true
 ---
 status: #status/BACKLOG_🌰
-links: [[GAI]], [[AI]]
+links: [[GAI]], [[004. 8 AI MOC]]
 title: Possible Minds: Twenty-Five Ways of Looking at AI
 title2: Искусственный интеллект – надежды и опасения
 author: [[👤Brockman, John|John Brockman]]

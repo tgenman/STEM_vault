@@ -48,5 +48,5 @@ $\sqcup$
 
 
 **Connected with:**
-- [[004 🧿IT MOC]]
+- [[004 IT MOC]]
 

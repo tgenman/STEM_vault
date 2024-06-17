@@ -6,7 +6,7 @@ tags:
   - status/BACKLOG_🌰
 publish: true
 ---
-links: [[51 Math MOC|Математика]], [[004.41 Software Development MOC 1]]
+links: [[51 Math MOC|Математика]], [[004.41 Software Development MOC]]
 recom: 
 title: From Mathematics to Generic Programming
 title2: От математики к обобщенному программированию

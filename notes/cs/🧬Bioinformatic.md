@@ -2,7 +2,7 @@
 aliases: [Биоинформатика]
 publish: true
 ---
-links: [[004 🧿IT MOC]], [[570 🌱Biology MOC]], [[Computer Science MOC]], [[600 🧬Biotechnology]]
+links: [[004 IT MOC]], [[570 🌱Biology MOC]], [[Computer Science MOC]], [[600 🧬Biotechnology]]
 
 ---
 

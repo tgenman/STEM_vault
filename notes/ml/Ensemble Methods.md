@@ -1,7 +1,10 @@
 ---
-aliases: Ансамблевые методы
+aliases:
+  - Ансамблевые методы
 publish: true
 created: 2023-05-03 21:44
+parent:
+  - "[[004.85 Machine Learning (notion)|ML]]"
 ---
 
 «Куча глупых деревьев учится исправлять ошибки друг друга»
@@ -32,7 +35,3 @@ created: 2023-05-03 21:44
 
 
 
-
-
-**Connected with:**
-- subtype of [[Machine Learning MOC]]

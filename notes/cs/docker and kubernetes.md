@@ -2,7 +2,7 @@
 publish: true
 parent:
   - "[[dev ops]]"
-  - "[[004 🧿IT MOC]]"
+  - "[[004 IT MOC]]"
 ---
 
 

@@ -22,6 +22,6 @@ created: 2023-05-03 23:10
 
 
 **Connected with:**
-- [[Neural Networks]]
+- [[Neural Networks (notion)]]
 - [[Deep Learning (notion)]]
 

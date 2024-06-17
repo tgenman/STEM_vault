@@ -2,7 +2,7 @@
 aliases: [СОЛИД принципы]
 publish: true
 ---
-links: [[004.41 Software Development MOC 1|Разработка ПО]], [[Object-oriented programming|ООП]]
+links: [[004.41 Software Development MOC|Разработка ПО]], [[Object-oriented programming|ООП]]
 
 ---
 
