@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Среднее арифметическое
   - Mean
   - Матожидание
   - Математическое ожидание
@@ -15,7 +14,7 @@ connected:
   - "[[Variance V(X)]]"
   - "[[Пари Паскаля]]"
   - "[[Conditional expectation]]"
-tags: []
+tags:
 ---
 
 > [!tip] The expected value
