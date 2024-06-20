@@ -1,6 +1,7 @@
 ---
 aliases:
   - Признаки
+  - Фичи
 publish: true
 anki: false
 created: 2024-06-18 20:05

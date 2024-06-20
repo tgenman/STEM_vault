@@ -8,3 +8,5 @@ parent:
   - "[[Gradient Descent]]"
 connected:
 ---
+
+![[Pasted image 20240619130559.png]]

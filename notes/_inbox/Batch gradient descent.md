@@ -9,3 +9,4 @@ parent:
 connected:
   - "[[Mini-batch gradient descent]]"
 ---
+![[Pasted image 20240619130559.png]]
