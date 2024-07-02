@@ -17,59 +17,111 @@ parent:
 
 ![[BED72584-D248-42EF-803E-16C6878D5607.jpeg]]
 
+ **краудсорсинга**, то есть привлечение людей, готовых разметить много данных.
+**citizen science** – разметку данных волонтёрами без какого-либо вознаграждения
+
+Подходы, связанные с использованием неразмеченных данных для решения задач обучения с учителем, объединяются термином **self-supervised learning** и очень активно используются сейчас. 
+Важной составляющей является **обучение представлений** (**representation learning**) — задача построения компактных векторов небольшой размерности из сложных по структуре данных, например, изображений, звука, текстов, графов, так, чтобы близкие по структуре или семантике данные получали метрически близкие представления
+
+- **Data drift**. С течением времени данные могут меняться. Например, может измениться схема сбора данных, и они начнут приходить в формате, который вообще не обрабатывается моделью. Или же может поменяться распределение данных: скажем, если вы делали образовательный сервис для студентов, а к вам стали приходить и более зрелые люди. Data drift – это суровая реальность для любой системы, которая решает не сиюминутную задачу, поэтому нужно уметь мониторить распределение данных и, если нужно, обновлять модель.
+- **concept drift** — изменение зависимости между признаками и таргетом. Например, если вы делаете музыкальные рекомендации, вам нужно будет учитывать и появление новых треков, и изменение вкусов аудитории.
+
+для решения большинства практических задач на сегодня достаточно знать только два типа моделей — **градиентный бустинг на решающих деревьях** и **нейросетевые модели**
+
+[[Hyperparameter]]
+Any quantity that you set before the training process .
+
+[[Parameter]]
+Any quantity that the model creates or modifies during the training process
+
+Cross-validation
+Underfitting, 
+overfitting, 
+training,  validation, testing
+regularization
+
+[[Labels]]
+[[Features]]
 
 
+- [[Loss function]]
+	- [[Mean absolute error]] MAE
+	- [[Mean squared error]] Root Mean S E [[Standard deviation]]
+	- [[Log loss]] - Логарифмические потери тесно связаны с концепцией [[Кросс-энтропия]]
 
-
-
-- [[Regression (machine learning)]]
-	- [[Linear regression]]
-	- [[Polynomial regression]]
-
-- Функции ошибок
-[[Mean absolute error]]
-[[Mean squared error]] Root Mean S E [[Standard deviation]]
 
 
 -  [[Gradient Descent]]
-Использование одной точки за раз называется [[стохастическим градиентным спуском]]. Применение мини-пакета называется [[мини-пакетным градиентным спуском]].
-Использование всего набора данных называется [[пакетным градиентным спуском]] batch gradient descent
+	- [[Stochastic gradient descent]]
+	- [[Mini-batch gradient descent]]
+	- [[Batch gradient descent]]
+
+
+- [[Activation function]] активация нейрона. Вносит нелинейность
+	- [[Ступенчатая функция]] 
+	- [[Sigmoid function]]
+
+
+- [[Метрика качества]]
+	- [[бизнес-метрики]]
+	- [[Online метрики]]
+	- [[Offline метрики]]
+
+	- [[Confusion matrix]]
+		- [[False positive]], [[False negative]]
+		- [[True positive]], [[True negative]]
+		- [[Accuracy]],  [[Error rate]]
+		- [[Precision]], [[Recall]], [[F1-measure]]
+		- [[Recall|True positive rate TPR]] , [[False positive rate FPR]], [[ROC curve]], 
+			- [[AUC ROC]]
+		- «Полнота — это чувствительность, но точность и избирательность — разные вещи».
+
+
+
+
+
+
+
+
+
+“receiver operating characteristic (ROC) curve.”
+
 
 ---
 
 
+1. $\mathcal{Y} = \mathbb{R}$ или $\mathcal{Y} = \mathbb{R}^M$ — регрессия. Примерами задач регрессии является предсказание продолжительности поездки на каршеринге, спрос на конкретный товар в конкретный день или погода в вашем городе на завтра (температура, влажность и давление — это несколько вещественных чисел, которые формируют вектор нашего предсказания).
 
-![[Pasted image 20230503093156.png]]
+2. $\mathcal{Y} = \{0, 1\}$ — бинарная классификация. Например, мы можем предсказывать, кликнет ли пользователь по рекламному объявлению, вернёт ли клиент кредит в установленный срок, сдаст ли студент сессию, случится ли определённое заболевание у пациента, есть ли на картинке банан.
+
+3. $\mathcal{Y} = \{1, \ldots, K\}$ — многоклассовая (multiclass) классификация. Например, определение предметной области для научной статьи (математика, биология, психология и т.д.).
+
+4. $\mathcal{Y} = \{0, 1\}^K$ — многоклассовая классификация с пересекающимися классами (multilabel classification). Например, задача автоматического проставления тегов для ресторанов (логично, что ресторан может одновременно иметь несколько тегов).
+
+5. $\mathcal{Y}$ — конечное упорядоченное множество — ранжирование. Основным примером является задача ранжирования поисковой выдачи, где для любого запроса нужно отсортировать все возможные документы по релевантности этому запросу; при этом оценка релевантности имеет смысл только в контексте сравнения двух документов между собой, её абсолютное значение не несёт.
 
 
 ### По типам алгоритмов
 - [[Supervised Learning]] 
 	-  [[Classification ML]]
+		- binary classification
+		- multiclass classification
+		- multilabel classification
 		- [[Naive Bayes]]
 		- [[Decision trees]]
 		- [Логистическая Регрессия](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F) Logistic regression 
 		- [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
 		- [[Support Vector Machine (SVM)]]
 	- [[Regression (machine learning)]] 
+		- [[Linear regression]]
+		- [[Polynomial regression]]
 		- [[Linear and Polynomial Regression]]
 		- Ridge-Lasso Regression
+	- Ранжирование
 - [[Unsupervised Learning]]
 	- [[Clustering (machine learning)]]
-		- [[K-means clustering]]
-		- [Mean-Shift](https://en.wikipedia.org/wiki/Mean_shift)
-		- [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN)
-		- Agglomerative
-		- Fuzzy C-Mean
 	- [[Поиск правил (ассоциация)]]
-		- Euclat
-		- Apriori
-		- FP-Grwoth
 	- [[Dimension reduction (generalization)]]
-		- t-SNE
-		- PSA
-		- LSA
-		- SVD
-		- LDA
 	- Генеративные алгоритмы
 		- GAN
 - [[Reinforcement Learning]]
@@ -85,7 +137,6 @@ parent:
 	- [[Multilayer percepton]] (MLP)
 
 
-### По решаемым задачам
 
 
 
