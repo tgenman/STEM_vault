@@ -4,8 +4,8 @@ publish: true
 anki: false
 created: 2024-04-11 13:36
 parent:
-  - "[[Statistical model F]]"
-connected: []
+  - "[[519.22 Statistic MOC]]"
+connected: 
 tags:
   - empty
 ---
