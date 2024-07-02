@@ -9,7 +9,7 @@ parent:
   - "[[Algebraic Structure]]"
 connected:
   - "[[Ring]]"
-  - "[[512.54 Group Theory MOC]]"
+  - "[[512.5 General Algebra MOC]]"
 tags:
   - empty
 ---

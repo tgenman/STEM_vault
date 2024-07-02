@@ -9,7 +9,7 @@ parent:
   - "[[Algebra of subsets of sample space]]"
 connected:
   - "[[Special sigma-algebras]]"
-  - "[[512.54 Group Theory MOC]]"
+  - "[[512.5 General Algebra MOC]]"
 tags:
   - empty
 ---

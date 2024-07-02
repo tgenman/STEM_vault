@@ -14,6 +14,8 @@ tags:
 ---
 
 
+$\forall x_1, x_2 \in X \; (x_1 \neq x_2 \implies f(x_1) \neq f(x_2))$
+
 A special type of relation $↔$ between $X$ and $Y$ called a ==one-to-one correspondence==. Since each element $x$ of $X$ appears precisely once in this relation, we can regard this one-to-one correspondence as a function with [[Domain Dom(f) or Preimage]] $X$. 
 
 The [[Range Ran(f) or Image Im(f)]]  is $Y$ because each $y$ in $Y$ also appears in some pairing $x ↔ y$.

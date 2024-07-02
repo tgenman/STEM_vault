@@ -5,13 +5,13 @@ publish: true
 anki: true
 created: 2023-10-21 17:41
 parent:
-  - "[[Relation]]"
+  - "[[Relation on set]]"
 connected:
   - "[[Equality Relation]]"
 ---
 
 > [!tip] An equivalence relation $\mathscr{R}$ on a set $S$ 
-is [[Relation]] that satisfies these properties for all $x,y,z ∈ S$.
+is [[Relation on set]] that satisfies these properties for all $x,y,z ∈ S$.
 1. ([[Reflexive]]) $x \mathscr{R} x$.
 2. ([[Symmetric]]) If $x \mathscr{R} y$, then $y \mathscr{R} x$.
 3. ([[Transitive]]) If $x \mathscr{R} y$ and $y \mathscr{R} z$ then $x \mathscr{R} z$.

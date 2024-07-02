@@ -8,7 +8,7 @@ parent:
   - "[[Algebraic Structure]]"
 connected:
   - "[[Monoid]]"
-  - "[[512.54 Group Theory MOC]]"
+  - "[[512.5 General Algebra MOC]]"
 tags:
   - empty
 ---

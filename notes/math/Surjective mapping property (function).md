@@ -13,7 +13,8 @@ connected:
 
 > [!tip] A function is surjective
  if its [[Range Ran(f) or Image Im(f)]]  is equal to its  [[Codomain of a function]]/target set.
- every number in the target set is a possible output of the function for some input. 
+ every number in the target set is a possible output of the function for some input.
+ $\forall y \in Y \; \exists x \in X \; (y = f(x))$
 
 ![[Pasted image 20240117211310.png|200]]
 ![[Pasted image 20240117210559.png|300]]
