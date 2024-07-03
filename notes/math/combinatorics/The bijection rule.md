@@ -3,7 +3,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
   - "[[Bijective mapping property (function)|Bijection]]"
 created: 2023-10-23 15:57
 connected: []

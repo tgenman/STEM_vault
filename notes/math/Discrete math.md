@@ -9,5 +9,5 @@ connected:
 ---
 - [[510.22 Sets theory MOC]]
 - [[519.17 Graph Theory MOC]]
-- [[519.101 Combinatorics]]
+- [[519.101 Combinatorics MOC]]
 - 

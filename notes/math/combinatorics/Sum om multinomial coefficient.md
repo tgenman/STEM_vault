@@ -6,7 +6,7 @@ created: 2023-11-12 14:08
 parent:
   - "[[Multinomial coefficient]]"
 connected:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
   - "[[Multinomial formula]]"
 ---
 

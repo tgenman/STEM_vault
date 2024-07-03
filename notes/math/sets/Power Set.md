@@ -3,7 +3,7 @@ aliases:
   - Булеан
 publish: true
 parent:
-  - "[[510.22 Sets theory MOC]]"
+  - "[[Set (math)]]"
 connected:
   - "[[Теорема о мощности конечного булеана]]"
 anki: false

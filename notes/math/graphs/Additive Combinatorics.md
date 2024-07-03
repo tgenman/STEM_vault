@@ -4,8 +4,8 @@ aliases:
 publish: true
 created: 2023-12-16 17:40
 parent:
-  - "[[519.101 Combinatorics]]"
-connected:
+  - "[[519.101 Combinatorics MOC]]"
+connected: 
 ---
 
 ### Bookmarks

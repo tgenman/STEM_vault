@@ -6,7 +6,7 @@ created: 2024-01-21 16:14
 parent:
   - "[[Partition of a set|Разбиение множества]]"
 connected:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
   - "[[Числа Белла]]"
 ---
 

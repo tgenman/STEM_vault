@@ -8,7 +8,7 @@ parent:
 created: 2023-10-23 15:52
 connected:
   - "[[Binomial theorem]]"
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 ---
 
 $$\binom{n}{k} = \frac{n!}{k!(n-k)!}$$

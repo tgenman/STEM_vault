@@ -4,7 +4,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 ---
 If $N$ items are put in $N-1$ containers then at least one container must contains more than one item
 

@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 tags:
   - empty
 ---

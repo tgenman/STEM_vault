@@ -9,7 +9,7 @@ created: 2023-11-11 13:13
 parent:
   - "[[Set (math)]]"
 connected:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 ---
 
 > [!tip] A multiset

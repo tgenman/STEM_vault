@@ -3,7 +3,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 created: 2023-10-23 15:52
 connected:
   - "[[The additional principle (combinatorics)]]"

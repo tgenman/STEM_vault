@@ -10,7 +10,7 @@ parent:
   - "[[Multinomial formula]]"
 connected:
   - "[[Binomial theorem]]"
-  - "[[519.101 Combinatorics]]"
+  - "[[519.101 Combinatorics MOC]]"
 tags:
   - theorem
 ---
