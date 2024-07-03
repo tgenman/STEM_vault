@@ -1,8 +1,17 @@
 ---
-aliases: Tangent, Тангенс
+aliases:
+  - Tangent
+  - Тангенс
 publish: true
+anki: false
+created: 2024-07-03 22:16
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 $$
 \tan \alpha = \frac{\sin \alpha}{\cos \alpha}

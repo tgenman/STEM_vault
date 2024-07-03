@@ -1,8 +1,16 @@
 ---
-aliases: След Матрицы
+aliases:
+  - След Матрицы
 publish: true
+anki: false
+created: 2024-07-03 22:17
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 $$
 tr A = a_{11} + ... a_{nn} = \lambda_1 + \lambda_n

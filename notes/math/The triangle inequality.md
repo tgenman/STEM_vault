@@ -1,23 +1,14 @@
 ---
-aliases: Неравенство треугольника
+aliases:
+  - Неравенство треугольника
 publish: true
+anki: false
+created: 2024-07-03 22:17
+parent:
+  - "[[514 Geometry MOC]]"
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Connected with:**
-- [[514 Geometry MOC|Геометрия]]
 

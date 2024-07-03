@@ -1,8 +1,15 @@
 ---
-aliases: Гладкая функция
+aliases:
+  - Гладкая функция
 publish: true
+anki: false
+created: 2024-07-03 22:16
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
 
 Criterias:
 1. [[Domain Dom(f) or Preimage|ОДЗ]] is all [[Real numbers R|Real Numbers]]

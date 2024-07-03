@@ -1,8 +1,14 @@
 ---
 tags:
   - theorem
-  - anki
+  - empty
 publish: true
+aliases: 
+anki: false
+created: 2024-07-03 22:17
+parent: 
+connected:
+  - "#обс/linking"
 ---
 
 ![[Pasted image 20230715115617.png]]

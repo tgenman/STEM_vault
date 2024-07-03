@@ -1,8 +1,17 @@
 ---
-aliases: Ряд Тейлора, Taylor polynomials
+aliases:
+  - Ряд Тейлора
+  - Taylor polynomials
 publish: true
+anki: false
+created: 2024-07-03 22:18
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 
 ![[Pasted image 20230803165525.png]]

@@ -1,8 +1,16 @@
 ---
-aliases: Hyperbolic secant, Гиперболический секант
+aliases:
+  - Hyperbolic secant
+  - Гиперболический секант
 publish: true
+anki: false
+created: 2024-07-03 22:15
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
 
 
 - Гиперболический секан

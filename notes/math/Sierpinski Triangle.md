@@ -1,8 +1,16 @@
 ---
-aliases: Треугольник Серпински
+aliases:
+  - Треугольник Серпински
 publish: true
+anki: false
+created: 2024-07-03 22:15
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 **Sierpinski Triangle**
 ![[Pasted image 20220727164220.png|300]]

@@ -1,12 +1,18 @@
 ---
-aliases: Sine, Синус
+aliases:
+  - Sine
+  - Синус
 publish: true
-created: 2023-07-31 19:39
+created: 2024-07-03 22:15
+anki: false
+parent:
+  - "[[Trigonometry]]"
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-links: [[514.116 Trigonometry MOC]]
 
----
-#anki
 
 
 ![[Pasted image 20220722214358.png]]
@@ -24,7 +30,6 @@ links: [[514.116 Trigonometry MOC]]
 
 
 **Connected with:**
-- [[514.116 Trigonometry MOC|Тригонометрия]]
 - [[cos|Косинус]]
 
 

@@ -2,12 +2,14 @@
 aliases:
   - Вычисление определителя матрицы
 publish: true
-created: 2023-10-30 20:33
+created: 2024-07-03 22:15
 parent:
   - "[[Determinant of matrix|Определитель матрицы]]"
-connected: 
+connected:
+  - "#обс/linking"
 tags:
-  - anki
+  - empty
+anki: false
 ---
 ## 1х1
 $$|(a_{11})| = a_{11}$$

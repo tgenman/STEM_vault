@@ -3,9 +3,13 @@ aliases:
   - Линейная оболочка
   - Линейный диапазон
 publish: true
-created: 2023-08-12 21:20
+created: 2024-07-03 22:16
 tags:
-  - anki
+  - empty
+anki: false
+parent: 
+connected:
+  - "#обс/linking"
 ---
 
 Линейная оболочка - наименьшее [[Vector Subspace V'|векторное подпространство]] , содержащее набор векторов
