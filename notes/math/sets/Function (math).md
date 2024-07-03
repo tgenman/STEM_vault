@@ -52,7 +52,7 @@ START
 Math_ONE_side
 TITLE: A function $φ$
 Функция
-DESCRIPTION: mapping $X$ into $Y$ is a [[Relation on set]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
+DESCRIPTION: mapping $X$ into $Y$ is a [[Relation on elements of sets]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 это отображение одного множества   в другое, где каждому элементу первого множества соответствует только один элемент второго.
 FORMULA: Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. 
 We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 

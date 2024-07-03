@@ -22,8 +22,6 @@ connected:
 When a function is given an input outside its domain, the result is “undefined.”
 
 
-![[Pasted image 20230915112526.png|300]]
-
 ![[Pasted image 20240117200108.png|300]]
 
 

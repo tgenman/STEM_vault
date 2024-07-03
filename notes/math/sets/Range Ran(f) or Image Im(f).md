@@ -18,9 +18,6 @@ In other words, it's the result of applying the function to every input in the [
 
 ![[Pasted image 20240117200108.png|300]]
 
-![[Pasted image 20230915112526.png|300]]
-
-
 
 
 

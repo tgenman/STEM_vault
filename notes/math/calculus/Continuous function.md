@@ -26,8 +26,6 @@ Small changes to �a yield small changes in �f’s output.
 ![[Pasted image 20230714212448.png]]
 
 [[Extreme Value Theorem (EVT)]]
-![[Pasted image 20230714212956.png]]
-
 [[Intermediate Value Theorem (IVT)]]
 
 
