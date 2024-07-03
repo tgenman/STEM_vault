@@ -1,15 +1,17 @@
 ---
 publish: true
 aliases: 
-created: 2023-10-30 20:16
+created: 2024-07-03 22:14
 parent:
   - "[[Matrix Operations]]"
   - "[[Vectors opeartions|Операции над векторами]]"
 connected:
   - "[[Vector|Вектор]]"
   - "[[Matrix|Матрица]]"
+  - "#обс/linking"
 tags:
-  - anki
+  - empty
+anki: false
 ---
 Умножение вектора на матрицу даёт новый вектор. Он состоит из скалярных произведений этого вектора со столбцами матрицы.
 $$k_{1\times m}\cdot M_{m\times\color{red}{n}}=(k\cdot M)_{\color{red}{1\times n}}.$$

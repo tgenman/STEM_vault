@@ -1,8 +1,17 @@
 ---
-aliases: Определитель матрицы, Детерминант матрицы
+aliases:
+  - Определитель матрицы
+  - Детерминант матрицы
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 $$ det A, |A|$$
 Можно считать только для квадратных [[Matrix|матриц]]
 

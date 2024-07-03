@@ -1,7 +1,14 @@
 ---
 publish: true
+aliases: 
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
 
 
 Связано с непрерывностью в [[Domain Dom(f) or Preimage]]

@@ -1,8 +1,16 @@
 ---
-aliases: Мнимые числа
+aliases:
+  - Мнимые числа
 publish: true
+anki: false
+created: 2024-07-03 22:12
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 ### Imaginary Powers
 $i^1 = i$

@@ -1,8 +1,16 @@
 ---
-aliases: Множество Мандельброта
+aliases:
+  - Множество Мандельброта
 publish: true
+anki: false
+created: 2024-07-03 22:13
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 ![[Pasted image 20230808180138.png]]
 ![[Pasted image 20230808175217.png|400]]
 ![[Pasted image 20230808175359.png]]

@@ -1,8 +1,16 @@
 ---
-aliases: Медиана
+aliases:
+  - Медиана
 publish: true
+anki: false
+created: 2024-07-03 22:13
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 The **median** is the value that splits a set in half when it is ordered from least to greatest.
 

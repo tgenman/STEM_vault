@@ -1,9 +1,17 @@
 ---
-aliases: Полярная система координат
+aliases:
+  - Полярная система координат
 publish: true
+anki: false
+created: 2024-07-03 22:15
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
 
-#anki
+
 
 Adding any **even** multiple of $π$ to $a$ gives us the **same** result.
 
@@ -32,7 +40,7 @@ $$
 
 
 **Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 - [[Cartesian coordinates]]
 - [[Complex numbers C]]
 - [[Spherical coordinates]]

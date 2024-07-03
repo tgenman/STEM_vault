@@ -25,5 +25,5 @@ publish: true
 
 **Connected with:**
 - [[Hyperbolic functions|Гиперболические функции]]
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 

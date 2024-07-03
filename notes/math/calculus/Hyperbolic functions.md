@@ -1,8 +1,15 @@
 ---
-aliases: Гиперболические функции
+aliases:
+  - Гиперболические функции
 publish: true
+anki: false
+created: 2024-07-03 22:12
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
 
 - [[sinh (shx)|Hyperbolic sine]] 
 - [[cosh (chx)|Hyperbolic cosine]]

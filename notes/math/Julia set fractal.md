@@ -1,9 +1,15 @@
 ---
 aliases: 
 publish: true
-created: 2023-08-07 14:52
+created: 2024-07-03 22:13
+anki: false
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 ![[Pasted image 20230807145241.png|400]]
 ![[Pasted image 20230808180411.png]]
 

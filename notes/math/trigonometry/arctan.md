@@ -4,7 +4,12 @@ aliases:
   - Арктангенс
 publish: true
 tags:
-  - anki
+  - empty
+anki: false
+created: 2024-07-03 22:10
+parent: 
+connected:
+  - "#обс/linking"
 ---
 
 
@@ -22,6 +27,6 @@ tags:
 
 
 **Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 - [[tan|Тангенс]]
 

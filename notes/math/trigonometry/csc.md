@@ -1,8 +1,17 @@
 ---
-aliases: Cosecant, Косекант
+aliases:
+  - Cosecant
+  - Косекант
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 $$
 \csc \alpha = \frac{1}{\sin \alpha}
@@ -22,7 +31,7 @@ $$
 
 
 **Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 - [[sin|Синус]]
 - [[sec|Секант]]
 

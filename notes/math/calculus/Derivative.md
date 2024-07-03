@@ -3,7 +3,12 @@ aliases:
   - Производная
 publish: true
 tags:
-  - anki
+  - empty
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
 ---
 
 

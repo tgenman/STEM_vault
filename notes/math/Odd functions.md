@@ -2,10 +2,14 @@
 aliases:
   - Symmetric with respect to the origin
   - Нечетная функция
-created: 2023-07-02 14:55
+created: 2024-07-03 22:14
 publish: true
 tags:
-  - anki
+  - empty
+anki: false
+parent: 
+connected:
+  - "#обс/linking"
 ---
 
 [[Function (math)|Функция]] называется ==нечетной==, если ее [[Domain Dom(f) or Preimage|область определения]]  симметрична относительно нуля, и для любого аргумента $x$ из области определения

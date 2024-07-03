@@ -3,8 +3,13 @@ aliases:
 publish: true
 parent:
   - "[[512.64  Linear algebra MOC]]"
+anki: false
+created: 2024-07-03 22:11
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
 
 ### Between two [[Point]]s
 $$

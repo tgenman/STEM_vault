@@ -2,14 +2,17 @@
 aliases:
   - Линейное преобразование
 publish: true
-created: 2023-10-30 20:25
+created: 2024-07-03 22:15
 parent:
   - "[[512.64  Linear algebra MOC]]"
 connected:
   - "[[Матрица линейного преобразования]]"
+  - "#обс/linking"
 tags:
-  - anki
+  - empty
+anki: false
 ---
+
 #### Определение
 > [!Линейное преобразование]
 > [[Bijective mapping property (function)|Отображение]] $A: V \rightarrow V$ является **линейным преобразованием** [[Vector space V|векторного пространства]], если для любых векторов $\vec{x}{,}\ \vec{y}$  этого пространства и числа $n$ верно:

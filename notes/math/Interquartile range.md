@@ -1,8 +1,16 @@
 ---
-aliases: IQR
+aliases:
+  - IQR
 publish: true
+anki: false
+created: 2024-07-03 22:13
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 The IQR is the difference between the first quartile and the third quartile.
 

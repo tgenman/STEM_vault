@@ -1,8 +1,16 @@
 ---
-aliases: Модуль комплексного числа
+aliases:
+  - Модуль комплексного числа
 publish: true
+anki: false
+created: 2024-07-03 22:14
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 
 The **magnitude** of a [[Complex numbers C|complex number]]  $z$, denoted $∣z∣$, is the distance from the origin to the point in the  [[Complex plane|complex plane]]  representing the complex number. 

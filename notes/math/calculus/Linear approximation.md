@@ -1,8 +1,15 @@
 ---
-aliases:
+aliases: 
 publish: true
+anki: false
+created: 2024-07-03 22:13
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 It is sometimes very useful to replace a complicated function $f$ by its linear approximation $L$.
 

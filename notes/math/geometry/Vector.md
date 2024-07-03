@@ -2,11 +2,14 @@
 aliases:
   - Вектор
 publish: true
-created: 2023-08-10 15:26
+created: 2024-07-03 22:10
 parent:
   - "[[512.64  Linear algebra MOC]]"
 tags:
-  - anki
+  - empty
+anki: false
+connected:
+  - "#обс/linking"
 ---
 
 Vector - are [[Linear combination]] of the elements of a [[Basis VS]]

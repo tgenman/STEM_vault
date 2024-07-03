@@ -8,8 +8,13 @@ parent:
 connected:
   - "[[Point]]"
   - "[[Line]]"
+  - "#обс/linking"
+anki: false
+created: 2024-07-03 22:14
+tags:
+  - empty
 ---
-#anki
+
 
 A _plane_ is a flat sheet that is infinite in all directions.
 

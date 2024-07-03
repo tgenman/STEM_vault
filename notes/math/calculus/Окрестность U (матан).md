@@ -1,14 +1,15 @@
 ---
 aliases: 
 publish: true
-created: 2023-10-30 20:04
+anki: false
 parent:
   - "[[Числовая последовательность (множество)]]"
 connected:
   - "[[Окрестность U (матан)]]"
+  - "#обс/linking"
 tags:
-  - anki
   - empty
+created: 2024-07-03 22:07
 ---
 
 

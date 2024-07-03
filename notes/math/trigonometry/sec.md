@@ -21,7 +21,7 @@ $$
 
 
 **Connected with:**
-- [[514.116 Trigonometry]]
+- [[514.116 Trigonometry MOC]]
 - [[cos]]
 - [[csc|Косекант]]
 

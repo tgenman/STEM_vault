@@ -1,8 +1,17 @@
 ---
-aliases: Cotangent, Котангенс
+aliases:
+  - Cotangent
+  - Котангенс
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 $$
 \cot \alpha = \frac{\cos \alpha}{\sin \alpha}
@@ -21,7 +30,7 @@ $$
 
 
 **Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 - Обратен [[tan|Тангенс]]
 - [[sin|Синус]]
 - [[cos|Косинус]]

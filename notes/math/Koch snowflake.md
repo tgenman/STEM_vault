@@ -2,14 +2,17 @@
 aliases:
   - Снежинка Коха
 publish: true
-created: 2023-07-07 10:02
+created: 2024-07-03 22:13
 parent:
   - "[[Fractal]]"
 connected:
   - "[[Complex numbers C]]"
+  - "#обс/linking"
 tags:
-  - anki
+  - empty
+anki: false
 ---
+
 ![[Pasted image 20220727211124.png|300]]
 Площадь стремится к $\frac{8}{5}$ площадям
 Периметр к бесконечности

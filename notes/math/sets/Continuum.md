@@ -2,7 +2,7 @@
 aliases:
   - Континум
 publish: true
-created: 2023-10-17 21:57
+created: 2024-07-03 22:14
 parent:
   - "[[Infinity (math)]]"
   - "[[511 Numbers Theory MOC]]"
@@ -11,7 +11,8 @@ connected:
   - "[[Real numbers R]]"
   - "[[Aleph number]]"
 tags:
-  - anki
+  - empty
+anki: false
 ---
 Континуум - [[Cardinality|мощность]] [[Power Set|булеана]] [[Countable infinity set|счетного множества]] 
 

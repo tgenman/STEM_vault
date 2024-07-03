@@ -1,8 +1,17 @@
 ---
-aliases: Hyperbolic cosecant, Гиперболический косекант
+aliases:
+  - Hyperbolic cosecant
+  - Гиперболический косекант
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 
 

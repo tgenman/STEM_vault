@@ -2,14 +2,16 @@
 aliases:
   - Неравенство Коши-Буняковского-Шварца
 publish: true
-created: 2023-10-29 11:08
+created: 2024-07-03 22:10
 parent:
   - "[[512.1 Elementary Algebra MOC]]"
 connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
   - "[[Inner product of vectors|Скалярное произведение векторов]]"
+  - "#обс/linking"
 tags:
-  - anki
+  - empty
+anki: false
 ---
 
 

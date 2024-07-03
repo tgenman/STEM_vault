@@ -21,7 +21,7 @@ connected:
 	- [[512.5 General Algebra MOC]]
 	- [[512.64  Linear algebra MOC]]
 - [[514 Geometry MOC]]
-	- [[514.116 Trigonometry]]
+	- [[514.116 Trigonometry MOC]]
 	- 514.12 Аналитическая геометрия
 - [[515.1 Topology]]
 - [[517 Сalculus MOC]] 

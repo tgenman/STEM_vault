@@ -7,7 +7,7 @@ created: 2023-07-07 10:02
 parent:
   - "[[sin]]"
 connected:
-  - "[[514.116 Trigonometry]]"
+  - "[[514.116 Trigonometry MOC]]"
 ---
 $$
 \frac{{\sin \alpha}}{{a}} = \frac{{\sin \beta}}{{b}} = \frac{{\sin \gamma}}{{c}}

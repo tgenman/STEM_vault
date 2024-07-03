@@ -1,8 +1,17 @@
 ---
-aliases: Hyperbolic cotangent, Гиперболический котангенс
+aliases:
+  - Hyperbolic cotangent
+  - Гиперболический котангенс
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 
 - Гиперболический котангенс **cthx** or **coth** 

@@ -1,8 +1,16 @@
 ---
-aliases: Закон косинусов
+aliases:
+  - Закон косинусов
 publish: true
+anki: false
+created: 2024-07-03 22:13
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 $$
 c^2 = a^2 + b^2 - 2ab \cos \gamma
@@ -16,5 +24,5 @@ $$
 
 **Connected with:**
 - [[cos]]
-- [[514.116 Trigonometry]]
+- [[514.116 Trigonometry MOC]]
 

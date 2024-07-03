@@ -3,19 +3,16 @@ aliases:
   - Arccosine
   - Арккосинус
 publish: true
+anki: false
 tags:
-  - anki
+  - empty
+created: 2024-07-03 22:04
+parent:
+  - "[[Trigonometry]]"
+connected:
+  - "[[cos]]"
 ---
 
 ![[Pasted image 20230801190616.png|400]]
 
-
-
-
-
-
-
-**Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
-- [[cos|Косинус]]
 

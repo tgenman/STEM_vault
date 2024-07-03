@@ -1,8 +1,16 @@
 ---
-aliases: Выбросы
+aliases:
+  - Выбросы
 publish: true
+anki: false
+created: 2024-07-03 22:14
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 Specifically, an ==outlier== is any data point that is:
 - smaller than (First [[Quartile]]) − (1.5×[[Interquartile range|IQR]])

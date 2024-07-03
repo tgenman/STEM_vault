@@ -1,8 +1,16 @@
 ---
-aliases: Односторонний предел
+aliases:
+  - Односторонний предел
 publish: true
+anki: false
+created: 2024-07-03 22:14
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 ## Right-side limit
 ![[Pasted image 20230804143811.png]]

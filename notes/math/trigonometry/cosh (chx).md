@@ -1,8 +1,17 @@
 ---
-aliases: Hyperbolic cosine, Гиперболический косинус
+aliases:
+  - Hyperbolic cosine
+  - Гиперболический косинус
 publish: true
+anki: false
+created: 2024-07-03 22:11
+parent: 
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
-#anki
+
 
 
 

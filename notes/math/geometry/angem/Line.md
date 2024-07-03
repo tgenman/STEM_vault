@@ -8,8 +8,13 @@ parent:
 connected:
   - "[[Plane]]"
   - "[[Point]]"
+  - "#обс/linking"
+anki: false
+created: 2024-07-03 22:13
+tags:
+  - empty
 ---
-#anki
+
 
 _line_ is a ray that is _straight_ and _infinite_ in both directions.
 

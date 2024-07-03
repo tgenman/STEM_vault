@@ -8,8 +8,13 @@ parent:
 connected:
   - "[[Line]]"
   - "[[Plane]]"
+  - "#обс/linking"
+anki: false
+created: 2024-07-03 22:14
+tags:
+  - empty
 ---
-#anki
+
 
 Let $n$ be a [[Natural numbers N|positive whole number]] . We define
 

@@ -3,8 +3,14 @@ aliases:
   - Arcsine
   - Арксинус
 publish: true
+anki: false
+parent:
+  - "[[Trigonometry]]"
+connected:
+  - "[[sin]]"
 tags:
-  - anki
+  - empty
+created: 2024-07-03 22:05
 ---
 
 ![[Pasted image 20230801190410.png]]
@@ -16,5 +22,5 @@ tags:
 
 **Connected with:**
 - [[sin|Синус]]
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 

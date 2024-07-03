@@ -3,7 +3,7 @@ aliases: Sine, Синус
 publish: true
 created: 2023-07-31 19:39
 ---
-links: [[514.116 Trigonometry]]
+links: [[514.116 Trigonometry MOC]]
 
 ---
 #anki
@@ -24,7 +24,7 @@ links: [[514.116 Trigonometry]]
 
 
 **Connected with:**
-- [[514.116 Trigonometry|Тригонометрия]]
+- [[514.116 Trigonometry MOC|Тригонометрия]]
 - [[cos|Косинус]]
 
 

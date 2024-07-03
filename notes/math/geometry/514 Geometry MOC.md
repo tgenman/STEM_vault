@@ -3,7 +3,7 @@ aliases: Геометрия
 publish: true
 ---
 
-[[514.116 Trigonometry]]
+[[514.116 Trigonometry MOC]]
 
 
 
