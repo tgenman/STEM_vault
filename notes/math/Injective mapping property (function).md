@@ -7,7 +7,6 @@ anki: false
 created: 2023-10-17 21:13
 parent:
   - "[[Function (math)]]"
-  - "[[Однозначное отображение]]"
 connected:
   - "[[Bijective mapping property (function)]]"
 tags:

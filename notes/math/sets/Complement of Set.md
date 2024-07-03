@@ -4,7 +4,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[Операции над множествами]]"
+  - "[[Operations on sets]]"
 connected:
   - "[[Complement of a Graph]]"
 ---

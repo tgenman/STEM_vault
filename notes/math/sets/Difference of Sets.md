@@ -3,7 +3,7 @@ aliases:
   - Разность множеств
 publish: true
 parent:
-  - "[[Операции над множествами]]"
+  - "[[Operations on sets]]"
 connected:
   - "[[Symmetric difference sets (A △ B)]]"
 anki: false

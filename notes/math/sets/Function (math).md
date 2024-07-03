@@ -1,13 +1,13 @@
 ---
 aliases:
   - Функция
-  - Mapping
-  - Отображения
+  - Single-valued mapping
+  - Отображение
 publish: true
 anki: true
 created: 2023-09-15 11:18
 parent:
-  - "[[Relation on set]]"
+  - "[[Mapping (math)]]"
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
   - "[[512.1 Elementary Algebra MOC]]"
@@ -15,13 +15,14 @@ connected:
   - "[[Function composition]]"
 ---
 
+
 > [!tip] Функция
-это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго.
+это [[Mapping (math)|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго.
 
 > [!tip] A function $φ$
- mapping $X$ into $Y$ is a [[Relation on set]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
+ mapping $X$ into $Y$ is a [[Mapping (math)]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 
-Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. 
+Such a function is also ca[](Relation%20on%20elements%20of%20sets.md)=mapping== of $X$ into $Y$. 
 We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
 $$f:X⟶Y$$
 - The [[Domain Dom(f) or Preimage|domain]] of $φ$ is the set $X$ and 
@@ -52,7 +53,7 @@ Math_ONE_side
 TITLE: A function $φ$
 Функция
 DESCRIPTION: mapping $X$ into $Y$ is a [[Relation on set]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
-это [[Однозначное отображение|отображение]]  одного [[Set (math)|множества]]  в другое, где каждому элементу первого множества соответствует только один элемент второго.
+это отображение одного множества   в другое, где каждому элементу первого множества соответствует только один элемент второго.
 FORMULA: Such a function is also called a ==map== or ==mapping== of $X$ into $Y$. 
 We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
 $$f:X⟶Y$$

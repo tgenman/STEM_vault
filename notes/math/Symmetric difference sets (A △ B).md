@@ -4,7 +4,7 @@ aliases:
 publish: true
 anki: false
 parent:
-  - "[[Операции над множествами]]"
+  - "[[Operations on sets]]"
 connected:
   - "[[Difference of Sets]]"
 ---

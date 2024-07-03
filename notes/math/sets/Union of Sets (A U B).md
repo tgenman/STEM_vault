@@ -4,7 +4,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[Операции над множествами]]"
+  - "[[Operations on sets]]"
 connected:
   - "[[Свойства пересечения и объединения множеств]]"
   - "[[Диаграмма Венна - Эйлера]]"

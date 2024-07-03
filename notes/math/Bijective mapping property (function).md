@@ -6,7 +6,6 @@ aliases:
 publish: true
 anki: false
 parent:
-  - "[[Однозначное отображение]]"
   - "[[Function (math)]]"
 connected:
   - "[[Injective mapping property (function)]]"

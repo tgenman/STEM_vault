@@ -4,7 +4,7 @@ aliases:
 publish: true
 anki: true
 parent:
-  - "[[Операции над множествами]]"
+  - "[[Operations on sets]]"
 created: 2023-10-17 18:18
 connected:
   - "[[Tuple]]"

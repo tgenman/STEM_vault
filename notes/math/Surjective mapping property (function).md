@@ -5,7 +5,6 @@ aliases:
 publish: true
 anki: false
 parent:
-  - "[[Однозначное отображение]]"
   - "[[Function (math)]]"
 connected:
   - "[[Bijective mapping property (function)]]"
