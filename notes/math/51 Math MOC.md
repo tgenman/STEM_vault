@@ -5,8 +5,7 @@ aliases:
 tags:
   - MOC
 publish: true
-parent:
-  - "[[🌍Interests MOC]]"
+domain: "[[Math]]"
 connected:
   - "[[530 Physic MOC]]"
 ---

@@ -3,11 +3,12 @@ aliases:
   - Множество (математика)
 publish: true
 parent:
-  - "[[510.22 Sets theory MOC]]"
-created: 2023-10-17 17:37
+  - "[[Sets theory]]"
+created: 2024-07-03 21:59
 connected:
   - "[[Subset]]"
   - "[[Multiset]]"
+anki: false
 ---
 - A set $S$ is made up of elements, and if $a$ is one of these elements, we shall denote this fact by $a ∈ S$.
 - There is exactly one set with no elements. It is the [[Empty Set|empty set]]  and is denoted by $∅$

@@ -5,7 +5,7 @@ publish: true
 anki: false
 created: 2023-10-20 21:01
 parent:
-  - "[[510.22 Sets theory MOC]]"
+  - "[[Sets theory]]"
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"

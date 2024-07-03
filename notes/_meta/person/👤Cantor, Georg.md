@@ -3,7 +3,7 @@ aliases: [Georg Cantor, Георг Кантор]
 tags: person👤
 publish: true
 ---
-links: [[510.22 Sets theory MOC|Теория множеств]]
+links: [[Sets theory]]
 profession: [[Математик]]
 rec:
 city: 

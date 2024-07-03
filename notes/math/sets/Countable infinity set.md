@@ -9,8 +9,7 @@ parent:
 connected:
   - "[[Continuum infinity set]]"
   - "[[Natural numbers N|Натуральные числа]]"
-tags:
-  - anki
+anki: false
 ---
 **Счётным** называется [[Infinity set]], которое [[Равномощность множеств|равномощно]]  $N$, то есть элементы которого можно пронумеровать.
 

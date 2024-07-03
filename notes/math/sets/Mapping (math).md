@@ -5,7 +5,7 @@ publish: true
 anki: false
 created: 2024-07-03 15:06
 parent:
-  - "[[510.22 Sets theory MOC]]"
+  - "[[Sets theory]]"
 connected:
   - "#обс/linking"
 tags:

@@ -7,7 +7,7 @@ parent:
   - "[[51 Math MOC]]"
 connected:
 ---
-- [[510.22 Sets theory MOC]]
+- [[Sets theory]]
 - [[519.17 Graph Theory MOC]]
 - [[519.101 Combinatorics MOC]]
 - 

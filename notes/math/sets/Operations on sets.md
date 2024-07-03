@@ -4,8 +4,7 @@ aliases:
 publish: true
 parent:
   - "[[Set (math)]]"
-connected:
-  - "[[510.22 Sets theory MOC]]"
+connected: []
 created: 2024-07-03 10:46
 ---
 

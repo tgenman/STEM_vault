@@ -1,9 +1,13 @@
 ---
-aliases: [Огюстес де Морган]
-tags: person👤
+aliases:
+  - Огюстес де Морган
+tags:
+  - person👤
 publish: true
+connected:
+  - "[[Sets theory]]"
 ---
-links: [[510.22 Sets theory MOC|Теория множеств]], [[16 Logic]]
+links: [[Sets theory]], [[16 Logic]]
 profession: [[Математик]]
 rec:
 city: 
