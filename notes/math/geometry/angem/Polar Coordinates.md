@@ -13,9 +13,9 @@ tags:
 
 
 
-Adding any **even** multiple of $π$ to $a$ gives us the **same** result.
+Adding any **even** multiple of $π$ to $a$ gives us the **same** result.
 
-Adding any **odd** multiple of $π$ to $a$ and **reversing** the sign of $r$ gives us the same result.
+Adding any **odd** multiple of $π$ to $a$ and **reversing** the sign of $r$ gives us the same result.
 
 $$
 y = r \sin \theta

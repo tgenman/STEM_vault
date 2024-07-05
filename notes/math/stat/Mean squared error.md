@@ -39,7 +39,7 @@ where we have used the fact that $\mathbb{E}_\theta(\hat{\theta}_n - \bar{\theta
 
 ---
 
-Because the regression line minimizes squared errors, regression is also called **least squares**.
+Because the regression line minimizes squared errors, regression is also called **least squares**.
 
 ![[Pasted image 20230829204709.png]]
 

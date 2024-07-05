@@ -7,8 +7,8 @@ publish: true
 ### Definition. Алгебраическая форма записи
 $$z = a + bi$$
 where:
-- $a$ and $b$ are [[Real numbers R|real numbers]]
-- $i$ is the [[Imaginary numbers|imaginary]] unit.
+- $a$ and $b$ are [[Real numbers R|real numbers]]
+- $i$ is the [[Imaginary numbers|imaginary]] unit.
 ![[Pasted image 20230807142012.png|300]]
 
 
@@ -26,7 +26,7 @@ $$
 
 
 [[Сomplex conjugate]]
-[[Magnitude of a complex number]]
+[[Magnitude of a complex number]]
 [[Argument of a complex number]]
 [[Complex plane]]
 ![[Pasted image 20230807190141.png]]
@@ -42,12 +42,12 @@ $$
 ![[Pasted image 20230807161856.png]]
 ![[Pasted image 20230807162242.png]]
 
-When we multiply two complex numbers $z$ and $w$, we add their arguments to find the direction of the vector representing $zw$.
+When we multiply two complex numbers $z$ and $w$, we add their arguments to find the direction of the vector representing $zw$.
 
 ![[Pasted image 20230807162937.png]]
 
 ### Complex Exponents
-So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ and an [[Argument of a complex number|argument]] of $θ$, then $z^n$ must have a magnitude of $∣z∣^n$ and an argument of $nθ$:
+So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ and an [[Argument of a complex number|argument]] of $θ$, then $z^n$ must have a magnitude of $∣z∣^n$ and an argument of $nθ$:
 
 
 ![[Pasted image 20230506164443.png]]

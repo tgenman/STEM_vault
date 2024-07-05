@@ -8,7 +8,7 @@ $$
 \phi = \frac{1 + \sqrt{5}}{2}
 $$
 
-The golden ratio can be defined as the ratio of the length and the width of a **golden rectangle**, and a golden rectangle is a rectangle that can be divided into a square and rectangle that is similar to the original rectangle:
+The golden ratio can be defined as the ratio of the length and the width of a **golden rectangle**, and a golden rectangle is a rectangle that can be divided into a square and rectangle that is similar to the original rectangle:
 
 ![[Pasted image 20230808223538.png]]
 

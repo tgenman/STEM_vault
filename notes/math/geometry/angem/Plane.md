@@ -16,7 +16,7 @@ tags:
 ---
 
 
-A _plane_ is a flat sheet that is infinite in all directions.
+A _plane_ is a flat sheet that is infinite in all directions.
 
 ### Implicit equation or General
 $$\Large P: \{ (x, y, z) \in R | Ax + By + Cz = D \} $$ 

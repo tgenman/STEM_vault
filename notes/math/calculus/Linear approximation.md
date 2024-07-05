@@ -11,7 +11,7 @@ tags:
 ---
 
 
-It is sometimes very useful to replace a complicated function $f$ by its linear approximation $L$.
+It is sometimes very useful to replace a complicated function $f$ by its linear approximation $L$.
 
 ![[Pasted image 20230829210626.png]]
 

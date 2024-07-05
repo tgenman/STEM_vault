@@ -7,7 +7,7 @@ parent:
   - "[[Polynomial]]"
 connected: []
 ---
-==**Factoring**== — that is, writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree.
+==**Factoring**== — that is, writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree.
 
 $$
 x^2-x-2=(x+1)(x-2).

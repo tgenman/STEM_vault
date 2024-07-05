@@ -7,10 +7,10 @@ parent:
 ---
 
 ### Solution Set 
-- A _solution_ of a system of equations is a list of numbers x,y,z,... that make all of the equations true simultaneously.
-- The _solution set_ of a system of equations is the collection of all solutions.
-- _Solving_ the system means finding all solutions with formulas involving some number of parameters.
-A system of equations is called _inconsistent_ if it has no solutions. It is called _consistent_ otherwise.
+- A _solution_ of a system of equations is a list of numbers x,y,z,... that make all of the equations true simultaneously.
+- The _solution set_ of a system of equations is the collection of all solutions.
+- _Solving_ the system means finding all solutions with formulas involving some number of parameters.
+A system of equations is called _inconsistent_ if it has no solutions. It is called _consistent_ otherwise.
 
 
 
