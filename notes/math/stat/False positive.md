@@ -12,3 +12,5 @@ connected:
 tags:
   - empty
 ---
+
+![[Pasted image 20240722193354.png]]
