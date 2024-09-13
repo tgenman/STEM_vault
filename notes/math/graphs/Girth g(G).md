@@ -4,9 +4,10 @@ publish: true
 anki: true
 created: 2023-12-16 20:51
 parent:
-  - "[[Cycle graph (C_n)]]"
+  - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Circumference c(G)]]"
+  - "[[Cycle graph (C_n)]]"
 ---
 
 > [!tip] Girth of $G$ $g(G)$

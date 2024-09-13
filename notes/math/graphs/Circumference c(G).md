@@ -4,9 +4,10 @@ publish: true
 anki: true
 created: 2023-12-16 20:53
 parent:
-  - "[[Cycle graph (C_n)]]"
+  - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Girth g(G)]]"
+  - "[[Cycle graph (C_n)]]"
 ---
 
 > [!tip] Circumferen of $G$ $c(G)$
