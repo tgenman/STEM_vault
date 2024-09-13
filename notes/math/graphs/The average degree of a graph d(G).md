@@ -4,9 +4,10 @@ publish: true
 anki: true
 created: 2023-11-01 14:36
 parent:
-  - "[[Degree of a vertex (deg)]]"
+  - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Handshaking Lemma]]"
+  - "[[Degree of a vertex (deg)]]"
 ---
 
 > [!tip] The average degree of a graph $G$ of order $n$ and size $m$ is

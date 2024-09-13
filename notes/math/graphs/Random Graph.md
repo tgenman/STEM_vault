@@ -11,6 +11,8 @@ parent:
 connected:
   - "[[519.21  Probability theory]]"
   - "[[519.175.4 Random graphs MOC]]"
+tags:
+  - "#MOC"
 ---
 
 > [!tip] Случайный граф

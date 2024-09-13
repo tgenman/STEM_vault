@@ -8,6 +8,7 @@ created: 2023-10-22 18:51
 parent:
   - "[[519.17 Graph Theory MOC]]"
 connected:
+  - "[[519.173.5 Числовые характеристики графов]]"
 ---
 
 > [!tip] Graph $G$

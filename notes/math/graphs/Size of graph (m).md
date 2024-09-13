@@ -4,7 +4,7 @@ publish: true
 anki: true
 created: 2023-10-31 22:33
 parent:
-  - "[[Simple Graph (G)]]"
+  - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Order of graph (n)]]"
 ---
