@@ -9,7 +9,11 @@ connected:
   - "[[Recursion]]"
   - "[[Complex numbers C]]"
 ---
-A fractal is a pattern where similar patterns appear at all smaller scales as you zoom in.
+
+as Mandelbrot wrote it, is a shape whose "Hausdorff dimension" is greater than its "topological dimenion".
+
+- Fractals are shapes with a non-integer dimension.
+- A fractal is a pattern where similar patterns appear at all smaller scales as you zoom in.
 
 ### Examples:
 - [[Mandelbrot set]]
@@ -19,3 +23,4 @@ A fractal is a pattern where similar patterns appear at all smaller scales as yo
 
 
 
+[📼 Fractals are typically not self-similar](https://www.youtube.com/watch?v=gB9n2gHsHN4&list=PLZHQObOWTQDN52m7Y21ePrTbvXkPaWVSg&index=16)
