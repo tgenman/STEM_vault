@@ -8,6 +8,14 @@ parent:
   - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Vertex-connectivity k(G)]]"
+  - "[[Edge-cut]]"
 tags:
   - "#empty"
 ---
+
+> [!tip] Edge-connectivity $\lambda(G)$
+minimum size of [[Edge-cut]] 
+
+
+- $0 <= \lambda(G) <= ||G||$
+- $\lambda(G) <= |G| - 1$

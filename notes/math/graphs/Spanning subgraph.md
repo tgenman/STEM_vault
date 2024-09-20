@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Induced Subgraphs]]"
 ---
-
+ 
 > [!tip] $H$ is a spanning subgraph of $G$ 
 > If:
 > - $H$ is a [[Subgraph|subgraph]] of $G$ and 

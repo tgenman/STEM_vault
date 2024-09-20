@@ -8,6 +8,7 @@ parent:
 connected:
   - "[[Degree of a vertex (deg)]]"
 ---
+
 > [!tip] Isolated vertex
 > A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 
