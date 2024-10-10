@@ -7,7 +7,7 @@ created: 2024-09-18 20:21
 parent:
   - "[[Simple Graph (G)|Graph]]"
 connected:
-  - "[[минимальное вершинное покрытие tau(G)]]"
+  - "[[Vertex covering number Beta(G)]]"
 tags:
   - empty
 ---

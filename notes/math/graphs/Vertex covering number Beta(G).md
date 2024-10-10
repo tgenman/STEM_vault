@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - минимальное вершинное покрытие tau(G)
 publish: true
 anki: false
 created: 2024-09-18 20:25

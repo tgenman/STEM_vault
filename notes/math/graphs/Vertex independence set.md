@@ -7,7 +7,8 @@ parent:
   - "[[Subgraph]]"
 connected:
   - "[[Clique]]"
-  - "[[Число независимости графа Alfa(G)]]"
+  - "[[Vertex independence number Alfa(G)]]"
+  - "[[Edge independence set]]"
 tags:
   - empty
 ---

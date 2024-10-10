@@ -8,7 +8,7 @@ parent:
   - "[[Subgraph]]"
   - "[[Complete graph]]"
 connected:
-  - "[[Независимое множество вершин]]"
+  - "[[Vertex independence set]]"
 ---
 
 > [!tip] Сlique

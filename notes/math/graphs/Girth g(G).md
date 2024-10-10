@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Обхват
 publish: true
 anki: true
 created: 2023-12-16 20:51

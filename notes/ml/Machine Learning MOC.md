@@ -132,7 +132,7 @@ regularization
 
 
 ### По типам алгоритмов
-- [[Supervised Learning]] 
+- [[Supervised Learning]] (есть заданная выборка, есть учитель)
 	-  [[Classification ML]]
 		- binary classification
 		- multiclass classification
@@ -148,13 +148,13 @@ regularization
 		- [[Linear and Polynomial Regression]]
 		- Ridge-Lasso Regression
 	- Ранжирование
-- [[Unsupervised Learning]]
+- [[Unsupervised Learning]] (есть заданная выборка, нет учителя)
 	- [[Clustering (machine learning)]]
 	- [[Поиск правил (ассоциация)]]
 	- [[Dimension reduction (generalization)]]
 	- Генеративные алгоритмы
 		- GAN
-- [[Reinforcement Learning]]
+- [[Reinforcement Learning]] (нет заданной выборки, есть фидбек среды)
 - [[Ensemble Methods]]
 	- [[Стейкинг (ансамблевые методы)]]
 	- [[Беггинг (ансамблевые методы)]]
