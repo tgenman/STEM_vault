@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases:
+  - Наблюдение
 publish: true
 anki: false
-created: 2024-04-11 14:19
+created: 2024-10-24 19:22
 parent:
-  - "[[Randomness]]"
+  - "[[Environment (RL)]]"
 connected:
   - "#обс/linking"
 tags:
   - empty
 ---
-
-[[Markov process]]

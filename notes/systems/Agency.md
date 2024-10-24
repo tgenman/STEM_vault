@@ -1,5 +1,6 @@
 ---
-aliases: [Agent, Агентность, агент, агентными]
+aliases:
+  - Агентность
 publish: true
 ---
 links: [[Instrumental rationality]], [[Rationality]], [[👤👤Кочерга]], [[Рациональный агент]], [[Propagating]]

@@ -4,16 +4,19 @@ aliases:
 publish: true
 anki: false
 created: 2024-07-03 22:12
-parent: 
+parent:
+  - "[[Cauchy-Schwarz-Буняковского Inequality]]"
 connected:
   - "#обс/linking"
 tags:
   - empty
 ---
-links: [[Inner product of vectors|Скалярное произведение векторов]], [[Cauchy-Буняковского-Schwarz Inequality|Неравенство Коши-Шварца]]
+links: [[Inner product of vectors|Скалярное произведение векторов]], [[Cauchy-Schwarz-Буняковского Inequality|Неравенство Коши-Шварца]]
 
----
 
+$$
+\sum_{i=1}^{n} x_i y_i \leq \left( \sum_{i=1}^{n} |x_i|^p \right)^{1/p} \left( \sum_{i=1}^{n} |y_i|^q \right)^{1/q}, \quad \text{where} \quad \frac{1}{p} + \frac{1}{q} = 1.
+$$
 
 
 

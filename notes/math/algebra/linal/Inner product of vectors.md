@@ -13,7 +13,7 @@ connected:
   - "[[Cross product of vectors]]"
   - "[[Norm of vector]]"
   - "[[Dot product of vectors]]"
-  - "[[Cauchy-Буняковского-Schwarz Inequality]]"
+  - "[[Cauchy-Schwarz-Буняковского Inequality]]"
   - "[[Holder's Inequality]]"
 ---
 

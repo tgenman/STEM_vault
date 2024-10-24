@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases:
+  - MDP
 publish: true
 anki: false
-created: 2024-04-11 14:19
+created: 2024-10-24 19:34
 parent:
-  - "[[Randomness]]"
+  - "[[Markov process]]"
 connected:
   - "#обс/linking"
 tags:
   - empty
 ---
-
-[[Markov process]]
