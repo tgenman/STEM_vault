@@ -37,14 +37,17 @@ connected:
 	- [[One-sided Limits]]
 	- indeterminate form $\frac{0}{0}$
 
-- [[Derivative|Производная]]
+- [[Derivative]]
 	- First and Second Derivative Test
+- [[Directional derivative]]
+	- [[Gradient]]
+	- [[Hessian]]
+
 
 [[Euler's formula]]
 
 [[Tangent line]]
 [[Secant line]]
-[[Derivative]]
 
 [[Instantaneous velocity]]
 

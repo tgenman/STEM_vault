@@ -15,6 +15,7 @@ created: 2024-07-03 10:46
 [[Complement of Set]]
 [[Difference of Sets]]
 [[Symmetric difference sets (A △ B)]]
+[[Minkowski sum]]
 
 [[Cartesian product of sets (A x B)]]
 - [[Partition of a set]]
