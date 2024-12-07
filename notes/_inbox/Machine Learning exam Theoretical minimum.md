@@ -413,6 +413,7 @@ None
 ADDITIONAL:
 For example, in a linear regression model, the coefficients (weights) $\mathbf{w}$ are parameters. In decision trees, the split points for each node are parameters.
 PICTURE:
+ID: 1733048850829
 END
 
 > [!question]- Hyperparameters
@@ -427,6 +428,7 @@ None
 ADDITIONAL:
 Examples include the learning rate $\alpha$ in gradient descent for linear models, or the maximum depth of a decision tree.
 PICTURE:
+ID: 1733048850830
 END
 
 > [!question]- Difference between Parameters and Hyperparameters
@@ -441,6 +443,7 @@ None
 ADDITIONAL:
 For linear models, parameters include the weights $\mathbf{w}$, while a hyperparameter example is the learning rate $\alpha$. For decision trees, parameters include the split points at each node, while hyperparameters include the maximum tree depth.
 PICTURE:
+ID: 1733048850831
 END
 
 
