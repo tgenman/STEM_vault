@@ -9,6 +9,8 @@ connected: []
 tags:
   - MOC
 ---
+[[Home work 4 - Optimization]]
+
 
 - [[Convex Set]]
 	- [[The intersection of a finite or infinite number of convex sets (theorem)]]
@@ -16,6 +18,8 @@ tags:
 	- Operations
 		- [[The Minkowski sum of two convex sets is a convex set (theorem)]]
 		- [[A linear combination of convex sets is a convex set (Corollary)]]
+
+
 
 
 - [[Cone set]]
