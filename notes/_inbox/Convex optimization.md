@@ -10,7 +10,9 @@ tags:
   - MOC
 ---
 [[Home work 4 - Optimization]]
+[[НИР]]
 
+[[Gradient-Based Methods]]
 
 - [[Convex Set]]
 	- [[The intersection of a finite or infinite number of convex sets (theorem)]]
