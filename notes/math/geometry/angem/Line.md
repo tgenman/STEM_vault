@@ -2,48 +2,77 @@
 aliases:
   - Линия
 publish: true
+anki: true
+created: 2024-07-03 22:13
+tags: 
 parent:
   - "[[512.64  Linear algebra MOC]]"
   - "[[514 Geometry MOC]]"
 connected:
   - "[[Plane]]"
   - "[[Point]]"
-  - "#обс/linking"
-anki: false
-created: 2024-07-03 22:13
-tags:
-  - empty
+  - "[[Line segment]]"
 ---
 
+> [!tip] Line
+Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
+Then the line passing through them is defined as follows:
+$x = \theta x_1 + (1 - \theta)x_2, \theta \in \mathbb{R}$
 
-_line_ is a ray that is _straight_ and _infinite_ in both directions.
-
-### implicit equation
-$$
-\Large x + y = 1
-$$
-### parametric form
-$$
-\Large l: \{ (x, y, z) \in R^3 | (x, y, z) = p_0 + t \vec{v}, t \in R \}
-$$
-### Symmetric form
-$$
-\large  x = p_{ox} + tv_x
-$$
-
-$$
-\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}
-$$
+![[line.svg]]
+Figure 1: Illustration of a line between two vectors $x_1$ and $x_2$
 
 
 
+#### Other forms
+###### implicit equation
+$\Large x + y = 1$
+###### parametric form
+$\Large l: \{ (x, y, z) \in R^3 | (x, y, z) = p_0 + t \vec{v}, t \in R \}$
+###### Symmetric form
+$\large  x = p_{ox} + tv_x$
+$\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}$
 
-Хотя бы одна из оставшихся коробочек не пуста
 
+#### Anki
+> [!question]- Line (opt def)
+TARGET DECK: Math::Optimization
+START
+Math_ONE_side
+TITLE: Line (opt def)
+DESCRIPTION: Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
+Then the line passing through them is defined as follows:
+FORMULA: $x = \theta x_1 + (1 - \theta)x_2, \theta \in \mathbb{R}$
+ADDITIONAL:
+PICTURE: ![[line.svg]]
+ID: 1734761672999
+END
 
-Среди оставшихся не существует полный коробочек
+> [!question]- Line. implicit equation
+TARGET DECK: Math::Optimization
+START
+Math_ONE_side
+TITLE: Line. implicit equation
+DESCRIPTION:
+FORMULA: $\Large x + y = 1$
+ID: 1734761884853
+END
 
-$\exists$ коробочка полная (в оставшихся)
-$\exists$ коробочка врет 
+> [!question]- Line. parametric form
+TARGET DECK: Math::Optimization
+START
+Math_ONE_side
+TITLE: Line. parametric form
+FORMULA: $\Large l: \{ (x, y, z) \in R^3 | (x, y, z) = p_0 + t \vec{v}, t \in R \}$
+ID: 1734761884869
+END
 
-$\forall$ коробочки пусты (в оставшихся)
+> [!question]- Line. Symmetric form
+TARGET DECK: Math::Optimization
+START
+Math_ONE_side
+TITLE: Line. Symmetric form
+FORMULA: $\large  x = p_{ox} + tv_x$
+$\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}$
+ID: 1734761884874
+END

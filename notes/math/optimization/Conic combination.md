@@ -1,41 +1,36 @@
 ---
-aliases:
-  - Линейная комбинация векторов
+aliases: 
 publish: true
 anki: true
-created: 2023-08-10 15:29
-tags: 
+created: 2024-12-21 18:03
 parent:
-  - "[[Vector space V]]"
+  - "[[Cone set]]"
 connected:
   - "[[Affine combination]]"
   - "[[Convex combination]]"
-  - "[[Conic combination]]"
+  - "[[Linear combination]]"
+tags:
 ---
 
-> [!tip] Linear combination  
+> [!tip] Conic combination  
 for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
 is the point $\theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_k x_k$  
-if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
+if $\theta_i \geq 0$ for all $i$.
 
 
 ![[Affine combination#Difference between conic, convex, affine, and linear combinations]]
 
-
 #### Anki
-> [!question]- Linear combination
-TARGET DECK: Math::Optimization
+> [!question]- Conic combination
+TARGET DECK: Math:: Optimization
 START
 Math_TWO_side
-TITLE: Linear combination
+TITLE: Conic combination
 DESCRIPTION: for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
 is the point $\theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_k x_k$  
-if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
+if $\theta_i \geq 0$ for all $i$.
 FORMULA: 
 ADDITIONAL:
 PICTURE:
-ID: 1734780284933
+ID: 1734780185442
 END
-
-
-

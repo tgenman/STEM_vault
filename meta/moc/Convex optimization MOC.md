@@ -9,6 +9,21 @@ connected: []
 tags:
   - MOC
 ---
+
+| Set            |                  | Combination            | Hull            |
+| -------------- | ---------------- | ---------------------- | --------------- |
+|                |                  | [[Linear combination]] | [[Span]]        |
+| [[Affine set]] | [[Line]]         | [[Affine combination]] | [[Affine hull]] |
+| [[Cone set]]   | Луч              | [[Conic combination]]  | [[Conic hull]]  |
+| [[Convex Set]] | [[Line segment]] | [[Convex combination]] | [[Convex hull]] |
+- [[Convex cone]]
+
+
+
+KC(V) = K(V) ∩ C(V)
+
+
+
 [[Home work 4 - Optimization]]
 [[НИР]]
 
@@ -21,12 +36,6 @@ tags:
 		- [[The Minkowski sum of two convex sets is a convex set (theorem)]]
 		- [[A linear combination of convex sets is a convex set (Corollary)]]
 
-
-
-
-- [[Cone set]]
-- [[Convex cone]]
-- [[Convex Hull]]
 
 
 - [[Convex function]] ([[Concave function]])
@@ -73,6 +82,12 @@ If $f$ is a convex function and $x^*$ is a point of local minimum, then $x^*$ is
 - $$f(x^*) \leq f(z) \leq \alpha f(y^*) + (1-\alpha) f(x^*) < f(x^*).$$
 - We get a contradiction, therefore the assumption is incorrect and $x^*$ is a point of global minimum.
 
+
+![[Convex_supergraph.svg]]
+Выпуклая вниз функция, её график выделен синим, и [надграфик](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA "Надграфик") закрашен зелёным.
+
+![[ConvexFunction.svg]]
+[[Jensen Inequality]]  в определении выпуклой функции
 
 
 
