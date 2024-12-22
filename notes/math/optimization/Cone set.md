@@ -7,7 +7,8 @@ created: 2024-10-27 22:00
 parent:
   - "[[Set (math)]]"
 connected:
-  - "#обс/linking"
+  - "[[Affine set]]"
+  - "[[Convex Set]]"
 tags:
   - empty
 ---

@@ -43,7 +43,7 @@ if $\sum\limits_{i=1}^k\theta_i = 1$.
 #### Difference between Convex and Afiine combination on graph
 ![[Convex_combination_illustration.svg|200]]
 Given three points ${x_1}$, ${x_2}$, ${x_3}$ on a plane. The point $P$ is a [[Convex combination]] of these three points, whereas $Q$ is not.
-($Q$, however, is an [[Affine combination]] of these three vectors since their [[Affine hull]] coincides with the entire plane.)
+($Q$, however, is an [[Affine combination]] of these three vectors since their [[Affine hull aff(S)]] coincides with the entire plane.)
 
 
 
@@ -104,7 +104,7 @@ START
 Math_ONE_side
 TITLE: Difference between Convex and Afiine combination on graph
 DESCRIPTION: Given three points ${x_1}$, ${x_2}$, ${x_3}$ on a plane. The point $P$ is a [[Convex combination]] of these three points, whereas $Q$ is not.
-($Q$, however, is an [[Affine combination]] of these three vectors since their [[Affine hull]] coincides with the entire plane.)
+($Q$, however, is an [[Affine combination]] of these three vectors since their [[Affine hull aff(S)]] coincides with the entire plane.)
 FORMULA: 
 ADDITIONAL:
 PICTURE: ![[Convex_combination_illustration.svg|200]]

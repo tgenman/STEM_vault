@@ -13,11 +13,13 @@ tags:
 | Set            |                  | Combination            | Hull            |
 | -------------- | ---------------- | ---------------------- | --------------- |
 |                |                  | [[Linear combination]] | [[Span]]        |
-| [[Affine set]] | [[Line]]         | [[Affine combination]] | [[Affine hull]] |
+| [[Affine set]] | [[Line]]         | [[Affine combination]] | [[Affine hull aff(S)]] |
 | [[Cone set]]   | Луч              | [[Conic combination]]  | [[Conic hull]]  |
-| [[Convex Set]] | [[Line segment]] | [[Convex combination]] | [[Convex hull]] |
+| [[Convex Set]] | [[Line segment]] | [[Convex combination]] | [[Convex hull conv(S)]] |
 - [[Convex cone]]
 
+- [[Interior int(S)]]
+- [[Relative Interior relint(S)]]
 
 
 KC(V) = K(V) ∩ C(V)
@@ -33,7 +35,7 @@ KC(V) = K(V) ∩ C(V)
 	- [[The intersection of a finite or infinite number of convex sets (theorem)]]
 	- [[If the domain of any linear map is convex, then the image of this map is also convex (theorem)]]
 	- Operations
-		- [[The Minkowski sum of two convex sets is a convex set (theorem)]]
+		- [[Minkowski sum]]
 		- [[A linear combination of convex sets is a convex set (Corollary)]]
 
 

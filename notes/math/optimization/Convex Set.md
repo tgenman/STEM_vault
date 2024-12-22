@@ -10,13 +10,16 @@ connected:
   - "[[Affine set]]"
   - "[[Line segment]]"
   - "[[Convex combination]]"
+  - "[[Cone set]]"
+  - "[[Convex hull conv(S)]]"
 tags:
 ---
 
 > [!tip] Convex set (geometric definition)  
-is the set $\mathcal{X}$  
-if for any $x_1, x_2$ from $\mathcal{X}$, the [[Line segment|line segment]] passing through them also lies in $\mathcal{X}$, i.e.  
-$\forall \alpha \in [0, 1], \forall x_1, x_2 \in \mathcal{X}: \alpha x_1 + (1-\alpha) x_2 \in \mathcal{X}$.
+is the set $S$  
+if for any $x_1, x_2$ from $S$, the [[Line segment|line segment]] passing through them also lies in $S$, i.e.  
+$\forall \theta \in [0, 1], \forall x_1, x_2 \in S:$
+$\theta x_1 + (1-\theta) x_2 \in S$.
 
 > [!tip] Convex set (сombination definition)  
 is a set that is closed under all possible [[Convex combination|convex combinations]] of its points.
@@ -26,8 +29,10 @@ is a set that is closed under all possible [[Convex combination|convex combinati
 | ------------------------------------------ | ------------------------------------------ |
 | Convex set                                 | Non convex set                             |
 
-
 ###### Examples
+Top: examples of convex sets. Bottom: examples of non-convex sets.
+![[convex_sets.svg]]
+
 - [[Polyhedron (3D)]]
 - [[Hyperplane]]
 - Balls in any proper norm and ellipsoids
@@ -43,9 +48,10 @@ TARGET DECK: Math::Optimization
 START
 Math_TWO_side
 TITLE: Convex set (geometric definition)  
-DESCRIPTION: is the set $\mathcal{X}$  
-if for any $x_1, x_2$ from $\mathcal{X}$, the [[Line segment|line segment]] passing through them also lies in $\mathcal{X}$, i.e.  
-FORMULA: $\forall \alpha \in [0, 1], \forall x_1, x_2 \in \mathcal{X}: \alpha x_1 + (1-\alpha) x_2 \in \mathcal{X}$.
+DESCRIPTION: is the set $S$  
+if for any $x_1, x_2$ from $S$, the [[Line segment|line segment]] passing through them also lies in $S$, i.e.  
+FORMULA: $\forall \theta \in [0, 1], \forall x_1, x_2 \in S:$
+$\theta x_1 + (1-\theta) x_2 \in S$.
 ADDITIONAL:
 [[Polyhedron (3D)]]
 [[Hyperplane]]

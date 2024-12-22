@@ -9,6 +9,7 @@ parent:
 connected:
   - "[[Affine combination]]"
   - "[[Convex Set]]"
+  - "[[Cone set]]"
 tags:
 ---
 

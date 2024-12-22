@@ -10,6 +10,7 @@ connected:
   - "[[Affine combination]]"
 tags:
 ---
+
 > [!tip] Affine hull of set $S$
 is the set of all [[Affine combination|affine combinations]]  of points in set $S$:
 $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\limits_{i=1}^k\theta_i = 1\right\}$

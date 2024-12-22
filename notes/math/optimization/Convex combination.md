@@ -3,11 +3,13 @@ aliases:
 publish: true
 anki: true
 created: 2024-12-21 13:23
-parent: 
+parent:
+  - "[[Convex Set]]"
 connected:
   - "[[Affine combination]]"
   - "[[Linear combination]]"
   - "[[Conic combination]]"
+  - "[[Convex hull conv(S)]]"
 tags:
 ---
 
