@@ -11,8 +11,8 @@ connected:
   - "[[Line segment]]"
   - "[[Convex combination]]"
   - "[[Cone set]]"
-  - "[[Convex hull conv(S)]]"
-tags:
+  - "[[Convex hull - conv(S)]]"
+tags: 
 ---
 
 > [!tip] Convex set (geometric definition)  

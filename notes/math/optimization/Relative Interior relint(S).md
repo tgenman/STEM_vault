@@ -7,7 +7,7 @@ created: 2024-12-21 19:08
 parent:
   - "[[Interior int(S)]]"
 connected:
-  - "[[Affine hull aff(S)]]"
+  - "[[Affine hull - aff(S)]]"
 tags:
   - empty
 ---

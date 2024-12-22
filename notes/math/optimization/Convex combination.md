@@ -9,8 +9,8 @@ connected:
   - "[[Affine combination]]"
   - "[[Linear combination]]"
   - "[[Conic combination]]"
-  - "[[Convex hull conv(S)]]"
-tags:
+  - "[[Convex hull - conv(S)]]"
+tags: 
 ---
 
 > [!tip] Convex combination  

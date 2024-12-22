@@ -8,8 +8,8 @@ parent:
   - "[[Convex Set]]"
 connected:
   - "[[Span|Линейная оболочка]]"
-  - "[[Affine hull aff(S)]]"
-tags:
+  - "[[Affine hull - aff(S)]]"
+tags: 
 ---
 
 > [!tip] The convex hull of the set $S$ is called the set $\text{conv}(S)$ that:

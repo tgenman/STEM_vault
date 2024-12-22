@@ -13,9 +13,9 @@ tags:
 | Set            |                  | Combination            | Hull            |
 | -------------- | ---------------- | ---------------------- | --------------- |
 |                |                  | [[Linear combination]] | [[Span]]        |
-| [[Affine set]] | [[Line]]         | [[Affine combination]] | [[Affine hull aff(S)]] |
-| [[Cone set]]   | Луч              | [[Conic combination]]  | [[Conic hull]]  |
-| [[Convex Set]] | [[Line segment]] | [[Convex combination]] | [[Convex hull conv(S)]] |
+| [[Affine set]] | [[Line]]         | [[Affine combination]] | [[Affine hull - aff(S)]] |
+| [[Cone set]]   | Луч              | [[Conic combination]]  | [[Conic hull - cone(S)]]  |
+| [[Convex Set]] | [[Line segment]] | [[Convex combination]] | [[Convex hull - conv(S)]] |
 - [[Convex cone]]
 
 - [[Interior int(S)]]
@@ -23,6 +23,7 @@ tags:
 
 
 KC(V) = K(V) ∩ C(V)
+
 
 
 
