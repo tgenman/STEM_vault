@@ -9,6 +9,7 @@ connected: []
 tags:
   - MOC
 ---
+ convex optimization to be a generalization of linear programming.
 
 | Set            |                  | Combination            | Hull            |
 | -------------- | ---------------- | ---------------------- | --------------- |
@@ -21,8 +22,13 @@ tags:
 - [[Interior int(S)]]
 - [[Relative Interior relint(S)]]
 
+- [[Operations preserving convexity]]
+- [[If the domain of any linear map is convex, then the image of this map is also convex (theorem)]]
 
-KC(V) = K(V) ∩ C(V)
+
+- [[Convex function]] ([[Concave function]])
+	- [[A function f is convex if and only if epigraph of f is a convex set (theorem)]]
+	- [[Strongly Convex Function]]
 
 
 
@@ -33,17 +39,10 @@ KC(V) = K(V) ∩ C(V)
 [[Gradient-Based Methods]]
 
 - [[Convex Set]]
-	- [[The intersection of a finite or infinite number of convex sets (theorem)]]
-	- [[If the domain of any linear map is convex, then the image of this map is also convex (theorem)]]
-	- Operations
-		- [[Minkowski sum]]
-		- [[A linear combination of convex sets is a convex set (Corollary)]]
 
 
 
-- [[Convex function]] ([[Concave function]])
-	- [[A function f is convex if and only if epigraph of f is a convex set (theorem)]]
-	- [[Strongly Convex Function]]
+
 
 
 

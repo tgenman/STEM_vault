@@ -12,7 +12,8 @@ connected:
   - "[[Convex combination]]"
   - "[[Cone set]]"
   - "[[Convex hull - conv(S)]]"
-tags: 
+  - "[[Operations preserving convexity]]"
+tags:
 ---
 
 > [!tip] Convex set (geometric definition)  
