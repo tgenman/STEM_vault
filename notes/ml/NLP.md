@@ -11,12 +11,17 @@ tags:
 
 [[One-hot Encoding]]
 [[Embeddings]]
-#### 
-START  
-Math_ONE_side  
-TITLE: Embedding  
-DESCRIPTION: A method for representing objects as dense vectors in a lower-dimensional space, where their similarity or semantic relationships are reflected by the proximity of their vectors. It is used to convert complex data into numerical formats.  
-FORMULA: A vector of dimension ddd, where ddd is smaller than the number of categories. Example: "king" → [0.25,−0.64,0.13], "queen" → [0.26,−0.63,0.14].  
-ADDITIONAL: Applied in NLP (e.g., Word2Vec, GloVe), recommendation systems, and computer vision. Advantage: compactness and ability to model relationships between objects. Limitation: requires large datasets for training.   
-END
+[[Text Feature Representation]]
+
+
+### Экзаменационные вопросы
+1. [[Bag of Words (BoW)]], [[TF-IDF (Term Frequency-Inverse Document Frequency)|TF-IDF]]
+2. [[Word embeddings. Word2vec CBOW, skip-gram, negative sampling. Word2vec properties.]]
+3. [[CNNs in text processing]]
+4. [[Seq2seq, encoder-decoder models]]
+5. [[Attention mechanism in encoder-decoder models (as of Bahdanau et.al.)]]
+6. [[Machine translation. Problem setup, training inference procedures. Quality metrics for MT.]]
+7. [[Unsupervised translation approach]]
+8. [[Transformer Architecture and Self-Attention Mechanism in Transformers]]
+9. [[Transformer architecture blocks structure, layer norm, training procedure (adamW, lr scheduling, label smoothing)]]
 
