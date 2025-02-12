@@ -12,35 +12,33 @@ tags:
   - группа
 ---
 
-> [!tip] The Bag of Words (BoW) 
-is a [[Text Feature Representation]] in NLP that converts text into numerical vectors based on word frequencies, ignoring word order and grammar. 
-This enables machine learning models to process text data for tasks like classification and clustering.
+> [!tip] Bag of Words (BoW)
+Это метод [[Text Feature Representation]] в NLP, который преобразует текст в числовые векторы на основе частоты встречаемости слов, игнорируя порядок слов и грамматику. Это позволяет машинным моделям обрабатывать текстовые данные для задач классификации и кластеризации.
 
+### Как работает BoW
 
-### How BoW Works
+#### 1. Создание словаря
+- Формируется словарь, содержащий все уникальные слова из корпуса текстов
+- Каждому слову в словаре присваивается уникальный индекс
 
-#### 1. Vocabulary Creation
-- Build a vocabulary containing all unique words from the corpus (collection of documents)
-- Assign a unique index to each word in the vocabulary
-
-#### 2. Document Vectorization
-- Convert each document into a fixed-length vector:
-  - Length equals vocabulary size
-  - Each position represents a word from vocabulary
-  - Values show how many times each word appears
+#### 2. Векторизация документов 
+- Каждый документ преобразуется в вектор фиксированной длины:
+  - Длина равна размеру словаря
+  - Каждая позиция представляет слово из словаря
+  - Значения показывают частоту встречаемости каждого слова
 
 #### 3. Document-Term Matrix (DTM)
-The final result is a matrix where:
-- Each row represents a document
-- Each column represents a word from vocabulary 
-- Values show word frequencies in documents
+В результате получается матрица, где:
+- Каждая строка представляет документ
+- Каждый столбец представляет слово из словаря
+- Значения показывают частоту слов в документах
 
-For example, given documents:
+Например, для документов:
 1. "The cat sat on the mat"
-2. "The dog ran on the grass"
+2. "The dog ran on the grass" 
 3. "A cat and dog play"
 
-After preprocessing and removing stopwords, the DTM would look like:
+После предобработки и удаления стоп-слов, DTM будет выглядеть так:
 
 $$
 \begin{bmatrix} 
@@ -52,110 +50,61 @@ $$
 \end{bmatrix}
 $$
 
-Each row represents one document, and the numbers show how many times each word appears in that document.
+Каждая строка представляет один документ, а числа показывают количество вхождений каждого слова.
 
-#### 4. Key Properties
-- Word order is ignored
-- Only word frequencies matter
-- Grammar and syntax are not preserved
-- Semantic relationships between words are not captured
+#### 4. Ключевые особенности
+- Порядок слов игнорируется
+- Учитывается только частота слов
+- Грамматика и синтаксис не сохраняются
+- Семантические связи между словами не учитываются
 
-### Example of BoW
+### Пример использования BoW
 
-#### Given Corpus:
+Дан корпус текстов:
+1. "I love NLP"
+2. "NLP is fun and exciting"
 
-5. "I love NLP."
-    
-6. "NLP is fun and exciting."
-    
+#### Пошаговое создание BoW:
 
-#### Step-by-Step BoW Representation:
+1. Предобработка:
+   - Приведение к нижнему регистру: "i love nlp", "nlp is fun and exciting"
+   - Удаление стоп-слов (опционально): "love nlp", "nlp fun exciting"
 
-7. Preprocessing:
-    
+2. Построение словаря:
+   - Словарь: {"love", "nlp", "fun", "exciting"}
+   - Индексы: {0: "love", 1: "nlp", 2: "fun", 3: "exciting"}
 
-- Lowercased: "i love nlp", "nlp is fun and exciting".
-    
-- Remove stopwords (optional): "love nlp", "nlp fun exciting".
-    
+3. Векторизация:
+   - Документ 1: [1, 1, 0, 0] ("love" и "nlp" встречаются по одному разу)
+   - Документ 2: [0, 1, 1, 1] ("nlp", "fun" и "exciting" встречаются по одному разу)
 
-8. Vocabulary Construction:
-    
-
-- Vocabulary: { "love", "nlp", "fun", "exciting" }
-    
-- Indices: { 0: "love", 1: "nlp", 2: "fun", 3: "exciting" }
-    
-
-9. Vectorization:
-    
-
-- Document 1: [1, 1, 0, 0] ("love" and "nlp" each occur once).
-    
-- Document 2: [0, 1, 1, 1] ("nlp", "fun", and "exciting" each occur once).
-    
-
-  
-
-| Document | love | nlp | fun | exciting |
-
+| Документ | love | nlp | fun | exciting |
 |----------|------|-----|-----|----------|
+| Док1     |   1  |  1  |  0  |    0     |
+| Док2     |   0  |  1  |  1  |    1     |
 
-| Doc1     |  1   |  1  |  0  |    0     |
+### Преимущества BoW
 
-| Doc2     |  0   |  1  |  1  |    1     |
+1. Простота:
+   - Легко реализовать и интерпретировать
+   - Хорошо работает для многих задач NLP
 
-  
-  
+2. Независимость:
+   - Не требует предположений о структуре или грамматике языка
 
-### Strengths of BoW
+3. Универсальность:
+   - Применим к любым текстовым данным
 
-10. Simplicity:
-    
+### Ограничения BoW
 
-- Easy to implement and interpret.
-    
-- Works well for a wide range of NLP tasks.
-    
+1. Потеря контекста:
+   - Игнорирование порядка слов и синтаксиса ведет к потере семантического значения
 
-11. Independence:
-    
+2. Размерность:
+   - Размер словаря растет с размером корпуса, что приводит к разреженной матрице высокой размерности
 
-- No assumptions about the structure or grammar of the language.
-    
+3. Избыточность признаков:
+   - Синонимы и связанные слова рассматриваются как независимые признаки
 
-12. Versatility:
-    
-
-- Can be applied to any textual data.
-    
-
-### Limitations of BoW
-
-13. Loss of Context:
-    
-
-- Ignores word order and syntax, leading to a loss of semantic meaning.
-    
-
-14. Dimensionality:
-    
-
-- Vocabulary size increases with the corpus size, leading to a sparse and high-dimensional matrix.
-    
-
-15. Feature Redundancy:
-    
-
-- Synonyms and related words are treated as independent features.
-    
-
-16. Scalability:
-    
-
-- Computational inefficiency with very large vocabularies or corpora.
-    
-
-
-
-**
+4. Масштабируемость:
+   - Вычислительная неэффективность при работе с большими словарями или корпусами

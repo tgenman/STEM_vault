@@ -11,89 +11,162 @@ tags:
 ---
 **
 
-### 1. Value-based Methods
+### 1. Value-based Methods 🎯
+#### Core Concept
+The heart of value-based methods lies in learning either:
+- A state-value function V(s) that evaluates "how good" a state is
+- Or a state-action value function Q(s,a) that assesses "how good" an action is in a given state
 
-- These methods focus on learning a value function V, which estimates how good it is for the agent to be in a given state or take a specific action.
-    
-- The agent indirectly derives a policy from the learned value function by choosing the action that maximizes the expected future reward.
-    
-- A well-known example of value-based RL is Deep Q-Networks (DQN), which learns the Q-function using experience replay and deep neural networks​.
-    
-- Key properties:
+#### How They Work
+1. **Value Function Learning**
+   - The agent builds a mental model of expected future rewards
+   - This model gets refined through experience and interaction
+   - The learning process is guided by [[Bellman Equations]]
+
+2. **Policy Derivation**
+   - Rather than learning a policy directly
+   - The agent derives its behavior by choosing actions that maximize value
+   - Example: Selecting arg max Q(s,a) in Q-learning
+
+#### Notable Example: Deep Q-Networks (DQN)
+DQN represents a breakthrough in value-based methods by:
+- Combining deep neural networks with Q-learning
+- Using experience replay for stable learning
+- Employing target networks to reduce instability
+
+#### Key Characteristics
+✨ **Advantages**
+- Off-policy learning capability (can learn from stored experiences)
+- High sample efficiency
+- Strong theoretical foundations
+
+⚠️ **Challenges**
+- Can be unstable during training
+- May struggle with complex value function approximation
+- Requires careful hyperparameter tuning
     
 
-- Works in an off-policy manner, meaning it can learn from stored experiences rather than requiring fresh data every time.
-    
-- Sample-efficient compared to policy-based methods.
-    
-- Prone to instability and divergence due to approximating a complex Q-function.
-    
+### 2. Policy-based Methods 🎯
 
-### 2. Policy-based Methods
+Policy-based methods take a direct approach to reinforcement learning by learning the optimal policy function itself, rather than going through value functions as intermediaries.
 
-- These methods learn a policy directly, meaning they parameterize and optimize the policy function without relying on a value function.
-    
-- The policy function determines the probability of selecting each action given a state.
-    
-- Policy Gradient Methods (such as REINFORCE and Proximal Policy Optimization, PPO) adjust the parameters of the policy using gradient ascent on expected rewards​.
-    
-- Key properties:
-    
+#### Core Concept
+The policy function $π(a|s)$ is the brain of the agent, directly mapping:
+- States to actions (deterministic policy)
+- Or states to action probabilities (stochastic policy)
 
-- Works in an on-policy manner, meaning it requires fresh interactions with the environment.
-    
-- More effective for continuous action spaces where value-based methods struggle.
-    
-- Higher variance but can converge to better solutions for complex tasks.
+#### How They Work
+1. **Direct Policy Learning**
+   - The agent maintains an explicit policy function
+   - Parameters are updated through gradient ascent
+   - Learning is guided by the Policy Gradient Theorem
+
+2. **Key Algorithms**
+   - REINFORCE: The classic policy gradient method
+   - PPO: Modern, stable policy optimization
+   - A2C/A3C: Distributed policy learning
+
+#### Notable Features
+✨ **Advantages**
+- Natural handling of continuous action spaces
+- Can learn stochastic policies
+- Often more stable training dynamics
+
+⚠️ **Characteristics**
+- Requires on-policy learning
+- Higher variance in gradient estimates
+- Can discover more optimal solutions for complex tasks
     
 
 ### Comparison
+| Feature                                      | Value-based                               | Policy-based                        |
+|----------------------------------------------|-------------------------------------------|--------------------------------------|
+| **Learning Target**                          | Q-function (or Value function)           | Direct policy optimization          |
+| **Exploration**                              | Uses $\epsilon$-greedy exploration       | Can use stochastic policies         |
+| **Sample Efficiency**                        | More efficient (off-policy)              | Less efficient (on-policy)          |
+| **Performance in Large/Continuous Spaces**   | Struggles                                | Works well                          |
+| **Stability**                                | Can diverge if poorly tuned              | More stable with proper techniques  |
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKRN7li2Y8ox-M5Ka1GCwlj-HwU0ZwJN0EiACvg7J6XospaEh5OmyurG0hH0OmZVH8jfbWRpXFTtx0sHSH4WjOaNskgs8rfo8Zw0dgNM9642Kl72nvnsk3q5O_5xeXIqwSE32THw?key=bLVzrIeeji0xOX_OWgzfwxJh)
 
-### Summary
+### Summary: Key Differences and Trade-offs 🎯
 
-- Value-based methods like DQN learn a Q-function and derive the policy from it. They are sample-efficient but struggle in high-dimensional continuous action spaces.
-    
+#### Value-Based Methods
+- Learn a Q-function to estimate action values
+- Derive optimal policy indirectly through Q-values
+- ✅ Sample-efficient due to experience replay
+- ❌ Struggle with continuous/high-dimensional actions
+  > This limitation arises because they must evaluate Q-values for every possible action - an impossible task in continuous spaces without discretization
 
-- Value-based methods like DQN struggle in high-dimensional continuous action spaces because they require evaluating the Q-value for every possible action, which is infeasible when actions are continuous. Instead, policy-based methods (like actor-critic) are preferred since they can directly learn a parameterized policy to select actions without needing to discretize or exhaustively search the action space.
-    
+#### Policy-Based Methods  
+- Learn policy function directly through gradient ascent
+- Output actions or action probabilities
+- ✅ Excel in complex continuous environments
+- ❌ Higher variance and require on-policy data
 
-- Policy-based methods directly optimize the policy and perform better in complex environments, but they suffer from higher variance and require fresh data constantly.
-    
-- Many modern RL algorithms, such as Actor-Critic methods, combine both approaches to leverage their strengths​.
-    
+#### Modern Hybrid Approaches
+The best of both worlds is achieved through Actor-Critic architectures:
+- Combine value estimation with direct policy optimization
+- Balance stability and sample efficiency
+- Widely used in state-of-the-art RL systems
 
-Можно добавить конкретные примеры когда какую выбрать и конкретные юзкейсы
 
-### When to Choose Value-Based Methods (e.g., DQN, Double DQN, Dueling DQN)
 
-✅ Best for: Discrete action spaces with a manageable number of actions
+### 🎮 When to Choose Value-Based Methods
 
-1. Atari Games (DQN) – The action space consists of a few discrete moves (e.g., left, right, jump), making Q-learning feasible.
-    
-2. Chess, Go (AlphaZero-like approaches) – A finite set of valid moves at each state allows Q-function learning.
-    
-3. Inventory Management – Discrete decisions like "order stock or not" are well-suited for Q-learning.
-    
-4. Gridworld Navigation – The agent chooses among discrete moves like up, down, left, or right.
-    
-5. Turn-based Strategy Games – Limited action choices make value-based methods practical.
-    
+> Perfect for discrete action spaces where choices are clear and countable
 
-### When to Choose Policy-Based Methods (e.g., REINFORCE, PPO, A3C, SAC)
+#### Classic Examples
+1. 🕹️ **Arcade Games (DQN)**
+   - Simple discrete actions: up, down, left, right
+   - Perfect fit for Q-learning's discrete nature
+   - Famous success with Atari games
 
-✅ Best for: Continuous or complex action spaces, or when learning a stochastic policy is beneficial
+2. 🎲 **Board Games (AlphaZero-style)**
+   - Well-defined move sets
+   - Clear state-action mappings
+   - Proven success in Chess and Go
 
-6. Robotics Control (PPO, SAC, DDPG) – Actions (e.g., joint torques, velocities) are continuous, making Q-learning impractical.
-    
-7. Autonomous Driving (TD3, SAC) – Continuous steering, acceleration, and braking require a policy-based approach.
-    
-8. Finance & Trading (PPO, A2C) – Continuous decisions like adjusting investment ratios benefit from policy learning.
-    
-9. Playing Soccer in Simulation (PPO, A3C) – Agents need to move in all directions smoothly rather than pick discrete moves.
-    
-10. Game AI for FPS games (PPO, SAC) – Aiming, movement, and reaction timing require continuous control.
-    
+3. 📦 **Resource Management**
+   - Binary or discrete choices
+   - Example: Inventory restocking decisions
+   - Clear success/failure metrics
 
-**
+4. 🗺️ **Grid-Based Navigation**
+   - Cardinal direction movements
+   - Discrete state spaces
+   - Perfect for Q-function learning
+
+5. ⚔️ **Turn-Based Strategy**
+   - Limited action sets per turn
+   - Clear decision points
+   - Excellent for value estimation
+
+### 🤖 When to Choose Policy-Based Methods
+
+> Ideal for continuous actions or complex decision spaces
+
+#### Modern Applications
+1. 🦾 **Robotic Control**
+   - Smooth joint movements (PPO, SAC)
+   - Precise torque control
+   - Natural motion synthesis
+
+2. 🚗 **Autonomous Vehicles**
+   - Continuous steering control (TD3)
+   - Smooth acceleration/braking
+   - Real-time decision making
+
+3. 📈 **Financial Trading**
+   - Dynamic portfolio adjustment
+   - Continuous investment ratios
+   - Risk-aware decision making
+
+4. ⚽ **Sports Simulation**
+   - Fluid movement control
+   - Complex coordination
+   - Real-time adaptation
+
+5. 🎯 **First-Person Gaming**
+   - Precise aim control
+   - Complex movement patterns
+   - Human-like behavior synthesis

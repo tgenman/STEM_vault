@@ -11,142 +11,81 @@ tags:
   - empty
   - группа
 ---
-**
 
-TF-IDF is a statistical measure used in Natural Language Processing (NLP) to evaluate the importance of a word in a document relative to a collection of documents (corpus). Unlike the simple Bag of Words (BoW) model, TF-IDF assigns weights to words based on their frequency in a single document and across all documents in the corpus, emphasizing rare but significant terms.
+> [!tip] TF-IDF (Term Frequency-Inverse Document Frequency)
+TF-IDF - это статистическая мера, используемая в обработке естественного языка (NLP) для оценки важности слова в документе относительно коллекции документов (корпуса). В отличие от простой модели Bag of Words (BoW), TF-IDF присваивает словам веса на основе их частоты в отдельном документе и во всем корпусе документов, подчеркивая редкие, но значимые термины.
 
-TF-IDF is a combination of two metrics:
+### Компоненты TF-IDF
 
-1. Term Frequency (TF):
-    
+#### 1. Term Frequency (TF)
+Измеряет, как часто термин встречается в документе.
 
-- Measures how often a term appears in a document.
-    
-- Formula:
-$${ TF(t, d) = \frac{f(t, d)}{\sum_k f(k, d)} }$$  
+**Формула**:
+$${ TF(t, d) = \frac{f(t, d)}{\sum_k f(k, d)} }$$
 
-- $f(t, d)$: Frequency of term $t$ in document $d$.  
-- $\sum_k f(k, d)$: Total number of terms in document $d$.  
+где:
+- $f(t, d)$ - частота термина $t$ в документе $d$
+- $\sum_k f(k, d)$ - общее количество терминов в документе $d$
 
-    
+#### 2. Inverse Document Frequency (IDF)
+Измеряет редкость термина во всем корпусе.
 
-2. Inverse Document Frequency (IDF):
-    
+**Формула**:
+$${ IDF(t, D) = \log\left(\frac{N}{1 + | \{ d \in D : t \in d \} |}\right) }$$
 
-- Measures the rarity of a term across the corpus.
-    
-- Formula:
-$${ IDF(t, D) = \log\left(\frac{N}{1 + | \{ d \in D : t \in d \} |}\right) }$$  
+где:
+- $N$ - общее количество документов в корпусе $D$
+- $\left| \{ d \in D : t \in d \} \right|$ - количество документов, содержащих термин $t$
+- 1 добавляется в знаменатель для избежания деления на ноль
 
-- $N$: Total number of documents in the corpus $D$.  
-- $\left| \{ d \in D : t \in d \} \right|$: Number of documents containing term $t$.  
-- Adding 1 in the denominator avoids division by zero.  
+#### 3. TF-IDF
+Объединяет TF и IDF для вычисления веса термина в документе.
 
-
-
-3. TF-IDF:
-    
-
-- Combines TF and IDF to calculate the weight of a term in a document.
-    
-- Formula: 
+**Формула**:
 $${ TF\text{-}IDF(t, d, D) = TF(t, d) \times IDF(t, D) }$$
 
-### Key Properties of TF-IDF
+### Ключевые свойства
 
-4. High Weight:
-    
+#### Высокий вес получают:
+- Термины, часто встречающиеся в документе, но редкие в корпусе
+- Слова, специфичные для конкретного документа
 
-- A term that occurs frequently in a document but rarely in the corpus receives a high weight.
-    
-- This highlights terms that are specific to a document.
-    
+#### Низкий вес получают:
+- Общие термины, встречающиеся во многих документах
+- Стоп-слова (например, "и", "или", "в")
 
-5. Low Weight:
-    
+### Применение
 
-- Common terms across the corpus receive lower weights, even if they appear frequently in a document (e.g., stop words like "the" or "is").
-    
+1. **Классификация текстов**
+   - Обнаружение спама
+   - Анализ тональности
+   - Категоризация документов
 
-### Applications of TF-IDF
+2. **Информационный поиск**
+   - Ранжирование документов по релевантности
+   - Поисковые системы
 
-6. Text Classification:
-    
+3. **Извлечение ключевых слов**
+   - Автоматическое реферирование
+   - Выделение важных терминов
 
-- Used as a feature representation in tasks like spam detection and sentiment analysis.
-    
+4. **Кластеризация и тематическое моделирование**
+   - Векторное представление документов
+   - Группировка похожих текстов
 
-7. Information Retrieval:
-    
+### Преимущества
 
-- Search engines rank documents by the relevance of terms using TF-IDF.
-    
+- **Простота**: легко вычислять и интерпретировать
+- **Эффективность**: хорошо отражает важность слов
+- **Гибкость**: подходит для различных задач NLP
+- **Интуитивность**: понятная математическая модель
 
-8. Keyword Extraction:
-    
+### Ограничения
 
-- Identifies significant terms in documents for summarization.
-    
+- **Отсутствие контекста**: игнорирует семантику и порядок слов
+- **Разреженность**: большие разреженные матрицы для больших словарей
+- **Масштабируемость**: менее эффективен для очень больших корпусов
+- **Зависимость от словаря**: чувствителен к предобработке текста
 
-9. Clustering and Topic Modeling:
-    
-
-- Represents documents as vectors for clustering algorithms.
-    
-
-### Strengths of TF-IDF
-
-10. Simplicity:
-    
-
-- Easy to calculate and understand.
-    
-- Widely used in traditional NLP pipelines.
-    
-
-11. Efficiency:
-    
-
-- Captures the importance of words relative to their rarity.
-    
-
-12. Flexibility:
-    
-
-- Works well for small to medium-sized datasets.
-    
-
-### Limitations of TF-IDF
-
-13. Lack of Context:
-    
-
-- Ignores the semantic meaning of words and their order.
-    
-
-14. Sparsity:
-    
-
-- For large vocabularies, the document-term matrix becomes sparse.
-    
-
-15. Scalability:
-    
-
-- Less efficient for very large datasets with millions of documents.
-    
-
-16. Vocabulary Dependence:
-    
-
-- Sensitive to pre-processing steps like tokenization, stop word removal, and stemming.
-    
-
-### Summary
-
-- TF-IDF improves upon Bag of Words by weighting terms based on their significance in a document and rarity across the corpus.
-    
-- It is foundational in many text processing pipelines and remains a competitive choice for smaller datasets and traditional NLP tasks.
-    
-
-**
+### Итог
+TF-IDF улучшает модель Bag of Words, взвешивая термины на основе их значимости в документе и редкости в корпусе. Остается фундаментальным методом в обработке текстов, особенно эффективным для небольших датасетов и классических задач NLP.
