@@ -7,13 +7,13 @@ parent:
 connected:
   - "[[Observation (RL)]]"
   - "[[Action (RL)]]"
-  - "[[Reward]]"
+  - "[[Reward function]]"
 tags:
   - empty
 ---
 
 > [!tip] The **history** is 
-the sequence of [[Observation (RL)|observations]] , [[Action (RL)|actions]] , and [[Reward|rewards]]:
+the sequence of [[Observation (RL)|observations]] , [[Action (RL)|actions]] , and [[Reward function|rewards]]:
   $H_t = O_1, R_1, A_1, \dots, A_{t-1}, O_t, R_t$
 
 - i.e. all observable variables up to time $t$.
@@ -21,5 +21,5 @@ the sequence of [[Observation (RL)|observations]] , [[Action (RL)|actions]] , an
 
 - What happens next depends on the history:
   - The [[Agent (RL)]] selects [[Action (RL)|actions]] .
-  - The [[Environment (RL)]] selects [[Observation (RL)|observations]] / [[Reward|rewards]].
+  - The [[Environment (RL)]] selects [[Observation (RL)|observations]] / [[Reward function|rewards]].
 

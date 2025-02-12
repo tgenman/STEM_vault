@@ -4,7 +4,7 @@ publish: true
 anki: false
 created: 2024-10-24 19:08
 parent:
-  - "[[Cumulative reward]]"
+  - "[[Cumulative reward (discounted)]]"
 connected: []
 tags:
   - empty

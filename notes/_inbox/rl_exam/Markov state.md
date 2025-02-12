@@ -8,7 +8,7 @@ parent:
   - "[[State (RL)]]"
   - "[[Markov Decision process (MDP)]]"
 connected:
-  - "#обс/linking"
+  - "[[Markov Property]]"
 tags:
   - empty
 ---

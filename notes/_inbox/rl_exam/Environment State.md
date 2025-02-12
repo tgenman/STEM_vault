@@ -13,7 +13,7 @@ tags:
 > [!tip] The **environment state** $S^e_t$ is 
 the [[Environment (RL)]] 's private representation.
 
-- i.e. whatever data the environment uses to pick the next observation/[[reward]].
+- i.e. whatever data the environment uses to pick the next [[Observation (RL)]]/[[Reward function]].
 - The environment state is not usually visible to the [[Agent (RL)]].
 - Even if $S^e_t$ is visible, it may contain irrelevant information.
 

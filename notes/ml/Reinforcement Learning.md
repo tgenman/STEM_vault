@@ -1,14 +1,54 @@
 ---
-aliases: Обучение с подкреплением
+aliases:
+  - Обучение с подкреплением
+  - RL
 publish: true
-created: 2023-05-03 21:35
+created: 2025-02-11 16:09
+parent:
+  - "[[004.85 Machine Learning (notion)|ML]]"
+connected:
+  - "#обс/linking"
+tags:
+  - MOC
 ---
+![[Pasted image 20250211231823.png]]
+
+
+Theoretical minima:
+1. [[1 Markov decision process and its properties. Reward, discounted reward.]]
+2. [[2 What is a Q-function and a Value-function? Relationship between them]]
+3. [[3 How can RL be applied to NLP or CV tasks?]]
+4. [[4 Exploration-exploitation tradeoff]]
+5. [[5 Value-based vs. Policy based methods (general idea)]]
+6. [[6 What is the difference between model-based and model-free RL?]]
+
+Exam program:
+7. Cross-entropy method (tabular and approximate case).
+8. Value-based RL: state value and state-action value functions. Value-based policy iteration algorithm.
+9. Value iteration algorithm.
+10. Between them. Monte Carlo vs TD update questions. Q-leaning algorithm
+11. Model-free RL: Bellman-expectation equality, algorithms.
+12. SARSA, Expected value SARSA, Q-Learning, DQN, training details. On-policy vs. Off-policy
+13. Policy-based methods. SARSA algorithm
+
+14. Approximate Value-Based and Policy-Based Methods (without policy baselines, with policy gradient).
+15. RL Advanced Policy Gradient: actor-critic algorithm.
+16. RL Solvers and Deviation-Soft ActorCritic, A3C.
+17. Bandit, NE Policy Gradient, REINFORCE
+18. DDPG in RL algorithms.
+19. Sampling. Exploration. Exploration strategies: greedy, UCB, Thompson sampling, heuristics for exploration.
+20. Planning: Monte-Carlo tree search, metrics for exploration.
+
+
+
+
+
 
 
 - [[Agent (RL)]] + [[Environment (RL)]] = [[Agent and Environment]]
 - [[Observation (RL)]]
 - [[Action (RL)]]
-- [[Reward]]
+- [[Reward function]]
 
 - [[State (RL)]]
 	- [[History (RL)]]
@@ -18,45 +58,17 @@ created: 2023-05-03 21:35
 	- [[Agent State]]
 	- [[Markov state]]
 
+- [[Policy (RL)]]
 
-### Rat Example
-![[Pasted image 20241024193838.png]]
-
-- What if agent state = last 3 items in sequence?
-- What if agent state = counts for lights, bells and levers?
-- What if agent state = complete sequence?
-
----
-
-### Fully Observable Environments
-
-![[Pasted image 20241024184905.png|500]]
-**Full observability**: agent directly observes the environment state.
-
-$$O_t = S^a_t = S^e_t$$
-
-- Agent state = environment state = information state.
-- Formally, this is a **Markov decision process** (MDP).
-- (Next lecture and the majority of this course).
-
----
+- Examples
+	- [[Rat Example]]
+	- [[Maze Example]]
+	- [[Gridworld Example]]
+	- [[Atari Example]]
 
 
-### Partially Observable Environments
-- **Partial observability**: agent indirectly observes the environment:
-  - A robot with camera vision isn’t told its absolute location.
-  - A trading agent only observes current prices.
-  - A poker playing agent only observes public cards.
-
-- Now [[Agent State]]  $\neq$ [[Environment State]].
-
-- Formally, this is a **partially observable Markov decision process** (POMDP).
-
-- Agent must construct its own state representation $S^a_t$, e.g.:
-  - Complete history: $S^a_t = H_t$
-  - Beliefs of environment state: $S^a_t = \left( \mathbb{P}[S^e_t = s^1], \dots, \mathbb{P}[S^e_t = s^n] \right)$
-  - Recurrent neural network: $S^a_t = \sigma(S^a_{t-1} W_s + O_t W_o)$
-
+- [[Fully Observable Environments]]
+- [[Partially Observable Environments]]
 
 
 
@@ -64,55 +76,14 @@ $$O_t = S^a_t = S^e_t$$
 
 #### Major Components of an RL Agent
 - An RL agent may include one or more of these components:
-	- Policy: agent’s behaviour function
-	- Value function: how good is each state and/or action
-	- Model: agent’s representation of the environment
-
-
-#### Policy
-- A **policy** is the agent’s behaviour.
-- It is a map from state to action, e.g.:
-  - Deterministic policy: $a = \pi(s)$
-  - Stochastic policy: $\pi(a \mid s) = \mathbb{P}[A_t = a \mid S_t = s]$
-
-### Value function
-- **Value function** is a prediction of future reward.
-- Used to evaluate the goodness/badness of states.
-- And therefore to select between actions, e.g.:
-  $$v_\pi(s) = \mathbb{E}_\pi \left[ R_{t+1} + \gamma R_{t+2} + \gamma^2 R_{t+3} + \dots \mid S_t = s \right]$$
-
-#### Model
-- A **model** predicts what the environment will do next.
-- $\mathbb{P}$ predicts the next state.
-- $\mathbb{R}$ predicts the next (immediate) reward, e.g.:
-  $$\mathbb{P}^a_{ss'} = \mathbb{P}[S_{t+1} = s' \mid S_t = s, A_t = a]$$
-  $$\mathbb{R}^a_s = \mathbb{E}[R_{t+1} \mid S_t = s, A_t = a]$$
-
----
-
-### Maze Example
-![[Pasted image 20241024194552.png|300]]
-- Rewards: -1 per time-step
-- Actions: N, E, S, W
-- States: Agent’s location
-
-Maze Example: Policy
-![[Pasted image 20241024194629.png|300]]
-Arrows represent policy $π(s)$ for each state $s$
+	-  [[Policy (RL)]]] : agent’s behaviour function
+	- [[V-function (RL)]]: how good is each state and/or action
+	- [[Model (RL)]]: agent’s representation of the environment
 
 
 
-Maze Example: Value Function
-![[Pasted image 20241024195511.png|300]]
-Numbers represent the value $v_\pi(s)$ of each state $s$.
 
-
-Maze Example: Model
-![[Pasted image 20241024195557.png|300]]
-
----
-
-Categorizing RL agents 
+## Categorizing RL agents 
 
 - **Value Based**:
   - No Policy (Implicit)
@@ -155,33 +126,6 @@ Two fundamental problems in sequential decision making:
 
 
 ---
-### Atari Example
-Atari Example: Reinforcement Learning
-![[Pasted image 20241024195943.png|400]]
-- Rules of the game are unknown.
-- Learn directly from interactive game-play.
-- Pick actions on joystick, see pixels and scores.
-
-
-Atari Example: Planning
-![[Pasted image 20241024200046.png|400]]
-
----
-
-### Exploration and Exploitation
-
-- Reinforcement learning is like trial-and-error learning
-- The agent should discover a good policy
-- From its experiences of the environment
-- Without losing too much reward along the way
-
-- Exploration finds more information about the environment
-- Exploitation exploits known information to maximise reward
-- It is usually important to explore as well as exploit
-
-
----
-
 ### Prediction and Control
 - Prediction: evaluate the future
 	- Given a policy
@@ -189,13 +133,6 @@ Atari Example: Planning
 	- Find the best policy
 
 ---
-
-### Gridworld Example
-Gridworld Example: Prediction
-![[Pasted image 20241024200333.png]]
-Gridworld Example: Control
-![[Pasted image 20241024200358.png]]
-
 
 
 
@@ -206,19 +143,5 @@ Gridworld Example: Control
 DQN, 
 [A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2), 
 [Генетический Алгоритм](https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC)
-
-В обучении с подкреплением **машина не запоминает каждое движение, а пытается обобщить ситуации, чтобы выходить из них с максимальной выгодой**
-
-Эта идея лежит в основе алгоритма [Q-learning](https://www.youtube.com/watch?v=aCEvtRtNO-M) и его производных (SARSA и DQN). Буква Q в названии означает слово Quality, то есть робот учится поступать наиболее качественно в любой ситуации, а все ситуации он запоминает как простой [марковский процесс](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81).
-
-![[Pasted image 20230503214209.png]]
- Другие идут глубже и отдают эту работу нейросетям, пусть сами всё найдут. Так вместо Q-learning'а у нас появляется Deep Q-Network (DQN).
-
-
-
-
-**Connected with:**
-- subtype of [[Machine Learning MOC]]
-
 
 

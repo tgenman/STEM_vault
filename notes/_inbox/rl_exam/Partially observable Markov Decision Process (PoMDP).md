@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Наблюдение
+  - PoMDP
 publish: true
 anki: false
-created: 2024-10-24 19:22
+created: 2025-02-12 14:13
 parent:
-  - "[[Environment (RL)]]"
+  - "[[Markov Decision process (MDP)]]"
 connected:
   - "#обс/linking"
 tags:
