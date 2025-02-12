@@ -26,5 +26,3 @@ $${Q^{\pi}(s, a) = r(s, a) + \gamma \mathbb{E}_{s'} V^{\pi}(s')}$$
 This equation breaks down the Q-value into two intuitive components:
 - $r(s,a)$: The immediate reward we get for taking action $a$ in state $s$
 - $\gamma \mathbb{E}_{s'} V^{\pi}(s')$: The discounted future value we can expect from the next state
-
-These relationships form the foundation for many reinforcement learning algorithms and help us understand how immediate actions connect to long-term value.

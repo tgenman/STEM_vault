@@ -9,116 +9,184 @@ connected:
 tags:
   - empty
 ---
+## 3.1. NLP Applications in Reinforcement Learning
 
+### Motivation
+1. **Long-term Goal Optimization**
+   - Example: In dialogue systems, optimizing overall user satisfaction across entire conversations rather than individual responses
+   - Focuses on holistic performance rather than local improvements
 
-## 3.1. NLP
+2. **Non-differentiable Metric Optimization** 
+   - Handles NLP-specific metrics like BLEU and ROUGE that traditional gradient descent can't optimize
+   - Enables direct optimization of task-specific evaluation criteria
 
-Motivation:
+3. **Learning with Limited Feedback**
+   - Addresses challenges in obtaining immediate feedback on text quality
+   - Leverages RL's ability to learn from delayed and sparse rewards
 
-- Optimization of long-term goals (example: in dialogue systems – overall user satisfaction throughout the entire dialogue, not only the quality of individual responses),
+### Key Algorithms and Applications
 
-- Working with NLP-specific quality evaluation metrics (example: non-differentiable BLEU and ROUGE that cannot be optimized by gradient descent methods),
+1. **REINFORCE**
+   - Primary Use: Optimizing non-differentiable metrics in Machine Translation
+   - Benefits from direct policy optimization
 
-- Learning under limited feedback conditions: IRL it can be difficult to get quick feedback on the quality of generated text. RL allows learning in such conditions using delayed and sparse reward signals.
+2. **Actor-Critic**
+   - Application: Text generation with reduced gradient variance
+   - Example: Image description generation optimizing CIDEr metrics
 
-  
+3. **DQN (Deep Q-Network)**
+   - Focus: Discrete action spaces
+   - Ideal for: Dialogue system response selection
 
-Specific algorithms application:
+4. **PPO (Proximal Policy Optimization)**
+   - Strength: Stable training in complex language environments
+   - Notable Implementation: OpenAI's GPT-3 RLHF fine-tuning
 
-- REINFORCE: Optimization of non-differentiable metrics in MT
+5. **Hierarchical RL**
+   - Specialization: Long-form text generation
+   - Example Application: Story generation
 
-- Actor-Critic: Reducing gradient variance in text generation tasks. Example: to generate image descriptions, optimizing the CIDEr metric
+6. **Inverse RL**
+   - Purpose: Learning from expert demonstrations
+   - Use Case: Training summarization models based on human preferences
 
-- DQN: Tasks with discrete action spaces, such as response selection in dialogue systems
+### Common Challenges
 
-- PPO: Stable policy training in complex language environments. OpenAI used PPO in GPT-3 for fine-tuning based on human feedback (RLHF)
+1. **Gradient Variance Issues**
+   - High variance in large action spaces
+   - Particularly problematic in text generation tasks
 
-- Hierarchical RL: Generation of long text sequences (example: stories)
+2. **Reward Function Design**
+   - Difficulty in quantifying text quality
+   - Challenge in creating meaningful reward signals
 
-- Inverse RL: Learning the reward function from expert demonstrations. Example: to train a summarization model based on human preferences
+3. **Training Efficiency**
+   - Slower convergence compared to supervised learning
+   - Requires more training iterations
 
-  
+4. **Credit Assignment**
+   - Complex attribution in long sequences
+   - Difficulty tracking action-reward relationships
 
-Problems:
+### Future Directions
 
-1. High gradient variance: leads to training instability, especially in tasks with large action spaces, such as text generation
+1. **Integration with Pre-trained Models**
+   - Combining RL with models like GPT and BERT
+   - Focus on fine-tuning applications
 
-2. Difficulty in defining the reward function: can be challenging to formalize text quality as a reward
+2. **Enhanced Exploration Strategies**
+   - Developing methods for large action spaces
+   - Improving exploration efficiency in NLP contexts
 
-3. Slow convergence: RL usually requires more training iterations compared to supervised learning methods
-
-4. Credit assignment problem: In long sequences, it's difficult to determine which actions led to the obtained reward
-
-  
-
-Promising directions:
-
-- Combining RL with pre-trained language models (RL for fine-tuning GPT or BERT),
-
-- Improvement of exploration methods: Developing more effective exploration strategies for learning in large action spaces characteristic of NLP tasks,
-
-- Development of interpretable RL models: important for understanding the principles of model operation and ensuring transparency of decision-making in NLP systems.
-
-  
-
-## 3.2. CV
-
-  
-
-Motivation:
-
-- Optimization of complex image quality metrics that can be non-differentiable (perceptual image quality (воспринимаемое правдоподобие/реализм/натуральность))
-
-- Learning sequential processing strategies for visual information (to learn strategies for processing large images or video streams)
-
-- Adaptation to dynamic visual environments (to adapt systems to changing visual conditions in real-time)
-
-  
-
-Specific algorithms application:
-
-- Deep Q-Network (DQN): Tasks with discrete action spaces, such as object detection and image classification. Example: to learn an optimal policy for object detection by sequentially refining bounding boxes
-
-- Policy Gradient methods (REINFORCE, A2C): Tasks with continuous action spaces, such as image transformation and enhancement. Example: to learn image cropping and enhancement policies
-
-- DDPG (Deep Deterministic Policy Gradient): Tasks requiring continuous control, such as camera control in 3D environments. Example: to learn character animation from video demonstrations
-
-- SAC (Soft Actor-Critic): Tasks requiring exploration and exploitation balance, such as active learning in image classification. Example: to learn an active learning policy for image classification
-
-Task-wise:
-
-- Image captioning: Policy Gradient, Actor-Critic. Example: REINFORCE to directly optimize CIDEr scores. Allows optimization of non-differentiable metrics and captures global sequence quality
-
-- Active perception: DQN, A3C. Example: object recognition. Learns to focus on relevant parts of the image, reducing computational complexity and improving accuracy
-
-- Automatic image editing: DDPG, SAC. Learns complex sequences of editing actions, adapting to image types and aesthetic preferences
-
-- Image segmentation: DQN, Policy Gradient. Allows for adaptive refinement of segmentation with minimal user intervention
-
-- Visual object tracking: DDPG, A3C. Adapts to changes in object appearance and background, learning long-term tracking strategies
+3. **Interpretability Focus**
+   - Building transparent RL models
+   - Ensuring understandable decision-making processes
 
   
 
-Problems:
+## 3.2. Computer Vision Applications of RL
 
-1. High computational complexity when working with high-res images
+### Motivation
+Reinforcement Learning in Computer Vision addresses several key challenges:
 
-2. Difficulty in defining reward functions for visual tasks
+1. **Non-Differentiable Optimization**
+   - Enables optimization of complex image quality metrics
+   - Particularly useful for perceptual quality assessment
+   - Handles metrics that traditional gradient-based methods cannot optimize
 
-3. Scalability issues with large and diverse datasets
+2. **Sequential Processing**
+   - Develops intelligent strategies for processing visual information
+   - Efficiently handles large images and video streams
+   - Learns adaptive viewing patterns similar to human vision
 
-4. Long training times, especially for complex tasks
+3. **Dynamic Adaptation**
+   - Enables real-time adaptation to changing visual conditions
+   - Learns robust policies for varying environments
+   - Improves system resilience to visual perturbations
 
-  
+### Algorithm Applications
 
-Promising directions:
+#### Deep Q-Network (DQN)
+- **Best for**: Discrete action space tasks
+- **Applications**: Object detection, classification
+- **Example**: Sequential refinement of bounding boxes
 
-- Combining RL with self-supervised learning techniques for more efficient visual representation learning,
+#### Policy Gradient Methods
+- **Variants**: REINFORCE, A2C
+- **Best for**: Continuous action spaces
+- **Applications**: Image transformation, enhancement
+- **Example**: Learning optimal image cropping policies
 
-- Developing more sample-efficient RL algorithms for CV tasks to reduce the need for large datasets,
+#### Deep Deterministic Policy Gradient (DDPG)
+- **Best for**: Continuous control tasks
+- **Applications**: Camera control, 3D environments
+- **Example**: Learning character animation from videos
 
-- Integrating RL with differentiable rendering techniques for 3D vision tasks,
+#### Soft Actor-Critic (SAC)
+- **Best for**: Exploration-exploitation balance
+- **Applications**: Active learning in classification
+- **Example**: Adaptive image classification strategies
 
-- Exploring multi-agent RL for collaborative computer vision tasks, such as distributed surveillance or robot swarm coordination.
+### Task-Specific Applications
 
-**
+1. **Image Captioning**
+   - **Methods**: Policy Gradient, Actor-Critic
+   - **Benefits**: Direct optimization of metrics like CIDEr
+   - **Advantage**: Captures global sequence quality
+
+2. **Active Perception**
+   - **Methods**: DQN, A3C
+   - **Application**: Intelligent object recognition
+   - **Benefit**: Focused computational resource allocation
+
+3. **Automated Image Editing**
+   - **Methods**: DDPG, SAC
+   - **Features**: Learns complex editing sequences
+   - **Advantage**: Adapts to various image types
+
+4. **Image Segmentation**
+   - **Methods**: DQN, Policy Gradient
+   - **Feature**: Adaptive refinement
+   - **Benefit**: Minimal user intervention
+
+5. **Visual Object Tracking**
+   - **Methods**: DDPG, A3C
+   - **Feature**: Dynamic adaptation
+   - **Benefit**: Robust long-term tracking
+
+### Challenges
+
+1. **Computational Demands**
+   - High processing requirements for high-resolution images
+   - Resource intensity in real-time applications
+
+2. **Reward Definition**
+   - Difficulty in quantifying visual quality
+   - Challenge in creating meaningful feedback signals
+
+3. **Scale and Diversity**
+   - Handling large-scale datasets
+   - Ensuring generalization across diverse visual content
+
+4. **Training Efficiency**
+   - Extended training periods
+   - Resource-intensive optimization
+
+### Future Directions
+
+1. **Integration with Self-Supervised Learning**
+   - More efficient visual representation learning
+   - Reduced dependency on labeled data
+
+2. **Sample Efficiency**
+   - Development of data-efficient algorithms
+   - Reduced training data requirements
+
+3. **Advanced Rendering Integration**
+   - Combination with differentiable rendering
+   - Enhanced 3D vision capabilities
+
+4. **Multi-Agent Systems**
+   - Collaborative vision tasks
+   - Applications in distributed surveillance
+   - Swarm robotics coordination

@@ -9,6 +9,7 @@ connected:
 tags:
   - empty
 ---
+
 > [!tip] Bellman Equations: The Fundamental Recursion of Value Functions
 The Bellman equations are elegant recursive formulas that define how value functions relate current states to future outcomes. They come in two flavors, one for V-functions and one for Q-functions.
 
@@ -36,5 +37,3 @@ What makes these equations so powerful is their recursive nature. Instead of hav
 1. Focus on immediate rewards and just one step ahead
 2. Build long-term value estimates through iteration
 3. Connect present decisions to future outcomes
-
-This recursive structure is what enables many reinforcement learning algorithms to efficiently compute optimal policies without having to simulate infinite trajectories.
