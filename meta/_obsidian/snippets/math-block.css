@@ -1,0 +1,9 @@
+.theme-light .math-block > mjx-container[jax="CHTML"] {
+    font-size: 130%;
+    color: #007A00;
+}
+
+.theme-dark .math-block > mjx-container[jax="CHTML"] {
+    font-size: 130%;
+    color: #f0e700;
+}
