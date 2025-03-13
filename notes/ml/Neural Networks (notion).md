@@ -25,7 +25,7 @@ connected:
 
 ### Сферы применения
 - [[Natural Language Processing]]
-- [[Computer Vision]]
+- [[notes/ml/Computer Vision]]
 - Speech recognition
 - Machine translation
 

@@ -31,7 +31,7 @@ tags:
     - **Fourier Transform**: Analyzes frequency components of time-series data.
     - **Trend and Seasonality Features**: Extracts long-term trends and seasonal patterns.
 
-- **Image Feature Representation** [[Computer Vision]]
+- **Image Feature Representation** [[notes/ml/Computer Vision]]
   - Techniques for processing image data:
     - **Pixel Intensities**: Directly uses pixel values as features.
     - **Feature Extraction**: Extracts meaningful features using methods like SIFT, HOG, or CNNs.

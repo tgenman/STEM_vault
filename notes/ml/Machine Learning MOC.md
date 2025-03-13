@@ -11,6 +11,11 @@ parent:
   - "[[004.85 Machine Learning (notion)]]"
   - "[[004. 8 AI MOC]]"
 ---
+- [[NLP]]
+- [[Computer Vision|CV]]
+- [[Reinforcement Learning|RL]]
+
+
 ![[Pasted image 20230503092745.png|330]] ![[Pasted image 20230503092845.png|330]]
 
 
