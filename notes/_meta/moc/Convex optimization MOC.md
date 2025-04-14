@@ -34,7 +34,7 @@ tags:
 
 
 [[Home work 4 - Optimization]]
-[[НИР]]
+[[НИР. Link review]]
 
 [[Gradient-Based Methods]]
 
