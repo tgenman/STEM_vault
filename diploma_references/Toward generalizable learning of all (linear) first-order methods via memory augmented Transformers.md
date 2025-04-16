@@ -93,10 +93,10 @@ NeurIPS (Conference on Neural Information Processing Systems)
 - [[One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention - Arvind Mahankali (arxiv)]]
 - [[Transformers learn to implement preconditioned gradient descent for in-context learning - Kwangjun Ahn (neurips)]]
 - [[Transformers learn higher-order optimization methods for in-context learning. A study with linear models - Deqing Fu (arxiv)]]
-- Max Vladymyrov, Johannes Von Oswald, Mark Sandler, and Rong Ge. Linear transformers are versatile in-context learners. arXiv preprint arXiv:2402.14180, 2024. 
-- Gabriel Goh. Why momentum really works. Distill, 2017. doi: 10.23915/distill.00006. URL http://distill.pub/2017/momentum.
+- [[Linear transformers are versatile in-context learners - Max Vladymyrov (neurips)]] 
+- [[Why momentum really works - Gabriel Goh (distil)]]
 - [[Memformer. A memory-augmented transformer for sequence modeling - Qingyang Wu (ACL)]]
-- Dongkuan Xu, Junjie Liang, Wei Cheng, Hua Wei, Haifeng Chen, and Xiang Zhang. Transformerstyle relational reasoning with dynamic memory updating for temporal network modeling. In Proceedings of the AAAI conference on artificial intelligence, volume 35, pages 4546–4554, 2021.
+- [[Transformerstyle relational reasoning with dynamic memory updating for temporal network modeling - Dongkuan Xu (aaai)]]
 - Ruiqi Zhang, Spencer Frei, and Peter L Bartlett. Trained transformers learn linear models incontext. Journal of Machine Learning Research, 25(49):1–55, 2024.
 - Imanol Schlag, Kazuki Irie, and Jürgen Schmidhuber. Linear transformers are secretly fast weight programmers. In International Conference on Machine Learning, pages 9355–9366. PMLR, 2021.
 - Charlie Snell, Jaehoon Lee, Kelvin Xu, and Aviral Kumar. Scaling llm test-time compute optimally can be more effective than scaling model parameters. ICLR 2025 arXiv:2408.03314, 2024.

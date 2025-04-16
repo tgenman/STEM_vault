@@ -7,6 +7,9 @@ parent:
   - "[[Supervised Learning]]"
 ---
 
+- [[Binary classification]]
+- [[Multiclass classification]]
+- [[Multilabel classification]]
 
 
 «Разделяет объекты по заранее известному признаку. Носки по цветам, документы по языкам, музыку по жанрам»

@@ -11,16 +11,16 @@ parent:
   - "[[004.85 Machine Learning (notion)]]"
   - "[[004. 8 AI MOC]]"
 ---
+- [[yandex course - ML (temp)]]
+
 - [[NLP]]
 - [[Computer Vision|CV]]
 - [[Reinforcement Learning|RL]]
 
-
-![[Pasted image 20230503092745.png|330]] ![[Pasted image 20230503092845.png|330]]
-
+Method = [[Model (ML)]] + [[Loss function|Criterion]]  + [[Algorithm of learning]]
 
 
-![[BED72584-D248-42EF-803E-16C6878D5607.jpeg]]
+
 
 [[Machine Learning exam questions-answers]]
 [[Machine Learning exam Theoretical minimum]]
@@ -67,15 +67,16 @@ Any quantity that you set before the training process .
 Any quantity that the model creates or modifies during the training process
 
 Cross-validation
-Underfitting, 
-overfitting, 
+[[Underfitting]], 
+[[Overfitting]], 
 training stage,  validation stage, testing stage
-[[Training set]]
+[[Training Dataset]]
 regularization
 
 
-[[Labels]]
-[[Features]]
+- [[Object (ML)]]
+- [[Features]]
+- [[Labels]]
 
 
 - [[Loss function]]
@@ -124,17 +125,16 @@ regularization
 
 ---
 
-
-1. $\mathcal{Y} = \mathbb{R}$ или $\mathcal{Y} = \mathbb{R}^M$ — регрессия. Примерами задач регрессии является предсказание продолжительности поездки на каршеринге, спрос на конкретный товар в конкретный день или погода в вашем городе на завтра (температура, влажность и давление — это несколько вещественных чисел, которые формируют вектор нашего предсказания).
-
-2. $\mathcal{Y} = \{0, 1\}$ — бинарная классификация. Например, мы можем предсказывать, кликнет ли пользователь по рекламному объявлению, вернёт ли клиент кредит в установленный срок, сдаст ли студент сессию, случится ли определённое заболевание у пациента, есть ли на картинке банан.
-
-3. $\mathcal{Y} = \{1, \ldots, K\}$ — многоклассовая (multiclass) классификация. Например, определение предметной области для научной статьи (математика, биология, психология и т.д.).
-
-4. $\mathcal{Y} = \{0, 1\}^K$ — многоклассовая классификация с пересекающимися классами (multilabel classification). Например, задача автоматического проставления тегов для ресторанов (логично, что ресторан может одновременно иметь несколько тегов).
-
-5. $\mathcal{Y}$ — конечное упорядоченное множество — ранжирование. Основным примером является задача ранжирования поисковой выдачи, где для любого запроса нужно отсортировать все возможные документы по релевантности этому запросу; при этом оценка релевантности имеет смысл только в контексте сравнения двух документов между собой, её абсолютное значение не несёт.
-
+### По задачам
+- [[Regression (machine learning)]]
+- [[Classification]]
+	- [[Binary classification]]
+	- [[Multiclass classification]]
+	- [[Multilabel classification]]
+- [[Ranking]]
+- image segmentation
+- machine translation
+- generative models, which aim to create new, plausible objects.
 
 ### По типам алгоритмов
 - [[Supervised Learning]] (есть заданная выборка, есть учитель)
@@ -152,7 +152,7 @@ regularization
 		- [[Polynomial regression]]
 		- [[Linear and Polynomial Regression]]
 		- Ridge-Lasso Regression
-	- Ранжирование
+	- [[Ranking]]
 - [[Unsupervised Learning]] (есть заданная выборка, нет учителя)
 	- [[Clustering (machine learning)]]
 	- [[Поиск правил (ассоциация)]]
@@ -187,3 +187,11 @@ regularization
 [Объяснения от гугла про разные аспекты машинного обучения](https://pair.withgoogle.com/explorables/)
 [Essential Guide to keep up with AI/ML/DL/CV](https://github.com/BAILOOL/DoYouEvenLearn/blob/master/README.md)
 
+
+---
+
+![[Pasted image 20230503092745.png|330]] ![[Pasted image 20230503092845.png|330]]
+
+
+
+![[BED72584-D248-42EF-803E-16C6878D5607.jpeg]]
