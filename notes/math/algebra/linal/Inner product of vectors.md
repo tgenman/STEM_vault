@@ -2,7 +2,6 @@
 aliases:
   - Скалярное произведение векторов
   - Scalar product
-publish: true
 anki: false
 tags: 
 parent:
