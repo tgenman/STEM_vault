@@ -1,7 +1,6 @@
 ---
 aliases:
   - Обращение к силе
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

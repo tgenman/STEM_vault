@@ -1,7 +1,6 @@
 ---
 aliases:
   - Соломенное чучело
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

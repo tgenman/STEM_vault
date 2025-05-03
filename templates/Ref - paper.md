@@ -1,5 +1,4 @@
 ---
-publish: true
 created: {{date}} {{time}}
 doi:
 author:

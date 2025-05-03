@@ -1,6 +1,5 @@
 ---
 aliases: [Отвращение]
-publish: true
 ---
 links: [[Aversion Factoring]]
 

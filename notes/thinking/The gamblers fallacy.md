@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ошибка игрока
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 connected:

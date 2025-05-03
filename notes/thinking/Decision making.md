@@ -1,6 +1,5 @@
 ---
 aliases: [decision-making, Принятие решений]
-publish: true
 ---
 links: [[Goal]]
 

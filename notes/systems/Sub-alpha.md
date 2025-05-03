@@ -1,6 +1,5 @@
 ---
 aliases: [Подальфа] 
-publish: true
 ---
 links: [[ALPHA ST|Альфа СМ]], [[OMG Essence 1.2 2018 — Kernel and Language for Software Engineering Methods|OMG Essence]], [[СМ - 6 Как описывать системы]]
 

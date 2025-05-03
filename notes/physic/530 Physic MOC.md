@@ -1,7 +1,6 @@
 ---
 aliases: [Физика]
 tags: MOC
-publish: true
 ---
 links: [[🌍Interests MOC]], [[51 Math MOC]]
 people: [[👤Feynman, Richard Phillips]], [[👤Tegmark, Max]]

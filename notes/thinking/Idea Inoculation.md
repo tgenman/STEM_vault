@@ -1,6 +1,5 @@
 ---
 aliases: [Привика идеей]
-publish: true
 ---
 links: [[Rationality|Рациональность]]
 

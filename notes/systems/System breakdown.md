@@ -1,6 +1,5 @@
 ---
 aliases: [Системное разбиение, System decomposition]
-publish: true
 ---
 links: [[Relationship 'has a']], [[System thinking]], [[СМ - 2 Воплощение и описание системы]]
 

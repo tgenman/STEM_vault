@@ -1,6 +1,5 @@
 ---
 aliases: [Внутренний симулятор]
-publish: true
 ---
 links: [[📚 CFAR - Handbook 2019]]
 

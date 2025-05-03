@@ -1,6 +1,5 @@
 ---
 aliases: [Альфа СМ, Abstract-Level Progress Health Attribute]
-publish: true
 ---
 links: [[СМ - 6 Как описывать системы]], [[OMG Essence 1.2 2018 — Kernel and Language for Software Engineering Methods|OMG Essence]], [[Work product ST]]
 

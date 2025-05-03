@@ -1,6 +1,5 @@
 ---
 aliases: [Декларативное знание]
-publish: true
 ---
 links: [[Knowledge]], [[Procedural knowledge]]
 

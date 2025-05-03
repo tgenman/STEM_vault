@@ -1,6 +1,5 @@
 ---
 aliases: [Системная инженерия] 
-publish: true
 ---
 links: [[System thinking]]
 

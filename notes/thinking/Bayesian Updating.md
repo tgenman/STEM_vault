@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[Bayes’ Theorem]], [[Байесианство]], [[Rationality|Рациональность]]
 

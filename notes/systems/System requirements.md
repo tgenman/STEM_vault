@@ -3,7 +3,6 @@ aliases:
   - Functional requirements
   - Системные требования
   - Функциональные требования
-publish: true
 anki: false
 created: 2023-12-25 18:28
 parent:

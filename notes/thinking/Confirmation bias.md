@@ -2,7 +2,6 @@
 aliases:
   - Предвзятость подтверждения
   - Myside bias
-publish: true
 parent:
   - "[[Cognitive Bias MOC|Cognitive Biases]]"
 created: 2024-04-26 14:59

@@ -1,6 +1,5 @@
 ---
 aliases: [Управление сложностью, Снижение сложности]
-publish: true
 ---
 links: [[Heuristic|Эвристика]], [[Complexity]]
 

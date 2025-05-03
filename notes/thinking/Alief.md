@@ -1,7 +1,6 @@
 ---
 aliases:
   - Anticipation
-publish: true
 anki: false
 ---
 links: #обс/linking

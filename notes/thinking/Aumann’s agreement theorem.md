@@ -1,6 +1,5 @@
 ---
 aliases: [Теорема Ауманна]
-publish: true
 ---
 links: [[Rationality]], [[Double Crux|Двойной крест]]
 

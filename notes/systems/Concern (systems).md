@@ -2,7 +2,6 @@
 aliases:
   - Интерес
   - Предмет интереса
-publish: true
 anki: false
 created: 2023-12-25 18:54
 parent:

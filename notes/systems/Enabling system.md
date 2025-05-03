@@ -1,6 +1,5 @@
 ---
 aliases: [lifecycle enabling system, Система в обеспечении, Система обеспечения жизненного цикла]
-publish: true
 ---
 links: [[System (system thinking)]], [[СМ - 4 Системные уровни]], [[System-of-interest|Целевая система]], [[Environment systems]]
 

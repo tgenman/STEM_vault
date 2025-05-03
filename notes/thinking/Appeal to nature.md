@@ -2,7 +2,6 @@
 aliases:
   - Naturalistic fallacy
   - Апелляция к природе
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

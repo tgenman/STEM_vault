@@ -1,7 +1,6 @@
 ---
 aliases:
   - Уловка Галлилея
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 connected:

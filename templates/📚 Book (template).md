@@ -3,7 +3,6 @@ aliases:
 tags:
   - book📚
   - status/BACKLOG_🌰
-publish: true
 connected: 
 author: 
 family: 

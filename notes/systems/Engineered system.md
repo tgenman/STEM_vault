@@ -1,6 +1,5 @@
 ---
 aliases: [Наша система, Managed system, MySystem, OurSystem, System in hand, Система в руках] 
-publish: true
 ---
 links: [[System (system thinking)]], [[System-of-interest|Целевая система]]
 

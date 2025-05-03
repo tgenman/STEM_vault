@@ -1,6 +1,5 @@
 ---
 aliases: [Метод]
-publish: true
 ---
 links: #обс/linking 
 

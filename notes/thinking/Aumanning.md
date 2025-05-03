@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[Aumann’s agreement theorem]], [[Double Crux|Двойной крест]], [[Internal Double Crux|Внутренний двойной крест]]
 

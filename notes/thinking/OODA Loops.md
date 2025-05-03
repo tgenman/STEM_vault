@@ -1,6 +1,5 @@
 ---
 aliases: [Цикл НОРД, Петля Бойда]
-publish: true
 ---
 links: [[📚 CFAR - Handbook 2019]]
 

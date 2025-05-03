@@ -1,6 +1,5 @@
 ---
 aliases: [Описание системы]
-publish: true
 ---
 links: [[System thinking]], [[СМ - 2 Воплощение и описание системы]]
 

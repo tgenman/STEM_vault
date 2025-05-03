@@ -1,7 +1,6 @@
 ---
 aliases:
   - Противоречие (логическая ошибка)
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

@@ -1,6 +1,5 @@
 ---
 aliases: [Сложность]
-publish: true
 ---
 links: [[Reduce complexity]], [[System thinking]] 
 

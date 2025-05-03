@@ -1,7 +1,6 @@
 ---
 aliases:
   - Черное и белое
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

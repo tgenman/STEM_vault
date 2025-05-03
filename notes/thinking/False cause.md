@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ложная причина
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

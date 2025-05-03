@@ -1,7 +1,6 @@
 ---
 aliases:
   - Аргумент к утверждению или уверенности
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

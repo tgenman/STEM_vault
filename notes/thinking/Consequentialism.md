@@ -1,6 +1,5 @@
 ---
 aliases: [Консеквенциализм]
-publish: true
 ---
 links: [[Philosophy|Философия]], [[Ethics]]
 

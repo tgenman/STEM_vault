@@ -1,7 +1,6 @@
 ---
 aliases:
   - Система (системное мышление)
-publish: true
 parent:
   - "[[System thinking]]"
 ---

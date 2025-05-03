@@ -1,6 +1,5 @@
 ---
 aliases: [Тест кнопки]
-publish: true
 ---
 links: [[Goal Factoring|Факторизация целей]]
 

@@ -1,6 +1,5 @@
 ---
 aliases: [Классификация]
-publish: true
 ---
 links: [[Систематика]], [[Relationship 'is a']]
 

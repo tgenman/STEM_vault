@@ -1,7 +1,6 @@
 ---
 aliases:
   - Апелляция к авторитету
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ошибка наблюдателя
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 connected:

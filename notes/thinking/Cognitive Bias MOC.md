@@ -2,7 +2,6 @@
 aliases:
   - Cognitive Bias
   - Когнитивное искажение
-publish: true
 created: 2024-04-11 15:32
 parent:
   - "[[Rationality]]"

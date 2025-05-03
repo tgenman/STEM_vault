@@ -1,6 +1,5 @@
 ---
 aliases: [Эмерджентность, Системный переход]
-publish: true
 ---
 links:  [[System (system thinking)]], [[СМ - 4 Системные уровни]]
 

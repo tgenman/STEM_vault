@@ -1,6 +1,5 @@
 ---
 aliases: [Дебаггинг]
-publish: true
 ---
 links: [[Bug|Баг]], [[Self-contained debugging]]
 

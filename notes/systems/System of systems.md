@@ -1,6 +1,5 @@
 ---
 aliases: [Система систем]
-publish: true
 ---
 links: [[System (system thinking)]], [[СМ - 4 Системные уровни]] 
 

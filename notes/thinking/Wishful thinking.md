@@ -1,7 +1,6 @@
 ---
 aliases:
   - Желаемое за действительное
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

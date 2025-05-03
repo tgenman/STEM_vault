@@ -1,6 +1,5 @@
 ---
 aliases: [Калибровка]
-publish: true
 ---
 links: [[Instrumental rationality]]
 

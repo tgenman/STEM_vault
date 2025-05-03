@@ -1,7 +1,6 @@
 ---
 aliases:
   - Переход на личности
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

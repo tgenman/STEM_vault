@@ -1,6 +1,5 @@
 ---
 aliases: [Территория, территории]
-publish: true
 ---
 links: [[Rationality|Рациональность]]
 

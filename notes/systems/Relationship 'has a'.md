@@ -1,6 +1,5 @@
 ---
 aliases: [Relationship part of, Relationship Composition, Отношение содержит, Отношение состава, Отношение часть-целое]
-publish: true
 ---
 links: [[Relationship 'is a']]
 

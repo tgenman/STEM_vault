@@ -1,7 +1,6 @@
 ---
 aliases:
   - Склонность к запоздалым суждениям
-publish: true
 anki: false
 created: 2024-04-26 15:02
 parent:

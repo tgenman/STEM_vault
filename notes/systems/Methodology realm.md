@@ -1,6 +1,5 @@
 ---
 aliases: [Методологическая действительность] 
-publish: true
 ---
 links: [[СМ - 3 Роли]], [[Endeavour realm]]
 

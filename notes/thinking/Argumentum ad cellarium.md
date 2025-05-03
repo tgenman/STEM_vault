@@ -1,7 +1,6 @@
 ---
 aliases:
   - Аргумент к социальной неуспешности
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases: 
 created: 2024-04-26 15:04
 parent:

@@ -1,6 +1,5 @@
 ---
 aliases: [Выявление]
-publish: true
 ---
 links: [[System (system thinking)]]
 

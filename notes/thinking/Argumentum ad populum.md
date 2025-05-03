@@ -3,7 +3,6 @@ aliases:
   - Bandwagon
   - Мнение масс
   - Все в одном вагоне
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

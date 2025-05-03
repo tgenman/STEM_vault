@@ -1,7 +1,6 @@
 ---
 aliases:
   - Сведение к абсурду
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

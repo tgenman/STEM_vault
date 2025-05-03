@@ -1,7 +1,6 @@
 ---
 aliases:
   - Аргумент к незнанию + Бог белых пятен
-publish: true
 ---
 Argument from ignorance + God of the gaps
 - Something is true because there is no euidence thatitis

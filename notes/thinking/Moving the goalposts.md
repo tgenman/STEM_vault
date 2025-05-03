@@ -1,7 +1,6 @@
 ---
 aliases:
   - Синдром отодвигания ворот
-publish: true
 parent:
   - "[[162.5 Logical Fallacies]]"
 ---

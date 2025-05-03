@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[📚 CFAR - Handbook 2019]], [[Inside View]]
 

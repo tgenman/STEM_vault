@@ -1,7 +1,6 @@
 ---
 aliases: Личное развитие
 created: 2023-09-07 23:35
-publish: true
 ---
 
 **Connected with:**

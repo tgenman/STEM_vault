@@ -1,6 +1,5 @@
 ---
 aliases: [Ограничения]
-publish: true
 ---
 links: #обс/linking 
 

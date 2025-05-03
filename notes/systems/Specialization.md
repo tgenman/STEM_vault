@@ -1,6 +1,5 @@
 ---
 aliases: [Специализация]
-publish: true
 ---
 links: [[Систематика]], [[Relationship 'is a']]
 
