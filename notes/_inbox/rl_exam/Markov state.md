@@ -1,7 +1,6 @@
 ---
 aliases:
   - Information State
-publish: true
 anki: false
 created: 2024-10-24 19:33
 parent:

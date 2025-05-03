@@ -1,6 +1,5 @@
 ---
 tags: course🎓
-publish: true
 ---
 links: [[Machine Learning MOC|Машинное обучение]]
 status: #status/BACKLOG_🌰

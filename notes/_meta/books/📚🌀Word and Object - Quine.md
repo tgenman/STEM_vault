@@ -1,6 +1,5 @@
 ---
 tags: book📚
-publish: true
 ---
 links: #обс/linking
 title: Word and Object

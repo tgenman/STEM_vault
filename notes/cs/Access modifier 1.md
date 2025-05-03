@@ -1,6 +1,5 @@
 ---
 aliases: [Модификатор доступа]
-publish: true
 ---
 links: [[Object-oriented programming|ООП]]
 

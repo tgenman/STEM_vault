@@ -1,6 +1,5 @@
 ---
 aliases: [Принцип открытости-закрытости]
-publish: true
 ---
 links: [[SOLID principles|СОЛИД принципы]]
 

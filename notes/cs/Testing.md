@@ -1,6 +1,5 @@
 ---
 aliases: [Тестирование ПО]
-publish: true
 ---
 links: [[004 IT MOC]], [[004.41 Software Development MOC]]
 

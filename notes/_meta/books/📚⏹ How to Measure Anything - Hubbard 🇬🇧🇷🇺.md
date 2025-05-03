@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - book📚
-publish: true
 ---
 status: #status/TODO_🌱
 links:  [[Вычисления в уме]],[[Instrumental rationality]], [[Бизнес]]

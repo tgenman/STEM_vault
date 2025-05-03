@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚
   - status/BACKLOG_🌰
-publish: true
 ---
 links: [[Quantum Computing]], [[Квантовый компьютер]], [[51 Math MOC|Математика]]
 recom: 

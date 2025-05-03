@@ -1,7 +1,6 @@
 ---
 aliases: [Леонард Эйлер, Эйлер]
 tags: person👤
-publish: true
 ---
 links: -
 profession: [[Математик]]

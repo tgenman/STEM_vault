@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚/classbook📖
   - status/IN_PROGRESS_🌿
-publish: true
 connected:
   - "[[512.64  Linear algebra MOC]]"
 author:

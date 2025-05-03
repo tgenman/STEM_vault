@@ -1,7 +1,6 @@
 ---
 aliases:
   - Информатика
-publish: true
 tags:
   - MOC
 ---

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Неравенство Коши-Буняковского-Шварца
-publish: true
 created: 2024-07-03 22:10
 parent:
   - "[[512.1 Elementary Algebra MOC]]"

@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-05-09 11:28
 connected: 
 parent:

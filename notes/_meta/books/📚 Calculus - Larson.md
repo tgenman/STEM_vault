@@ -3,7 +3,6 @@ aliases:
 tags:
   - status/BACKLOG_🌰
   - book📚/classbook📖
-publish: true
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
 author:

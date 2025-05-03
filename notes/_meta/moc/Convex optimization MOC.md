@@ -1,7 +1,6 @@
 ---
 aliases:
   - Выпуклая оптимизация
-publish: true
 created: 2024-10-17 23:20
 parent:
   - "[[51 Math MOC]]"

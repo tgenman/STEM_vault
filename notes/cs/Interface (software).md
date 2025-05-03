@@ -1,6 +1,5 @@
 ---
 aliases: [Интерфейс (ПО), интерфейс]
-publish: true
 ---
 links: [[Object-oriented programming|ООП]], [[004.41 Software Development MOC|Разработка ПО]]
 

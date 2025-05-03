@@ -1,7 +1,6 @@
 ---
 aliases: [Hugh Everett, Хью Эверетт]
 tags: person👤
-publish: true
 ---
 links:
 profession: [[530 Physic MOC|Физика]]

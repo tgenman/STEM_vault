@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[Архитектура (ПО)]],  [[Design patterns]]
 

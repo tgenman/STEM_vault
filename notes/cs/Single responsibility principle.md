@@ -1,6 +1,5 @@
 ---
 aliases: [Принцип единственной ответственности]
-publish: true
 ---
 links: [[SOLID principles]]
 

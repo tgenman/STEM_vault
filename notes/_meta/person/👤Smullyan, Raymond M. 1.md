@@ -1,7 +1,6 @@
 ---
 aliases: [Raymond M. Smullyan, Раймонд Смаллиан]
 tags: person👤/writer✏️
-publish: true
 ---
 links: -
 profession: [[Логик]], [[Популязатор науки]]

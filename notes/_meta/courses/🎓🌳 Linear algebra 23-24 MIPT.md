@@ -2,7 +2,6 @@
 tags:
   - course🎓
   - status/DONE_🌳
-publish: true
 author:
   - "[[👤 Елишев, Андрей Михайлович]]"
 provider: "[[🏛МФТИ|MIPT]]"

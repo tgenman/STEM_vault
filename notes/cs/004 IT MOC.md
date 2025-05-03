@@ -5,7 +5,6 @@ aliases:
   - Information Technologies
 tags:
   - MOC
-publish: true
 parent: []
 ---
 [[Computer Science MOC]]

@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚
   - status/BACKLOG_🌰
-publish: true
 parent:
   - "[[Symmetry|Симметрия]]"
   - "[[514 Geometry MOC]]"

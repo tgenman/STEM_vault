@@ -1,8 +1,6 @@
 ---
 aliases:
   - State value function
-publish: true
-anki: false
 created: 2025-02-12 14:15
 parent:
   - "[[Reinforcement Learning]]"

@@ -1,6 +1,5 @@
 ---
 tags: person👤
-publish: true
 ---
 links: -
 profession: [[Логик]], [[Философ]]

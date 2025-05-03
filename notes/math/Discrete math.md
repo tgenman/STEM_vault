@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Дискретная математика
 created: 2023-11-01 12:04

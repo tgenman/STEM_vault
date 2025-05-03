@@ -1,7 +1,6 @@
 ---
 aliases:
   - Отношение эквивалентности
-publish: true
 anki: true
 created: 2023-10-21 17:41
 parent:

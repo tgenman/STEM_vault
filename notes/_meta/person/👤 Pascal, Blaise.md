@@ -1,7 +1,6 @@
 ---
 aliases: [Blaise Pascal, Блез Паскаль]
 tags: person👤
-publish: true
 ---
 links:
 profession: [[Математик]], [[Физик]]

@@ -1,6 +1,5 @@
 ---
 tags: course🎓
-publish: true
 ---
 links: [[Machine Learning MOC]]
 status: #status/ON_HOLD_🌥️

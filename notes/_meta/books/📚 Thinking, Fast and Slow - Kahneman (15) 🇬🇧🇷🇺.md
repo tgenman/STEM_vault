@@ -1,7 +1,6 @@
 ---
 aliases: [Думай медленно... решай быстро]
 tags: book📚/audiobook🎧
-publish: true
 ---
 status: #status/DONE_🌳
 links: [[Rationality]], [[Decision making]], [[Поведенческая экономика]]

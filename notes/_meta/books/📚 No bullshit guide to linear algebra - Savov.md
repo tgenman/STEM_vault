@@ -2,7 +2,6 @@
 tags:
   - book📚/classbook📖
   - status/ON_HOLD_🌥️
-publish: true
 created: 2023-08-09 13:08
 connected:
   - "[[512.64  Linear algebra MOC]]"

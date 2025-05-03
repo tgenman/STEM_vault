@@ -2,7 +2,6 @@
 tags:
   - course🎓
   - status/DONE_🌳
-publish: true
 author:
   - "[[👤 Торопов, Никита Игоревич]]"
 provider: "[[🏛МФТИ|MIPT]]"

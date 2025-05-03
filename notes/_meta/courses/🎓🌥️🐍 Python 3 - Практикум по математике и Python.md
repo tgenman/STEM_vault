@@ -1,6 +1,5 @@
 ---
 tags: course🎓
-publish: true
 ---
 links: [[51 Math MOC]], [[004.432.2 🐍 Python MOC]]
 author: 

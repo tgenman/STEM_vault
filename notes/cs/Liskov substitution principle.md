@@ -1,6 +1,5 @@
 ---
 aliases: [Принцип подстановки Барбары Лисков, LSP]
-publish: true
 ---
 links: [[SOLID principles|СОЛИД принципы]]
 

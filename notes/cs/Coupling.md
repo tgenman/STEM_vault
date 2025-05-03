@@ -1,7 +1,5 @@
 ---
 aliases: [Сопряжение]
-publish: true
----
 links: [[Object-oriented programming|ООП]], [[Cohesion|Связанность]]
 
 ---

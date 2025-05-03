@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚
   - status/BACKLOG_🌰
-publish: true
 ---
 links: [[51 Math MOC|Математика]], [[004.41 Software Development MOC]]
 recom: 

@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[004.655 SQL]]
 

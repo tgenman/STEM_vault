@@ -1,6 +1,5 @@
 ---
 tags: book📚/classbook📖
-publish: true
 ---
 links: [[System thinking]], [[System engineering]]
 title: Business Objects - Re-Engineering for Re-Use 3rd Ed - early draft - 20140927

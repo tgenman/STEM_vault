@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[IDE. Среды разработки]], [[004.432.2 🐍 Python MOC]], [[PyCharm]]
 

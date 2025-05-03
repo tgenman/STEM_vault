@@ -1,7 +1,6 @@
 ---
 aliases: [Richard Phillips Feynman, Richard Feynman, Feynman, Ричард Фейнман]
 tags: person👤
-publish: true
 ---
 links:
 profession: [[Физик]]

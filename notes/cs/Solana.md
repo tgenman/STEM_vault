@@ -1,6 +1,5 @@
 ---
 aliases: [Солана]
-publish: true
 ---
 links: [[Blockchain]]
 

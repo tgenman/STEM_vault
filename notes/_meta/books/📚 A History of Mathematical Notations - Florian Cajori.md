@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚
   - status/BACKLOG_🌰
-publish: true
 connected:
   - "[[51(091) Math History MOC]]"
 author:

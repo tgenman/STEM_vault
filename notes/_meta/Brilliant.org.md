@@ -1,7 +1,6 @@
 ---
 aliases:
   - Бриллиант
-publish: true
 created: 2023-05-06 15:50
 parent:
   - "[[Platform|Платформа]]"

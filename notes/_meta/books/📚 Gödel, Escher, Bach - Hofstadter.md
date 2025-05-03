@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚
   - status/ON_HOLD_🌥️
-publish: true
 connected:
   - "[[Теоремы Геделя о неполноте]]"
 ---

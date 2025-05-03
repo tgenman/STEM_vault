@@ -1,6 +1,5 @@
 ---
 aliases: [Abstract overridable routine, абстрактный переопределяемый метод]
-publish: true
 ---
 links: [[Inheritance (Software)|Наследование]], [[Оverridable method|Переопределяемый метод]], [[Non-overridable method|непереопределяемый метод]]
 

@@ -1,6 +1,5 @@
 ---
 aliases: [Принцип разделения интерфейсов]
-publish: true
 ---
 links: [[SOLID principles|СОЛИД принципы]]
 

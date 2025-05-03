@@ -1,6 +1,5 @@
 ---
 aliases: [Полезность, Utility]
-publish: true
 ---
 links: [[Теория потребительского выбора|ТПВ]], [[Микроэкономика MOC]], [[Кривая безразличия]], [[Marginal Utility]], [[Anti-utility]]
 

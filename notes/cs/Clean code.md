@@ -1,6 +1,5 @@
 ---
 aliases: [Чистый код]
-publish: true
 ---
 links: [[004.41 Software Development MOC]]
 

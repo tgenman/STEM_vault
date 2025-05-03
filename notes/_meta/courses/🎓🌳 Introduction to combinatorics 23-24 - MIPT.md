@@ -2,7 +2,6 @@
 tags:
   - course🎓
   - status/DONE_🌳
-publish: true
 author:
   - "[[ 👤 Ильинский, Дмитрий Геннадьевич]]"
 provider: "[[🏛МФТИ|MIPT]]"

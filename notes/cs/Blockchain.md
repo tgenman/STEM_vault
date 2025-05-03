@@ -1,6 +1,5 @@
 ---
 aliases: [Блокчейн]
-publish: true
 ---
 links: [[Криптовалюты]]
 

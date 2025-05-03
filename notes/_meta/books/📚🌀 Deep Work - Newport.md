@@ -1,6 +1,5 @@
 ---
 tags: book📚
-publish: true
 ---
 links: [[Learning to Learn]] [[Продуктивность]] [[Когнитивистика]]
 title: Deep Work: Rules for Focused Success in a Distracted World / В работу с головой. Паттерны успеха от IT-специалиста

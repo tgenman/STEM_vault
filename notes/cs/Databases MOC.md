@@ -1,6 +1,5 @@
 ---
 aliases: [Базы данных]
-publish: true
 ---
 links: [[004 IT MOC]], [[004.655 SQL]]
 

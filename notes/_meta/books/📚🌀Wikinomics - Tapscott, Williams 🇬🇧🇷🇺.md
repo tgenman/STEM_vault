@@ -1,6 +1,5 @@
 ---
 tags: book📚
-publish: true
 ---
 links: [[330 Economy MOC]] [[Бизнес]]  [[Важность сотрудничества]], [[Wikipedia]]
 title: Wikinomics: How Mass Collaboration Changes Everything

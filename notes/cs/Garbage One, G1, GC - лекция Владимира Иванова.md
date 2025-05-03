@@ -1,6 +1,5 @@
 ---
 tags: конспект
-publish: true
 ---
 links: [[Лекция]], [[🗑Garbage Collection]]
 

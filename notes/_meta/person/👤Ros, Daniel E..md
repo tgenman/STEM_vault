@@ -1,7 +1,6 @@
 ---
 aliases: [Daniel Rose, Даниэл Роуз]
 tags: person👤/writer✏️
-publish: true
 ---
 links: -
 profession: 

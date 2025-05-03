@@ -1,6 +1,5 @@
 ---
 aliases: [Холестерин]
-publish: true
 ---
 links: [[Вещества, бады]]
 

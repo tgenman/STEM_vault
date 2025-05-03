@@ -1,5 +1,4 @@
 ---
-publish: true
 ---
 links: [[004.43 Program Langs MOC]]
 

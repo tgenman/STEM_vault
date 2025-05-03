@@ -1,6 +1,5 @@
 ---
 aliases: [Эфир]
-publish: true
 ---
 links: [[Blockchain]], [[Ethereum|Эфир]], [[Криптовалюты]]
 

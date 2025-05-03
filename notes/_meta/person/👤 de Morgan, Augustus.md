@@ -3,7 +3,6 @@ aliases:
   - Огюстес де Морган
 tags:
   - person👤
-publish: true
 connected:
   - "[[Sets theory]]"
 ---

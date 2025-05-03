@@ -2,7 +2,6 @@
 tags:
   - course🎓
   - status/DONE_🌳
-publish: true
 author:
   - "[[👤 Жуковский, Максим Евгеньевич]]"
 provider: "[[🏛МФТИ|MIPT]]"

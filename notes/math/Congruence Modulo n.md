@@ -1,7 +1,6 @@
 ---
 aliases:
   - Сравнение по модулю n
-publish: true
 anki: true
 created: 2023-10-21 17:52
 parent:

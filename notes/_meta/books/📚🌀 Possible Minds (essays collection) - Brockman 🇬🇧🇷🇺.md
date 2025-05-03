@@ -1,6 +1,5 @@
 ---
 tags: book📚/essays
-publish: true
 ---
 status: #status/BACKLOG_🌰
 links: [[GAI]], [[004. 8 AI MOC]]

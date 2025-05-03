@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚/classbook📖
   - status/TODO_🌱
-publish: true
 connected:
   - "[[519.21  Probability theory]]"
   - "[[519.22 Statistic MOC]]"

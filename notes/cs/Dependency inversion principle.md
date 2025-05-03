@@ -1,6 +1,5 @@
 ---
 aliases: [Принцип инверсии зависимостей]
-publish: true
 ---
 links: [[SOLID principles|СОЛИД принципы]]
 

@@ -1,6 +1,5 @@
 ---
 aliases: [Предельная полезность]
-publish: true
 ---
 links: [[Микроэкономика MOC]], [[Marginal Attention]]
 

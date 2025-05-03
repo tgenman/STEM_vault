@@ -2,7 +2,6 @@
 tags:
   - course🎓
   - status/CLOSED_🍂
-publish: true
 archive: true
 ---
 links:  [[51 Math MOC]], [[Математическое мышление]]

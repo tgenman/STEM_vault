@@ -4,7 +4,6 @@ aliases:
 tags:
   - book📚/audiobook🎧
   - status/ON_HOLD_🌥️
-publish: true
 parent:
   - "[[Social Network|Социальные сети]]"
   - "[[519.17 Graph Theory MOC]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Классическое определение вероятности
-publish: true
 anki: true
 created: 2023-10-20 20:39
 parent:

@@ -1,6 +1,5 @@
 ---
 tags: book📚/audiobook🎧
-publish: true
 ---
 status: #status/ON_HOLD_🌥️
 links: [[GAI]], [[004. 8 AI MOC]], [[Трансгуманизм]]

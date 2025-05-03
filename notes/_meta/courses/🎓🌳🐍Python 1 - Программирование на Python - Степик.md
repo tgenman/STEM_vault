@@ -1,6 +1,5 @@
 ---
 tags: course🎓
-publish: true
 ---
 links: [[004.432.2 🐍 Python MOC|Питон]]
 status: #status/DONE_🌳

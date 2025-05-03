@@ -1,7 +1,6 @@
 ---
 aliases: [Alvin Toffler, Элвин Тоффлер]
 tags: person👤/writer✏️
-publish: true
 ---
 links:
 profession: #обс/фикс 

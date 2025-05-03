@@ -3,7 +3,6 @@ aliases:
   - Биекция
   - Взаимно однозначное отображение
   - Bijection
-publish: true
 anki: false
 parent:
   - "[[Function (math)]]"

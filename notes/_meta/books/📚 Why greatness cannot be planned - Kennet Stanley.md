@@ -1,6 +1,5 @@
 ---
 tags: book📚
-publish: true
 ---
 links: [[Планирование]]
 title: Why Greatness Cannot Be Planned: The Myth of the Objective

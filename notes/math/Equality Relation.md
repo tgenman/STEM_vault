@@ -1,7 +1,6 @@
 ---
 aliases:
   - Отношение равенства
-publish: true
 anki: true
 created: 2023-10-17 20:37
 parent:

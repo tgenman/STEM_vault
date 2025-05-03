@@ -1,5 +1,4 @@
 ---
-publish: true
 parent:
   - "[[dev ops]]"
   - "[[004 IT MOC]]"

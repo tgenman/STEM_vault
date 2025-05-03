@@ -1,7 +1,6 @@
 ---
 aliases:
   - Сортировка слиянием
-publish: true
 created: 2024-05-23 12:49
 parent:
   - "[[510.5 🐜Algorithms MOC]]"

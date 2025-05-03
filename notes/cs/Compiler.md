@@ -1,6 +1,5 @@
 ---
 aliases: [Компилятор, компилятором]
-publish: true
 ---
 links: [[004 IT MOC]], [[004.43 Program Langs MOC|Языки программирования]]
 

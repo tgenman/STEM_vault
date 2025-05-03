@@ -1,7 +1,6 @@
 ---
 aliases:
   - PoMDP
-publish: true
 anki: false
 created: 2025-02-12 14:13
 parent:

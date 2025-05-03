@@ -2,7 +2,6 @@
 aliases: 
 tags:
   - theorem
-publish: true
 anki: true
 created: 2023-10-21 17:58
 parent:

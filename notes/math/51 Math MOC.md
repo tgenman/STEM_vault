@@ -4,7 +4,6 @@ aliases:
   - Математика
 tags:
   - MOC
-publish: true
 domain: "[[Math]]"
 connected:
   - "[[530 Physic MOC]]"

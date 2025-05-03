@@ -1,6 +1,5 @@
 ---
 aliases: [Класс, класс, класса]
-publish: true
 ---
 links: [[Object-oriented programming]]
 

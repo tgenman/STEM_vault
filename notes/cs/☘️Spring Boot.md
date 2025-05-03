@@ -1,6 +1,5 @@
 ---
 aliases: [Спринг Бут]
-publish: true
 ---
 links: [[004.432.2 ☕️ Java MOC]]
 

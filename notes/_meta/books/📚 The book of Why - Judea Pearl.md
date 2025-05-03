@@ -1,6 +1,5 @@
 ---
 tags: book📚
-publish: true
 ---
 links: [[Наука]]  [[Байесианство]] [[Bayes' Rule]]
 title: The Book of Why: The New Science of Cause and Effect
