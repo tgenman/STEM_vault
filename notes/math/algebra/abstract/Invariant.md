@@ -1,6 +1,5 @@
 ---
 aliases: Инвариант
-publish: true
 ---
 links: [[51 Math MOC]]
 

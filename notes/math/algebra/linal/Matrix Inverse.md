@@ -1,7 +1,6 @@
 ---
 aliases:
   - Обратная матрица
-publish: true
 anki: true
 created: 2024-04-16 19:39
 parent:

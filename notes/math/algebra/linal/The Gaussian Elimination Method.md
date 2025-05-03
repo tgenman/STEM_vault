@@ -1,7 +1,6 @@
 ---
 aliases:
   - Элементарные преобразования матрицы
-publish: true
 anki: true
 parent:
   - "[[Systems of Linear Equations]]"

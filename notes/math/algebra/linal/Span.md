@@ -3,7 +3,6 @@ aliases:
   - Линейная оболочка
   - Линейный диапазон
   - Linear Hull
-publish: true
 created: 2024-07-03 22:16
 tags:
   - empty

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Умножение матрицы на скаляр
-publish: true
 anki: true
 created: 2024-04-16 19:30
 parent:

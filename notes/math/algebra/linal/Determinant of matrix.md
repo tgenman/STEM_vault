@@ -2,7 +2,6 @@
 aliases:
   - Определитель матрицы
   - Детерминант матрицы
-publish: true
 anki: false
 created: 2024-07-03 22:11
 parent: 

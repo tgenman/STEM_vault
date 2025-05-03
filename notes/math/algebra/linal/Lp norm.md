@@ -1,7 +1,6 @@
 ---
 aliases:
   - Среднее степенное
-publish: true
 anki: false
 created: 2024-02-03 17:57
 parent:

@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 anki: false
 parent:
   - "[[Числовая последовательность (множество)]]"

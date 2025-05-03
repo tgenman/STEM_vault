@@ -2,7 +2,6 @@
 aliases:
   - Null Matrix
   - Нулевая матрица
-publish: true
 created: 2023-08-14 17:49
 parent:
   - "[[Matrix]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Combinatorial number
-publish: true
 anki: true
 parent:
   - "[[Multinomial coefficient]]"

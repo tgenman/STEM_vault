@@ -2,7 +2,6 @@
 aliases:
   - Приведенная ступенчатая форма (ПСФ)
   - RREF
-publish: true
 anki: true
 created: 2024-04-16 20:22
 parent:

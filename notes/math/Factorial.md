@@ -1,7 +1,6 @@
 ---
 aliases:
   - Факториал
-publish: true
 anki: false
 parent:
   - "[[512.1 Elementary Algebra MOC]]"

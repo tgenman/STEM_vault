@@ -1,7 +1,6 @@
 ---
 aliases:
   - Скалярное произведение в евклидовом пространстве
-publish: true
 anki: true
 created: 2024-02-03 18:17
 parent:

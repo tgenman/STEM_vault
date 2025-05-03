@@ -1,8 +1,6 @@
 ---
 aliases:
   - Фрактал
-publish: true
-created: 2023-08-07 14:13
 parent:
   - "[[51 Math MOC]]"
 connected:

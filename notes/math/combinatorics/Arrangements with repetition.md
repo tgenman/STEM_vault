@@ -2,7 +2,6 @@
 aliases:
   - Размещения с повторениями
   - Расстановки с повторениями
-publish: true
 anki: true
 created: 2023-12-06 19:47
 parent: 

@@ -3,7 +3,6 @@ aliases:
   - Symmetric with respect to the origin
   - Нечетная функция
 created: 2024-07-03 22:14
-publish: true
 tags:
   - empty
 anki: false

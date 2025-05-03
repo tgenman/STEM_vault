@@ -1,7 +1,6 @@
 ---
 aliases:
   - Главная диагональ квадратной матрицы
-publish: true
 created: 2023-10-30 20:11
 parent:
   - "[[Matrix|Матрица]]"

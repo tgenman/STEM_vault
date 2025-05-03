@@ -1,7 +1,6 @@
 ---
 aliases:
   - Асимптотическая оценка снизу
-publish: true
 anki: true
 created: 2024-01-21 22:24
 parent:

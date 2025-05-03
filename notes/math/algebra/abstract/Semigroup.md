@@ -1,7 +1,6 @@
 ---
 aliases:
   - Полугруппа
-publish: true
 anki: false
 created: 2023-10-21 13:07
 parent:

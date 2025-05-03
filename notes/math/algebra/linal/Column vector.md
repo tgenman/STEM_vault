@@ -1,7 +1,6 @@
 ---
 aliases:
   - Вектор-столбец
-publish: true
 anki: true
 created: 2024-02-10 23:22
 parent:

@@ -3,7 +3,6 @@ aliases:
   - Бесконечная норма
   - Норма шахматной доски
   - Максимальная норма
-publish: true
 anki: true
 created: 2024-02-03 17:53
 parent:

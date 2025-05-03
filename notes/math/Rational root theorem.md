@@ -3,7 +3,6 @@ aliases:
   - Fundamental theorem of Algebra
 tags:
   - theorem
-publish: true
 anki: true
 created: 2023-08-08 22:44
 parent:

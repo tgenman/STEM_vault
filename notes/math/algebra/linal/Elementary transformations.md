@@ -2,7 +2,6 @@
 aliases:
   - Row operaions
   - Elementary matrices
-publish: true
 anki: false
 parent: 
 connected:

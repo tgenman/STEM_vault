@@ -1,7 +1,6 @@
 ---
 aliases:
   - Основное реккурентное соотношение
-publish: true
 anki: true
 created: 2023-10-24 20:17
 parent:

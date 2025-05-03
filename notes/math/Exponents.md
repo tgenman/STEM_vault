@@ -1,7 +1,6 @@
 ---
 aliases:
   - Экспонента
-publish: true
 created: 2023-05-11 22:05
 parent:
   - "[[512.1 Elementary Algebra MOC]]"

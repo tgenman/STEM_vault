@@ -2,7 +2,6 @@
 aliases:
   - Асимптотическая оценка сверху О
   - Большое О
-publish: true
 anki: false
 created: 2024-01-21 22:14
 parent:

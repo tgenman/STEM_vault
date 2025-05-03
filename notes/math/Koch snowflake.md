@@ -1,7 +1,6 @@
 ---
 aliases:
   - Снежинка Коха
-publish: true
 created: 2024-07-03 22:13
 parent:
   - "[[Fractal]]"

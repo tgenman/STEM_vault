@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-01-21 22:08
 parent:
   - "[[Асимптотический анализ]]"

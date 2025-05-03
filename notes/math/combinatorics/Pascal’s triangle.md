@@ -1,7 +1,6 @@
 ---
 aliases:
   - Треугольник Паскаля
-publish: true
 anki: true
 created: 2023-10-23 18:02
 parent:

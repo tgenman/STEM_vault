@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Сложение матриц
 created: 2024-04-16 19:28

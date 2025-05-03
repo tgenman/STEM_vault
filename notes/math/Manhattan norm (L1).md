@@ -2,7 +2,6 @@
 aliases:
   - Норма такси
   - норма Манхэттена
-publish: true
 anki: true
 parent:
   - "[[Norm of vector]]"

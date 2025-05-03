@@ -1,7 +1,6 @@
 ---
 aliases:
   - Комбинации без повторений
-publish: true
 anki: true
 parent:
   - "[[Set (math)]]"

@@ -1,6 +1,5 @@
 ---
 aliases: [Парабола]
-publish: true
 ---
 links: [[Conic Sections]]
 

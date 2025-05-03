@@ -2,7 +2,6 @@
 aliases:
   - Биномиальная теорема
   - Бином Ньютона
-publish: true
 anki: true
 created: 2023-10-23 18:17
 parent:

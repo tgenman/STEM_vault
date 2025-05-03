@@ -3,7 +3,6 @@ aliases:
   - REF
   - Ступенчатая форма (СФ)
   - Staircase Structure
-publish: true
 anki: true
 created: 2024-04-16 20:22
 parent:

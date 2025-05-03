@@ -1,7 +1,6 @@
 ---
 aliases:
   - Квадратная матрица
-publish: true
 created: 2024-02-11 00:03
 anki: false
 parent:

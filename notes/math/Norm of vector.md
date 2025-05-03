@@ -1,7 +1,6 @@
 ---
 aliases:
   - Норма вектора
-publish: true
 anki: false
 parent:
   - "[[Vector|Вектор]]"

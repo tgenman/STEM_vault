@@ -1,7 +1,6 @@
 ---
 aliases:
   - Расширенная матрица
-publish: true
 parent:
   - "[[The Gaussian Elimination Method|Метод Гаусса]]"
 ---

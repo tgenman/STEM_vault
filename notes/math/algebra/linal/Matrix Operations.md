@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Операции над матрицами
 parent:

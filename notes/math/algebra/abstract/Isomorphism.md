@@ -1,7 +1,6 @@
 ---
 aliases:
   - Изоморфизм
-publish: true
 anki: false
 created: 2024-01-08 13:35
 parent:

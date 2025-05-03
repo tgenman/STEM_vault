@@ -2,7 +2,6 @@
 aliases:
   - Ряд Тейлора
   - Taylor polynomials
-publish: true
 anki: false
 created: 2024-07-03 22:18
 parent: 

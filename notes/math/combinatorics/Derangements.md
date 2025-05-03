@@ -4,7 +4,6 @@ aliases:
   - Субфакториал
   - Смещения
   - Беспорядки
-publish: true
 anki: false
 created: 2023-10-30 20:35
 parent:

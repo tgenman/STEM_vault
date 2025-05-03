@@ -1,6 +1,5 @@
 ---
 aliases: [Бесконечность (математика)]
-publish: true
 ---
 links: [[51 Math MOC|Математика]]
 

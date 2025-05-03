@@ -1,7 +1,6 @@
 ---
 aliases:
   - Многозначное отображение
-publish: true
 anki: false
 parent:
   - "[[Mapping (math)]]"

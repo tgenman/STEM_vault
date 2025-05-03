@@ -1,7 +1,6 @@
 ---
 aliases:
   - Обратная функция
-publish: true
 parent:
   - "[[Function (math)]]"
 anki: false

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Симметричная разность множеств
-publish: true
 anki: false
 parent:
   - "[[Operations on sets]]"

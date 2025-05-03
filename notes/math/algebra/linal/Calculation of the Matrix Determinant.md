@@ -1,7 +1,6 @@
 ---
 aliases:
   - Вычисление определителя матрицы
-publish: true
 created: 2024-07-03 22:15
 parent:
   - "[[Determinant of matrix|Определитель матрицы]]"

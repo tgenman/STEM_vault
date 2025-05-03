@@ -1,7 +1,6 @@
 ---
 aliases:
   - Производная
-publish: true
 tags:
   - empty
 anki: false

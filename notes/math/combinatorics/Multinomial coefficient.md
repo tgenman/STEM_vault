@@ -1,7 +1,6 @@
 ---
 aliases:
   - Полиномиальный коэффициент
-publish: true
 anki: false
 created: 2023-11-11 13:27
 parent: 

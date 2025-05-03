@@ -1,7 +1,6 @@
 ---
 aliases:
   - Последовательность
-publish: true
 created: 2023-05-12 09:27
 parent:
   - "[[512.1 Elementary Algebra MOC]]"

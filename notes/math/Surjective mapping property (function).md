@@ -2,7 +2,6 @@
 aliases:
   - Сурьекция
   - Onto function mapping
-publish: true
 anki: false
 parent:
   - "[[Function (math)]]"

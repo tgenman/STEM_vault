@@ -1,7 +1,6 @@
 ---
 aliases:
   - Транспонирование матрицы
-publish: true
 anki: true
 created: 2023-10-30 20:14
 parent:

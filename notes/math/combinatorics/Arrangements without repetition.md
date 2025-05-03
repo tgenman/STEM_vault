@@ -2,7 +2,6 @@
 aliases:
   - Размещение без повторений
   - Расстановки без повторений
-publish: true
 anki: true
 parent:
   - "[[519.101 Combinatorics MOC]]"

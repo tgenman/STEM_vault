@@ -3,7 +3,6 @@ aliases:
   - Neutral element
   - Единичный элемент
   - Нулевой элемент
-publish: true
 anki: false
 created: 2023-10-21 17:04
 parent:

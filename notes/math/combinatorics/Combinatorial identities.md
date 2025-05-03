@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2023-10-23 19:11
 parent:
   - "[[519.101 Combinatorics MOC]]"

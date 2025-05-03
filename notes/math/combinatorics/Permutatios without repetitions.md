@@ -1,7 +1,6 @@
 ---
 aliases:
   - Перестановки без повторения
-publish: true
 anki: true
 created: 2023-12-05 20:37
 parent:

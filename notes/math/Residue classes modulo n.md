@@ -2,7 +2,6 @@
 aliases:
   - Modulus
   - Классы остатков по модулю n
-publish: true
 anki: true
 created: 2023-10-21 17:32
 parent:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Полиномиальная формула
-publish: true
 anki: true
 created: 2023-11-11 23:47
 parent: 

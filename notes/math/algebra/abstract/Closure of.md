@@ -1,7 +1,6 @@
 ---
 aliases:
   - Замкнуто
-publish: true
 anki: false
 created: 2024-02-03 20:10
 parent: 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Линейное уравнение
-publish: true
 anki: false
 created: 2023-05-11 17:24
 parent:

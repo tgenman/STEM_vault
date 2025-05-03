@@ -2,7 +2,6 @@
 aliases:
   - Евклидова норма
   - Среднее квадратическое
-publish: true
 anki: true
 parent:
   - "[[Norm of vector]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Сигма-алгебра подмножеств элементарных исходов
-publish: true
 anki: false
 created: 2023-10-22 14:13
 parent:

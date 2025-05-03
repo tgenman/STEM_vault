@@ -3,7 +3,6 @@ aliases:
   - Symmetric with respect to the y-axis
   - Четная функция
 created: 2024-07-03 22:12
-publish: true
 tags:
   - empty
 anki: false

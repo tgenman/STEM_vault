@@ -1,7 +1,6 @@
 ---
 aliases:
   - Система линейных уравнений (СЛУ)
-publish: true
 parent:
   - "[[512.64  Linear algebra MOC]]"
 ---

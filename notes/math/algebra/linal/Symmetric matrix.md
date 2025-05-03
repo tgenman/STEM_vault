@@ -1,7 +1,6 @@
 ---
 aliases:
   - Симметричная матрица
-publish: true
 anki: true
 created: 2024-02-11 00:02
 parent:

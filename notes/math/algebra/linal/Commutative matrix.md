@@ -1,7 +1,6 @@
 ---
 aliases:
   - Перестановочные матрицы
-publish: true
 anki: false
 connected:
   - "[[Commutative]]"

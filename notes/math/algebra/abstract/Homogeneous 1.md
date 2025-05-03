@@ -2,7 +2,6 @@
 aliases:
   - Гомогенный
   - Однородный
-publish: true
 anki: false
 created: 2024-02-03 18:14
 parent: 
