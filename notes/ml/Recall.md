@@ -2,7 +2,6 @@
 aliases:
   - Полнота
   - True positive rate TPR
-publish: true
 anki: false
 created: 2024-06-18 20:50
 parent:

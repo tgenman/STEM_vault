@@ -1,7 +1,6 @@
 ---
 aliases:
   - Функция распределения
-publish: true
 anki: false
 created: 2023-10-29 20:19
 parent:

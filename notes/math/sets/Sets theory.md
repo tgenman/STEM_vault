@@ -1,7 +1,6 @@
 ---
 aliases:
   - Теория множеств
-publish: true
 moc: "[[510.22 Sets theory MOC]]"
 parent:
   - "[[51 Math MOC]]"

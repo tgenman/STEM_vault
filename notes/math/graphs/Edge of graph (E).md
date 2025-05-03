@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ребро графа
-publish: true
 created: 2023-10-31 22:18
 parent:
   - "[[Simple Graph (G)]]"

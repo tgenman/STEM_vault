@@ -1,7 +1,6 @@
 ---
 aliases:
   - Алеф
-publish: true
 anki: false
 created: 2023-10-17 22:05
 parent:

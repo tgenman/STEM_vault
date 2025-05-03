@@ -1,9 +1,6 @@
 ---
 aliases:
   - Случайный граф
-publish: true
-anki: false
-created: 2024-01-06 21:42
 parent:
   - "[[Simple Graph (G)|Граф]]"
   - "[[Схема испытиний Бернулли]]"

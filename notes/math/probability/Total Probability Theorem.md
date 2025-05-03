@@ -1,6 +1,5 @@
 ---
 aliases: Формула полной вероятности
-publish: true
 anki: true
 created: 2023-12-09 19:16
 parent:

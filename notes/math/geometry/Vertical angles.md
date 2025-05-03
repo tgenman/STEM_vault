@@ -1,6 +1,5 @@
 ---
 aliases: Вертикальные углы
-publish: true
 created: 2023-05-11 14:48
 ---
 

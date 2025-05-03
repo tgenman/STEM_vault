@@ -1,8 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
-created: 2023-11-23 21:58
 parent:
   - "[[Path P]]"
   - "[[Walk W]]"

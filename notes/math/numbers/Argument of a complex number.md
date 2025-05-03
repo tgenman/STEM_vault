@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 tags:
   - empty
 anki: false

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Многоклассовая классификация с пересекающимися классами
-publish: true
 anki: false
 created: 2025-04-14 22:16
 parent:

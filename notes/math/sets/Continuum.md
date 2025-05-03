@@ -1,7 +1,6 @@
 ---
 aliases:
   - Континум
-publish: true
 created: 2024-07-03 22:14
 parent:
   - "[[Infinity (math)]]"

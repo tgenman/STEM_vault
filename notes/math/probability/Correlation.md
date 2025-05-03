@@ -1,7 +1,6 @@
 ---
 aliases:
   - Correlation coefficient
-publish: true
 anki: false
 created: 2024-04-24 18:54
 parent:

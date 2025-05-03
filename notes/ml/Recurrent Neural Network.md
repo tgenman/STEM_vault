@@ -1,7 +1,6 @@
 ---
 aliases:
   - Рекуррентные нейросети (RNN)
-publish: true
 created: 2024-06-17 14:47
 parent:
   - "[[Neural Networks (notion)]]"

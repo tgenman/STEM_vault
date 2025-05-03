@@ -1,8 +1,6 @@
 ---
 aliases:
   - Векторное подпространство
-publish: true
-created: 2024-07-03 22:10
 tags:
   - empty
 anki: false

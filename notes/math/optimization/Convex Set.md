@@ -1,7 +1,6 @@
 ---
 aliases:
   - Выпулкое множество
-publish: true
 anki: true
 created: 2024-10-27 21:46
 parent:

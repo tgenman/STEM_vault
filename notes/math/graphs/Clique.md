@@ -1,8 +1,6 @@
 ---
 aliases:
   - Клика
-publish: true
-anki: true
 created: 2023-12-16 21:26
 parent:
   - "[[Subgraph]]"

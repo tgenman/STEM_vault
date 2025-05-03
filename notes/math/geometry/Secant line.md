@@ -1,6 +1,5 @@
 ---
 aliases: [Секущая линия]
-publish: true
 ---
 links: [[Function (math)|Функция]], [[514 Geometry MOC]]
 

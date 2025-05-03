@@ -2,7 +2,6 @@
 aliases:
   - Arctangent
   - Арктангенс
-publish: true
 tags:
   - empty
 anki: false

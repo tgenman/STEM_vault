@@ -1,7 +1,6 @@
 ---
 aliases:
   - Бинарная классификация
-publish: true
 anki: false
 created: 2025-04-14 22:12
 parent:

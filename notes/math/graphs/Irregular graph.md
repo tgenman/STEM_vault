@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-11-15 14:55
 parent:
   - "[[Simple Graph (G)]]"

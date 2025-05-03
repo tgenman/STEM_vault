@@ -1,9 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
-created: 2023-11-24 17:54
-parent:
   - "[[Adjacency matrix]]"
   - "[[Walk W]]"
 connected: 

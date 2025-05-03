@@ -1,7 +1,6 @@
 ---
 aliases:
   - Простая цепь
-publish: true
 anki: true
 created: 2023-11-23 21:47
 parent:

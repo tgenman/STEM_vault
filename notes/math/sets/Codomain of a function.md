@@ -2,7 +2,6 @@
 aliases:
   - Кодомен
   - Target set
-publish: true
 anki: true
 created: 2024-01-17 20:02
 parent:

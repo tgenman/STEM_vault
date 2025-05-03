@@ -1,7 +1,6 @@
 ---
 aliases:
   - Нейронные сети
-publish: true
 parent:
   - "[[004.85 Machine Learning (notion)|ML]]"
 connected:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Многогранник
-publish: true
 anki: true
 created: 2023-12-19 21:28
 parent:

@@ -1,8 +1,6 @@
 ---
 aliases:
   - Полярная система координат
-publish: true
-anki: false
 created: 2024-07-03 22:15
 parent: 
 connected:

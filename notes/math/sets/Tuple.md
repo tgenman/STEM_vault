@@ -1,7 +1,6 @@
 ---
 aliases:
   - Кортеж
-publish: true
 anki: true
 created: 2023-12-05 21:03
 parent:

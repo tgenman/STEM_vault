@@ -1,7 +1,6 @@
 ---
 aliases:
   - Булеан
-publish: true
 parent:
   - "[[Set (math)]]"
 connected:

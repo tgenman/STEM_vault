@@ -1,7 +1,6 @@
 ---
 aliases:
   - Тригонометрия
-publish: true
 moc: "[[514.116 Trigonometry MOC]]"
 parent:
   - "[[Math]]"

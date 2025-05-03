@@ -1,7 +1,6 @@
 ---
 aliases:
   - Несобственное подмножество
-publish: true
 anki: true
 created: 2023-10-17 18:29
 parent:

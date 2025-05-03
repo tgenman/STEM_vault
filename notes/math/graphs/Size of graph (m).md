@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-10-31 22:33
 parent:
   - "[[519.173.5 Числовые характеристики графов]]"

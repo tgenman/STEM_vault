@@ -5,7 +5,6 @@ aliases:
   - Область допустимых значений
   - Образ
   - Source Set
-publish: true
 anki: false
 created: 2023-05-29 09:50
 parent:

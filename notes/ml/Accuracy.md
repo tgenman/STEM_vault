@@ -1,7 +1,6 @@
 ---
 aliases:
   - Достоверность
-publish: true
 anki: false
 created: 2024-06-18 20:09
 parent:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Выпулкая оболочка
-publish: true
 anki: false
 created: 2024-10-27 22:03
 parent:

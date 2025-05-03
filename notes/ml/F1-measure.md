@@ -1,7 +1,6 @@
 ---
 aliases:
   - F1-мера
-publish: true
 anki: false
 created: 2024-06-18 21:10
 parent:

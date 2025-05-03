@@ -1,8 +1,6 @@
 ---
 aliases:
   - Пустой граф
-publish: true
-anki: true
 created: 2023-11-03 17:35
 parent:
   - "[[Simple Graph (G)]]"

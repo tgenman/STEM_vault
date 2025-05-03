@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 anki: false
 created: 2025-01-19 23:47
 parent: "[[Feature Representation]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Неравенство Маркова
-publish: true
 anki: false
 created: 2024-04-25 11:30
 parent:

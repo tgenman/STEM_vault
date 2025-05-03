@@ -1,7 +1,6 @@
 ---
 aliases:
   - Выпуклый конус
-publish: true
 anki: true
 created: 2024-10-27 22:01
 parent:

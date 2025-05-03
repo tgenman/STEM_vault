@@ -2,9 +2,6 @@
 aliases: 
 tags:
   - theorem
-publish: true
-anki: true
-created: 2023-11-01 14:34
 parent: 
 connected:
   - "#обс/linking"

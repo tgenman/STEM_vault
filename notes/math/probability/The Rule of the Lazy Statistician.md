@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 anki: true
 created: 2024-03-21 13:16
 parent:

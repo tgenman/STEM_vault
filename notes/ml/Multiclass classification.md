@@ -1,7 +1,6 @@
 ---
 aliases:
   - Многоклассовая классификация
-publish: true
 anki: false
 created: 2025-04-14 22:14
 parent:

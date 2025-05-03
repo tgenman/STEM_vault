@@ -1,7 +1,6 @@
 ---
 aliases:
   - Компьютерное зрение
-publish: true
 parent:
   - "[[Deep Learning (notion)]]"
 connected:

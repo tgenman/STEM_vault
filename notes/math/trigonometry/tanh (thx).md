@@ -2,7 +2,6 @@
 aliases:
   - Hyperbolic tangent
   - Гиперболический тангенс
-publish: true
 anki: false
 created: 2024-07-03 22:19
 parent: 

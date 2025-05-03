@@ -2,8 +2,6 @@
 aliases:
   - Прямое произведение графов
   - Декартово произведение графов
-publish: true
-anki: false
 created: 2023-11-04 14:46
 parent:
   - "[[519.171.4 Operations on Graphs]]"

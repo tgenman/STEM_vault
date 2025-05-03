@@ -1,7 +1,6 @@
 ---
 aliases:
   - Композиция функций
-publish: true
 parent:
   - "[[Function (math)]]"
 anki: false

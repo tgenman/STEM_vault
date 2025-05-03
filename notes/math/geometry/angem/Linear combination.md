@@ -1,8 +1,6 @@
 ---
 aliases:
   - Линейная комбинация векторов
-publish: true
-anki: true
 created: 2023-08-10 15:29
 tags: 
 parent:

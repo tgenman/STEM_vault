@@ -1,7 +1,6 @@
 ---
 aliases:
   - Простые числа
-publish: true
 anki: false
 parent:
   - "[[511 Numbers Theory MOC]]"

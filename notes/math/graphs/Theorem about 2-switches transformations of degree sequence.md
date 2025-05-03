@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-11-04 22:05
 parent:
   - "[[Degree Sequence]]"

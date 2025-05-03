@@ -2,7 +2,6 @@
 aliases:
   - Праобраз
   - Image of a function
-publish: true
 anki: false
 parent:
   - "[[Function (math)]]"

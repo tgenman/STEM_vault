@@ -1,7 +1,6 @@
 ---
 aliases:
   - Закон синусов
-publish: true
 anki: true
 created: 2023-07-07 10:02
 parent:

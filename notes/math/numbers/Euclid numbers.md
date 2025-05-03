@@ -1,7 +1,6 @@
 ---
 aliases:
   - Числа Евклида
-publish: true
 anki: false
 tags:
   - empty

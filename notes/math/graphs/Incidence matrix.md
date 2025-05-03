@@ -1,8 +1,6 @@
 ---
 aliases:
   - Матрица инцедентности
-publish: true
-anki: true
 created: 2023-12-16 22:30
 parent:
   - "[[Simple Graph (G)|Graph]]"

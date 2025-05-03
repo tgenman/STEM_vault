@@ -1,7 +1,6 @@
 ---
 aliases:
   - Глубокое обучение
-publish: true
 parent:
   - "[[Neural Networks (notion)]]"
 connected: 

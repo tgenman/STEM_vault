@@ -1,7 +1,5 @@
 ---
 aliases: [Круг]
-publish: true
----
 links: #обс/linking 
 
 

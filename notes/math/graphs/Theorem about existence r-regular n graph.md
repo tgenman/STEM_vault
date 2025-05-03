@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-11-04 17:57
 parent:
   - "[[519.172.4 Regular Graphs]]"

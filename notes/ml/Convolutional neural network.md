@@ -2,7 +2,6 @@
 aliases:
   - Сверточные нейросети (CNN)
   - CNN
-publish: true
 parent:
   - "[[Neural Networks (notion)]]"
 connected:

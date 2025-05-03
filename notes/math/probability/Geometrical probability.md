@@ -1,7 +1,6 @@
 ---
 aliases:
   - Геометрическая вероятность
-publish: true
 anki: false
 created: 2023-10-22 16:43
 parent:

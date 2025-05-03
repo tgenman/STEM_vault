@@ -1,7 +1,6 @@
 ---
 aliases:
   - Объединение множеств
-publish: true
 anki: true
 parent:
   - "[[Operations on sets]]"

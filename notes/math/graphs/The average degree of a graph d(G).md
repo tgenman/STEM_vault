@@ -1,9 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
-created: 2023-11-01 14:36
-parent:
   - "[[519.173.5 Числовые характеристики графов]]"
 connected:
   - "[[Handshaking Lemma]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Наименьшая 𝜎-алгебра
-publish: true
 anki: false
 created: 2023-10-22 17:47
 parent:

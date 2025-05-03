@@ -1,7 +1,6 @@
 ---
 aliases:
   - Афинное множество
-publish: true
 anki: true
 created: 2024-12-19 23:27
 parent:

@@ -1,8 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
-created: 2023-11-15 14:07
 parent:
   - "[[Graphical sequence]]"
 connected:

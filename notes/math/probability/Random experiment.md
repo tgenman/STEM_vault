@@ -1,7 +1,6 @@
 ---
 aliases:
   - Случайный эксперимент
-publish: true
 anki: true
 created: 2023-10-20 19:58
 parent:

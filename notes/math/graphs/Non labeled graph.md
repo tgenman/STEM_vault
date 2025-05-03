@@ -1,8 +1,6 @@
 ---
 aliases:
   - Непомеченные графы
-publish: true
-anki: true
 created: 2023-12-16 21:41
 parent:
   - "[[Simple Graph (G)|Graph]]"

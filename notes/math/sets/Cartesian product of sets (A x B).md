@@ -1,7 +1,6 @@
 ---
 aliases:
   - Декартово произведение множеств
-publish: true
 anki: true
 parent:
   - "[[Operations on sets]]"

@@ -1,8 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
-created: 2023-11-15 15:19
 parent:
   - "[[Irregular graph]]"
 connected: 

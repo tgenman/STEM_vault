@@ -1,8 +1,6 @@
 ---
 aliases:
   - Цепь
-publish: true
-anki: true
 created: 2023-11-23 21:48
 parent:
   - "[[Walk W]]"

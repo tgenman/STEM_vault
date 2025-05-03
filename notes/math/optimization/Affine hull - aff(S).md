@@ -1,7 +1,6 @@
 ---
 aliases:
   - Афинная оболочка
-publish: true
 anki: true
 created: 2024-12-19 23:40
 parent:

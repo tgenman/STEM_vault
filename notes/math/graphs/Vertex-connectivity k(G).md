@@ -2,7 +2,6 @@
 aliases:
   - Вершинная связность k(G)
   - Connectivity k(G)
-publish: true
 anki: false
 created: 2024-09-13 18:48
 parent:

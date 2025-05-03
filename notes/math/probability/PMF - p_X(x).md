@@ -2,7 +2,6 @@
 aliases:
   - PMF
   - Probability mass function
-publish: true
 anki: false
 created: 2024-03-20 18:02
 parent:

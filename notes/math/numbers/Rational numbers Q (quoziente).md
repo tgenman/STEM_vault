@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Рациональные числа Q
 parent:

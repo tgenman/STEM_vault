@@ -1,8 +1,6 @@
 ---
 aliases:
   - Тетраэдер
-publish: true
-anki: true
 parent:
   - "[[Platonic solids]]"
   - "[[519.172.4 Regular Graphs]]"

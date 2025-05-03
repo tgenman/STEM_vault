@@ -1,8 +1,6 @@
 ---
 aliases:
   - Мультиграф
-publish: true
-anki: true
 created: 2023-11-15 15:41
 parent:
   - "[[Simple Graph (G)]]"

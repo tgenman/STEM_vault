@@ -1,6 +1,5 @@
 ---
 aliases: Метод К-средних
-publish: true
 created: 2023-05-03 14:07
 ---
 

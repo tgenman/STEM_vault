@@ -1,9 +1,6 @@
 ---
 aliases:
   - Петля
-publish: true
-anki: true
-created: 2023-11-23 20:31
 parent:
   - "[[Edge of graph (E)]]"
 connected:

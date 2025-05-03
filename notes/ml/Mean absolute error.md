@@ -1,7 +1,6 @@
 ---
 aliases:
   - MAE
-publish: true
 anki: false
 created: 2024-06-19 13:30
 parent:

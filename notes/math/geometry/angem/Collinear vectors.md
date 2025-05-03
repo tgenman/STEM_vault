@@ -2,8 +2,6 @@
 aliases:
   - Коллинеарные вектора
 created: 2024-07-03 22:11
-publish: true
-tags:
   - empty
 anki: false
 parent: 

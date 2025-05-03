@@ -1,10 +1,6 @@
 ---
 aliases:
   - Подграф
-publish: true
-anki: true
-created: 2023-11-01 15:09
-parent:
   - "[[Simple Graph (G)]]"
 connected:
   - "[[Spanning subgraph]]"

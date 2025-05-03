@@ -1,8 +1,6 @@
 ---
 aliases: Равнобедренный треугольник
 created: 2023-05-11 14:59
-publish: true
----
 
 **isosceles** triangle, whose name comes from the Greek _isoskelēs_, meaning “equal legs.” In an isosceles triangle, two of the side lengths are equal.
 

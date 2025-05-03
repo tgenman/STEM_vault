@@ -1,7 +1,6 @@
 ---
 aliases:
   - Классификация (машинное обучение)
-publish: true
 created: 2023-05-03 11:01
 parent:
   - "[[Supervised Learning]]"

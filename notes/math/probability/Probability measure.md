@@ -1,7 +1,6 @@
 ---
 aliases:
   - Вероятностная мера
-publish: true
 anki: false
 created: 2023-10-20 21:11
 parent:

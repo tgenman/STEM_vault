@@ -1,7 +1,6 @@
 ---
 aliases:
   - Формула включений-исключений
-publish: true
 anki: false
 created: 2023-10-20 21:01
 parent:

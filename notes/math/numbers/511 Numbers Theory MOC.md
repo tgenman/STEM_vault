@@ -4,7 +4,6 @@ aliases:
   - Теория Чисел
 tags:
   - MOC
-publish: true
 parent:
   - "[[51 Math MOC]]"
 ---

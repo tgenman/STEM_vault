@@ -1,8 +1,6 @@
 ---
 aliases:
   - Псевдограф
-publish: true
-anki: true
 created: 2023-11-15 15:38
 parent:
   - "[[Multigraph (H)]]"

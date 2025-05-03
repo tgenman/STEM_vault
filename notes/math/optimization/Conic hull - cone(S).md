@@ -1,7 +1,6 @@
 ---
 aliases:
   - Коническая оболочка
-publish: true
 anki: true
 created: 2024-12-21 18:59
 parent:

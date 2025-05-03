@@ -1,8 +1,6 @@
 ---
 aliases:
   - Матрица смежности
-publish: true
-anki: true
 created: 2023-11-23 22:00
 parent:
   - "[[Simple Graph (G)|Graph]]"

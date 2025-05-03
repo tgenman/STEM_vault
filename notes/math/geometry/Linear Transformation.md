@@ -1,7 +1,6 @@
 ---
 aliases:
   - Линейное преобразование
-publish: true
 created: 2024-07-03 22:15
 parent:
   - "[[512.64  Linear algebra MOC]]"

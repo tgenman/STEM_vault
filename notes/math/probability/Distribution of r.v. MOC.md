@@ -1,7 +1,6 @@
 ---
 aliases:
   - Распределение вероятностей в R
-publish: true
 anki: false
 created: 2023-10-29 19:46
 parent:

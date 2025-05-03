@@ -1,7 +1,6 @@
 ---
 aliases:
   - Полный граф
-publish: true
 anki: true
 created: 2023-10-31 22:49
 parent:

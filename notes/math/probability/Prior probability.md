@@ -2,7 +2,6 @@
 aliases:
   - Prior
   - Априорная вероятность
-publish: true
 ---
 
 

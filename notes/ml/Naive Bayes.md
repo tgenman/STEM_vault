@@ -2,7 +2,6 @@
 aliases:
   - Наивный Байес
   - Наивный байесовский классификатор
-publish: true
 created: 2023-05-03 11:20
 parent:
   - "[[Classification ML]]"

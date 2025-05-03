@@ -2,8 +2,6 @@
 aliases:
   - Куб
   - Гексаэдр
-publish: true
-parent:
   - "[[Platonic solids]]"
   - "[[519.172.4 Regular Graphs]]"
 created: 2023-12-19 21:47

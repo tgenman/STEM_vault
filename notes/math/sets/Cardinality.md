@@ -1,7 +1,6 @@
 ---
 aliases:
   - Мощность множества
-publish: true
 anki: true
 created: 2023-10-17 21:05
 parent:

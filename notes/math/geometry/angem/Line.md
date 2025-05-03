@@ -1,7 +1,6 @@
 ---
 aliases:
   - Линия
-publish: true
 anki: true
 created: 2024-07-03 22:13
 tags: 

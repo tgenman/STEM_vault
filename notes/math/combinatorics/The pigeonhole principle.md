@@ -1,8 +1,6 @@
 ---
 aliases:
   - Принцип Дирихле
-publish: true
-anki: true
 parent:
   - "[[519.101 Combinatorics MOC]]"
 ---

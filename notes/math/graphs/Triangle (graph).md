@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-11-03 16:41
 parent:
   - "[[Complete graph]]"

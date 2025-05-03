@@ -1,7 +1,6 @@
 ---
 aliases:
   - Попарная независимость
-publish: true
 anki: true
 created: 2023-12-09 19:01
 parent:

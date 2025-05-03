@@ -1,7 +1,6 @@
 ---
 aliases:
   - Пространство элементарных исходов
-publish: true
 anki: true
 created: 2023-10-20 20:24
 parent:

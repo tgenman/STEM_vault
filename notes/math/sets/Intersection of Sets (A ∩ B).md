@@ -1,7 +1,6 @@
 ---
 aliases:
   - Пересечение множеств
-publish: true
 anki: true
 parent:
   - "[[Operations on sets]]"

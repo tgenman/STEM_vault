@@ -1,7 +1,6 @@
 ---
 aliases:
   - Медиана
-publish: true
 anki: false
 created: 2024-07-03 22:13
 parent: 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Отображение
-publish: true
 anki: false
 created: 2024-07-03 15:06
 parent:

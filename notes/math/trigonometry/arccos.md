@@ -2,7 +2,6 @@
 aliases:
   - Arccosine
   - Арккосинус
-publish: true
 anki: false
 tags:
   - empty

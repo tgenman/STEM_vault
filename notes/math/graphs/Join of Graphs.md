@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-11-04 14:40
 parent:
   - "[[519.171.4 Operations on Graphs]]"

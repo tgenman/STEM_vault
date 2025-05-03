@@ -1,12 +1,5 @@
 ---
 aliases: 
-publish: true
-created: 2024-09-13 17:51
-parent: 
-connected:
-  - "[[519.17 Graph Theory MOC]]"
-tags:
-  - "#MOC"
 ---
 
 - [[Complex Network]]

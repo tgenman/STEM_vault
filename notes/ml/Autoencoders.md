@@ -1,7 +1,6 @@
 ---
 aliases:
   - автоэнкодеры
-publish: true
 created: 2024-06-17 16:09
 parent:
   - "[[Neural Networks (notion)]]"

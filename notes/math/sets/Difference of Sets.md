@@ -1,7 +1,6 @@
 ---
 aliases:
   - Разность множеств
-publish: true
 parent:
   - "[[Operations on sets]]"
 connected:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Операции над множествами
-publish: true
 parent:
   - "[[Set (math)]]"
 connected: []

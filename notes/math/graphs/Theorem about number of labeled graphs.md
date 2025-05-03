@@ -1,8 +1,6 @@
 ---
 aliases:
   - Теорема о числе помеченных графов
-publish: true
-anki: true
 created: 2023-12-16 21:47
 parent:
   - "[[Labeled graph]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Икосаэдр
-publish: true
 anki: false
 parent:
   - "[[Platonic solids]]"

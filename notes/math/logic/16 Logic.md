@@ -1,7 +1,6 @@
 ---
 aliases:
   - Логика
-publish: true
 parent:
   - "[[🌍Interests MOC]]"
 connected:

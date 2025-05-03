@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-04-24 17:36
 parent:
   - "[[Distribution comparing]]"

@@ -1,8 +1,6 @@
 ---
 aliases:
   - Leaf
-publish: true
-anki: true
 created: 2023-11-01 17:30
 parent:
   - "[[Vertex of graph (V)]]"

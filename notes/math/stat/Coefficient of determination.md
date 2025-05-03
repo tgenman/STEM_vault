@@ -1,7 +1,6 @@
 ---
 aliases:
   - Коэффициент детерминации
-publish: true
 tags:
   - empty
 anki: false

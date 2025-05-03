@@ -1,7 +1,6 @@
 ---
 aliases:
   - Маршрут
-publish: true
 anki: true
 created: 2023-11-23 20:47
 parent:

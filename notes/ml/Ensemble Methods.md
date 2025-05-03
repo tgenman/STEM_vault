@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ансамблевые методы
-publish: true
 created: 2023-05-03 21:44
 parent:
   - "[[004.85 Machine Learning (notion)|ML]]"

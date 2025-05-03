@@ -1,7 +1,6 @@
 ---
 aliases:
   - Соотношение
-publish: true
 anki: false
 created: 2023-10-17 20:30
 parent:

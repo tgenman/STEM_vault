@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-06-08 10:43
 connected:
   - "[[Machine Learning MOC]]"

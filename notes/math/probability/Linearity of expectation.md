@@ -1,7 +1,6 @@
 ---
 aliases:
   - Линейность матожидания
-publish: true
 anki: true
 created: 2024-03-21 12:13
 parent:

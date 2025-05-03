@@ -2,7 +2,6 @@
 aliases:
   - Метки
   - Targets
-publish: true
 anki: false
 created: 2024-06-18 20:05
 parent:

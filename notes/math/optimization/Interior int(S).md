@@ -1,7 +1,6 @@
 ---
 aliases:
   - Внутренность
-publish: true
 anki: true
 created: 2024-12-21 19:06
 parent:

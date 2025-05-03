@@ -1,8 +1,6 @@
 ---
 aliases:
   - Ортогональные вектора
-publish: true
-anki: true
 created: 2024-02-03 20:31
 parent:
   - "[[Vector]]"

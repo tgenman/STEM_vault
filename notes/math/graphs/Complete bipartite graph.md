@@ -1,7 +1,6 @@
 ---
 aliases:
   - Полный двупольный граф
-publish: true
 anki: true
 created: 2023-11-03 16:26
 parent:

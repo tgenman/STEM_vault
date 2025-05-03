@@ -1,7 +1,6 @@
 ---
 aliases:
   - Счетное бесконечное множество
-publish: true
 created: 2023-10-17 21:48
 parent:
   - "[[Infinity set]]"

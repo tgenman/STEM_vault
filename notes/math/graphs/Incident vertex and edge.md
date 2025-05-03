@@ -1,8 +1,6 @@
 ---
 aliases:
   - Инцидентны
-publish: true
-anki: true
 created: 2023-11-01 17:25
 parent:
   - "[[Adjacent in graph]]"

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Симметрия
-publish: true
 anki: false
 created: 2024-07-02 19:13
 parent:

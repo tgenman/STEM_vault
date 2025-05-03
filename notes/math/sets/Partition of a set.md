@@ -1,7 +1,6 @@
 ---
 aliases:
   - Разбиение множества
-publish: true
 anki: true
 created: 2023-10-21 17:16
 parent:

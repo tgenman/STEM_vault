@@ -2,7 +2,6 @@
 aliases:
   - Регрессия
 created: 2025-04-14 22:11
-publish: true
 anki: false
 parent: 
 connected:

@@ -3,7 +3,6 @@ aliases:
   - Функция
   - Single-valued mapping
   - Отображение
-publish: true
 anki: true
 created: 2023-09-15 11:18
 parent:

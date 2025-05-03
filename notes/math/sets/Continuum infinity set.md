@@ -1,7 +1,6 @@
 ---
 aliases:
   - Континуальные бесконечные множества
-publish: true
 created: 2023-10-17 21:49
 parent:
   - "[[Infinity set]]"

@@ -2,7 +2,6 @@
 aliases:
   - Arcsine
   - Арксинус
-publish: true
 anki: false
 parent:
   - "[[Trigonometry]]"

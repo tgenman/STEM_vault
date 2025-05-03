@@ -1,7 +1,6 @@
 ---
 aliases:
   - Конусное множество
-publish: true
 anki: true
 created: 2024-10-27 22:00
 parent:

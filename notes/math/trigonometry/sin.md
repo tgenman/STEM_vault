@@ -2,7 +2,6 @@
 aliases:
   - Sine
   - Синус
-publish: true
 created: 2024-07-03 22:15
 anki: false
 parent:

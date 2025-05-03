@@ -1,7 +1,6 @@
 ---
 aliases:
   - Собственное подмножество
-publish: true
 anki: true
 created: 2023-10-17 18:30
 parent:

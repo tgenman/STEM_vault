@@ -3,7 +3,6 @@ aliases:
   - ML MOC
 tags:
   - MOC
-publish: true
 connected:
   - "[[004.432.2 🐍 Python MOC]]"
   - "[[Neural Networks (notion)]]"

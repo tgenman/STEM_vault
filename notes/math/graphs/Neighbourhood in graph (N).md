@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-10-31 23:17
 parent:
   - "[[Vertex of graph (V)]]"

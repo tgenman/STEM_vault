@@ -1,8 +1,6 @@
 ---
 aliases:
   - Точка (линал)
-publish: true
-parent:
   - "[[512.64  Linear algebra MOC]]"
   - "[[514 Geometry MOC]]"
 connected:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Действительные (вещественные) числа
-publish: true
 parent:
   - "[[511 Numbers Theory MOC]]"
 ---

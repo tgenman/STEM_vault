@@ -1,7 +1,5 @@
 ---
 aliases: 
-publish: true
-anki: true
 created: 2023-12-16 22:16
 parent:
   - "[[Edge of graph (E)]]"

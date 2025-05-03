@@ -2,7 +2,6 @@
 aliases:
   - Формула Байеса
   - Bayes’ Theorem
-publish: true
 anki: true
 created: 2023-12-09 19:23
 parent:

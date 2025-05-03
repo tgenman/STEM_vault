@@ -1,7 +1,6 @@
 ---
 aliases:
   - Специальный сигма-алгебры
-publish: true
 anki: false
 created: 2023-10-22 14:14
 parent:

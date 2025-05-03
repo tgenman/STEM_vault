@@ -2,9 +2,6 @@
 aliases: 
 tags:
   - theorem
-publish: true
-anki: true
-created: 2023-11-03 16:57
 parent:
   - "[[519.17 Graph Theory MOC]]"
 connected:

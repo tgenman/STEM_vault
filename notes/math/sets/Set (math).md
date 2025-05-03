@@ -1,7 +1,6 @@
 ---
 aliases:
   - Множество (математика)
-publish: true
 parent:
   - "[[Sets theory]]"
 created: 2024-07-03 21:59

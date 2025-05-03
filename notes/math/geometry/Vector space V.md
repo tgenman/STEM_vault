@@ -1,8 +1,6 @@
 ---
 aliases:
   - Векторное пространство
-publish: true
-anki: false
 created: 2023-08-10 19:38
 parent:
   - "[[Abelian group]]"

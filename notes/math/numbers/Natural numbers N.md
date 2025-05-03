@@ -1,7 +1,6 @@
 ---
 aliases:
   - Натуральные числа
-publish: true
 parent:
   - "[[511 Numbers Theory MOC|Числа]]"
 ---

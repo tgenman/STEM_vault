@@ -1,8 +1,6 @@
 ---
 aliases:
   - Висячее ребро
-publish: true
-anki: true
 created: 2023-11-01 17:32
 parent:
   - "[[Edge of graph (E)]]"

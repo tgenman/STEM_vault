@@ -1,7 +1,6 @@
 ---
 aliases:
   - Неравенство Чебышева
-publish: true
 anki: false
 created: 2024-04-25 11:33
 parent:

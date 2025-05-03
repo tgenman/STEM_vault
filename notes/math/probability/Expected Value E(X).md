@@ -4,7 +4,6 @@ aliases:
   - Матожидание
   - Математическое ожидание
   - First moment
-publish: true
 anki: false
 created: 2024-03-20 11:20
 parent:

@@ -1,8 +1,6 @@
 ---
 aliases:
   - Паросочетания
-publish: true
-anki: false
 created: 2024-09-18 20:21
 parent:
   - "[[Simple Graph (G)|Graph]]"

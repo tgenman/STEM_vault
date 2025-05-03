@@ -1,8 +1,6 @@
 ---
 aliases:
   - Остовный подграф
-publish: true
-anki: true
 created: 2023-11-01 18:23
 parent:
   - "[[Subgraph]]"
