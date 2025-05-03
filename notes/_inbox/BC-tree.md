@@ -1,7 +1,6 @@
 ---
 aliases:
   - ВС-дерево
-publish: true
 anki: false
 created: 2024-09-19 19:29
 parent:

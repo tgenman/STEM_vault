@@ -1,7 +1,6 @@
 ---
 aliases:
   - Точка сочления
-publish: true
 anki: false
 created: 2024-09-19 19:01
 parent:

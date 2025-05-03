@@ -1,7 +1,6 @@
 ---
 aliases:
   - TF-IDF
-publish: true
 anki: false
 created: 2025-02-09 19:25
 parent: 

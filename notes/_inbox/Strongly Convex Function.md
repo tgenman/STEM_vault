@@ -1,7 +1,6 @@
 ---
 aliases:
   - Строго выпуклая функция
-publish: true
 anki: false
 created: 2024-10-27 22:26
 parent:

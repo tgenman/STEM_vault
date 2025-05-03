@@ -1,7 +1,6 @@
 ---
 aliases:
   - Случайность
-publish: true
 anki: false
 created: 2024-04-11 14:06
 parent:

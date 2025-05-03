@@ -2,7 +2,6 @@
 aliases:
   - Многослойный персептон
   - MLP
-publish: true
 parent:
   - "[[Neural Networks (notion)]]"
 connected: 

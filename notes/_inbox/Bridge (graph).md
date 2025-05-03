@@ -1,7 +1,6 @@
 ---
 aliases:
   - Мост
-publish: true
 anki: false
 created: 2024-09-19 19:08
 parent:

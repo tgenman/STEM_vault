@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-12-10 10:24
 parent:
   - "[[Deep Learning MOC]]"

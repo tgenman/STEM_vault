@@ -1,6 +1,5 @@
 ---
 aliases: 
-publish: true
 created: 2024-06-08 13:05
 parent:
   - "[[Machine Learning MOC]]"

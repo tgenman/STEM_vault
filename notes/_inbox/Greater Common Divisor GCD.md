@@ -3,7 +3,6 @@ aliases:
   - Наибольший общий делитель
   - НОД
   - GCD
-publish: true
 anki: false
 created: 2024-06-03 10:44
 parent:

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Аддитивная комбинаторика
-publish: true
 created: 2023-12-16 17:40
 parent:
   - "[[519.101 Combinatorics MOC]]"

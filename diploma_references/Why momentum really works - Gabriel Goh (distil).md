@@ -1,5 +1,4 @@
 ---
-publish: true
 created: 2025-04-15 17:37
 doi: http://distill.pub/2017/momentum
 author: 

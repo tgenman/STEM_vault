@@ -1,5 +1,4 @@
 ---
-publish: true
 created: 2025-04-16 13:16
 doi: https://doi.org/10.48550/arXiv.2408.03314
 author: 

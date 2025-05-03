@@ -1,7 +1,6 @@
 ---
 aliases:
   - MAPE
-publish: true
 anki: false
 created: 2024-06-19 13:35
 parent:

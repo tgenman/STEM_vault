@@ -1,7 +1,6 @@
 ---
 aliases:
   - Нахождение обратной матрицы
-publish: true
 anki: false
 created: 2024-04-16 20:05
 parent:

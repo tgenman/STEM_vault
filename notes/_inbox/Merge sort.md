@@ -1,7 +1,6 @@
 ---
 aliases:
   - Сортировка слиянием
-publish: true
 anki: false
 created: 2024-05-23 12:52
 parent: 

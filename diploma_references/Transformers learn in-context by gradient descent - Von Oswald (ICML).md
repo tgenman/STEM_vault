@@ -1,5 +1,4 @@
 ---
-publish: true
 created: 2025-04-14 20:51
 doi: https://proceedings.mlr.press/v202/von-oswald23a.html
 author: 

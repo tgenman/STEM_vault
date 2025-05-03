@@ -1,7 +1,6 @@
 ---
 aliases:
   - CV
-publish: true
 anki: false
 created: 2025-02-17 13:12
 parent:

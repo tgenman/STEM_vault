@@ -1,7 +1,6 @@
 ---
 aliases:
   - Быстрая сортировка
-publish: true
 anki: false
 created: 2024-05-23 15:37
 parent: 
