@@ -7,45 +7,63 @@ parent:
   - "[[Function (math)]]"
 connected:
   - "[[519.21  Probability theory]]"
+  - "[[Sample space]]"
+  - "[[Event]]"
 ---
 
-Представьте, что $\Omega-$ это мишень, а $A-$ некоторая отмеченная область на мишени. Выбор «наудачу» точки $\omega$ из $\Omega$ осуществляется путем бросания дротика в мишень. Если дротик попадает в $A$, звонит колокольчик (или зажигается лампочка), в противном случае ничего не происходит. Это можно выразить с помощью следующей математической формулы:
+> [!tip] An **indicator function** of a subset $A$ of a set $\Omega$ 
+> is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
+> $$I_A(\omega)=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$$
 
-$$
-I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}
-$$
+# Interpretation
 
-Таким образом, $I_A-$это функция, заданная на всем выборочном пространстве $\Omega$ и принимающая значения 0 и 1 в случае тишины или звона колокольчика соответственно. Возможно, при изучении математического анализа вы уже встречались с тем, что важно различатн функцию (иногда называемую отображением) и значение, принимаемое функцией. В нашем случае функция $I_A$ однозначно определяется множеством $A$, и поэтому она называется индикаторной функцией или кратко, индикатором. Другое множество $B$ имеет свой собственный индикатор $I_B$. Две функции $I_A$ и $I_B$ совпадают (что это значит?) тогда и только тогда, когда множества $A$ и $B$ идентичны.
+Imagine $\Omega$ as a target and $A$ as a marked area on the target. Randomly choosing a point $\omega$ from $\Omega$ is like throwing a dart at the target. If the dart hits area $A$, a bell rings (or a light turns on); otherwise, nothing happens. This can be expressed using the indicator function.
 
-#### Properties
-$$I_{\bar{A}} = 1 - I_{A}$$
-$$\sum_{x\in U}1_A(x)=|A|$$
-$$1_{A\cap B}=1_A\cdot1_B$$
-$(A^c)^c = A$
+The function $I_A$ is defined on the entire sample space $\Omega$ and takes values 0 or 1 depending on whether the point belongs to subset $A$ or not. Each subset $A$ uniquely defines its indicator function $I_A$. Two functions $I_A$ and $I_B$ are identical if and only if the sets $A$ and $B$ are identical.
+
+# Properties
+- $I_{\bar{A}} = 1 - I_{A}$
+- $\sum_{x\in \Omega}I_A(x)=|A|$
+- $I_{A\cap B}=I_A\cdot I_B$
+- $I_{A\cup B}=I_A + I_B - I_A\cdot I_B$
+- $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
+- $I_{\Omega}(\omega) = 1 \text{ for all } \omega \in \Omega$
+
+# Applications in Probability Theory
+
+In probability theory, indicator functions are used to:
+- Represent events in a probability space
+- Simplify calculations of expected values
+- Define random variables for specific events
+- Express probabilities as $P(A) = E[I_A]$
 
 # Anki
 > [!question]- Indicator function
 TARGET DECK: stem::math::common
 START
-Math_ONE_side
+Math_TWO_side
 TITLE: Indicator function
-Индикаторная функция
-DESCRIPTION: $$I_A(\omega)=\begin{cases}1,&\text{если }\omega\in A,\\0,&\text{если }\omega\notin A.&\end{cases}$$
+DESCRIPTION: An ... of a subset $A$ of a set $\Omega$ is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
+$I_A(\omega)=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$
 FORMULA: 
 ADDITIONAL:
-ID: 1698688139475
+ID: 1746384273061
 END
 
 > [!question]- Properties of Indicator function
+TARGET DECK: stem::math::common
 START
 Math_ONE_side
 TITLE: Properties of Indicator function
-Свойства Индикаторная функция
-DESCRIPTION: $$I_{\bar{A}} = 1 - I_{A}$$
-$$\sum_{x\in U}1_A(x)=|A|$$
-$$1_{A\cap B}=1_A\cdot1_B$$
+DESCRIPTION: 
+> - $I_{\bar{A}} = 1 - I_{A}$
+> - $\sum_{x\in \Omega}I_A(x)=|A|$
+> - $I_{A\cap B}=I_A\cdot I_B$
+> - $I_{A\cup B}=I_A + I_B - I_A\cdot I_B$
+> - $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
+> - $I_{\Omega}(\omega) = 1 \text{ for all } \omega \in \Omega$
 FORMULA: 
-ADDITIONAL:
+ADDITIONAL: In probability theory: $P(A) = E[I_A]$
 ID: 1698688139477
 END
 
