@@ -25,7 +25,7 @@ $(A^c)^c = A$
 
 ### Anki
 > [!question]- Indicator function
-TARGET DECK: stem::Math::Common
+TARGET DECK: stem::math::common
 START
 Math_ONE_side
 TITLE: Indicator function

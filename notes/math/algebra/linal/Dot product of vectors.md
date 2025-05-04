@@ -27,7 +27,7 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 #### Properties
 - [[Commutative]] 
 	$\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
--  [[Assosiative|ассоциативность]]  произведения
+-  [[Associative|ассоциативность]]  произведения
 	$(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
 - [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения
 	$(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
@@ -56,7 +56,7 @@ Math_ONE_side
 TITLE: Properties of Dot product of vectors
 DESCRIPTION: - [[Commutative]] 
 >	$\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
-> -  [[Assosiative|ассоциативность]]  произведения
+> -  [[Associative|ассоциативность]]  произведения
 >	$(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
 > - [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения
 >	$(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$

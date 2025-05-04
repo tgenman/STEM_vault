@@ -1,4 +1,4 @@
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: Math:: #обс/фикс  
 >>START

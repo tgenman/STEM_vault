@@ -9,30 +9,34 @@ connected:
   - "[[Multiplication]]"
   - "[[Identity element]]"
   - "[[Inverse element]]"
+  - "[[Group]]"
+  - "[[Ring]]"
+  - "[[Field]]"
 tags:
-  - empty
 ---
 
-> [!tip] Definition
-Addition is a binary operation that combines two elements from a set to produce another element of the same set.
+> [!tip] Addition
+Addition is a binary operation that combines two elements from a set to produce another element of the same set, often forming the basis of algebraic structures such as [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
 
 # Properties
-- **Commutative**: $a + b = b + a$
-- **Associative**: $(a + b) + c = a + (b + c)$
-- **Identity Element**: There exists an element $0$ such that $a + 0 = a$ for any element $a$.
-- **Inverse Element**: For each element $a$, there exists an element $-a$ such that $a + (-a) = 0$.
+- **[[Commutative]]**: $a + b = b + a$
+- **[[Associative]]**: $(a + b) + c = a + (b + c)$
+- **[[Identity element]]**: There exists an element $0$ such that $a + 0 = a$ for any element $a$.
+- **[[Inverse element]]**: For each element $a$, there exists an element $-a$ such that $a + (-a) = 0$.
 
 # Anki
 > [!question]- Addition
-TARGET DECK: Math::Algebra
+TARGET DECK: stem::math::algebra
 START
 Math_TWO_side
 TITLE: Addition
-Сложение
-DESCRIPTION: Addition is a binary operation that combines two elements from a set to produce another element of the same set.
-FORMULA: $a + b = b + a$ (Commutative), $(a + b) + c = a + (b + c)$ (Associative)
-ADDITIONAL: Identity element is $0$, Inverse element is $-a$
-ID: [generated ID]
+DESCRIPTION: Addition is a binary operation that combines two elements from a set to produce another element of the same set, forming the basis of algebraic structures like [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
+FORMULA: 
+$a + b = b + a$ (Commutative), 
+$(a + b) + c = a + (b + c)$ (Associative), 
+$a + 0 = a$ (Identity element),
+$a + (-a) = 0$ (Inverse element)
+ID: 1746344839758
 END
 
 
