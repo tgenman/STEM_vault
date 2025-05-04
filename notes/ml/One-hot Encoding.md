@@ -13,7 +13,7 @@ tags:
 
 #### Anki
 > [!question]- One-hot Encoding
-TARGET DECK: ML::Core
+TARGET DECK: stem::ml::core
 START
 Math_ONE_side
 TITLE: One-hot Encoding  
