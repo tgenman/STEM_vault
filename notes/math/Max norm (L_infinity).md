@@ -19,7 +19,7 @@ Example: $\|[1, 2, 3]\|_\infty = 3$, $\|[1, 0]\|_\infty = 1$, $\|[-1, 0.5]\|_\in
 
 Например, для вектора $\bar{a}=(4, 5)$ максимальная норма $|\bar{a}|_∞=5$
 
-#### Anki
+# Anki
 > [!question]- Max norm 
 TARGET DECK: Math::Linal
 START

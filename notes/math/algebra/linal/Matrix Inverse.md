@@ -28,7 +28,7 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 - $(A^{−1})^T=(A^T)^{−1}$
 - $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
 
-#### Anki
+# Anki
 > [!question]- Matrix Inverse
 TARGET DECK: Math::Linal 
 START

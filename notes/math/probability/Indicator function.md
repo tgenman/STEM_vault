@@ -4,9 +4,9 @@ aliases:
 anki: true
 created: 2023-10-29 20:18
 parent:
-  - "[[Function (math)|Функция]]"
+  - "[[Function (math)]]"
 connected:
-  - "[[519.21  Probability theory|Probability theory]]"
+  - "[[519.21  Probability theory]]"
 ---
 
 Представьте, что $\Omega-$ это мишень, а $A-$ некоторая отмеченная область на мишени. Выбор «наудачу» точки $\omega$ из $\Omega$ осуществляется путем бросания дротика в мишень. Если дротик попадает в $A$, звонит колокольчик (или зажигается лампочка), в противном случае ничего не происходит. Это можно выразить с помощью следующей математической формулы:
@@ -24,8 +24,8 @@ $$1_{A\cap B}=1_A\cdot1_B$$
 $(A^c)^c = A$
 
 ### Anki
-> [!question]-
-TARGET DECK: Math::Combinatorics
+> [!question]- Indicator function
+TARGET DECK: stem::Math::Common
 START
 Math_ONE_side
 TITLE: Indicator function
@@ -36,6 +36,7 @@ ADDITIONAL:
 ID: 1698688139475
 END
 
+> [!question]- Properties of Indicator function
 START
 Math_ONE_side
 TITLE: Properties of Indicator function
@@ -43,7 +44,6 @@ TITLE: Properties of Indicator function
 DESCRIPTION: $$I_{\bar{A}} = 1 - I_{A}$$
 $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
-
 FORMULA: 
 ADDITIONAL:
 ID: 1698688139477

@@ -9,11 +9,9 @@ connected:
   - "[[519.22 Statistic MOC]]"
   - "[[Научный метод]]"
   - "[[Bayes' Rule|Формула Байеса]]"
-author:
-  - E. T. Jaynes, G. Larry Bretthorst
+author: E. T. Jaynes, G. Larry Bretthorst
 family: 
-recommendation:
-  - "[[👤Левенчук, Анатолий]]"
+recommendation: "[[👤Левенчук, Анатолий]]"
 created: 2023-10-08 15:01
 ---
 

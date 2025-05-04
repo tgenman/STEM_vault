@@ -51,5 +51,5 @@ $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} &
 		$(kA)^T=A^T\cdot k ^T$;
 		$(Am)^T=m^T\cdot A^T$.
 
-![[Matrix Inverse#Свойства обратных матриц]]
+![[Matrix Inverse#Properties of Matrix Inverse]]
 

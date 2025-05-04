@@ -19,11 +19,6 @@ parent:
 Method = [[Model (ML)]] + [[Loss function|Criterion]]  + [[Algorithm of learning]]
 
 
-
-
-[[Machine Learning exam questions-answers]]
-[[Machine Learning exam Theoretical minimum]]
-
  **краудсорсинга**, то есть привлечение людей, готовых разметить много данных.
 **citizen science** – разметку данных волонтёрами без какого-либо вознаграждения
 
