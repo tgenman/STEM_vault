@@ -19,7 +19,7 @@ $$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Common  
+TARGET DECK: math::common  
 START
 Math_ONE_side
 TITLE:  Factoring

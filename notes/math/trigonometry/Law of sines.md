@@ -17,7 +17,7 @@ $$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Common
+TARGET DECK: math::common
 START
 Math_TWO_side
 TITLE: Law of sines

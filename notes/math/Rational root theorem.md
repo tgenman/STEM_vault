@@ -13,7 +13,7 @@ Any root $r$ of $f(x)$ that is a rational number must have the property that if 
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Common  
+TARGET DECK: math::common  
 START
 Math_ONE_side
 TITLE: Rational root theorem
