@@ -14,7 +14,7 @@ connected:
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Geometry  
+TARGET DECK: math::geometry  
 START
 Math_TWO_side
 TITLE: Polyhedron (3D)

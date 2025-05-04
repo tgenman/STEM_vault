@@ -19,7 +19,7 @@ anki: false
 
 #### Anki
 > [!question]- Cube (6)
-TARGET DECK: Math::Geometry
+TARGET DECK: math::geometry
 START
 Math_ONE_side
 TITLE: Cube (6)

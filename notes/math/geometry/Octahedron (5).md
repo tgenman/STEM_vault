@@ -21,7 +21,7 @@ created: 2023-12-19 21:49
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Geometry 
+TARGET DECK: math::geometry 
 START
 Math_ONE_side
 TITLE: Octahedron (5)

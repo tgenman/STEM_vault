@@ -21,7 +21,7 @@ connected:
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Geometry
+TARGET DECK: math::geometry
 START
 Math_ONE_side
 TITLE: ==Правильный многогранник== или ==плато́ново тело== 
