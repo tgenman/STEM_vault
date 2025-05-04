@@ -14,7 +14,7 @@ parent:
 
 #### Anki
 > [!question]-  Функция $f(n)$ является $\Omega(g(n))$
-TARGET DECK: Math::Calculus
+TARGET DECK: math::calculus
 START
 Math_TWO_side
 TITLE: Функция $f(n)$ является $\Omega(g(n))$

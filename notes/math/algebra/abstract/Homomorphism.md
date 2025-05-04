@@ -19,7 +19,7 @@ connected:
 
 #### Anki
 > [!question]- Homomorphism
-TARGET DECK: Math::Algebra 
+TARGET DECK: math::algebra 
 START
 Math_TWO_side
 TITLE: Homomorphism

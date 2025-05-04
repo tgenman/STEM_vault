@@ -18,7 +18,7 @@ connected:
 
 ### Anki
 > [!question]- Система множеств $\mathcal{A}$ называется aлгеброй, если выполняются следующие 3 свойства:
-TARGET DECK: Math::Algebra
+TARGET DECK: math::algebra
 START
 Math_ONE_side
 TITLE: Система множеств $\mathcal{A}$ называется aлгеброй, если выполняются следующие 3 свойства:

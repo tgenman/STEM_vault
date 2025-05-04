@@ -17,7 +17,7 @@ In other words, there is at least one point $p$ in $[a,b]$ such that $f(p)\geq f
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Calculus
+TARGET DECK: math::calculus
 START
 Math_ONE_side
 TITLE: Extreme Value Theorem (EVT)

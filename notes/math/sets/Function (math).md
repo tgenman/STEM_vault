@@ -46,7 +46,7 @@ $q:(3; 4)⟶{0; 1}.$
 
 #### Anki
 > [!question]- A function $φ$
-TARGET DECK: Math::Algebra
+TARGET DECK: math::algebra
 START
 Math_ONE_side
 TITLE: A function $φ$

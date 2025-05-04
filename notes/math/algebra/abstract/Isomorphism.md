@@ -21,7 +21,7 @@ connected:
 
 #### Anki
 > [!question]- Isomorphism
-TARGET DECK: Math::Algebra
+TARGET DECK: math::algebra
 START
 Math_ONE_side
 TITLE: Isomorphism

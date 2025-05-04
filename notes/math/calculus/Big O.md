@@ -19,7 +19,7 @@ $$|\frac{f(n)}{g(n)}| \leq C$$
 
 #### Anki
 > [!question]- Функция $f(n)$ является $O(g(n))$
-TARGET DECK: Math::Calculus
+TARGET DECK: math::calculus
 START
 Math_ONE_side
 TITLE: Функция $f(n)$ является $O(g(n))$

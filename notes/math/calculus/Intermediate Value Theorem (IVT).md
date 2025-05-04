@@ -15,7 +15,7 @@ IVT says that if $f$ is continuous on an interval $[a,b]$, then for every number
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Calculus 
+TARGET DECK: math::calculus 
 START
 Math_ONE_side
 TITLE: Intermediate Value Theorem (IVT)
