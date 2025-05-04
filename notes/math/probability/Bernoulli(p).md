@@ -51,7 +51,7 @@ $\text{var}(X) = E[X^2] - (E[X])^2 = E[X] - (E[X])^2 = p - p^2 = p(1-p)$
 
 #### Anki
 > [!question]- Bernoulli r.v.
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Bernoulli r.v.
@@ -73,7 +73,7 @@ ID: 1710951062308
 END
 
 > [!question]- Expected Value E(X) of Bernoulli r.v.
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Expected Value E(X) of Bernoulli r.v.
@@ -87,7 +87,7 @@ ID: 1711010147059
 END
 
 > [!question]- Variance V(X) of Bernoulli r.v.
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Variance V(X) of Bernoulli r.v.

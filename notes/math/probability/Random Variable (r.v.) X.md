@@ -40,7 +40,7 @@ A function from the sample space $\Omega$ to the real numbers
 
 #### Anki
 > [!question]- Random Variable (r.v.) X (def 1)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Random Variable (r.v.) X (def 1)
@@ -53,7 +53,7 @@ ID: 1710946167831
 END
 
 > [!question]- Random Variable (r.v.) X (def 2)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Random Variable (r.v.) X (def 2)
@@ -70,7 +70,7 @@ ID: 1710946741413
 END
 
 > [!question]- Properties of Random Variable (r.v.) X
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Properties of Random Variable (r.v.) X

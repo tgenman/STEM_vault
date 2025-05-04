@@ -57,7 +57,7 @@ $V[X] = \lambda$
 
 #### Anki
 > [!question]- Poisson($\lambda$)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Poisson($\lambda$)
@@ -80,7 +80,7 @@ ID: 1711025905236
 END
 
 > [!question]- Expected Value E(X) of Poisson($\lambda$)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Expected Value E(X) of Poisson($\lambda$)
@@ -99,7 +99,7 @@ ID: 1711025905248
 END
 
 > [!question]- Variance V(X) of Poisson($\lambda$)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Variance V(X) of Poisson($\lambda$)

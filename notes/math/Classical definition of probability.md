@@ -40,7 +40,7 @@ $P(A) = \frac{\text{number of elements of } A}{n}$
 
 ### Anki
 > [!question]- Classical definition of probability
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Classical definition of probability

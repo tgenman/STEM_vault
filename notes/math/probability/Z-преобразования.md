@@ -35,7 +35,7 @@ Z-преобразование — важный инструмент в стат
 
 #### Anki
 > [!question]- Z-преобразования
-TARGET DECK: Math::Probability  
+TARGET DECK: math::probability  
 START
 Math_ONE_side
 TITLE: Z-преобразования

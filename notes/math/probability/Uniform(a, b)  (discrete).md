@@ -49,7 +49,7 @@ $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 
 #### Anki
 > [!question]- Uniform r.v. (discrete)
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Uniform r.v. (discrete) $U(a, b)$
@@ -74,7 +74,7 @@ ID: 1711009548615
 END
 
 > [!question]- Expected Value E(X) Uniform r.v. (discrete)
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Expected Value E(X) Uniform r.v. (discrete)
@@ -87,7 +87,7 @@ ID: 1711011427808
 END
 
 > [!question]- Variance V(X) Uniform r.v. (discrete)
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Variance V(X) Uniform r.v. (discrete)

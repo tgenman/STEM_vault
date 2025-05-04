@@ -22,7 +22,7 @@ If $A$ and $B$ are independent, so are $A$ and $B^c$.
 
 #### Anki
 > [!question]- Independence
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE:  Independence

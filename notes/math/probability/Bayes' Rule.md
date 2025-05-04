@@ -46,7 +46,7 @@ $$ P(B_1|A) = \frac{p}{p + \frac{1}{k}(1 - p)}. $$
 
 #### Anki
 > [!question]- Bayes' Rule
-TARGET DECK: Math::Probability  
+TARGET DECK: math::probability  
 START
 Math_TWO_side
 TITLE: Bayes' Rule

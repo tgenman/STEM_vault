@@ -49,7 +49,7 @@ $$E[X] = \sum_x xp_X(x).$$
 
 #### Anki
 > [!question]- Expected Value E(X)
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Expected Value E(X)
@@ -68,7 +68,7 @@ ID: 1711011746329
 END
 
 > [!question]- Elementary properties of expectations
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Elementary properties of expectations
@@ -91,7 +91,7 @@ ID: 1711011618300
 END
 
 > [!question]- Requirement for well-definig $E[x]$
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Requirement for well-definig $E[x]$

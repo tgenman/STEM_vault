@@ -26,7 +26,7 @@ connected:
 
 ### Anki
 > [!question]- Properties of Random experiment
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Properties of Random experiment

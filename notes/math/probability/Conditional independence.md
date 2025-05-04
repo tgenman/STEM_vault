@@ -18,7 +18,7 @@ If in addition, $P(B \cap C) > 0$, conditional independence is equivalent to the
 
 #### Anki
 > [!question]- Conditional independence
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Conditional independence

@@ -19,7 +19,7 @@ $\sum_y \sum_{x:g(x)=y} g(x) p_X(x) = \sum_y y \sum_{x:g(x)=y} p_X(x) = \sum_y y
 
 #### Anki
 > [!question]- Expected Value Rule for Functions of Random Variables
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Expected Value Rule for Functions of Random Variables

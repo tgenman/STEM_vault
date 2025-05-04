@@ -21,7 +21,7 @@ $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^
 
 #### Anki
 > [!question]- Central moment 
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Central moment 

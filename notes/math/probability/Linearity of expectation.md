@@ -18,7 +18,7 @@ $E[Y] = \sum_{x} g(x)p_X(x) = \sum_{x} (ax + b)p_X(x) = a\sum_{x} xp_X(x) + b\su
 
 #### Anki
 > [!question]- Linearity of expectation
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Linearity of expectation

@@ -22,7 +22,7 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Elementary event

@@ -24,7 +24,7 @@ $P(A_1 \cap A_2 \cap \ldots \cap A_n) = P(A_1) \prod_{i=2}^{n} P(A_i | A_1, \ldo
 
 #### Anki
 > [!question]- The multiplication rule (conditional probability)
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: The multiplication rule (conditional probability)

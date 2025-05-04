@@ -23,7 +23,7 @@ For example:
 
 #### Anki
 > [!question]- Standardized moment
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Standardized moment

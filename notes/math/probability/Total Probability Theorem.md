@@ -45,7 +45,7 @@ $$ P(A) = \frac{1}{10} \cdot \frac{5}{8} + \frac{3}{10} \cdot \frac{3}{6} + \fra
 
 #### Anki
 > [!question]- Total Probability Theorem
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Total Probability Theorem

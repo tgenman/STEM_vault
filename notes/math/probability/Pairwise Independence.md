@@ -27,7 +27,7 @@ $$P(A \cap B) = P(A|B)P(B) = P(A)P(B)$$
 
 #### Anki
 > [!question]- $A_1, \ldots , A_k$ попарно независимы
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_TWO_side
 TITLE: $A_1, \ldots , A_k$ попарно независимы

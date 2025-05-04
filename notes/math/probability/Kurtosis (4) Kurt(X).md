@@ -21,7 +21,7 @@ log-pdf for the Pearson type VII distribution with excess kurtosis of infinity (
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Kurtosis

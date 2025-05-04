@@ -42,7 +42,7 @@ $P(A | B) = \frac{P(A \cap B)}{P(B)}$
 
 #### Anki
 > [!question]- The conditional probability $\mathbb{P}(A|B)$
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: The conditional probability $\mathbb{P}(A|B)$
@@ -60,7 +60,7 @@ ID: 1702137389003
 END
 
 > [!question]- Example of conditional probability
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Example of conditional probability

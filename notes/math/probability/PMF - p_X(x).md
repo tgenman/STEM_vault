@@ -27,7 +27,7 @@ For each possible value $x$ of $X$:
 
 #### Anki
 > [!question]- Probability mass function (PMF) $p_X(x)$
-TARGET DECK: Math::Probability  
+TARGET DECK: math::probability  
 START
 Math_ONE_side
 TITLE: Probability mass function (PMF) $p_X(x)$
@@ -44,7 +44,7 @@ ID: 1710950439103
 END
 
 > [!question]- Properties of Probability mass function (PMF) $p_X(x)$
-TARGET DECK: Math::Probability  
+TARGET DECK: math::probability  
 START
 Math_ONE_side
 TITLE: Properties of Probability mass function (PMF) $p_X(x)$

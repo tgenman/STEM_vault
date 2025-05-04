@@ -22,7 +22,7 @@ tags:
 
 #### Anki
 > [!question]- Uniform(a, b) (cont)
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Uniform(a, b) (cont)

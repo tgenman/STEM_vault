@@ -14,7 +14,7 @@ $\sigma_X = \sqrt{\text{var}(X)}$
 
 #### Anki
 > [!question]- Standard deviation
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Standard deviation

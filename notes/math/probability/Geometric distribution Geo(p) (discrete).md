@@ -29,7 +29,7 @@ $\sum_{k=1}^{\infty} p_X(k) = \sum_{k=1}^{\infty} (1 - p)^{k-1}p = p \sum_{k=0}^
 
 #### Anki
 > [!question]- Geometric discrete r.v.
-TARGET DECK: Math::Probability 
+TARGET DECK: math::probability 
 START
 Math_ONE_side
 TITLE: Geometric discrete r.v.
@@ -52,7 +52,7 @@ ID: 1710952073716
 END
 
 > [!question]- Expected value of Geometric random variable
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Expected value of Geometric random variable
@@ -64,7 +64,7 @@ ID: 1713899785152
 END
 
 > [!question]- Variance of Geometric random variable
-TARGET DECK: Math::Probability
+TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Variance of Geometric random variable
