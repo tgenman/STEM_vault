@@ -55,7 +55,7 @@ $E[X] = \lambda$
 $V[X] = \lambda$
 
 
-#### Anki
+# Anki
 > [!question]- Poisson($\lambda$)
 TARGET DECK: math::probability
 START

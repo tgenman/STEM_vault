@@ -27,7 +27,7 @@ $$\mathrm{A}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{12}}&\color{blu
 - $(A^{−1})^T=(A^T)^{−1}$
 
 
-#### Anki
+# Anki
 > [!question]- Matrix Transpose
 TARGET DECK: math::linal
 START

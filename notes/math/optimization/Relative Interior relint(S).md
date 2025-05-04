@@ -24,7 +24,7 @@ $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\ma
 > Any non-empty convex set $S \subseteq \mathbb{R}^n$ has a non-empty relative interior $\mathbf{relint}(S)$.
 
 
-#### Anki
+# Anki
 > [!question]- Relative Interior of the set $S$
 TARGET DECK: Math:: Optimization  
 START

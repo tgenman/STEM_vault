@@ -20,7 +20,7 @@ tags:
 ![[Pasted image 20240424112617.png|300]]
 ![[Pasted image 20240424112716.png|300]]
 
-#### Anki
+# Anki
 > [!question]- Uniform(a, b) (cont)
 TARGET DECK: math::probability 
 START

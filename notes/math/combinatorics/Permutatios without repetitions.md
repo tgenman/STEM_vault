@@ -20,7 +20,7 @@ $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 Например, если у нас есть $3$ разных книги (A, B, C), то количество способов их упорядочить равно $3!=3×2×1=6$ (ABC, ACB, BAC, BCA, CAB, CBA).
 
 
-#### Anki
+# Anki
 > [!question]- Permutatios without repetitions
 TARGET DECK: math::combinatorics
 START

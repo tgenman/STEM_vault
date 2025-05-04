@@ -11,7 +11,7 @@ connected:
 > [!tip] Circumferen of $G$ $c(G)$
 > the length of a longest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 
-#### Anki
+# Anki
 > [!question]- Circumferen of $G$ $c(G)$
 TARGET DECK: math::graph  
 START

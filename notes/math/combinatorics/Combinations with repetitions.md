@@ -11,7 +11,7 @@ connected:
 
 $$\bar{C_{n}^k} = \left(\binom{n}{k} \right) = \binom{n+k-1}{k} = \frac{(n+k-1)!}{k!(n-1)!} = C_{n+k-1}^k$$
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

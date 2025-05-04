@@ -14,7 +14,7 @@ $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
 - $0$ if $i \ne j$
 
 
-#### Anki
+# Anki
 > [!question]- Kroneker delta
 TARGET DECK: math::linal
 START

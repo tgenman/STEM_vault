@@ -21,7 +21,7 @@ For example:
 - The **third standardized moment** is  [[Skewness (3)]]
 - The **fourth standardized moment** is  [[Kurtosis (4) Kurt(X)]]
 
-#### Anki
+# Anki
 > [!question]- Standardized moment
 TARGET DECK: math::probability 
 START

@@ -18,7 +18,7 @@ For example,
 $$C = (u,w,x,y,w,v,u)$$
 
 
-#### Anki
+# Anki
 > [!question]- Trivial walk
 TARGET DECK: math::graph
 START

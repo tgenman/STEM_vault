@@ -14,7 +14,7 @@ tags:
 [[Dot product of vectors]]  is $v \cdot w = 0$ when $v$ is perpendicular to $w$.
 $\bar a \perp \bar b$
 
-#### Anki
+# Anki
 > [!question]- Orthogonal vectors
 TARGET DECK: math::linal
 START

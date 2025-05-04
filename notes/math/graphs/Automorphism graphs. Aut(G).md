@@ -29,7 +29,7 @@ We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their num
 $Aut(G)$ is a [[Group|group]] under the operation of composition
 
 
-#### Anki
+# Anki
 > [!question]- Automorphism $Aut(G)$
 TARGET DECK: math::graph
 START

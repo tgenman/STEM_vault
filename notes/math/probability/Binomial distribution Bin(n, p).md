@@ -34,7 +34,7 @@ $\sum_{k=0}^{n} \binom{n}{k} p^k (1-p)^{n-k} = 1$
 
 ![[Pasted image 20240320191248.png]]
 
-#### Anki
+# Anki
 > [!question]- Binomial r.v.  $\text{Bin}(n, p)$
 TARGET DECK: math::probability
 START

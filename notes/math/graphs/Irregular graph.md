@@ -22,7 +22,7 @@ if exactly two vertices of $G$ have the same degree.
 [[Theorem about no existence irregular graph]]
 [[Theorem of existence eaxctly 2 nearly irregular graphs]]
 
-#### Anki
+# Anki
 > [!question]- Irregular graph
 TARGET DECK: math::graph
 START

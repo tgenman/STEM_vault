@@ -15,7 +15,7 @@ connected:
 
 
 
-#### Anki
+# Anki
 > [!question]- Girth of $G$ $g(G)$
 TARGET DECK: math::graph
 START

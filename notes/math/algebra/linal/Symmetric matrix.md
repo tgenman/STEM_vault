@@ -17,7 +17,7 @@ A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 - only [[Square matrix]] can be symmetric. 
 - The sum of symmetric matrices $A, B \in \mathbb{R}^{n \times n}$ is always symmetric. 
 
-#### Anki
+# Anki
 > [!question]- Symmetric matrix
 TARGET DECK: math::linal
 START

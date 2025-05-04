@@ -13,7 +13,7 @@ created: 2023-12-19 21:44
 ![[Pasted image 20201004113910.png]]
 
 
-#### Anki
+# Anki
 > [!question]- Tetrahedron (4)
 TARGET DECK: math::geometry
 START

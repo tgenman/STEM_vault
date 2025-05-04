@@ -17,7 +17,7 @@ anki: false
 ![[Pasted image 20201004121939.png]]
 Куб - правильный гексаэдр
 
-#### Anki
+# Anki
 > [!question]- Cube (6)
 TARGET DECK: math::geometry
 START

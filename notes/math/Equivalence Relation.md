@@ -16,7 +16,7 @@ is [[Relation on elements of sets]] that satisfies these properties for all $x,y
 3. ([[Transitive]]) If $x \mathscr{R} y$ and $y \mathscr{R} z$ then $x \mathscr{R} z$.
 
 
-#### Anki
+# Anki
 > [!question]- An equivalence relation $\mathscr{R}$ on a set $S$ 
 TARGET DECK: math::set  
 START

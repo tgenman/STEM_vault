@@ -25,7 +25,7 @@ $$
 - Second, $A$ is a  symmetric matrix, that is, row i of $A$ is identical to column $i$ of $A$ for every integer $i$ with $1 ≤ i ≤ n$.
 - if we were to add the entries in row $i$ (or in column $i$), then we obtain the degree of $v_i$.
 
-#### Anki
+# Anki
 > [!question]- The adjacency matrix
 TARGET DECK: math::graph
 START

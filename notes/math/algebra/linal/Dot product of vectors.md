@@ -33,7 +33,7 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 	$(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
 
 
-#### Anki
+# Anki
 > [!question]- Dot product of vectors
 TARGET DECK: math::linal 
 START

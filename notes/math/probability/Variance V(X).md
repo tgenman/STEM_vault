@@ -31,7 +31,7 @@ $\text{var}(X) = E[(X - E[X])^2]$
 
 
 
-#### Anki
+# Anki
 > [!question]- Variance
 TARGET DECK: math::probability
 START

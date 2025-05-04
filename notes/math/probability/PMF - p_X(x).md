@@ -25,7 +25,7 @@ For each possible value $x$ of $X$:
 - $\sum_x p_X(x) = 1$
 - $P(X \in S) = \sum_{x \in S} p_X(x).$
 
-#### Anki
+# Anki
 > [!question]- Probability mass function (PMF) $p_X(x)$
 TARGET DECK: math::probability  
 START

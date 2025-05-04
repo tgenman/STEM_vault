@@ -28,7 +28,7 @@ $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \thet
 > - **Symmetric positive semi-definite matrices** $S_+^n$ → Semidefinite programming (SDP)
 
 
-#### Anki
+# Anki
 > [!question]- Convex cone
 TARGET DECK: math::optimization 
 START

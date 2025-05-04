@@ -10,7 +10,7 @@ connected:
 > [!tip] loop
 is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

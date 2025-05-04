@@ -33,7 +33,7 @@ $\large  x = p_{ox} + tv_x$
 $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}$
 
 
-#### Anki
+# Anki
 > [!question]- Line (opt def)
 TARGET DECK: math::optimization
 START

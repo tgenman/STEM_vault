@@ -24,7 +24,7 @@ the moments of a function are certain quantitative measures related to the shape
 
 [[Производящая функция моментов случайной M_X(s)]]
 
-#### Anki
+# Anki
 > [!question]- Moment of r.v. 
 TARGET DECK: math::probability 
 START

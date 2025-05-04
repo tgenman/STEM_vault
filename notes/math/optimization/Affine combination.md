@@ -46,7 +46,7 @@ Given three points ${x_1}$, ${x_2}$, ${x_3}$ on a plane. The point $P$ is a [[Co
 
 
 
-#### Anki
+# Anki
 > [!question]- Affine combination
 TARGET DECK: math::optimization
 START

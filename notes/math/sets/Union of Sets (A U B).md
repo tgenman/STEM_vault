@@ -14,7 +14,7 @@ connected:
 
 ![[Pasted image 20220630193329.png]]
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::set
 START

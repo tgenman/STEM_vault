@@ -21,7 +21,7 @@ connected:
 - $\overline{U} = \emptyset$
 - $\bar{\bar{A}} = A$
 
-#### Anki
+# Anki
 > [!question]- Complement of Set
 TARGET DECK: math::set
 START

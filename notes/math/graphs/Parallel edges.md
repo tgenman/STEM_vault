@@ -11,7 +11,7 @@ connected:
 > [!tip] parallel edges
 is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 
-#### Anki
+# Anki
 > [!question]- Parallel edges
 TARGET DECK: math::graph
 START

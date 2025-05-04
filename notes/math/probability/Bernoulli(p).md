@@ -49,7 +49,7 @@ $\text{var}(X) = E[X^2] - (E[X])^2 = E[X] - (E[X])^2 = p - p^2 = p(1-p)$
 
 
 
-#### Anki
+# Anki
 > [!question]- Bernoulli r.v.
 TARGET DECK: math::probability
 START

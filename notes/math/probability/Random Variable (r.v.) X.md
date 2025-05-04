@@ -38,7 +38,7 @@ A function from the sample space $\Omega$ to the real numbers
 Возьмем любую функцию, например $\xi(\omega) = \omega^2$ или $\xi(\omega)=\sin \omega$
 
 
-#### Anki
+# Anki
 > [!question]- Random Variable (r.v.) X (def 1)
 TARGET DECK: math::probability
 START

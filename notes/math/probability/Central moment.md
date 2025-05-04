@@ -19,7 +19,7 @@ $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^
 - 2 - [[Variance V(X)]]
 	- [[Standard deviation]]
 
-#### Anki
+# Anki
 > [!question]- Central moment 
 TARGET DECK: math::probability
 START

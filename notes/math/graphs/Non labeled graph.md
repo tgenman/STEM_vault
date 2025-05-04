@@ -20,7 +20,7 @@ connected:
 
 Число помеченных графов можно приближенно рассчитать по [[Формула Пойа]] 
 
-#### Anki
+# Anki
 > [!question]- Non labeled graph
 TARGET DECK: math::graph
 START

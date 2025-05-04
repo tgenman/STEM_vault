@@ -19,7 +19,7 @@ $\mu'_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{
 - [[Expected Value E(X)]]  - Mean
 
 
-#### Anki
+# Anki
 > [!question]- Raw moment
 TARGET DECK: math::probability
 START

@@ -16,7 +16,7 @@ $P(A \cap B | C) = P(A | C)P(B | C)$
 
 If in addition, $P(B \cap C) > 0$, conditional independence is equivalent to the condition $P(A | B \cap C) = P(A | C)$
 
-#### Anki
+# Anki
 > [!question]- Conditional independence
 TARGET DECK: math::probability
 START

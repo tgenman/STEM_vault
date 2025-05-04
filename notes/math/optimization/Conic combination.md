@@ -19,7 +19,7 @@ if $\theta_i \geq 0$ for all $i$.
 
 ![[Affine combination#Difference between conic, convex, affine, and linear combinations]]
 
-#### Anki
+# Anki
 > [!question]- Conic combination
 TARGET DECK: Math:: Optimization
 START

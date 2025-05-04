@@ -19,7 +19,7 @@ $\mathcal{X} = \bigcap_{i \in I} X_i$
 - Since $X_i$ is convex for all $i \in I$, $z \in X_i, \forall i \in I$.
 - Therefore, $z \in \mathcal{X}$ and $\mathcal{X}$ is a convex set.
 
-#### Anki
+# Anki
 > [!question]- The intersection of any number of convex sets is convex
 TARGET DECK: math::optimization
 START

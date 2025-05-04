@@ -47,7 +47,7 @@ $$E[X] = \sum_x xp_X(x).$$
 - $\mathbb{E} [X] = \sum_{x=1}^{\infty} \mathbb{P} [X \geq x]$ X discrete
 
 
-#### Anki
+# Anki
 > [!question]- Expected Value E(X)
 TARGET DECK: math::probability 
 START

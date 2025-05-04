@@ -19,7 +19,7 @@ Examples of affine functions:
 - set of solutions of linear matrix inequality $\left\{ x \mid x_1 A_1 + \ldots + x_m A_m \preceq B\right\}$. 
 Here $A_i, B \in \mathbf{S}^p$ are symmetric matrices $p \times p$.
 
-#### Anki
+# Anki
 > [!question]- The image of the convex set under affine mapping is 
 TARGET DECK: math::optimization
 START

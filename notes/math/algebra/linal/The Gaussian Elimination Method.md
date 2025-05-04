@@ -16,7 +16,7 @@ Gaussian elimination is an algorithm that performs [[Elementary transformations]
 
 ![[Pasted image 20230912205727.png]]
 
-#### Anki
+# Anki
 > [!question]- The Gaussian Elimination Method
 TARGET DECK: math::linal 
 START

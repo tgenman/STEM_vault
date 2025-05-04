@@ -13,7 +13,7 @@ tags:
 - они равных размеров
 - имеют равные соответствующие элементы
 
-#### Anki
+# Anki
 > [!question]- Matrix Comparasion
 TARGET DECK: math::linal
 START

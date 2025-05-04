@@ -23,7 +23,7 @@ $\sum\limits_{i=1}^k \lambda_i x_i \in \mathcal{C}$.
 
 ![[cone.svg]]
 
-#### Anki
+# Anki
 > [!question]- Cone set (Geometric definition) 
 TARGET DECK: math::optimization
 START

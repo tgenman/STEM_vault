@@ -17,7 +17,7 @@ We will refer to any relation between a set $S$ and itself, as in the preceding 
 
 Any ==Equality Relation== is [[Equivalence Relation]]
 
-#### Anki
+# Anki
 > [!question]- Equality Relation
 TARGET DECK: math::set
 START

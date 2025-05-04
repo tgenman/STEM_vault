@@ -9,7 +9,7 @@ connected:
 > [!tip] Open walk
 A walk whose initial and terminal vertices are distinct
 
-#### Anki
+# Anki
 > [!question]- Open walk
 TARGET DECK: math::graph
 START

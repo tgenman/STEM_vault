@@ -17,7 +17,7 @@ $\mathbf{cone}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \; \
 
 ![[conic_hull.svg]]
 
-#### Anki
+# Anki
 > [!question]- Conic hull of $S$
 TARGET DECK: math::optimization  
 START

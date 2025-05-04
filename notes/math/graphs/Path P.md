@@ -17,7 +17,7 @@ Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
 ![[Pasted image 20231123204833.png]]
 
-#### Anki
+# Anki
 > [!question]- Path $P$
 TARGET DECK: math::graph
 START

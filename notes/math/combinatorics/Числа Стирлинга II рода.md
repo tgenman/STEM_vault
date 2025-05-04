@@ -23,7 +23,7 @@ $S_n^m = \frac{1}{m!} \left[ m^n - \binom{m}{1} (m - 1)^n + \ldots + (-1)^k \bin
 $S(3,2) = 3$
 $S(10,5) = 42525$
 
-#### Anki
+# Anki
 > [!question]- Числа Стирлинга второго рода $S(n, k)$
 TARGET DECK: math::combinatorics
 START

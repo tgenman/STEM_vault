@@ -23,7 +23,7 @@ tags:
 [[The bijection rule]]:
 Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if there exists a [[Bijective mapping property (function)]] $X$ onto $Y$, that is, if there exists a one-to-one correspondence between $X$ and $Y$. 
 
-#### Anki
+# Anki
 > [!question]- Cardinality
 TARGET DECK: math::set 
 START

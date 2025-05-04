@@ -30,7 +30,7 @@ ADDITIONAL:
 ID: 1698068782659
 END
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics    
 START

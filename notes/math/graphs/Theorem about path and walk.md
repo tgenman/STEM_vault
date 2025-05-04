@@ -22,7 +22,7 @@ $$ W' = (u = u_0, u_1, ..., u_{i-1}, u_i = u_j, u_{j+1}, ..., u_k = v) $$
 
 whose length is less than $k$ and such that every edge of $W'$ belongs to $W$. This is a contradiction.
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

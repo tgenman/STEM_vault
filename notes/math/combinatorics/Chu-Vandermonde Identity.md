@@ -12,7 +12,7 @@ $\sum_{j=0}^m C_{p}^k C_{n-p}^{m-k} = C_p^0 C_{n-p}^m + C_p^1 C_{n-p}^{m-1} + \l
 
 $\binom{p}{0}\binom{n-p}{m} + \binom{p}{1}\binom{n-p}{m-1}$
 
-#### Anki
+# Anki
 > [!question]- Chu-Vandermonde Identity
 TARGET DECK: math::combinatorics 
 START

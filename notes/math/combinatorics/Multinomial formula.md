@@ -20,7 +20,7 @@ Expand all brackets and collect like terms. Terms will have the form $x_1^{n_1}\
 With the Multinomial formula, we prove that $(x_1+x_2+\ldots+x_k)^n$ is the product of $n$ sums: $$(x_1+x_2+\ldots+x_{k})\cdot\ldots\cdot(x_{1}+x_{2}+\ldots+x_{k}).$$ 
 We obtain each term $x_1^{n_1}\cdots x_k^{n_k}$ by choosing $x_1$ in $n_1$ of the $n$ factors, $x_2$ in $n_2$, $x_3$ in $n_{3}$, and so on. Consequently, the coefficient of the monomial $x_1^{n_1}\cdots x_k^{n_k}$ is equal to the multinomial coefficient $\binom{n}{n_1,n_2,\ldots,n_k}$.
 
-#### Anki
+# Anki
 > [!question]- Multinomial formula
 TARGET DECK: math::combinatorics
 START

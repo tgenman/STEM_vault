@@ -20,7 +20,7 @@ if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
 ![[Affine combination#Difference between conic, convex, affine, and linear combinations]]
 
 
-#### Anki
+# Anki
 > [!question]- Linear combination
 TARGET DECK: math::optimization
 START

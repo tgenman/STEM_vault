@@ -42,7 +42,7 @@ Top: examples of convex sets. Bottom: examples of non-convex sets.
 ![[Affine set#Relationship between convex and affine set]]
 
 
-#### Anki
+# Anki
 > [!question]- Convex set (geometric definition)  
 TARGET DECK: math::optimization
 START

@@ -18,7 +18,7 @@ $\sum_{n_1+\ldots+n_k=n} P(n_1, \ldots, n_k) = k^n$
 $\sum_{n_1+n_2+n_3=n} P(n_1, n_2, n_3) = 3^n$
 
 
-#### Anki
+# Anki
 > [!question]- Sum of permutations for k classes
 TARGET DECK: math::combinatorics
 START

@@ -21,7 +21,7 @@ $$\sum_{i=1}^{k} d_i \leq 2\binom{k}{2} + \sum_{i=k+1}^{n} \min\{k, d_i\} = k(k 
 Hence, for every graphical sequence $s$, we must have both that $\sum_{i=1}^{n} d_i$ is even and (1.1) is satisfied for every integer $k$ with $1 \leq k \leq n - 1$. These conditions are not only necessary for a sequence of nonnegative integers to be graphical, but they are sufficient as well. 
 
 
-#### Anki
+# Anki
 > [!question]- Erdos–Gallai Theorem
 TARGET DECK: math::graph 
 START

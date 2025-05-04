@@ -12,7 +12,7 @@ connected:
 - [[Неправильный многогранник]]
 
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::geometry  
 START

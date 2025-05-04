@@ -51,7 +51,7 @@ tags:
   - Dense vector representation of categories.
   - Captures relationships and similarities between categories.
 
-#### Anki
+# Anki
 > [!question]- Embedding
 TARGET DECK: stem::ml::core
 START

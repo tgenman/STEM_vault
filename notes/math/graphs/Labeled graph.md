@@ -19,7 +19,7 @@ connected:
 
 ![[Pasted image 20231218225715.png]]
 
-#### Anki
+# Anki
 > [!question]- Labeled graph
 TARGET DECK: math::graph 
 START

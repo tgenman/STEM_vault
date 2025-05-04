@@ -21,7 +21,7 @@ $$W_1 = (x,w,y,w,v,u,w)$$
 Two $u−v$ walks $W =(u=u_0,u_1,...,u_k =v)$ and $W′ =(u=v_0,v_1,...,v_l = v)$  in a graph are equal if $k=l$ and $u_i =v_i$ for all $i$ with $0≤i≤k$
 
 
-#### Anki
+# Anki
 > [!question]- $u − v$ walk $W$
 TARGET DECK: math::graph
 START

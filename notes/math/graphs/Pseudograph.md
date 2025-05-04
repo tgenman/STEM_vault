@@ -16,7 +16,7 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 ![[Pasted image 20231115154026.png]]
 
 
-#### Anki
+# Anki
 > [!question]- Pseudograph
 TARGET DECK: math::graph
 START

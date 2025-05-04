@@ -12,7 +12,7 @@ connected:
 A [[Walk W|walk]] whose initial and terminal vertices are same
 
 
-#### Anki
+# Anki
 > [!question]- Closed walk
 TARGET DECK: math::graph
 START

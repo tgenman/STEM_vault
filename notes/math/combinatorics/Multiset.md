@@ -15,7 +15,7 @@ connected:
 is a collection of objects in which each object can appear more than once.
 
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::set
 START

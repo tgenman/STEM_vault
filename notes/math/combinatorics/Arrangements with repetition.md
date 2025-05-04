@@ -17,7 +17,7 @@ connected:
 $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 
 
-#### Anki
+# Anki
 > [!question]- An arrangement with repetition
 TARGET DECK: math::combinatorics
 START

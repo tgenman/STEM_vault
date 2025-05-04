@@ -16,7 +16,7 @@ is the [[Simple Graph (G)]] graph whose vertex set is the set of all subsets of 
 
 
 
-#### Anki
+# Anki
 > [!question]- The boolean lattice $BL_n$ ($n ≥ 1$) 
 TARGET DECK: math::graph
 START

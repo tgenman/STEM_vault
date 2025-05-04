@@ -14,7 +14,7 @@ connected:
  if no two of them share a common element.
 
 
-#### Anki
+# Anki
 > [!question]- Sets are disjoint
 TARGET DECK: math::set
 START

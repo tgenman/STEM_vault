@@ -16,7 +16,7 @@ where $v_1$ is the first component of $v$ and $v_2$ is the second component of $
 
 ==**Вектор-строка** ==. — это матрица, в которой $1$ строка и $n$ столбцов, то есть матрица размера $1{\times}n$.
 
-#### Anki
+# Anki
 > [!question]- Row vector
 TARGET DECK: math::linal
 START

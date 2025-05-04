@@ -21,7 +21,7 @@ Indeed, $\alpha f(x) + (1-\alpha) f(y) = \alpha (A x + b) + (1-\alpha) (A y + b)
 $= A (\alpha x + (1-\alpha) y) + b = f(z),$
 where $z = \alpha x + (1-\alpha) y \in \mathcal{X}$.
 
-#### Anki
+# Anki
 > [!question]- If the [[Domain Dom(f) or Preimage|domain]]  of any [[Function (math)|linear map]]  is convex, then the [[Range Ran(f) or Image Im(f)|image]]  of this map is also convex.
 TARGET DECK: math::optimization
 START

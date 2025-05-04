@@ -12,7 +12,7 @@ connected:
 $\sigma_X = \sqrt{\text{var}(X)}$
 
 
-#### Anki
+# Anki
 > [!question]- Standard deviation
 TARGET DECK: math::probability
 START

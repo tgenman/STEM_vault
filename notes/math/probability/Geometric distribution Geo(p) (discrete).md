@@ -27,7 +27,7 @@ tags:
 
 $\sum_{k=1}^{\infty} p_X(k) = \sum_{k=1}^{\infty} (1 - p)^{k-1}p = p \sum_{k=0}^{\infty} (1 - p)^k = p \cdot \frac{1}{1 - (1 - p)} = 1$
 
-#### Anki
+# Anki
 > [!question]- Geometric discrete r.v.
 TARGET DECK: math::probability 
 START

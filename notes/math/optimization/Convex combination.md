@@ -22,7 +22,7 @@ if $\sum\limits_{i=1}^k \theta_i = 1$ and $\theta_i \geq 0$ for all $i$.
 
 ![[Affine combination#Difference between Convex and Afiine combination on graph]]
 
-#### Anki
+# Anki
 > [!question]- Convex combination
 TARGET DECK: math::optimization
 START

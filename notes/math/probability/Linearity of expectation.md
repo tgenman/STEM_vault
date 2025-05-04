@@ -16,7 +16,7 @@ tags:
 ###### Proof
 $E[Y] = \sum_{x} g(x)p_X(x) = \sum_{x} (ax + b)p_X(x) = a\sum_{x} xp_X(x) + b\sum_{x} p_X(x) = aE[X] + b$
 
-#### Anki
+# Anki
 > [!question]- Linearity of expectation
 TARGET DECK: math::probability
 START

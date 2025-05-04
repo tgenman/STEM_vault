@@ -11,7 +11,7 @@ connected:
 > [!tip] Dominating vertex
 > A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = n - 1$
 
-#### Anki
+# Anki
 > [!question]- Dominating vertex
 TARGET DECK: math::graph
 START

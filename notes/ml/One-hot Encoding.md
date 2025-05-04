@@ -11,7 +11,7 @@ tags:
 ---
 
 
-#### Anki
+# Anki
 > [!question]- One-hot Encoding
 TARGET DECK: stem::ml::core
 START

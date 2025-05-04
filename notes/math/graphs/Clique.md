@@ -17,7 +17,7 @@ connected:
 
 
 
-#### Anki
+# Anki
 > [!question]- Сlique
 TARGET DECK: math::graph
 START

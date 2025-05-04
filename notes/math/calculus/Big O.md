@@ -17,7 +17,7 @@ connected:
 Что для этого должно быть: $|f(n)| \leq C \cdot |g(n)|$, начиная с некоторого $n$, для некоторой константы $C$.
 $$|\frac{f(n)}{g(n)}| \leq C$$
 
-#### Anki
+# Anki
 > [!question]- Функция $f(n)$ является $O(g(n))$
 TARGET DECK: math::calculus
 START

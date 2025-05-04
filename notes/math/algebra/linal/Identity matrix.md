@@ -16,7 +16,7 @@ connected:
 > называют [[Diagonal matrix]], все элементы на [[Diagonal of square matrix|главной диагонали]]  которой равны 1.
 $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 
-#### Anki
+# Anki
 > [!question]- Identity matrix $E$ ($I$) 
 TARGET DECK: math::linal
 START

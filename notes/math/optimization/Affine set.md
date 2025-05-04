@@ -29,7 +29,7 @@ is a set that is closed under all possible [[Affine combination|affine combinati
 [[Convex Set]] $\subseteq$  [[Affine set]]  
 
 
-#### Anki
+# Anki
 > [!question]- Affine set (geometric definition)
 TARGET DECK: math::optimization
 START

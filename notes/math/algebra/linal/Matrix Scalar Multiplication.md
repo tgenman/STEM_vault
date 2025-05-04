@@ -22,7 +22,7 @@ Distributivity:
 - $\lambda(B + C) = \lambda B + \lambda C$, where $B, C \in \mathbb{R}^{m \times n}$
 
 
-#### Anki
+# Anki
 > [!question]- Properties Matrix Scalar Multiplication
 TARGET DECK: math::linal 
 START

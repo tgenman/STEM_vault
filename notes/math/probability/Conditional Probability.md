@@ -40,7 +40,7 @@ $P(A | B) = \frac{P(A \cap B)}{P(B)}$
 
 
 
-#### Anki
+# Anki
 > [!question]- The conditional probability $\mathbb{P}(A|B)$
 TARGET DECK: math::probability
 START

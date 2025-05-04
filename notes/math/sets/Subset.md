@@ -26,7 +26,7 @@ connected:
 - For any set $A$, $A$ itself and $∅$ are both subsets of $A$. 
 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и [[Empty Set]]
 
-#### Anki
+# Anki
 > [!question]- Subset
 TARGET DECK: math::set
 START

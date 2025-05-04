@@ -19,7 +19,7 @@ connected:
 ![[Pasted image 20231219215243.png]]
 
 
-#### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::geometry
 START
