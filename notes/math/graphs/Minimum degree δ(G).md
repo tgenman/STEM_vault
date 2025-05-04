@@ -12,7 +12,7 @@ is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Minimum degree

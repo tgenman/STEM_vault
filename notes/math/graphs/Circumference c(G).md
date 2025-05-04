@@ -13,7 +13,7 @@ connected:
 
 #### Anki
 > [!question]- Circumferen of $G$ $c(G)$
-TARGET DECK: Math::Graph  
+TARGET DECK: math::graph  
 START
 Math_TWO_side
 TITLE: Circumferen of $G$ $c(G)$

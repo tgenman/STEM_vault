@@ -18,7 +18,7 @@ Suppose that this statement is false. Let $W=\{v_2,v_3,\ldots,v_{\Delta+1}\}.$ A
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about 2-switches transformations of graphical sequence

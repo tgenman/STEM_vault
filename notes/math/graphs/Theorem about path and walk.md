@@ -24,7 +24,7 @@ whose length is less than $k$ and such that every edge of $W'$ belongs to $W$. T
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about path and walk

@@ -20,7 +20,7 @@ $$C = (u,w,x,y,w,v,u)$$
 
 #### Anki
 > [!question]- Trivial walk
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Trivial walk

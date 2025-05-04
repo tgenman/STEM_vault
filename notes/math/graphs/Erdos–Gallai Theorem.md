@@ -23,7 +23,7 @@ Hence, for every graphical sequence $s$, we must have both that $\sum_{i=1}^{n} 
 
 #### Anki
 > [!question]- Erdos–Gallai Theorem
-TARGET DECK: Math::Graph 
+TARGET DECK: math::graph 
 START
 Math_ONE_side
 TITLE: Erdos–Gallai Theorem

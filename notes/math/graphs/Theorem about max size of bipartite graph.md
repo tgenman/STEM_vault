@@ -22,7 +22,7 @@ and so $x(n-x)\leq n^2/4.$ Since $x(n-x)$ is an integer, $x(n-x)\leq\lfloor n^2/
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about max size of bipartite graph

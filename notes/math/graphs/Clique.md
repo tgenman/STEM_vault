@@ -19,7 +19,7 @@ connected:
 
 #### Anki
 > [!question]- Сlique
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Сlique
@@ -30,7 +30,7 @@ ID: 1705258440998
 END
 
 > [!question]- k-clique
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: k-clique

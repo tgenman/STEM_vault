@@ -13,7 +13,7 @@ is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 
 #### Anki
 > [!question]- Parallel edges
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Parallel edges

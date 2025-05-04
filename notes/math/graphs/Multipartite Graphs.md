@@ -17,7 +17,7 @@ A $2$-partite graph is [[519.172.5 Bipartite graph]].
 
 ### Anki
 > [!question]- A graph $G$ is a $k$-partite graph ($k \in N$ $k ≥ 1$)
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: A graph $G$ is a $k$-partite graph ($k \in N$ $k ≥ 1$) (k-дольный граф)

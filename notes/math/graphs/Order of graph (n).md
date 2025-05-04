@@ -14,7 +14,7 @@ $$n$$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Order of graph (n)

@@ -23,7 +23,7 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Cycle $C_n$ (n-cycle) 

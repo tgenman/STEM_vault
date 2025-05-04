@@ -21,7 +21,7 @@ connected:
 
 #### Anki
 > [!question]- Labeled graph
-TARGET DECK: Math::Graph 
+TARGET DECK: math::graph 
 START
 Math_TWO_side
 TITLE: Labeled graph
@@ -33,7 +33,7 @@ ID: 1705263411201
 END
 
 > [!question]-
-TARGET DECK: Math::Graph 
+TARGET DECK: math::graph 
 START
 Math_TWO_side
 TITLE: Два помеченных графа считаются различнымии,

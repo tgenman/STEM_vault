@@ -33,7 +33,7 @@ If  $E(H) = E(G) \cap \binom{V(H)}{2}$ then $H$ is induced subgraph
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Induced subgraph
@@ -47,7 +47,7 @@ ID: 1699171145822
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Edge-induced subgraph
@@ -61,7 +61,7 @@ ID: 1699171145833
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Induced by vertex set $S$
@@ -75,7 +75,7 @@ ID: 1699171145843
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Induced by edge set $X$

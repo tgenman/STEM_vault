@@ -30,7 +30,7 @@ $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
 Not exist a [[Simple Graph (G)|graph]]  where all nodes have different degrees. 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Degree of a vertex (deg)

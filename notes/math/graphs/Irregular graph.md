@@ -24,7 +24,7 @@ if exactly two vertices of $G$ have the same degree.
 
 #### Anki
 > [!question]- Irregular graph
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Irregular graph
@@ -37,7 +37,7 @@ ID: 1705262930870
 END
 
 > [!question]- Nearly irregular graph
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Nearly irregular graph

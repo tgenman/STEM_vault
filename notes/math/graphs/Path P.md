@@ -19,7 +19,7 @@ $$P = (u,v,w,y)$$
 
 #### Anki
 > [!question]- Path $P$
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Path $P$

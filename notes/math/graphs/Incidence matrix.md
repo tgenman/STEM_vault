@@ -17,7 +17,7 @@ is the $n×m$ matrix $M_G := (m_{ve})$, where $m_ve$ is the number of times ($0,
 
 #### Anki
 > [!question]- The incidence matrix of $G$ 
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: The incidence matrix of $G$ 

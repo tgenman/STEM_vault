@@ -20,7 +20,7 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about existence r-regular n graph

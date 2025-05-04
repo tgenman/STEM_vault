@@ -11,7 +11,7 @@ A walk whose initial and terminal vertices are distinct
 
 #### Anki
 > [!question]- Open walk
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Open walk

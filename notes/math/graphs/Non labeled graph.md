@@ -22,7 +22,7 @@ connected:
 
 #### Anki
 > [!question]- Non labeled graph
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Non labeled graph

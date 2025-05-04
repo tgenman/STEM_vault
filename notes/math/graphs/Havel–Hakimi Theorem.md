@@ -51,7 +51,7 @@ $s_7^{\prime}=s_7:0,0,0,0.$
 
 #### Anki
 > [!question]- Havel–Hakimi Theorem
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Havel–Hakimi Theorem

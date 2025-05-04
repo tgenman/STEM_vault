@@ -16,7 +16,7 @@ $C_3 = K_3$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Triangle (graph)

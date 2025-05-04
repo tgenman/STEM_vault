@@ -19,7 +19,7 @@ tags:
 
 #### Anki
 > [!question]- Theorem about number of labeled graphs
-TARGET DECK: Math::Graph 
+TARGET DECK: math::graph 
 START
 Math_ONE_side
 TITLE: Theorem about number of labeled graphs

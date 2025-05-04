@@ -13,7 +13,7 @@ connected:
 
 #### Anki
 > [!question]- Dominating vertex
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Dominating vertex

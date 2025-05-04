@@ -19,7 +19,7 @@ One consequence of [[Theorem about 2-switches transformations of graphical seque
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: 2-switch 

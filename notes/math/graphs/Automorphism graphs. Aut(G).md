@@ -31,7 +31,7 @@ $Aut(G)$ is a [[Group|group]] under the operation of composition
 
 #### Anki
 > [!question]- Automorphism $Aut(G)$
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Automorphism $Aut(G)$
@@ -45,7 +45,7 @@ ID: 1705261959421
 END
 
 > [!question]- Vertex-transitive (symmetric) graph
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Vertex-transitive (symmetric) graph
@@ -59,7 +59,7 @@ ID: 1705261959431
 END
 
 > [!question]- Asymmetric graphs
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Asymmetric graphs

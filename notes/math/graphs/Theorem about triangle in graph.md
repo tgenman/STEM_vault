@@ -22,7 +22,7 @@ From the defining property of the graph $G$, it follows that $G^{\prime}$ contai
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about triangle in graph

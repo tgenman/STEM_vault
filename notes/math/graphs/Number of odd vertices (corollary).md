@@ -18,7 +18,7 @@ which, of course, is an even number. Since the sum of the degrees of the even ve
 
  ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Number of odd vertices (corollary)

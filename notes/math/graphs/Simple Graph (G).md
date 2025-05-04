@@ -44,7 +44,7 @@ Graphs are so named because they can be represented graphically
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Graph (G)

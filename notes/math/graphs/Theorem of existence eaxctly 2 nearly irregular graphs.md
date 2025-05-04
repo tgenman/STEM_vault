@@ -18,7 +18,7 @@ We show by induction that for each integer $n \geq 2$ there are exactly two near
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem of existence eaxctly 2 nearly irregular graphs

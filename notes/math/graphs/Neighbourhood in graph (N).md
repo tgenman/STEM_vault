@@ -18,7 +18,7 @@ connected:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Neighbours
@@ -29,7 +29,7 @@ ID: 1699164787998
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
@@ -40,7 +40,7 @@ ID: 1699164788012
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Closed neighborhood of $v$

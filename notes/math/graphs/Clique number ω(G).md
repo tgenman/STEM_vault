@@ -14,7 +14,7 @@ is the [[Order of graph (n)|order]] of the largest [[Clique]]
 
 #### Anki
 > [!question]- The clique number $ω(G)$ of a graph $G$ 
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: The clique number $ω(G)$ of a graph $G$ 

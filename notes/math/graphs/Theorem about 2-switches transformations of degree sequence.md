@@ -18,7 +18,7 @@ We proceed by induction on the order $n$ of $G$ and $H.$ If $n\leq 4,$ then the 
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about 2-switches transformations of degree sequence

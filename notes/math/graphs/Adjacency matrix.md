@@ -27,7 +27,7 @@ $$
 
 #### Anki
 > [!question]- The adjacency matrix
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: The adjacency matrix

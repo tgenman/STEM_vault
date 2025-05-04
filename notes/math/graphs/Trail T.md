@@ -17,7 +17,7 @@ $$T = (u,v,y,w,v)$$
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Trail T

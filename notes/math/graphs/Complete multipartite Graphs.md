@@ -22,7 +22,7 @@ is a complete $k$-partite graph for some integer $k ≥ 2$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: A complete $k$-partite graph $G$ 

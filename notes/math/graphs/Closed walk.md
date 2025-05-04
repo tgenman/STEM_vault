@@ -14,7 +14,7 @@ A [[Walk W|walk]] whose initial and terminal vertices are same
 
 #### Anki
 > [!question]- Closed walk
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_TWO_side
 TITLE: Closed walk

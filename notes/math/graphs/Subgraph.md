@@ -19,7 +19,7 @@ If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: A graph $H$ is a subgraph of a graph $G$
@@ -31,7 +31,7 @@ ID: 1699165738437
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Supergraph
@@ -42,7 +42,7 @@ ID: 1699165738456
 END
 
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Proper subgraph

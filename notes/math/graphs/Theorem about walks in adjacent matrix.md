@@ -27,7 +27,7 @@ By the Principle of Mathematical Induction, $a_{ij}^{(k)}$ is the number of diff
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Graph
+TARGET DECK: math::graph
 START
 Math_ONE_side
 TITLE: Theorem about walks in adjacent matrix
