@@ -1,7 +1,7 @@
 ---
 aliases:
   - Нормальная подгруппа
-anki: true
+anki: false
 created: 2024-05-03 18:35
 parent:
   - "[[Group]]"
@@ -9,5 +9,6 @@ parent:
 connected:
   - "[[Kernel]]"
   - "[[Quotient group]]"
-  - "[[First Isomorphism Theorem]]"
+tags:
+  - empty
 ---

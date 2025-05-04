@@ -1,6 +1,6 @@
 ---
 aliases: 
-anki: true
+anki: false
 created: 2024-05-03 18:30
 parent:
   - "[[512.5 General Algebra MOC]]"
@@ -9,4 +9,6 @@ connected:
   - "[[Group]]"
   - "[[Ring]]"
   - "[[Field]]"
+tags:
+  - empty
 ---

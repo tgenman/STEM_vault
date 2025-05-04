@@ -1,7 +1,7 @@
 ---
 aliases:
   - Факторгруппа
-anki: true
+anki: false
 created: 2024-05-03 18:40
 parent:
   - "[[Group]]"
@@ -9,4 +9,6 @@ parent:
 connected:
   - "[[Normal subgroup]]"
   - "[[Kernel]]"
+tags:
+  - empty
 ---
