@@ -31,7 +31,7 @@ is a set that is closed under all possible [[Affine combination|affine combinati
 
 #### Anki
 > [!question]- Affine set (geometric definition)
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Affine set (geometric definition)
@@ -45,7 +45,7 @@ ID: 1734778183469
 END
 
 > [!question]- Affine set (сombination definition)
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Affine set (сombination definition)
@@ -57,7 +57,7 @@ ID: 1734778183475
 END
 
 > [!question]- Relationship between convex and affine set
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Relationship between convex and affine set

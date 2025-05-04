@@ -35,7 +35,7 @@ $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}
 
 #### Anki
 > [!question]- Line (opt def)
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Line (opt def)
@@ -48,7 +48,7 @@ ID: 1734761672999
 END
 
 > [!question]- Line. implicit equation
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Line. implicit equation
@@ -58,7 +58,7 @@ ID: 1734761884853
 END
 
 > [!question]- Line. parametric form
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Line. parametric form
@@ -67,7 +67,7 @@ ID: 1734761884869
 END
 
 > [!question]- Line. Symmetric form
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Line. Symmetric form

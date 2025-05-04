@@ -14,7 +14,7 @@ $S \subseteq \mathbb{R}^m \text{ convex}\; \rightarrow \; f^{-1}(S) = \left\{ x 
 
 #### Anki
 > [!question]- prototype of the convex set under affine mapping is also convex
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: prototype of the convex set under affine mapping is 

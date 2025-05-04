@@ -18,7 +18,7 @@ $x = \theta x_1 + (1 - \theta)x_2, \theta \in [0,1]$
 
 #### Anki
 > [!question]- Line segment
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Line segment

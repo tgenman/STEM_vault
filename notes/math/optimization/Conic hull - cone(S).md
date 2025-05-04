@@ -19,7 +19,7 @@ $\mathbf{cone}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \; \
 
 #### Anki
 > [!question]- Conic hull of $S$
-TARGET DECK: Math::Optimization  
+TARGET DECK: math::optimization  
 START
 Math_ONE_side
 TITLE: Conic hull of $S$

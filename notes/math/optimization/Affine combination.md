@@ -48,7 +48,7 @@ Given three points ${x_1}$, ${x_2}$, ${x_3}$ on a plane. The point $P$ is a [[Co
 
 #### Anki
 > [!question]- Affine combination
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Affine combination
@@ -59,7 +59,7 @@ ID: 1734779669666
 END
 
 > [!question]- Difference between conic, convex, affine, and linear combinations. Hierarchy-based Comparison
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Difference between conic, convex, affine, and linear combinations. Hierarchy-based Comparison
@@ -70,7 +70,7 @@ ID: 1734763705921
 END
 
 > [!question]- Difference between conic, convex, affine, and linear combinations. Property-based Table
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Difference between conic, convex, affine, and linear combinations. Property-based Table
@@ -85,7 +85,7 @@ ID: 1734779794045
 END
 
 > [!question]- Difference between conic, convex, affine, and linear combinations. Matrix-based Categorization
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Difference between conic, convex, affine, and linear combinations. Matrix-based Categorization
@@ -98,7 +98,7 @@ ID: 1734779794055
 END
 
 > [!question]- Difference between Convex and Afiine combination on graph
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Difference between Convex and Afiine combination on graph

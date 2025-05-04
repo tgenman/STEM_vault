@@ -44,7 +44,7 @@ Top: examples of convex sets. Bottom: examples of non-convex sets.
 
 #### Anki
 > [!question]- Convex set (geometric definition)  
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Convex set (geometric definition)  
@@ -65,7 +65,7 @@ ID: 1734778303394
 END
 
 > [!question]- Convex set (сombination definition)  
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Convex set (сombination definition)  

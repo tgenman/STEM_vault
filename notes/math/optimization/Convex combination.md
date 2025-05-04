@@ -24,7 +24,7 @@ if $\sum\limits_{i=1}^k \theta_i = 1$ and $\theta_i \geq 0$ for all $i$.
 
 #### Anki
 > [!question]- Convex combination
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Convex combination

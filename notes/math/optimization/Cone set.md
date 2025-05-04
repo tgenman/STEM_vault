@@ -25,7 +25,7 @@ $\sum\limits_{i=1}^k \lambda_i x_i \in \mathcal{C}$.
 
 #### Anki
 > [!question]- Cone set (Geometric definition) 
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Cone set (Geometric definition) 
@@ -38,7 +38,7 @@ ID: 1734878207787
 END
 
 > [!question]- Cone set (Combination definition)  
-TARGET DECK: Math::Optimization 
+TARGET DECK: math::optimization 
 START
 Math_ONE_side
 TITLE: Cone set (Combination definition)  

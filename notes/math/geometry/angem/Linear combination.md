@@ -22,7 +22,7 @@ if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
 
 #### Anki
 > [!question]- Linear combination
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_TWO_side
 TITLE: Linear combination

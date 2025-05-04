@@ -32,7 +32,7 @@ Indeed, $\alpha \hat{x} + (1-\alpha) \tilde{x} = [\alpha \hat{x}_1 + (1-\alpha) 
 
 #### Anki
 > [!question]- The Minkowski sum of two sets of vectors $S_1$ and $S_2$ in Euclidean space 
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: The Minkowski sum of two sets of vectors $S_1$ and $S_2$ in Euclidean space 
@@ -46,7 +46,7 @@ ID: 1734859945756
 END
 
 > [!question]- Theorem about Minkowski sum
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: 

@@ -21,7 +21,7 @@ Here $A_i, B \in \mathbf{S}^p$ are symmetric matrices $p \times p$.
 
 #### Anki
 > [!question]- The image of the convex set under affine mapping is 
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: The image of the convex set under affine mapping is

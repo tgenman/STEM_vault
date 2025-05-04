@@ -19,7 +19,7 @@ $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\
 
 #### Anki
 > [!question]- Affine hull of set $S$
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Affine hull of set $S$

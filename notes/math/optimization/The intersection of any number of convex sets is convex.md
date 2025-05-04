@@ -21,7 +21,7 @@ $\mathcal{X} = \bigcap_{i \in I} X_i$
 
 #### Anki
 > [!question]- The intersection of any number of convex sets is convex
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: The intersection of any number of convex sets is 

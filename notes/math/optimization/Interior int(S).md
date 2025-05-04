@@ -19,7 +19,7 @@ where $B(\mathbf{x}, \varepsilon) = \mathbf{x} + \varepsilon B$ is the ball cent
 
 #### Anki
 > [!question]- The interior of the set $S$
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: The interior of the set $S$

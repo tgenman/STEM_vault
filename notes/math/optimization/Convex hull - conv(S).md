@@ -28,7 +28,7 @@ tags:
 
 #### Anki
 > [!question]- Convex hull conv(S)
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Convex hull conv(S)

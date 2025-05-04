@@ -30,7 +30,7 @@ $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \thet
 
 #### Anki
 > [!question]- Convex cone
-TARGET DECK: Math::Optimization 
+TARGET DECK: math::optimization 
 START
 Math_ONE_side
 TITLE: Convex cone
@@ -48,7 +48,7 @@ ID: 1734879190929
 END
 
 > [!question]- Important Cones
-TARGET DECK: Math::Optimization
+TARGET DECK: math::optimization
 START
 Math_ONE_side
 TITLE: Important Cones
