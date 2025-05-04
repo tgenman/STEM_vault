@@ -58,7 +58,7 @@ $$
 
 ### Anki
 > [!question]- Sum of numbers for power 1
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Sum of numbers for power 1
@@ -70,7 +70,7 @@ ID: 1706020955777
 END
 
 > [!question]- Sum of numbers for power 2
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Sum of numbers for power 2
@@ -82,7 +82,7 @@ ID: 1706020955796
 END
 
 > [!question]- Sum of numbers for power 3
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Sum of numbers for power 2

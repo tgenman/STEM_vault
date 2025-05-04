@@ -35,7 +35,7 @@ $$=\sum_{k=0}^{n-1}\binom{n-1}{k}(a^{n-k}b^k+a^{n-1-k}b^{k+1})=\sum_{k=0}^na^{n-
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: Binomial theorem

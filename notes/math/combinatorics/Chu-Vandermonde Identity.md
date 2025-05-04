@@ -14,7 +14,7 @@ $\binom{p}{0}\binom{n-p}{m} + \binom{p}{1}\binom{n-p}{m-1}$
 
 #### Anki
 > [!question]- Chu-Vandermonde Identity
-TARGET DECK: Math::Combinatorics 
+TARGET DECK: math::combinatorics 
 START
 Math_TWO_side
 TITLE: Chu-Vandermonde Identity_

@@ -27,7 +27,7 @@ $$P(k_1, k_2, ..., k_m) = \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…
 
 #### Anki
 > [!question]- Permutations with repetitions
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: Permutations with repetitions

@@ -25,7 +25,7 @@ $S(10,5) = 42525$
 
 #### Anki
 > [!question]- Числа Стирлинга второго рода $S(n, k)$
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Числа Стирлинга второго рода $S(n, k)$

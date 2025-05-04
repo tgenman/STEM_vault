@@ -32,7 +32,7 @@ $$\binom{n}{0} - \binom{n}{1} + \ldots + (-1)^n\binom{n}{n} = \binom{n-1}{0} - (
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Alternating Sum and Difference of Binomial Coefficients for Given n 

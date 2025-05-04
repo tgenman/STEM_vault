@@ -22,7 +22,7 @@ We obtain each term $x_1^{n_1}\cdots x_k^{n_k}$ by choosing $x_1$ in $n_1$ of th
 
 #### Anki
 > [!question]- Multinomial formula
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: Multinomial formula

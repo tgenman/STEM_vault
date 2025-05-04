@@ -20,7 +20,7 @@ $$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics  
+TARGET DECK: math::combinatorics  
 START
 Math_ONE_side
 TITLE: The multiplication principle (combinatorics)

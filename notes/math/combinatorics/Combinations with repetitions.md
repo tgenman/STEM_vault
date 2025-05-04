@@ -13,7 +13,7 @@ $$\bar{C_{n}^k} = \left(\binom{n}{k} \right) = \binom{n+k-1}{k} = \frac{(n+k-1)!
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Combinations with repetitions

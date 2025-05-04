@@ -48,7 +48,7 @@ $d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{
 
 ### Anki
 > [!question]- Derangements
-TARGET DECK: Math::Combinatorics  
+TARGET DECK: math::combinatorics  
 START
 Math_ONE_side
 TITLE: Derangements
@@ -61,7 +61,7 @@ ID: 1698688139448
 END
 
 > [!question]- Approximate value of Derangements
-TARGET DECK: Math::Combinatorics  
+TARGET DECK: math::combinatorics  
 START
 Math_ONE_side
 TITLE: Approximate value of Derangements

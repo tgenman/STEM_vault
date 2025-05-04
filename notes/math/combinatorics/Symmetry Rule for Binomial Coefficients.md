@@ -17,7 +17,7 @@ $$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$

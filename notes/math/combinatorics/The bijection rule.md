@@ -12,7 +12,7 @@ Then there exists are [[Bijective mapping property (function)|Bijection]] $\phi:
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: The bijection rule

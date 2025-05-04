@@ -17,7 +17,7 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics  
+TARGET DECK: math::combinatorics  
 START
 Math_ONE_side
 TITLE: The pigeonhole principle
@@ -32,7 +32,7 @@ END
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics    
+TARGET DECK: math::combinatorics    
 START
 Math_TWO_side
 TITLE: Математические формулировки принципа Дирихле

@@ -27,7 +27,7 @@ $$
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{k} =$$
@@ -38,7 +38,7 @@ ID: 1699125498477
 END
 
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{0}{0} = ?$$
@@ -49,7 +49,7 @@ ID: 1698689820228
 END
 
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{1}{0} = ?$$
@@ -61,7 +61,7 @@ END
 
 
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{0} = ?$$
@@ -72,7 +72,7 @@ ID: 1698689820242
 END
 
 > [!question]-
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: $$\binom{n}{1} = ?$$

@@ -20,7 +20,7 @@ $\sum_{n_1+n_2+n_3=n} P(n_1, n_2, n_3) = 3^n$
 
 #### Anki
 > [!question]- Sum of permutations for k classes
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Sum of permutations for k classes
@@ -33,7 +33,7 @@ ID: 1706021732501
 END
 
 > [!question]- Sum of permutations for 3 classes
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE: Sum of permutations for 3 classes

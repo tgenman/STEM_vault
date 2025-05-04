@@ -22,7 +22,7 @@ $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 
 #### Anki
 > [!question]- Permutatios without repetitions
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: Permutatios without repetitions

@@ -22,7 +22,7 @@ $$C_n^k = P(k, n-k)$$
 
 ### Anki
 > [!question]- Combinations without repetitions
-TARGET DECK: Math::Combinatorics
+TARGET DECK: math::combinatorics
 START
 Math_TWO_side
 TITLE:  Combinations without repetitions
