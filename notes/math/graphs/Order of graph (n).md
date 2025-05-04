@@ -12,7 +12,7 @@ connected:
 
 $$n$$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

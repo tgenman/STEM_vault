@@ -22,7 +22,7 @@ $\Omega = \{1, 2, 3, 4, 5, 6\}$
 $A = \{1, 3, 5\}$ - outcome is odd
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::probability
 START

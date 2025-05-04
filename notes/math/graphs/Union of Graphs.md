@@ -20,7 +20,7 @@ If a graph $G$ consists of $k (≥ 2)$ disjoint copies of a graph $H$, then we w
 ![[Pasted image 20231104144008.png]]
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

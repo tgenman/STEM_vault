@@ -10,7 +10,7 @@ connected:
 > [!tip] Isolated vertex
 > A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

@@ -10,7 +10,7 @@ connected: []
 Let $A$ and $B$ be two finite sets. 
 Then there exists are [[Bijective mapping property (function)|Bijection]] $\phi: A \rightarrow B$ if and only if the sets $A$ and $B$ have the same number of elements
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

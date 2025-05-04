@@ -13,7 +13,7 @@ connected:
 is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::set 
 START

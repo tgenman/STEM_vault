@@ -10,7 +10,7 @@ connected:
 > [!tip] Minimum degree ($δ(G)$)
 is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

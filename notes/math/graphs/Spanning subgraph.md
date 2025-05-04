@@ -13,7 +13,7 @@ connected:
 > - $H$ is a [[Subgraph|subgraph]] of $G$ and 
 > - $V(H)=V(G)$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

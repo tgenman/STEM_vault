@@ -25,7 +25,7 @@ The complement $K_n$ of the complete graph $K_n$ is the [[Empty graph|empty grap
 
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

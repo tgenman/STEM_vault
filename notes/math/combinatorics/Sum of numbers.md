@@ -56,7 +56,7 @@ $$
 $$
 
 
-### Anki
+# Anki
 > [!question]- Sum of numbers for power 1
 TARGET DECK: math::combinatorics
 START

@@ -17,7 +17,7 @@ connected:
 > If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges.
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

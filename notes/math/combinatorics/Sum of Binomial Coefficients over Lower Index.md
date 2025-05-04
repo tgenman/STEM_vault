@@ -28,7 +28,7 @@ How many subsets has an $n$-element set?
 - [Sum of Binomial Coefficients over Lower Index](https://proofwiki.org/wiki/Sum_of_Binomial_Coefficients_over_Lower_Index "Sum of Binomial Coefficients over Lower Index")
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

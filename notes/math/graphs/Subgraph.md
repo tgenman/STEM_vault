@@ -17,7 +17,7 @@ If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 > [!tip] Proper subgraph
 If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

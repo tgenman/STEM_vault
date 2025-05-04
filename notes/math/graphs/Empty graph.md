@@ -13,7 +13,7 @@ connected:
 > if size $m = 0$
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

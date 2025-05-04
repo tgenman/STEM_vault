@@ -11,7 +11,7 @@ connected:
 > [!tip] Pendant edge
 > An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

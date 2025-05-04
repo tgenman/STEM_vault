@@ -20,7 +20,7 @@ connected:
 When summing the degrees of the vertices of $G$, each edge of $G$ is counted twice, once for each of its two incident vertices.
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

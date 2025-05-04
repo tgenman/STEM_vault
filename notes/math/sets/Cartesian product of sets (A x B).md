@@ -27,7 +27,7 @@ $$|A \times B | = |A| \cdot |B|$$
 6. $A \times (B_1 \setminus B_2) = (A \times B_1) \setminus (A \times B_2)$
 
 
-### Anki
+# Anki
 > [!question]- Cartesian product of $A$ and $B$.
 TARGET DECK: math::set 
 START

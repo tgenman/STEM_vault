@@ -19,7 +19,7 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 ![[Pasted image 20231104194929.png]]
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

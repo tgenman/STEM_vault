@@ -15,7 +15,7 @@ $P_1 = K_1, P_2 = K_2$
 
 
 
-### Anki
+# Anki
 > [!question]- 
 TARGET DECK: math::graph
 START

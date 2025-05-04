@@ -17,7 +17,7 @@ Using the join operation, we see that $\bar{K_s} ∨ \bar{K_t} = K_{s,t}$
 
 ![[Pasted image 20231104144447.png]]
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

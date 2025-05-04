@@ -16,7 +16,7 @@ connected:
 > [!tip] Closed neighborhood of $v$
 > The set $N[v] = N(v) ∪ {v}$ 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

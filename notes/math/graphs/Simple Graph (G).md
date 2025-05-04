@@ -42,7 +42,7 @@ Graphs are so named because they can be represented graphically
 
  
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

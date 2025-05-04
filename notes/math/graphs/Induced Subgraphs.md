@@ -31,7 +31,7 @@ If  $E(H) = E(G) \cap \binom{V(H)}{2}$ then $H$ is induced subgraph
 > - has $X$ as its edge set and
 > - a vertex $v$ belongs to $G[X]$ if $v$ is incident with at least one edge in $X$. 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

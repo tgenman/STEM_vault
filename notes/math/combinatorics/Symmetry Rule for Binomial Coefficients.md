@@ -15,7 +15,7 @@ $$
 - [Symmetry Rule for Binomial Coefficients](https://proofwiki.org/wiki/Symmetry_Rule_for_Binomial_Coefficients "Symmetry Rule for Binomial Coefficients")
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

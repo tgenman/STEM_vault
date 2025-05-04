@@ -20,7 +20,7 @@ $$n^2\geq4nx-4x^2=4x(n-x)$$
 and so $x(n-x)\leq n^2/4.$ Since $x(n-x)$ is an integer, $x(n-x)\leq\lfloor n^2/4\rfloor.$
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

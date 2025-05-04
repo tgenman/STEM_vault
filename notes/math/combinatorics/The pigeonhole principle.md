@@ -15,7 +15,7 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 2. Если задана функция $f$ из $A$ в $B$, и при этом $\left| A \right| > \left| B \right|$, то найдутся $x, y \in A$, такие, что $x \neq y$ и $f(x) = f(y)$.
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics  
 START

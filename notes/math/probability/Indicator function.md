@@ -23,7 +23,7 @@ $$\sum_{x\in U}1_A(x)=|A|$$
 $$1_{A\cap B}=1_A\cdot1_B$$
 $(A^c)^c = A$
 
-### Anki
+# Anki
 > [!question]- Indicator function
 TARGET DECK: stem::math::common
 START

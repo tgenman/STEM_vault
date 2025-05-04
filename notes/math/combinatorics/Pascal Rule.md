@@ -17,7 +17,7 @@ $$\binom nk+\binom n{k+1}=\binom{n+1}{k+1} $$
 - [Pascal's Rule](https://proofwiki.org/wiki/Pascal%27s_Rule "Pascal's Rule")
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

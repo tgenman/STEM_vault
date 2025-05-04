@@ -28,7 +28,7 @@ $$\deg v = |N(v)|$$
 $$0 ≤ δ(G) ≤ \deg v ≤ ∆(G) ≤ n − 1$$
 
 Not exist a [[Simple Graph (G)|graph]]  where all nodes have different degrees. 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

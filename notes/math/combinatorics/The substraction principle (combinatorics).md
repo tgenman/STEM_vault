@@ -13,7 +13,7 @@ $$
 |B| = |A| - |A \backslash B|
 $$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

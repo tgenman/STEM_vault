@@ -25,7 +25,7 @@ $$
 \binom{n}{1} = n
 $$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

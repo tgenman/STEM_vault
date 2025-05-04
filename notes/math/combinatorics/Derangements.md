@@ -46,7 +46,7 @@ Hence, $\sum_{S \subset \{1, \ldots, n\}, |S| = k} |\cap_{j \in S} A_j| = \binom
 $d_n = |U| - \sum_i |A_i| + \sum_{i,j} |A_i \cap A_j| + \ldots = n! - \frac{n!}{1!} + \frac{n!}{2!} - \ldots + (-1)^n \frac{n!}{n!} = n!\left(1 - \frac{1}{1!} + \frac{1}{2!} - \ldots + (-1)^n \frac{1}{n!}\right)$.
 
 
-### Anki
+# Anki
 > [!question]- Derangements
 TARGET DECK: math::combinatorics  
 START

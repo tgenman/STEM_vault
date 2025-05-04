@@ -15,7 +15,7 @@ $$
 ![[Pasted image 20230731213232.png|400]]
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::common
 START

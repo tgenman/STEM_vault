@@ -15,7 +15,7 @@ if $V(G)$ can be partitioned into $k$ subsets $V_1, V_2, . . . , V_k$ ( called p
 A $1$-partite graph is then an [[Empty graph]] empty graph 
 A $2$-partite graph is [[519.172.5 Bipartite graph]]. 
 
-### Anki
+# Anki
 > [!question]- A graph $G$ is a $k$-partite graph ($k \in N$ $k ≥ 1$)
 TARGET DECK: math::graph
 START

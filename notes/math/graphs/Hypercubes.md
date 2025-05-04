@@ -19,7 +19,7 @@ The graph $Q_n$ is an $n$-regular graph of order $2^n$.
 
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

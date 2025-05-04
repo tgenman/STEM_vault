@@ -24,7 +24,7 @@ connected:
 	- $P(\Omega) = 1$
 	- $P(A \sqcup B) = P(A) + P(B)$
 
-### Anki
+# Anki
 > [!question]- Properties of Random experiment
 TARGET DECK: math::probability
 START

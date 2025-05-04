@@ -21,7 +21,7 @@ connected:
 
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

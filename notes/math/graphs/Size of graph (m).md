@@ -12,7 +12,7 @@ connected:
 
 $$m$$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

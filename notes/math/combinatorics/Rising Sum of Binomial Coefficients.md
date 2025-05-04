@@ -42,7 +42,7 @@ $$
 - [Rising Sum of Binomial Coefficients (wiki)](https://proofwiki.org/wiki/Rising_Sum_of_Binomial_Coefficients "Rising Sum of Binomial Coefficients")
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

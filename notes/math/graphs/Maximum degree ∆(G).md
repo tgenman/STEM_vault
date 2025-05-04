@@ -11,7 +11,7 @@ connected:
 > [!tip] Maximum degree ($∆(G)$)
 is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

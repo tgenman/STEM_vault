@@ -16,7 +16,7 @@ Proof. Suppose that $G$ is a graph of size $m$. By [[Handshaking Lemma]],
 $$\sum_{v\in V(G)}\deg v=2m.$$
 which, of course, is an even number. Since the sum of the degrees of the even vertices of $G$ is even, the sum of the degrees of the odd vertices of $G$ must be even as well, implying that $G$ has an even number of odd vertices.
 
- ### Anki
+ # Anki
 > [!question]-
 TARGET DECK: math::graph
 START

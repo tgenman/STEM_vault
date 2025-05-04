@@ -14,7 +14,7 @@ $C_3 = K_3$
 > [!tip] Triangle
 > 3-cycle
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

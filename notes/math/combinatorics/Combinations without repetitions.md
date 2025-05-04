@@ -20,7 +20,7 @@ $$C_{n}^k = \binom{n}{k} = \frac{A_n^k}{k!} = \frac{n!}{k!(n-k)!}$$
 Connected with [[Permutations with repetitions]]
 $$C_n^k = P(k, n-k)$$
 
-### Anki
+# Anki
 > [!question]- Combinations without repetitions
 TARGET DECK: math::combinatorics
 START

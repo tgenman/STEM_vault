@@ -33,7 +33,7 @@ $$(a_1+b)^n=(a_1+b)^{n-1}(a_1+b)=\sum_{k=0}^{n-1}\binom{n-1}{k}a^{n-1-k}b^k(a_1+
 $$=\sum_{k=0}^{n-1}\binom{n-1}{k}(a^{n-k}b^k+a^{n-1-k}b^{k+1})=\sum_{k=0}^na^{n-k}b^k\left(\binom{n-1}{k}+\binom{n-1}{k+1}\right)=\sum_{k=0}^n\binom{n}{k}a^{n-k}b^k. \quad\square$$
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::combinatorics
 START

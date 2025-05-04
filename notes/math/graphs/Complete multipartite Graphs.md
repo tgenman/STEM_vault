@@ -20,7 +20,7 @@ is a complete $k$-partite graph for some integer $k ≥ 2$
 ![[Pasted image 20231103171642.png]]
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

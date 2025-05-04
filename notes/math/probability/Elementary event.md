@@ -20,7 +20,7 @@ connected:
 
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::probability
 START

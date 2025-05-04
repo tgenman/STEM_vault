@@ -21,7 +21,7 @@ $$m = \binom{n}{2}$$
 [[Triangle (graph)]]
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

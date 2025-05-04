@@ -19,7 +19,7 @@ Since only one of $n$ and $n − 1$ is even, either $4 | n$ or $4 | (n − 1)$;
 that is, if $G$ is a self-complementary graph of order $n$, then either $n ≡ 0(\mod 4)$ or $n ≡ 1 (\mod 4)$
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

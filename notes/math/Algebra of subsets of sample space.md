@@ -16,7 +16,7 @@ connected:
 	- т.е. замкнута относительно операций $\cap$, $\cup$, (\\ , $\bigtriangleup$ )
 
 
-### Anki
+# Anki
 > [!question]- Система множеств $\mathcal{A}$ называется aлгеброй, если выполняются следующие 3 свойства:
 TARGET DECK: math::algebra
 START

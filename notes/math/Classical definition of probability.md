@@ -38,7 +38,7 @@ $P(A) = \frac{\text{number of elements of } A}{n}$
 
 
 
-### Anki
+# Anki
 > [!question]- Classical definition of probability
 TARGET DECK: math::probability
 START

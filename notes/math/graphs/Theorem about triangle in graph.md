@@ -20,7 +20,7 @@ $$m^{\prime}>\frac{n^2}4-n+1=\frac{n^2-4n+4}4=\frac{(n-2)^2}4.$$
 
 From the defining property of the graph $G$, it follows that $G^{\prime}$ contains a triangle producing a contradiction.
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

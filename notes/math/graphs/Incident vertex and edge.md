@@ -12,7 +12,7 @@ connected:
 > [!tip] Incident vertex and edge
 > The vertex $u$ and the edge $uv$ are said to be incident with each other.
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::graph
 START

@@ -17,7 +17,7 @@ $$
 
 
 
-### Anki
+# Anki
 > [!question]-
 TARGET DECK: math::common  
 START
