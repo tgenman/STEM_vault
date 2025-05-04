@@ -10,9 +10,27 @@ connected:
 
 
 ==Векторное пространство V== - множество всех векторов V, которые можно складывать друг с другом и умножать на скаляр
-![[Screenshot 2022-07-07 at 20.49.48.png]]
 
-![[Screenshot 2022-07-07 at 20.57.47.png]]
+Множество всех векторов $V$, которые можно складывать друг с другом и умножать на скаляры, называют векторным пространством.
+
+Это означает, что:
+- для любых $\vec{a} \in V$ и $\vec{b} \in V$ существует $\vec{a} + \vec{b} \in V$;
+- для произвольных $\vec{a} \in V$ и $k \in \mathbb{R}$ определён вектор $k \cdot \vec{a} \in V$.
+
+Кроме этого, должны действовать следующие свойства:
+
+1) ${\vec{a} + \vec{b} = \vec{b} + \vec{a}}$ — коммутативность сложения;
+2) ${(\vec{a} + \vec{b}) + \vec{c} = \vec{a} + (\vec{b} + \vec{c})}$ — ассоциативность сложения;
+3) $\forall \vec{a} \ \vec{a} + \vec{0} = \vec{a}$ — существование нулевого вектора;
+4) $\forall \vec{a} \ \exists (-\vec{a}) : \ \vec{a} + (-\vec{a}) = \vec{0}$ — существование противоположного вектора;
+5) ${1 \cdot \vec{a} = \vec{a}}$ — умножение на единицу сохраняет вектор;
+6) ${k \cdot (m \cdot \vec{a}) = (k \cdot m) \cdot \vec{a}}$ — ассоциативность относительно скаляра;
+7) ${ (k + m) \cdot \vec{a} = k \cdot \vec{a} + m \cdot \vec{a}}$ — distributivity of scalar multiplication over vector sum;
+8) ${k \cdot (\vec{a} + \vec{b}) = k \cdot \vec{a} + k \cdot \vec{b}}$ — distributivity of scalar multiplication over vector sum.
+
+Важно условие: результат суммы или произведения также должен являться вектором этого пространства.
+
+
 #### Properties
 - [[Abelian group]] of [[Addition]] $+$
 	-   If $\vec{u}$ and $\vec{v}$ are vectors in $V$, then $\vec{u}+\vec{v}$ is also in $V$. [[Closure of]]
