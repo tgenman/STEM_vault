@@ -16,7 +16,7 @@ connected:
 
 #### Anki
 > [!question]- Sets are disjoint
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: Sets are disjoint

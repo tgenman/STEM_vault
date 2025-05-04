@@ -17,7 +17,7 @@ is a collection of objects in which each object can appear more than once.
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_TWO_side
 TITLE: Multiset

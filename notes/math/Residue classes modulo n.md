@@ -16,7 +16,7 @@ As we can see, $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_TWO_side
 TITLE: Residue classes modulo n (Modulus)

@@ -19,7 +19,7 @@ Any ==Equality Relation== is [[Equivalence Relation]]
 
 #### Anki
 > [!question]- Equality Relation
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: Equality Relation

@@ -25,7 +25,7 @@ Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if t
 
 #### Anki
 > [!question]- Cardinality
-TARGET DECK: Math::Set 
+TARGET DECK: math::set 
 START
 Math_ONE_side
 TITLE: Cardinality

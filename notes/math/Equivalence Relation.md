@@ -18,7 +18,7 @@ is [[Relation on elements of sets]] that satisfies these properties for all $x,y
 
 #### Anki
 > [!question]- An equivalence relation $\mathscr{R}$ on a set $S$ 
-TARGET DECK: Math::Set  
+TARGET DECK: math::set  
 START
 Math_ONE_side
 TITLE: An equivalence relation $\mathscr{R}$ on a set $S$ 

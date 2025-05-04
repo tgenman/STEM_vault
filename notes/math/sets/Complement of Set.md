@@ -23,7 +23,7 @@ connected:
 
 #### Anki
 > [!question]- Complement of Set
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_TWO_side
 TITLE: Complement of Set is
@@ -33,7 +33,7 @@ ID: 1706031862933
 END
 
 > [!question]- Properties of Complement of Set
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: Properties of Complement of Set

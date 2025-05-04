@@ -16,7 +16,7 @@ For example, we have $15 ≡ 27$ (mod $4$) because both $15$ and $27$ have remai
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: Congruence Modulo n

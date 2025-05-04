@@ -19,7 +19,7 @@ connected:
 
 #### Anki
 > [!question]-
-TARGET DECK: Math::Set  
+TARGET DECK: math::set  
 START
 Math_TWO_side
 TITLE: Codomain (Кодомен), Target set

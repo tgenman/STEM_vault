@@ -28,7 +28,7 @@ connected:
 
 #### Anki
 > [!question]- Subset
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: When a set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
@@ -40,7 +40,7 @@ ID: 1705599998539
 END
 
 > [!question]- Свойства подмножеств
-TARGET DECK: Math::Set
+TARGET DECK: math::set
 START
 Math_ONE_side
 TITLE: Свойства подмножеств

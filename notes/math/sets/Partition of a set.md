@@ -15,7 +15,7 @@ The subsets are the ==cells== of the partition.
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Set 
+TARGET DECK: math::set 
 START
 Math_TWO_side
 TITLE: A partition of a set $S$ 

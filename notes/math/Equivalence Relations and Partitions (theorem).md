@@ -29,7 +29,7 @@ We show that $\bar{a}\subseteq\bar{b}$. Let $x\in\bar{a}.$ Then $x\sim a.$But$a\
 
 ### Anki
 > [!question]-
-TARGET DECK: Math::Set  
+TARGET DECK: math::set  
 START
 Math_ONE_side
 TITLE: Equivalence Relations and Partitions (theorem)
