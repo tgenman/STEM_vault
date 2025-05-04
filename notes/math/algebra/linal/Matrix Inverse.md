@@ -30,7 +30,7 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 
 # Anki
 > [!question]- Matrix Inverse
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_ONE_side
 TITLE: Matrix Inverse
@@ -42,7 +42,7 @@ ID: 1713287272971
 END
 
 > [!question]- Properties of Matrix Inverse
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_ONE_side
 TITLE: Properties of Matrix Inverse

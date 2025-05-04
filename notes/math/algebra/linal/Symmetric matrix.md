@@ -19,7 +19,7 @@ A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 
 #### Anki
 > [!question]- Symmetric matrix
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Symmetric matrix
@@ -31,7 +31,7 @@ ID: 1713286792637
 END
 
 > [!question]- Properties of Symmetric matrix
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Properties of Symmetric matrix

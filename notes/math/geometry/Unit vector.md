@@ -21,7 +21,7 @@ Unit vector $u = \frac{v}{\| v \|}$ is a unit vector in the same direction as $v
 
 #### Anki
 > [!question]- Unit vector
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: A unit vector $u$ is

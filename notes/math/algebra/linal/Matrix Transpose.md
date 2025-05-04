@@ -29,7 +29,7 @@ $$\mathrm{A}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{12}}&\color{blu
 
 #### Anki
 > [!question]- Matrix Transpose
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Matrix Transpose
@@ -41,7 +41,7 @@ ID: 1713286369390
 END
 
 > [!question]- Properties of Matrix Transpose
-TARGET DECK: Math::Linal  
+TARGET DECK: math::linal  
 START
 Math_ONE_side
 TITLE: Properties of Matrix Transpose

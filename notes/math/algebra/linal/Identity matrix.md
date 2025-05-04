@@ -18,7 +18,7 @@ $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 
 #### Anki
 > [!question]- Identity matrix $E$ ($I$) 
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_TWO_side
 TITLE: Identity matrix $E$ ($I$) 

@@ -21,7 +21,7 @@ A matrix is in row-echelon form if
 
 #### Anki
 > [!question]- Row-Echelone form REF
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Row-Echelone form REF

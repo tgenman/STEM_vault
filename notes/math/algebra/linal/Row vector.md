@@ -18,7 +18,7 @@ where $v_1$ is the first component of $v$ and $v_2$ is the second component of $
 
 #### Anki
 > [!question]- Row vector
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_TWO_side
 TITLE: Row vector

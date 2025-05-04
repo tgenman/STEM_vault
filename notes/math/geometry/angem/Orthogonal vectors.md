@@ -16,7 +16,7 @@ $\bar a \perp \bar b$
 
 #### Anki
 > [!question]- Orthogonal vectors
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Orthogonal vectors

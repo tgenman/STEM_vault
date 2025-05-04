@@ -20,7 +20,7 @@ $L_1 = \sum_{i=1}^{n} |a|$
 ![[Pasted image 20240203174411.png|300]]  
 #### Anki
 > [!question]- $L_1$ норма
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: $L_1$ норма (Manhattan norm (L1))

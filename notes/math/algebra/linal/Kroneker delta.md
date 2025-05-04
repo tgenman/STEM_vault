@@ -16,7 +16,7 @@ $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
 
 #### Anki
 > [!question]- Kroneker delta
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_TWO_side
 TITLE: Kroneker delta

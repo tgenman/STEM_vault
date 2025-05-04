@@ -14,7 +14,7 @@ connected:
 
 #### Anki
 > [!question]- Побочная диагональ квадратной матрицы
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_TWO_side
 TITLE: Побочная диагональ квадратной матрицы

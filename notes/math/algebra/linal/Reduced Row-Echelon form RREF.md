@@ -20,7 +20,7 @@ An equation system is in reduced row-echelon form (also: row-reduced echelon for
 
 #### Anki
 > [!question]- Reduced Row-Echelon form RREF
-TARGET DECK: Math::Linal  
+TARGET DECK: math::linal  
 START
 Math_ONE_side
 TITLE: Reduced Row-Echelon form RREF

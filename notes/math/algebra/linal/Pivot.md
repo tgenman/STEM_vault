@@ -15,7 +15,7 @@ The leading coefficient of a row (first nonzero number from the left) is called 
 
 #### Anki
 > [!question]- Pivot
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Pivot

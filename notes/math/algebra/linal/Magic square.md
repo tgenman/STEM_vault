@@ -14,7 +14,7 @@ For instance, the classical example is
 $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 ### Anki
 > [!question]-
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_ONE_side
 TITLE: Magic square

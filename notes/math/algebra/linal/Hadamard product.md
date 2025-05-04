@@ -17,7 +17,7 @@ tags:
 
 #### Anki
 > [!question]- Hadamard product
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Hadamard product (Произведение Адамара)

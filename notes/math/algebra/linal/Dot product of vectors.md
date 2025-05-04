@@ -35,7 +35,7 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 
 #### Anki
 > [!question]- Dot product of vectors
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_ONE_side
 TITLE: Dot product of vectors
@@ -50,7 +50,7 @@ END
 
 
 > [!question]- Properties of Dot product of vectors
-TARGET DECK: Math::Linal 
+TARGET DECK: math::linal 
 START
 Math_ONE_side
 TITLE: Properties of Dot product of vectors

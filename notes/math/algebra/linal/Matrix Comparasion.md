@@ -15,7 +15,7 @@ tags:
 
 #### Anki
 > [!question]- Matrix Comparasion
-TARGET DECK: Math::Linal
+TARGET DECK: math::linal
 START
 Math_ONE_side
 TITLE: Matrix Comparasion
