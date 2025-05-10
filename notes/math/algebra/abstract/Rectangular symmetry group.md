@@ -3,10 +3,9 @@ aliases:
 anki: false
 created: 2025-05-10 13:20
 parent:
-  - "[[Group]]"
-  - "[[Rectangle]]"
+  - "[[Group examples MOC]]"
 connected:
-  - "#обс/linking"
+  - "[[Rectangle]]"
 tags:
   - empty
 ---

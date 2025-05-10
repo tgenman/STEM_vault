@@ -3,12 +3,10 @@ aliases:
 anki: false
 created: 2025-05-10 13:20
 parent:
-  - "[[Group]]"
-  - "[[Triangle]]"
+  - "[[Group examples MOC]]"
 connected:
-  - "#обс/linking"
+  - "[[Triangle]]"
 tags:
-  - empty
 ---
 
 # $Tri = 〈r , f 〉$
