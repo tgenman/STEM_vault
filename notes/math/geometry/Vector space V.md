@@ -32,13 +32,13 @@ connected:
 
 
 #### Properties
-- [[Abelian group]] of [[Addition]] $+$
+- [[Abelian group]] of [[Addition operation]] $+$
 	-   If $\vec{u}$ and $\vec{v}$ are vectors in $V$, then $\vec{u}+\vec{v}$ is also in $V$. [[Closure of]]
-	- [[Associative]] [[Addition]]  $(\vec{u}+\vec{v})+\vec{w}=\vec{u}+(\vec{v}+\vec{w})$ 
+	- [[Associative identity]] [[Addition operation]]  $(\vec{u}+\vec{v})+\vec{w}=\vec{u}+(\vec{v}+\vec{w})$ 
 	- “zero vector” in $V$, appropriately called “$0$”, so that $\vec{v}+0=v$ for all $\vec{v}$ in $V$.
 	- If $\vec{v}$ is a vector in $V$, then there is a vector $\vec{−v}∈V$ so that $\vec{v}+(\vec{-v})=0$.
 	- commutativity (adding) $\vec{u}+\vec{v}=\vec{v}+\vec{u}$
-- [[Scalar]] [[Multiplication]]
+- [[Scalar]] [[Multiplication operation]]
 	- If $\vec{u}$ is a vector in $V$, then $c\vec{u}$ is also in $V$ for any constant $c$. [[Closure of]]
 	- associativity (scalar multiplication) $(c_1c_2)\vec{v}=c_1(c_2\vec{v})$
 - distributivity $c(\vec{u}+\vec{v})=c\vec{u}+c\vec{v}$ and

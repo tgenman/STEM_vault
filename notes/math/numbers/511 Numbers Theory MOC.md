@@ -7,7 +7,7 @@ tags:
 parent:
   - "[[51 Math MOC]]"
 ---
-![[Pasted image 20220628150733.png]]
+ ![[Pasted image 20220628150733.png]]
 
 
 $\mathbb{N}$ - [[Natural numbers N]]

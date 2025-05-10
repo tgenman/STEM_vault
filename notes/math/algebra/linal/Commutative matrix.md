@@ -3,10 +3,10 @@ aliases:
   - Перестановочные матрицы
 anki: false
 connected:
-  - "[[Commutative]]"
+  - "[[Commutative identity]]"
 ---
 
-> [!tip] [[Commutative]] matrix
+> [!tip] [[Commutative identity]] matrix
 [[Matrix|Матрицы]], для которых $AB=BA$
 
 Перестановочными бывают только [[Square matrix|квадратные матрицы]]   одного и того же размера.

@@ -21,6 +21,7 @@ We read $(a,b)∈R$ as “a is related to b” and write $a$ $\mathscr{R}$ $b$.
 - [[Function (math)]]
 
 - [[Injective mapping property (function)]]
+- [[Inverse function (math)]]
 
 
 

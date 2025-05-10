@@ -3,9 +3,9 @@ aliases:
   - Отражение само в себя
 anki: false
 created: 2024-07-03 22:12
-parent: 
-connected:
-  - "#обс/linking"
+parent:
+  - "[[Rigid transformation]]"
+connected: []
 tags:
   - empty
 ---
@@ -20,10 +20,4 @@ tags:
 
 
 
-
-
-
-
-**Connected with:**
-- #обс/linking 
 

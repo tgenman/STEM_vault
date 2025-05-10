@@ -5,7 +5,7 @@ aliases:
 anki: false
 tags: 
 parent:
-  - "[[Multiplication]]"
+  - "[[Multiplication operation]]"
   - "[[Scalar]]"
   - "[[Vectors opeartions]]"
 connected:

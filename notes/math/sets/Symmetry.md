@@ -14,6 +14,7 @@ tags:
 > is [[Binary relation]] with property $(x, y) \in \mathcal{R} \implies (y, x) \in \mathcal{R}$.
 
 
+We will define a **symmetry** of an object to be a rigid transformation from that object to itself.
 
 
 
