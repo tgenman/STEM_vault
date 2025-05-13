@@ -6,6 +6,8 @@ parent:
   - "[[Operations on sets]]"
 connected:
   - "[[Complement of a Graph]]"
+created: 2025-05-13 18:09
+tags:
 ---
 
 > [!tip] **Дополнением** к множеству $A$ (или его **отрицанием**) 
