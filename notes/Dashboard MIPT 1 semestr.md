@@ -19,4 +19,4 @@ connected:
 
 ### Bookmarks
 > [!example] Bookmarks
-> - [курсы маги на степике](https://stepik.org/users/41248003/teach)
+- [курсы маги на степике](https://stepik.org/users/41248003/teach)

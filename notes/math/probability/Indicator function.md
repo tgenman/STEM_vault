@@ -54,12 +54,12 @@ START
 Math_ONE_side
 TITLE: Properties of Indicator function
 DESCRIPTION: 
-> - $I_{\bar{A}} = 1 - I_{A}$
-> - $\sum_{x\in \Omega}I_A(x)=|A|$
-> - $I_{A\cap B}=I_A\cdot I_B$
-> - $I_{A\cup B}=I_A + I_B - I_A\cdot I_B$
-> - $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
-> - $I_{\Omega}(\omega) = 1 \text{ for all } \omega \in \Omega$
+- $I_{\bar{A}} = 1 - I_{A}$
+- $\sum_{x\in \Omega}I_A(x)=|A|$
+- $I_{A\cap B}=I_A\cdot I_B$
+- $I_{A\cup B}=I_A + I_B - I_A\cdot I_B$
+- $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
+- $I_{\Omega}(\omega) = 1 \text{ for all } \omega \in \Omega$
 FORMULA: 
 ADDITIONAL: In probability theory: $P(A) = E[I_A]$
 ID: 1698688139477

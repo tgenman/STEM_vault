@@ -53,18 +53,17 @@ connected:
 
 ---
 ### Books
-> [!abstract] Books
-> - [[📚 Математика. Утрата определенности - Морис Клайн]]
-> - [[📚Число, пришедшее с холода - Рудольф Ташнер]]
-> - [[📚 Стратегии решения математических задач - Стивен Крулик]]
-> - [[📚 Думай как математик - Барбара Оакли]]
-> - [[📚 Gödel, Escher, Bach - Hofstadter]]
-> - [[📚 Taming the Infinite - Stewart]]
-> - [[📚 Programming Quantum Computers - Johnston]]
-> - [Виктор Прасолов - Учебник по истории математики](http://vvprasolov.livejournal.com/67259.html)
-> - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
-> - [[📚 Математическая составляющая - Андреев]]
-> - [[📚 Что такое математика - Курант]]
+- [[📚 Математика. Утрата определенности - Морис Клайн]]
+- [[📚Число, пришедшее с холода - Рудольф Ташнер]]
+- [[📚 Стратегии решения математических задач - Стивен Крулик]]
+- [[📚 Думай как математик - Барбара Оакли]]
+- [[📚 Gödel, Escher, Bach - Hofstadter]]
+- [[📚 Taming the Infinite - Stewart]]
+- [[📚 Programming Quantum Computers - Johnston]]
+- [Виктор Прасолов - Учебник по истории математики](http://vvprasolov.livejournal.com/67259.html)
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [[📚 Математическая составляющая - Андреев]]
+- [[📚 Что такое математика - Курант]]
 
 
 ### Courses
@@ -73,12 +72,11 @@ connected:
 - [[🎓🍂 Introduction to Mathematical Thinking. Coursera. Stanford]]
 
 ### Bookmarks
-> [!example] Bookmarks
-> - [3Blue1Brown - Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-> - [🎥100 уроков математик для детей - Александр Савватеев - youtube](https://childrenscience.ru/courses/sav/) от [[👤Савватеев, Александр]]
-> - [100 основных вопросов математики - Савватеев](https://www.youtube.com/playlist?list=PL8n_ZHoHDPESLDJN2NJivDYLNGtpJEBoy)
-> - [Mathologer - Youtube](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg/playlists)
-> - [🎥Introduction to Higher Mathematics - youtube](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
+- [3Blue1Brown - Youtube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+- [🎥100 уроков математик для детей - Александр Савватеев - youtube](https://childrenscience.ru/courses/sav/) от [[👤Савватеев, Александр]]
+- [100 основных вопросов математики - Савватеев](https://www.youtube.com/playlist?list=PL8n_ZHoHDPESLDJN2NJivDYLNGtpJEBoy)
+- [Mathologer - Youtube](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg/playlists)
+- [🎥Introduction to Higher Mathematics - youtube](https://www.youtube.com/playlist?list=PLZzHxk_TPOStgPtqRZ6KzmkUQBQ8TSWVX)
 
 
 

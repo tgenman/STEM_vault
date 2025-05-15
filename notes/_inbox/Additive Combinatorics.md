@@ -8,8 +8,7 @@ connected:
 ---
 
 ### Bookmarks
-> [!example] Bookmarks
-> - [a-learning-roadmap-for-additive-combinatorics](https://mathoverflow.net/questions/46785/a-learning-roadmap-for-additive-combinatorics)
+- [a-learning-roadmap-for-additive-combinatorics](https://mathoverflow.net/questions/46785/a-learning-roadmap-for-additive-combinatorics)
 
 
 

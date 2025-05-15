@@ -60,11 +60,11 @@ Its PMF is
 $p_X(k) = \begin{cases} p & \text{if } k = 1, \\ 1 - p & \text{if } k = 0. \end{cases}$
 FORMULA: 
 ADDITIONAL:
-> For all its simplicity, the Bernoulli random variable is very important. In practice, it is used to model generic probabilistic situations with just two outcomes, such as:
-> - The state of a telephone at a given time that can be either free or busy.
-> - A person who can be either healthy or sick with a certain disease.
-> - The preference of a person who can be either for or against a certain political candidate.
-> Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial distribution Bin(n, p)]] 
+For all its simplicity, the Bernoulli random variable is very important. In practice, it is used to model generic probabilistic situations with just two outcomes, such as:
+- The state of a telephone at a given time that can be either free or busy.
+- A person who can be either healthy or sick with a certain disease.
+- The preference of a person who can be either for or against a certain political candidate.
+Furthermore, by combining multiple Bernoulli random variables, one can construct more complicated random variables, such as the [[Binomial distribution Bin(n, p)]] 
 PICTURE:
 Using [[Indicator function]]
 ![[Pasted image 20240320190523.png|300]]

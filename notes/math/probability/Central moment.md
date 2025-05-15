@@ -28,9 +28,9 @@ DESCRIPTION: is a moment of a [[Distribution of r.v. MOC|probability distributio
 that is, it is the expected value of a specified integer power of the deviation of the random variable from the mean. 
 FORMULA: $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^n f(x) \, dx$
 ADDITIONAL:
-> - 1 - Mean deviation
-> - 2 - [[Variance V(X)]]
-> 	- [[Standard deviation]]
+- 1 - Mean deviation
+- 2 - [[Variance V(X)]]
+      - [[Standard deviation]]
 PICTURE:
 ID: 1711096820576
 END

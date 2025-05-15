@@ -9,9 +9,9 @@ connected:
 ---
 ### Definition
 > [!tip] Degree of a vertex $v$ in a graph $G$
- > - is the number of vertices that are [[Adjacent in graph|adjacent]] to $v$. 
- > - is the number of vertices in its [[Neighbourhood in graph (N)|neighborhood]] $N(v)$. 
- > - is the number of edges incident with $v$.
+ - is the number of vertices that are [[Adjacent in graph|adjacent]] to $v$. 
+ - is the number of vertices in its [[Neighbourhood in graph (N)|neighborhood]] $N(v)$. 
+ - is the number of edges incident with $v$.
 
 $$\deg v = |N(v)|$$
 ### Types vertex by degree

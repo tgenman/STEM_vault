@@ -10,8 +10,8 @@ connected:
  
 > [!tip] $H$ is a spanning subgraph of $G$ 
 > If:
-> - $H$ is a [[Subgraph|subgraph]] of $G$ and 
-> - $V(H)=V(G)$
+- $H$ is a [[Subgraph|subgraph]] of $G$ and 
+- $V(H)=V(G)$
 
 # Anki
 > [!question]-

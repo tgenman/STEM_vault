@@ -12,11 +12,11 @@ tags:
 ---
 
 > [!tip] Poisson disribution $\text{Po}(\lambda)$  
-> - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
-> - [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
-> - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
-> - [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
-> - [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$  
+- [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
+- [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
+- [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
+- [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
+- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$  
 
 This is a legitimate PMF because
 $\sum_{k=0}^{\infty} e^{-\lambda} \frac{\lambda^k}{k!} = e^{-\lambda} \left(1 + \lambda + \frac{\lambda^2}{2!} + \frac{\lambda^3}{3!} + \ldots\right) = e^{-\lambda}e^{\lambda} = 1$
@@ -61,11 +61,11 @@ START
 Math_ONE_side
 TITLE: Poisson($\lambda$)
 DESCRIPTION: $\text{Po}(\lambda)$  
-> - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
-> - [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
-> - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
-> - [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
-> - [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$   
+- [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
+- [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
+- [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
+- [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
+- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$   
 FORMULA: This is a legitimate PMF because
 $\sum_{k=0}^{\infty} e^{-\lambda} \frac{\lambda^k}{k!} = e^{-\lambda} \left(1 + \lambda + \frac{\lambda^2}{2!} + \frac{\lambda^3}{3!} + \ldots\right) = e^{-\lambda}e^{\lambda} = 1$
 ADDITIONAL: More precisely, the Poisson PMF with parameter $\lambda$ is a good approximation for a [[Binomial distribution Bin(n, p)|binomial]]  PMF with parameters $n$ and $p$, i.e.,

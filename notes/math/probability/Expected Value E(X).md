@@ -71,17 +71,17 @@ START
 Math_ONE_side
 TITLE: Elementary properties of expectations
 DESCRIPTION: 
-> - $P[X = c] = 1 \Rightarrow E[X] = c$
-> - $E[cX] = cE[X]$
-> - $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
-> - $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
+- $P[X = c] = 1 \Rightarrow E[X] = c$
+- $E[cX] = cE[X]$
+- $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
+- $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
 > 	- $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen Inequality]])
-> - $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
-> - $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
-> - $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$
-> - If $X \geq 0$, then $E[X] \geq 0$
-> - If $a \leq X \leq b$, then $a \leq E[X] \leq b$
-> - $\mathbb{E} [X] = \sum_{x=1}^{\infty} \mathbb{P} [X \geq x]$ X discrete
+- $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
+- $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
+- $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$
+- If $X \geq 0$, then $E[X] \geq 0$
+- If $a \leq X \leq b$, then $a \leq E[X] \leq b$
+- $\mathbb{E} [X] = \sum_{x=1}^{\infty} \mathbb{P} [X \geq x]$ X discrete
 FORMULA: 
 ADDITIONAL:
 PICTURE:

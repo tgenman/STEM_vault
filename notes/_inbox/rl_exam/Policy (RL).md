@@ -14,8 +14,8 @@ A policy π is the brain of an [[Agent (RL)|agent]] in a [[Markov Decision proce
 A policy π is formally defined as a function:
 $\pi: S \rightarrow A$
 where:
-> - $S$ represents the set of all possible states
-> - $A$ represents the set of all possible actions
+- $S$ represents the set of all possible states
+- $A$ represents the set of all possible actions
 
 ### Types of Policies
 

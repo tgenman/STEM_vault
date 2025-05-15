@@ -47,9 +47,9 @@ START
 Math_ONE_side
 TITLE: Properties of Probability mass function (PMF) $p_X(x)$
 DESCRIPTION: 
-> - $p_X(x) \geq 0$
-> - $\sum_x p_X(x) = 1$
-> - $P(X \in S) = \sum_{x \in S} p_X(x).$
+- $p_X(x) \geq 0$
+- $\sum_x p_X(x) = 1$
+- $P(X \in S) = \sum_{x \in S} p_X(x).$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

@@ -14,8 +14,8 @@ tags:
 
 > [!tip] Row-Echelone form REF
 A matrix is in row-echelon form if
-> - All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
-> - Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.
+- All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
+- Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.
 
 ![[Pasted image 20240416202444.png|300]]
 
@@ -26,8 +26,8 @@ Math_ONE_side
 TITLE: Row-Echelone form REF
 DESCRIPTION: 
 A matrix is in row-echelon form if
-> - All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
-> - Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.
+- All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
+- Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.
 FORMULA: 
 ADDITIONAL:
 PICTURE: ![[Pasted image 20240416202444.png|300]]

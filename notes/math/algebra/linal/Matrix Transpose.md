@@ -44,12 +44,12 @@ START
 Math_ONE_side
 TITLE: Properties of Matrix Transpose
 DESCRIPTION: 
-> -   $(A^{T})^{T}=A$
-> -   $(A+B)^{T}=A^{T}+B^{T}$
-> -   $(AB)^{T}=B^{T}A^{T}$
-> -   $(\lambda A)^{T}=\lambda A^{T}$
-> -   $\det A=\det A^{T}$
-> - $(A^{−1})^T=(A^T)^{−1}$
+-   $(A^{T})^{T}=A$
+-   $(A+B)^{T}=A^{T}+B^{T}$
+-   $(AB)^{T}=B^{T}A^{T}$
+-   $(\lambda A)^{T}=\lambda A^{T}$
+-   $\det A=\det A^{T}$
+- $(A^{−1})^T=(A^T)^{−1}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

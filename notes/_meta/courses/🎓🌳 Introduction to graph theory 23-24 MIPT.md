@@ -112,7 +112,6 @@ Pre Exam Home Assignment (Topics 7-10, Deadline: before the exam)
 
 
 ### Bookmarks
-> [!example] Bookmarks
-> - [Graph Theory Algorithms Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
-> - [Graph Theory Playlist](https://www.youtube.com/watch?v=ZQY4IfEcGvM&list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH)
-> - [Дискретная математика и теория графов - Райгородский youtube](https://www.youtube.com/playlist?list=PL51E_hyhGzZJaLpmOqmo-qf4zTpqXM_ol)
+- [Graph Theory Algorithms Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+- [Graph Theory Playlist](https://www.youtube.com/watch?v=ZQY4IfEcGvM&list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH)
+- [Дискретная математика и теория графов - Райгородский youtube](https://www.youtube.com/playlist?list=PL51E_hyhGzZJaLpmOqmo-qf4zTpqXM_ol)

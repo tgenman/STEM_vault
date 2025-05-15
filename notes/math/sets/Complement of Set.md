@@ -38,9 +38,9 @@ START
 Math_ONE_side
 TITLE: Properties of Complement of Set
 DESCRIPTION: - $A \cup \overline{A} = U$
-> - $A \cap \overline{A} = \emptyset$
-> - $\overline{U} = \emptyset$
-> - $\bar{\bar{A}} = A$
+- $A \cap \overline{A} = \emptyset$
+- $\overline{U} = \emptyset$
+- $\bar{\bar{A}} = A$
 ID: 1706031862937
 END
 

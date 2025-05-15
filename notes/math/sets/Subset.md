@@ -43,13 +43,13 @@ START
 Math_ONE_side
 TITLE: Свойства подмножеств
 DESCRIPTION: 
-> - **Самопринадлежность** 
+- **Самопринадлежность** 
 > 	- $A⊆A$
-> - **Транзитивность**
+- **Транзитивность**
 > 	- Если $B⊆A$ и $A⊆K$, то $B⊆K$`
 >- **Равность**
 > 	- Если $A⊆B$ и $B⊆A$, то $A=B$
-> - For any set $A$, $A$ itself and $∅$ are both subsets of $A$. 
+- For any set $A$, $A$ itself and $∅$ are both subsets of $A$. 
 > 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и Empty Set
 FORMULA: 
 ADDITIONAL:

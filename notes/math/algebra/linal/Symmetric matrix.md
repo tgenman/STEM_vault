@@ -34,8 +34,8 @@ START
 Math_ONE_side
 TITLE: Properties of Symmetric matrix
 DESCRIPTION: 
-> - only [[Square matrix]] can be symmetric. 
-> - The sum of symmetric matrices $A, B \in \mathbb{R}^{n \times n}$ is always symmetric.
+- only [[Square matrix]] can be symmetric. 
+- The sum of symmetric matrices $A, B \in \mathbb{R}^{n \times n}$ is always symmetric.
 FORMULA: 
 ADDITIONAL:
 PICTURE:

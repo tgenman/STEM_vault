@@ -23,7 +23,7 @@ START
 Math_ONE_side
 TITLE: Expected Value Rule for Functions of Random Variables
 DESCRIPTION: - $Z = \varphi(X)$
-> - $\mathbb{E}[Z] = \int \varphi(x) dF_X(x)$
+- $\mathbb{E}[Z] = \int \varphi(x) dF_X(x)$
 > 	- In general, $E[g(X)] \neq g(E[X])$
 > 	- $\mathbb{E}[I_A(x)] = \int I_A(x) dF_X(x) = \int_A dF_X(x) = \mathbb{P}[X \in A]$
 FORMULA: In general, $E[g(X)] \neq g(E[X])$

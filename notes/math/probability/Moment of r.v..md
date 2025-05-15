@@ -32,12 +32,12 @@ TITLE: Moment of r.v.
 DESCRIPTION: the moments of a function are certain quantitative measures related to the shape of the function's graph
 FORMULA: 
 ADDITIONAL:
-> - [[Raw moment]]
+- [[Raw moment]]
 > 	- [[Expected Value E(X)]]  - Mean
-> - [[Central moment]]
+- [[Central moment]]
 > 	- Mean deviation
 > 	- [[Variance V(X)]]
-> - [[Standardized moment]]
+- [[Standardized moment]]
 > 	- [[Skewness (3)]]
 > 	- [[Kurtosis (4) Kurt(X)
 PICTURE:

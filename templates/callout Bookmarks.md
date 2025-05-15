@@ -1,2 +1,1 @@
 ### Bookmarks
-> [!example] Bookmarks

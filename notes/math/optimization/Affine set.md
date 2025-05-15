@@ -21,8 +21,8 @@ $\forall \theta \in \mathbb{R}, \forall x_1, x_2 \in A: \theta x_1 + (1- \theta)
 is a set that is closed under all possible [[Affine combination|affine combinations]]  of its points.
 
 > [!EXAMPLE]
-> - $\mathbb{R}^n$ is an affine set.
-> - The set of solutions $\left\{x \mid \mathbf{A}x =  \mathbf{b} \right\}$ is also an affine set.
+- $\mathbb{R}^n$ is an affine set.
+- The set of solutions $\left\{x \mid \mathbf{A}x =  \mathbf{b} \right\}$ is also an affine set.
 
 
 #### Relationship between convex and affine set

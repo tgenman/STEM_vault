@@ -54,9 +54,9 @@ Math_ONE_side
 TITLE: Properties of Dot product of vectors
 DESCRIPTION: - [[Commutative identity]] 
 >	$\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
-> -  [[Associative identity|ассоциативность]]  произведения
+-  [[Associative identity|ассоциативность]]  произведения
 >	$(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
-> - [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения
+- [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения
 >	$(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
 FORMULA: 
 ADDITIONAL:
