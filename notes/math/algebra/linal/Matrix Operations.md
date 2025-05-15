@@ -15,7 +15,7 @@ created: 2024-04-16 19:26
 	- [[Matrix Scalar Multiplication]]
 	- [[Matrix Vector Multiplication]]
 	- [[Matrix Matrix Multiplication]]
-		- [[Hadamard product]]
+        - [[Hadamard product]]
 - [[Matrix Transpose]]
 - [[Matrix Inverse]]
 	- [[Calculation Matrix Inverse]]

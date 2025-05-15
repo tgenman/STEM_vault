@@ -98,13 +98,13 @@ regularization
     - [[Offline метрики]]
 
     - [[Confusion matrix]]
-		- [[False positive]], [[False negative]]
-		- [[True positive]], [[True negative]]
-		- [[Accuracy]],  [[Error rate]]
-		- [[Precision]], [[Recall]], [[F1-measure]]
-		- [[Recall|True positive rate TPR]] , [[False positive rate FPR]], [[ROC curve]], 
-			- [[AUC ROC]]
-		- «Полнота — это чувствительность, но точность и избирательность — разные вещи».
+        - [[False positive]], [[False negative]]
+        - [[True positive]], [[True negative]]
+        - [[Accuracy]],  [[Error rate]]
+        - [[Precision]], [[Recall]], [[F1-measure]]
+        - [[Recall|True positive rate TPR]] , [[False positive rate FPR]], [[ROC curve]], 
+            - [[AUC ROC]]
+        - «Полнота — это чувствительность, но точность и избирательность — разные вещи».
 
 
 
@@ -133,26 +133,26 @@ regularization
 ### По типам алгоритмов
 - [[Supervised Learning]] (есть заданная выборка, есть учитель)
 	-  [[Classification ML]]
-		- binary classification
-		- multiclass classification
-		- multilabel classification
-		- [[Naive Bayes]]
-		- [[Decision trees]]
-		- [Логистическая Регрессия](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F) Logistic regression 
-		- [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
-		- [[Support Vector Machine (SVM)]]
+        - binary classification
+        - multiclass classification
+        - multilabel classification
+        - [[Naive Bayes]]
+        - [[Decision trees]]
+        - [Логистическая Регрессия](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F) Logistic regression 
+        - [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
+        - [[Support Vector Machine (SVM)]]
 	- [[Regression (machine learning)]] 
-		- [[Linear regression]]
-		- [[Polynomial regression]]
-		- [[Linear and Polynomial Regression]]
-		- Ridge-Lasso Regression
+        - [[Linear regression]]
+        - [[Polynomial regression]]
+        - [[Linear and Polynomial Regression]]
+        - Ridge-Lasso Regression
 	- [[Ranking]]
 - [[Unsupervised Learning]] (есть заданная выборка, нет учителя)
 	- [[Clustering (machine learning)]]
 	- [[Поиск правил (ассоциация)]]
 	- [[Dimension reduction (generalization)]]
 	- Генеративные алгоритмы
-		- GAN
+        - GAN
 - [[Reinforcement Learning]] (нет заданной выборки, есть фидбек среды)
 - [[Ensemble Methods]]
 	- [[Стейкинг (ансамблевые методы)]]

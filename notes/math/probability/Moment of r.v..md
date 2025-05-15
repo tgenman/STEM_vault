@@ -17,7 +17,7 @@ the moments of a function are certain quantitative measures related to the shape
 - [[Central moment]]
 	- Mean deviation
 	- [[Variance V(X)]]
-		- [[Standard deviation]]
+        - [[Standard deviation]]
 - [[Standardized moment]]
 	- [[Skewness (3)]]
 	- [[Kurtosis (4) Kurt(X)]]

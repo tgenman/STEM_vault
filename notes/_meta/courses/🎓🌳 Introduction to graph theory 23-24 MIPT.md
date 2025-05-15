@@ -22,40 +22,40 @@ connected:
 	- [x] Required reading: CLZ: 1.1 - 1.6.
 	- [ ] Optional further reading: BM: 1.1 - 1.2, 2.1-2.2.
 	- [x] Home assignment(deadline: November, 8) : 
-		- CLZ: 
-			- 1.8, 
-			- 1.18, 
-			- 1.22, 
-			- 1.24, 
-		- BM: 
-			- 1.1.6 (b),
-			- 1.1.9. 
+        - CLZ: 
+            - 1.8, 
+            - 1.18, 
+            - 1.22, 
+            - 1.24, 
+        - BM: 
+            - 1.1.6 (b),
+            - 1.1.9. 
 
 - Week 2. Degree Sequences, Walks and Connected Graphs.
 	- [ ] Required reading: CLZ: 1.6-1.7, 2.1.
 	- [ ] Optional further reading: BM: 3.1.
 	- [x] Home assignment (deadline: November, 15): 
-		- CLZ: 
-			- [x] 1.41(c-e), 
-			- [x] 1.42, 
-			- [x] 1.44, 
-			- [x] 2.6, 
-			- [x] 2.12, 
-			- [x] 2.14, 
-		- BM: 
-			- [x] 3.1.3,
+        - CLZ: 
+            - [x] 1.41(c-e), 
+            - [x] 1.42, 
+            - [x] 1.44, 
+            - [x] 2.6, 
+            - [x] 2.12, 
+            - [x] 2.14, 
+        - BM: 
+            - [x] 3.1.3,
 
 - Week 3. Distances in Graphs. Trees.
 	- [ ] Required reading: CLZ: 2.2, 3.2.
 	- [ ] Optional further reading: BM: 4.1.
 	- [x] Home assignment(deadline: November, 22): 
-		- CLZ: 
-			- [x] 2.26, 
-			- [x] 2.28, 
-			- [x] 2.42, 
-			- [x] 3.22, 
-			- [x] 3.24, 
-			- [x] 3.26. 
+        - CLZ: 
+            - [x] 2.26, 
+            - [x] 2.28, 
+            - [x] 2.42, 
+            - [x] 3.22, 
+            - [x] 3.24, 
+            - [x] 3.26. 
 
 
 - Week 4. Counting Trees. Minimal Spanning Trees.
@@ -66,15 +66,15 @@ connected:
 	- [ ] Required reading: CLZ: 3.1
 	- [ ] Optional further reading: BM: 5.1-5.2
 	- [ ] Home assignment (deadline: flexible) : 
-		- CLZ: 
-			- [x] 3.44, ✅ 2024-03-15
-			- [x] 3.46, ✅ 2024-03-15
-			- [x] 3.68, ✅ 2024-03-15
-			- [x] 3.2, ✅ 2024-03-15
-			- [x] 3.8, ✅ 2024-03-15
-			- [x] 3.14, ✅ 2024-03-15
-		- BM: 
-			- [ ] 5.2.5 
+        - CLZ: 
+            - [x] 3.44, ✅ 2024-03-15
+            - [x] 3.46, ✅ 2024-03-15
+            - [x] 3.68, ✅ 2024-03-15
+            - [x] 3.2, ✅ 2024-03-15
+            - [x] 3.8, ✅ 2024-03-15
+            - [x] 3.14, ✅ 2024-03-15
+        - BM: 
+            - [ ] 5.2.5 
 [[Introduction to graph theory. HW 5. ]]
 
 
@@ -83,14 +83,14 @@ connected:
 	- [ ] Required reading: CLZ: 4.1, 5.1-5.2.
 	- [ ] Optional further reading:CLZ: 4.2, BM: 9.1-9.3.
 	- [ ] Home assignment (deadline: December, 13): 
-		- CLZ: 
-			- [ ] 4.2, 
-			- [ ] 4.6, 
-			- [ ] 4.12, 
-			- [ ] 4.14(a-d), 
-		- BM: 
-			- [ ] 9.1.2, 
-			- [ ] 9.1.3(b) 
+        - CLZ: 
+            - [ ] 4.2, 
+            - [ ] 4.6, 
+            - [ ] 4.12, 
+            - [ ] 4.14(a-d), 
+        - BM: 
+            - [ ] 9.1.2, 
+            - [ ] 9.1.3(b) 
 [[Introduction to graph theory. HW 6]]
 
 Topic 7. Hamiltonian Graphs.

@@ -17,8 +17,8 @@ connected:
 [[График функции]]
 [[Smooth function]]
 	[[Continuous function]]
-		[[Extreme Value Theorem (EVT)]]
-		[[Intermediate Value Theorem (IVT)]]
+        [[Extreme Value Theorem (EVT)]]
+        [[Intermediate Value Theorem (IVT)]]
 [[Even functions]] и [[Odd functions]] И еще СИММЕТРИЧНАЯ ОТНОСИТЕЛЬНО Y
 [[Периодические функции]]
 [[Ограниченные функции]]
@@ -28,7 +28,7 @@ connected:
 	- 
 	- [[Логарифмическая функция]]
 	- [[Показательная функция]] [[Степенная функция]]
-		- [[Экспонента]]
+        - [[Экспонента]]
 	- [[Hyperbolic functions]]
 	- [[Тригонометрические функции]]
 

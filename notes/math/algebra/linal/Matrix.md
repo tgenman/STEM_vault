@@ -43,13 +43,13 @@ $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} &
 2) $\ A(BC)=(AB)C$  - ассоциатичность
 3) \ $AE=EA=A$. - умножение на единичную матрицу
 4) Дистрибутивность относительно сложения:
-		$(A+B)\cdot C= AC+BC$;
-		$K(A+B)=KA+KB$.
+        $(A+B)\cdot C= AC+BC$;
+        $K(A+B)=KA+KB$.
 5) $(\alpha A B)=\alpha(AB)=A(\alpha B)$. - Ассоциативность умножения на скаляр
 6) Транспонирование произведения:
-		$(AB)^T=B^T\cdot A^T$;
-		$(kA)^T=A^T\cdot k ^T$;
-		$(Am)^T=m^T\cdot A^T$.
+        $(AB)^T=B^T\cdot A^T$;
+        $(kA)^T=A^T\cdot k ^T$;
+        $(Am)^T=m^T\cdot A^T$.
 
 ![[Matrix Inverse#Properties of Matrix Inverse]]
 
