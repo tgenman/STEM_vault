@@ -33,13 +33,13 @@ DESCRIPTION: the moments of a function are certain quantitative measures related
 FORMULA: 
 ADDITIONAL:
 - [[Raw moment]]
-> 	- [[Expected Value E(X)]]  - Mean
+	- [[Expected Value E(X)]]  - Mean
 - [[Central moment]]
-> 	- Mean deviation
-> 	- [[Variance V(X)]]
+	- Mean deviation
+	- [[Variance V(X)]]
 - [[Standardized moment]]
-> 	- [[Skewness (3)]]
-> 	- [[Kurtosis (4) Kurt(X)
+	- [[Skewness (3)]]
+	- [[Kurtosis (4) Kurt(X)
 PICTURE:
 ID: 1711014493263
 END

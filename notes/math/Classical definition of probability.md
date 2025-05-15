@@ -91,7 +91,7 @@ DESCRIPTION:
 - If $A \subset B$, then $P(A) \leq P(B)$.
 - $𝑃 (𝐴 ∪ 𝐵) = 𝑃(𝐴)+𝑃(𝐵)−𝑃(𝐴∩𝐵)$ -  [[Inclusion-Exclusion principle]]
 - $P(A,\cup...\cup A_k)\leq P(A_1)+...+P(A_k)$
-> 	- $P(A \cup B) \leq P(A) + P(B)$.
+	- $P(A \cup B) \leq P(A) + P(B)$.
 - $\bar{A}:=\Omega\backslash A$  =>  $P(\bar{A})=1-P(A)$
 - $P(A \cup B \cup C) = P(A) + P(A^c \cap B) + P(A^c \cap B^c \cap C)$.
 FORMULA: 

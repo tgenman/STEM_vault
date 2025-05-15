@@ -28,17 +28,17 @@ Graphs are so named because they can be represented graphically
 
 > [!example] Types
 - by $n$ [[Order of graph (n)|order]] 
-> 	- 0 - null graph
-> 	- 1 - trivial graph
-> 	- 2 and more - nontrivial graph
+	- 0 - null graph
+	- 1 - trivial graph
+	- 2 and more - nontrivial graph
 - by $m$ ([[Size of graph (m)|size]])
-> 	- 0 - [[Empty graph]]
-> 	- 1 - non empty graph
+	- 0 - [[Empty graph]]
+	- 1 - non empty graph
 - by $n$ and $m$
-> 	- $m = \binom{n}{2}$ - [[Complete graph]] $K_n$
+	- $m = \binom{n}{2}$ - [[Complete graph]] $K_n$
 - by form
-> 	- [[Path graph (P_n)]]
-> 	- [[Cycle graph (C_n)]]
+	- [[Path graph (P_n)]]
+	- [[Cycle graph (C_n)]]
 
  
 
