@@ -23,8 +23,16 @@ I use this database as a personal study guide for mathematics and STEM subjects,
 # Notation
 - **Markdown (.md)**: Notes in markdown format, stored in Obsidian.
 - **Latex for Formulas**: Inline formulas with `$`, block formulas with `$$`. STRICTLY dont use `\(`for formulas
-- The definition should come first, marked with a callout `> [!tip] Definition`, and the main content should follow on the next line. This callout is visually distinct and helps emphasize critical information.
+- **Definition**: The definition should come first, marked with a callout `> [!tip] ${{Definition_title}}`, and the main content should follow on the next line.
+    - Second line after `> [!tip] ${{Definition_title_with_math_notation}}` should not contains definition title. Only debinition body itself. For example `> is an ordered ...`
+    - Example: ```text
+> [!tip] Difference of Sets $A \setminus B$ for sets $A$ and $B$
+> is the set of elements that belong to $A$ but not to $B$.
+$A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
+    ```
 - **Front Matter**: Each note should start with essential metadata, including aliases, links, and tags.
+    - you should not translate aliases to english. it can be any
+    - not add in aliase name of file (because filename already is main title)
 
   ```text
   ---
@@ -35,6 +43,7 @@ I use this database as a personal study guide for mathematics and STEM subjects,
   connected:
     - "[[Connected Concept]]"
   created: 2023-10-23 16:47
+  tags:
   ---
 
 # Anki
@@ -42,11 +51,11 @@ I use this database as a personal study guide for mathematics and STEM subjects,
 - Make sure that any other fields related to Anki (e.g., deck name, side 1, side 2) are properly formatted.
 
 Example format for Anki note:
-```
+```text
 > [!question]- Concept Name
 TARGET DECK: math::combinatorics
 START
-Math_TWO_side
+Math_TWO_side (or Math_ONE_side)
 TITLE: Concept Name
 DESCRIPTION: Definition and key points of the concept
 FORMULA: $$Formula$$
@@ -72,12 +81,12 @@ connected:
   - "[[Tuple]]"
   - "[[Arrangements with repetition]]"
 created: 2023-10-23 16:47
+tags:
 ---
 
-> [!tip] An arrangement without repetition
- is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
-
-$$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
+> [!tip] An arrangement without repetition $A^{k}_{n}$
+> is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
+>$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$
 
 # Example
 For instance, if we need to choose and arrange 3 books from a set of 5 distinct books (A, B, C, D, E), the number of ways to do this is 
@@ -92,8 +101,11 @@ START
 Math_TWO_side
 TITLE:  Arrangements without repetition
 DESCRIPTION:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
-FORMULA: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
-ADDITIONAL:
+FORMULA: $A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$
+ADDITIONAL: Properties:
+> - property 1
+> - property 2
+> - property 3
 PICTURE: ![[Pasted image 20250513181511.png]]
 ID: 1698069638670
 END

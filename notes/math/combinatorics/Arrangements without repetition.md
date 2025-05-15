@@ -10,9 +10,10 @@ connected:
   - "[[Tuple]]"
   - "[[Arrangements with repetition]]"
 created: 2023-10-23 16:47
+tags:
 ---
 
-> [!tip] An arrangement without repetition
+> [!tip] An arrangement without repetition $A^{k}_{n}$
  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
 
 $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$

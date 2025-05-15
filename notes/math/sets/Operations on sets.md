@@ -12,8 +12,8 @@ created: 2024-07-03 10:46
 [[Свойства пересечения и объединения множеств]]
 
 [[Complement of Set]]
-[[Difference of Sets]]
-[[Symmetric difference sets (A △ B)]]
+[[Difference (A-B)]]
+[[Symmetric difference (A △ B)]]
 [[Minkowski sum]]
 
 [[Cartesian product of sets (A x B)]]

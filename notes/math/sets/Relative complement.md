@@ -4,10 +4,10 @@ aliases:
 anki: true
 created: 2025-05-13 18:15
 parent:
-  - "[[Difference of Sets]]"
+  - "[[Difference (A-B)]]"
   - "[[Complement of Set]]"
 connected: 
-tags:
+tags: 
 ---
 
 > [!tip] The relative complement of set ${B}$ with respect to set ${A}$ 

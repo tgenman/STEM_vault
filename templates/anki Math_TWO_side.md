@@ -1,7 +1,7 @@
 # Anki
-> [!question]-
-TARGET DECK: Math:: #обс/фикс  
->>START
+TARGET DECK: stem::math::forgot #обс/фикс  
+
+START
 Math_TWO_side
 TITLE: 
 DESCRIPTION: 
