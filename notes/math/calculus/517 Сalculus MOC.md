@@ -13,10 +13,10 @@ connected:
 [[Fundamental theorem of calculus]]
 
 [[Function (math)]]
-	[[Inverse function (math)]]
+    [[Inverse function (math)]]
 [[График функции]]
 [[Smooth function]]
-	[[Continuous function]]
+    [[Continuous function]]
         [[Extreme Value Theorem (EVT)]]
         [[Intermediate Value Theorem (IVT)]]
 [[Even functions]] и [[Odd functions]] И еще СИММЕТРИЧНАЯ ОТНОСИТЕЛЬНО Y

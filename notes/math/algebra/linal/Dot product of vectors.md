@@ -26,11 +26,11 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 
 #### Properties
 - [[Commutative identity]] 
-	$\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
+    $\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
 -  [[Associative identity|ассоциативность]]  произведения
-	$(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
+    $(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
 - [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения
-	$(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
+    $(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$
 
 
 # Anki

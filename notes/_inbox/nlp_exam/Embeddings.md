@@ -12,9 +12,9 @@ tags:
 
 - Эмбеддинги для текста:
     - [[Word Embeddings]] ([[Word2Vec]], GloVe, FastText)
-	    - CBOW (Continuous Bag of Words)
-	    - Skip-gram модели
-	    - Contextual word embeddings (из [[BERT]] BERT, ELMo)
+        - CBOW (Continuous Bag of Words)
+        - Skip-gram модели
+        - Contextual word embeddings (из [[BERT]] BERT, ELMo)
     - Sentence embeddings (BERT, USE, SentenceBERT)
     - Document embeddings (Doc2Vec)
     - Character embeddings
