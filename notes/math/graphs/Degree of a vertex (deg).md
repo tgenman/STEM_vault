@@ -18,7 +18,7 @@ $$\deg v = |N(v)|$$
 - $\deg v = 0$ - [[Isolated vertex]]
 - $\deg v = 1$ - [[End-vertex]]
 - [[Even and Odd Vertices]]
-	- [[Number of odd vertices (corollary)]]
+    - [[Number of odd vertices (corollary)]]
 
 ### Types degree in graph
 - [[Maximum degree ∆(G)]]

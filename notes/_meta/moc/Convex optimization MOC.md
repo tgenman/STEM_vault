@@ -26,8 +26,8 @@ tags:
 
 
 - [[Convex function]] ([[Concave function]])
-	- [[A function f is convex if and only if epigraph of f is a convex set (theorem)]]
-	- [[Strongly Convex Function]]
+    - [[A function f is convex if and only if epigraph of f is a convex set (theorem)]]
+    - [[Strongly Convex Function]]
 
 
 

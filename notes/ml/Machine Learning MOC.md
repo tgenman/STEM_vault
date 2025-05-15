@@ -122,9 +122,9 @@ regularization
 ### По задачам
 - [[Regression (machine learning)]]
 - [[Classification]]
-	- [[Binary classification]]
-	- [[Multiclass classification]]
-	- [[Multilabel classification]]
+    - [[Binary classification]]
+    - [[Multiclass classification]]
+    - [[Multilabel classification]]
 - [[Ranking]]
 - image segmentation
 - machine translation
@@ -132,7 +132,7 @@ regularization
 
 ### По типам алгоритмов
 - [[Supervised Learning]] (есть заданная выборка, есть учитель)
-	-  [[Classification ML]]
+    -  [[Classification ML]]
         - binary classification
         - multiclass classification
         - multilabel classification
@@ -141,29 +141,29 @@ regularization
         - [Логистическая Регрессия](https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F) Logistic regression 
         - [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
         - [[Support Vector Machine (SVM)]]
-	- [[Regression (machine learning)]] 
+    - [[Regression (machine learning)]] 
         - [[Linear regression]]
         - [[Polynomial regression]]
         - [[Linear and Polynomial Regression]]
         - Ridge-Lasso Regression
-	- [[Ranking]]
+    - [[Ranking]]
 - [[Unsupervised Learning]] (есть заданная выборка, нет учителя)
-	- [[Clustering (machine learning)]]
-	- [[Поиск правил (ассоциация)]]
-	- [[Dimension reduction (generalization)]]
-	- Генеративные алгоритмы
+    - [[Clustering (machine learning)]]
+    - [[Поиск правил (ассоциация)]]
+    - [[Dimension reduction (generalization)]]
+    - Генеративные алгоритмы
         - GAN
 - [[Reinforcement Learning]] (нет заданной выборки, есть фидбек среды)
 - [[Ensemble Methods]]
-	- [[Стейкинг (ансамблевые методы)]]
-	- [[Беггинг (ансамблевые методы)]]
-	- [[Бустинг (ансамблевые методы)]] 
+    - [[Стейкинг (ансамблевые методы)]]
+    - [[Беггинг (ансамблевые методы)]]
+    - [[Бустинг (ансамблевые методы)]] 
 - [[Neural Networks (notion)]]
-	- [[Convolutional neural network]] (CNN)
-	- [[Recurrent Neural Network]] (RNN)
-	- [[Generative Adversarial Networks]] (GAN)
-	- [[Autoencoders]]
-	- [[Multilayer percepton]] (MLP)
+    - [[Convolutional neural network]] (CNN)
+    - [[Recurrent Neural Network]] (RNN)
+    - [[Generative Adversarial Networks]] (GAN)
+    - [[Autoencoders]]
+    - [[Multilayer percepton]] (MLP)
 
 
 

@@ -17,10 +17,10 @@ tags:
 Система множеств $\mathcal{F}$ называется $\sigma$-algebra , если выполняются следующие 3 свойства ($A$ is [[Event|an event]]  if $A \in \mathcal{F}$ ):
 - $\Omega \in \mathcal{F}$ 
 - $A \in \mathcal{F} \Rightarrow \bar{A} = \Omega \text{\\} A \in \mathcal{F}$ 
-	- $\emptyset\in\mathcal{F}$ т.к. $\bar{\Omega} = \emptyset \in \mathcal{F}$ 
+    - $\emptyset\in\mathcal{F}$ т.к. $\bar{\Omega} = \emptyset \in \mathcal{F}$ 
 - $A_1, A_2,... \in \mathcal{F} \Rightarrow \bigcup_{i=1}^\infty A_i,\bigcap_{i=1}^\infty A_i\in\mathcal{F}$ 
-	- достаточно только одного. Второе выводится через [[Первый закон де Моргана|законы де Моргана]]
-	- т.е. замкнута относительно операций $\cap$, $\cup$, (\\ , $\bigtriangleup$ )
+    - достаточно только одного. Второе выводится через [[Первый закон де Моргана|законы де Моргана]]
+    - т.е. замкнута относительно операций $\cap$, $\cup$, (\\ , $\bigtriangleup$ )
 
 
 

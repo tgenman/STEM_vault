@@ -19,9 +19,9 @@ connected:
 
 
 - Week 1. Main Concepts and Definitions.
-	- [x] Required reading: CLZ: 1.1 - 1.6.
-	- [ ] Optional further reading: BM: 1.1 - 1.2, 2.1-2.2.
-	- [x] Home assignment(deadline: November, 8) : 
+    - [x] Required reading: CLZ: 1.1 - 1.6.
+    - [ ] Optional further reading: BM: 1.1 - 1.2, 2.1-2.2.
+    - [x] Home assignment(deadline: November, 8) : 
         - CLZ: 
             - 1.8, 
             - 1.18, 
@@ -32,9 +32,9 @@ connected:
             - 1.1.9. 
 
 - Week 2. Degree Sequences, Walks and Connected Graphs.
-	- [ ] Required reading: CLZ: 1.6-1.7, 2.1.
-	- [ ] Optional further reading: BM: 3.1.
-	- [x] Home assignment (deadline: November, 15): 
+    - [ ] Required reading: CLZ: 1.6-1.7, 2.1.
+    - [ ] Optional further reading: BM: 3.1.
+    - [x] Home assignment (deadline: November, 15): 
         - CLZ: 
             - [x] 1.41(c-e), 
             - [x] 1.42, 
@@ -46,9 +46,9 @@ connected:
             - [x] 3.1.3,
 
 - Week 3. Distances in Graphs. Trees.
-	- [ ] Required reading: CLZ: 2.2, 3.2.
-	- [ ] Optional further reading: BM: 4.1.
-	- [x] Home assignment(deadline: November, 22): 
+    - [ ] Required reading: CLZ: 2.2, 3.2.
+    - [ ] Optional further reading: BM: 4.1.
+    - [x] Home assignment(deadline: November, 22): 
         - CLZ: 
             - [x] 2.26, 
             - [x] 2.28, 
@@ -59,13 +59,13 @@ connected:
 
 
 - Week 4. Counting Trees. Minimal Spanning Trees.
-	- [ ] Required reading: CLZ: 3.2-3.3
-	- [ ] Optional further reading: BM: 4.2, 6.2, 8.5
+    - [ ] Required reading: CLZ: 3.2-3.3
+    - [ ] Optional further reading: BM: 4.2, 6.2, 8.5
 
 - Week 5. Cut-vertices and Blocks. 
-	- [ ] Required reading: CLZ: 3.1
-	- [ ] Optional further reading: BM: 5.1-5.2
-	- [ ] Home assignment (deadline: flexible) : 
+    - [ ] Required reading: CLZ: 3.1
+    - [ ] Optional further reading: BM: 5.1-5.2
+    - [ ] Home assignment (deadline: flexible) : 
         - CLZ: 
             - [x] 3.44, ✅ 2024-03-15
             - [x] 3.46, ✅ 2024-03-15
@@ -80,9 +80,9 @@ connected:
 
 
 - Week 6. Cuts and Connectivity. Eulerian Graphs.
-	- [ ] Required reading: CLZ: 4.1, 5.1-5.2.
-	- [ ] Optional further reading:CLZ: 4.2, BM: 9.1-9.3.
-	- [ ] Home assignment (deadline: December, 13): 
+    - [ ] Required reading: CLZ: 4.1, 5.1-5.2.
+    - [ ] Optional further reading:CLZ: 4.2, BM: 9.1-9.3.
+    - [ ] Home assignment (deadline: December, 13): 
         - CLZ: 
             - [ ] 4.2, 
             - [ ] 4.6, 

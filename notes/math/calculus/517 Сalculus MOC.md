@@ -24,23 +24,23 @@ connected:
 [[Ограниченные функции]]
 [[Монотонные функции]]
 - Типы функций
-	- [[Дробно-рациональная функция]]
-	- 
-	- [[Логарифмическая функция]]
-	- [[Показательная функция]] [[Степенная функция]]
+    - [[Дробно-рациональная функция]]
+    - 
+    - [[Логарифмическая функция]]
+    - [[Показательная функция]] [[Степенная функция]]
         - [[Экспонента]]
-	- [[Hyperbolic functions]]
-	- [[Тригонометрические функции]]
+    - [[Hyperbolic functions]]
+    - [[Тригонометрические функции]]
 
 - [[Limit of function]]
-	- [[One-sided Limits]]
-	- indeterminate form $\frac{0}{0}$
+    - [[One-sided Limits]]
+    - indeterminate form $\frac{0}{0}$
 
 - [[Derivative]]
-	- First and Second Derivative Test
+    - First and Second Derivative Test
 - [[Directional derivative]]
-	- [[Gradient]]
-	- [[Hessian]]
+    - [[Gradient]]
+    - [[Hessian]]
 
 
 [[Euler's formula]]

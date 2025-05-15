@@ -19,31 +19,31 @@ control: exam
 
 ### Plan
 - Week 1
-	- [x] note-taking
-	- [x] homework (16 october)
+    - [x] note-taking
+    - [x] homework (16 october)
 - Week 2
-	- [x] note-taking
-	- [x] homework (23 october)
+    - [x] note-taking
+    - [x] homework (23 october)
 - Week 3
-	- [x] note-taking
-	- [x] homework (30 october)
+    - [x] note-taking
+    - [x] homework (30 october)
 - Week 4
-	- [x] note-taking
-	- [x] homework (6 november)
+    - [x] note-taking
+    - [x] homework (6 november)
 - Week 5
-	- [x] note-taking
-	- [x] homework (13 november)
+    - [x] note-taking
+    - [x] homework (13 november)
 - Week 6
-	- [x] mid-term exam (20 november)
+    - [x] mid-term exam (20 november)
 - %% Week 7 %%
-	- %% [ ] note-taking %%
-	- %% [ ] homework (27 november) %%
+    - %% [ ] note-taking %%
+    - %% [ ] homework (27 november) %%
 - %% Week 8 %%
-	- %% [ ] note-taking %%
-	- %% [ ] homework (4 december) %%
+    - %% [ ] note-taking %%
+    - %% [ ] homework (4 december) %%
 - %% Week 8 %% 
-	- %% [ ] note-taking %%
-	- %% [ ] homework (11 december) %%
+    - %% [ ] note-taking %%
+    - %% [ ] homework (11 december) %%
 
 
 

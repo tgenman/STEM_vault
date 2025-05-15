@@ -11,14 +11,14 @@ tags:
 В каждом случае эмбеддинги создают компактное векторное представление сложных данных, сохраняя их важные характеристики и семантические свойства для дальнейшего использования в ML моделях.
 
 - Эмбеддинги для текста:
-	- [[Word Embeddings]] ([[Word2Vec]], GloVe, FastText)
+    - [[Word Embeddings]] ([[Word2Vec]], GloVe, FastText)
 	    - CBOW (Continuous Bag of Words)
 	    - Skip-gram модели
 	    - Contextual word embeddings (из [[BERT]] BERT, ELMo)
-	- Sentence embeddings (BERT, USE, SentenceBERT)
-	- Document embeddings (Doc2Vec)
-	- Character embeddings
-	- Subword embeddings (используются в BERT, GPT)
+    - Sentence embeddings (BERT, USE, SentenceBERT)
+    - Document embeddings (Doc2Vec)
+    - Character embeddings
+    - Subword embeddings (используются в BERT, GPT)
 - Эмбеддинги для изображений:
     - CNN embeddings (извлекаются из предобученных CNN)
     - CLIP embeddings (мультимодальные эмбеддинги текст-изображение)
@@ -42,10 +42,10 @@ tags:
     - Geographic embeddings (для геоданных)
     - Molecular embeddings (для химических соединений)
 - Категориальные эмбеддинги:
-	- Entity embeddings (для категориальных переменных с большим количеством уникальных значений)
-	- [[One-hot Encoding]] -> Dense embeddings (преобразование через слой Embedding)
-	- Learned category embeddings (обучаемые эмбеддинги категорий)
-	- Hierarchical category embeddings (для иерархических категориальных данных)
+    - Entity embeddings (для категориальных переменных с большим количеством уникальных значений)
+    - [[One-hot Encoding]] -> Dense embeddings (преобразование через слой Embedding)
+    - Learned category embeddings (обучаемые эмбеддинги категорий)
+    - Hierarchical category embeddings (для иерархических категориальных данных)
 
 
   - Dense vector representation of categories.

@@ -38,7 +38,7 @@ $$E[X] = \sum_x xp_X(x).$$
 - $E[cX] = cE[X]$
 - $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
 - $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
-	- $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen Inequality]])
+    - $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen Inequality]])
 - $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
 - $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
 - $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$
@@ -75,7 +75,7 @@ DESCRIPTION:
 - $E[cX] = cE[X]$
 - $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
 - $E[\varphi(X)] = \sum_{x} \varphi(x)p_X(x)$ - [[The Rule of the Lazy Statistician]]
-	- $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen Inequality]])
+    - $\mathbb{E}[\varphi(Y)] \neq \varphi(\mathbb{E} [X])$ (cf. [[Jensen Inequality]])
 - $\mathbb{E}[XY] = \int x y f_{X,Y}(x, y) dF_X (x) dF_Y (y)$
 - $\mathbb{P} [X \geq Y] = 1 \Rightarrow \mathbb{E} [X] \geq \mathbb{E} [Y]$
 - $\mathbb{P} [X = Y] = 1 \Rightarrow \mathbb{E} [X] = \mathbb{E} [Y]$

@@ -17,7 +17,7 @@ $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^
 
 - 1 - Mean deviation = 0
 - 2 - [[Variance V(X)]]
-	- [[Standard deviation]]
+    - [[Standard deviation]]
 
 # Anki
 TARGET DECK: math::probability

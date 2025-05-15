@@ -23,9 +23,9 @@ A norm must satisfy the following properties:
 
 #### Types
 - [[Lp norm]]
-	- [[Manhattan norm (L1)]]
-	- [[Euclidian norm (L2)]]
-	- [[Max norm (L_infinity)]]
+    - [[Manhattan norm (L1)]]
+    - [[Euclidian norm (L2)]]
+    - [[Max norm (L_infinity)]]
 - [[Unit vector]]
 
 

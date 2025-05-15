@@ -12,8 +12,8 @@ tags:
 A  [[Function (math)|function]] of a ==random variable== defines another ==random variable==.
 
 - $Z = \varphi(X)$
-	- $f_Z(z) = \mathbb{P}[\varphi(X) = z] = \mathbb{P} [X \in \varphi^{-1}(z)] = \sum_{x \in \varphi^{-1}(z)} f_X(x)$
-	- $F_Z(z) = \mathbb{P}[\varphi(X) \leq z] = \int_{A_z} f(x) dx$ with $A_z = \{x : \varphi(x) \leq z\}$
+    - $f_Z(z) = \mathbb{P}[\varphi(X) = z] = \mathbb{P} [X \in \varphi^{-1}(z)] = \sum_{x \in \varphi^{-1}(z)} f_X(x)$
+    - $F_Z(z) = \mathbb{P}[\varphi(X) \leq z] = \int_{A_z} f(x) dx$ with $A_z = \{x : \varphi(x) \leq z\}$
 
 [[The Rule of the Lazy Statistician]]
 - $\mathbb{E}[Z] = \int \varphi(x) dF_X(x)$

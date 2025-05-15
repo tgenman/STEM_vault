@@ -207,21 +207,21 @@ If you check how you feel about that—==if you ask yourself “what’s it like
 ## The Focusing algorithm
 
 1.  **Select something to bring into focus**
-	-   Something that’s alive for you, or that has been looming in the back of your mind
-	-   Something that you haven’t had time for, but want to disentangle
-	-   Something where it seems like there’s insight on the tip of your tongue
-	-   Put your present worries on the shelf and see what else arises in the space you cleared.
+    -   Something that’s alive for you, or that has been looming in the back of your mind
+    -   Something that you haven’t had time for, but want to disentangle
+    -   Something where it seems like there’s insight on the tip of your tongue
+    -   Put your present worries on the shelf and see what else arises in the space you cleared.
 2.  **Create space**
-	-   Get into a physically comfortable position and spend a minute or two “dropping in.”
-	-   Put your attention into your body, and notice what sensations are present. If none are immediately obvious, start somewhere (e.g. the feet) and run your attention across your body part by part.
-	-   If you discover multiple things that are tugging at your attention, ask some of them to “wait in the hallway.”
-	-   If you are highly emotional or triggered or tense or overwhelmed, try going meta to slowly gain more space.
+    -   Get into a physically comfortable position and spend a minute or two “dropping in.”
+    -   Put your attention into your body, and notice what sensations are present. If none are immediately obvious, start somewhere (e.g. the feet) and run your attention across your body part by part.
+    -   If you discover multiple things that are tugging at your attention, ask some of them to “wait in the hallway.”
+    -   If you are highly emotional or triggered or tense or overwhelmed, try going meta to slowly gain more space.
 3.  **Look for a handle for your felt sense**
-	-   Remember to listen rather than projecting or explaining.
-	-   Continue returning to the level of sensation—what do you feel in your body?
-	-   Check for resonance each time you iterate. What does the felt sense “think” of the handle you just tried? What does it want to “say” in response?
-	-   Use prompts like “and now I’m feeling \_\_\_\_\_\_” or “what this feels like in my body is .\_\_\_\_\_\_” Ask gentle questions like “and what’s that like?” or “how does it feel to say \_\_\_\_\_\_?” or “and the thing about that is \_\_\_\_\_\_.”
-	-   Take your time, often as much as thirty or sixty or ninety seconds between sentences.
+    -   Remember to listen rather than projecting or explaining.
+    -   Continue returning to the level of sensation—what do you feel in your body?
+    -   Check for resonance each time you iterate. What does the felt sense “think” of the handle you just tried? What does it want to “say” in response?
+    -   Use prompts like “and now I’m feeling \_\_\_\_\_\_” or “what this feels like in my body is .\_\_\_\_\_\_” Ask gentle questions like “and what’s that like?” or “how does it feel to say \_\_\_\_\_\_?” or “and the thing about that is \_\_\_\_\_\_.”
+    -   Take your time, often as much as thirty or sixty or ninety seconds between sentences.
 
 ---
 

@@ -51,9 +51,9 @@ $F_{\hat{\theta}}(x) = P(\hat{\theta} \leq x) = \left(\frac{x}{\theta}\right)^n,
 
 
 For any $\epsilon > 0$,
-	-  $P(\hat{\theta}_n < \theta - \epsilon) = \left(\frac{\theta - \epsilon}{\theta}\right)^n$
+    -  $P(\hat{\theta}_n < \theta - \epsilon) = \left(\frac{\theta - \epsilon}{\theta}\right)^n$
         - $\lim_{n \to \infty} P(\hat{\theta}_n < \theta - \epsilon) = \lim_{n \to \infty} \left(\frac{\theta - \epsilon}{\theta}\right)^n = 0$
-	- $P(\hat{\theta}_n > \theta) = 0$, as $\hat{\theta}_n \leq \theta$
+    - $P(\hat{\theta}_n > \theta) = 0$, as $\hat{\theta}_n \leq \theta$
         - $\lim_{n \to \infty} P(\hat{\theta}_n > \theta + \epsilon) = 0$ by definition
 
 $P(\lim_{n \to \infty} \hat{\theta}_n = \theta) = 1$
