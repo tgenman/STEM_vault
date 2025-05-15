@@ -23,7 +23,6 @@ if exactly two vertices of $G$ have the same degree.
 [[Theorem of existence eaxctly 2 nearly irregular graphs]]
 
 # Anki
-> [!question]- Irregular graph
 TARGET DECK: math::graph
 START
 Math_TWO_side
@@ -36,7 +35,6 @@ ADDITIONAL:
 ID: 1705262930870
 END
 
-> [!question]- Nearly irregular graph
 TARGET DECK: math::graph
 START
 Math_TWO_side

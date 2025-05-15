@@ -14,7 +14,6 @@ created: 2023-12-19 21:44
 
 
 # Anki
-> [!question]- Tetrahedron (4)
 TARGET DECK: math::geometry
 START
 Math_ONE_side

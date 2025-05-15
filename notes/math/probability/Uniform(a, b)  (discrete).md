@@ -48,7 +48,6 @@ $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 
 
 # Anki
-> [!question]- Uniform r.v. (discrete)
 TARGET DECK: math::probability
 START
 Math_ONE_side

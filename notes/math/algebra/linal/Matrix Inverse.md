@@ -29,7 +29,6 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 - $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
 
 # Anki
-> [!question]- Matrix Inverse
 TARGET DECK: math::linal 
 START
 Math_ONE_side
@@ -41,7 +40,6 @@ PICTURE:
 ID: 1713287272971
 END
 
-> [!question]- Properties of Matrix Inverse
 TARGET DECK: math::linal 
 START
 Math_ONE_side

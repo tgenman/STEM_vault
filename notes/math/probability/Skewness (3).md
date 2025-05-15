@@ -17,7 +17,6 @@ $\gamma_1 := \frac{\mu_3}{\sigma^3} = \mathbb{E}\left[\left(\frac{X - \mu}{\sigm
 ![[Pasted image 20240322110926.png|400]]
 
 # Anki
-> [!question]- Skewness
 TARGET DECK: math::probability
 START
 Math_ONE_side

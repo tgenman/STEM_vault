@@ -14,7 +14,6 @@ tags:
 - имеют равные соответствующие элементы
 
 # Anki
-> [!question]- Matrix Comparasion
 TARGET DECK: math::linal
 START
 Math_ONE_side

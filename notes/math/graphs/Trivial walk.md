@@ -19,7 +19,6 @@ $$C = (u,w,x,y,w,v,u)$$
 
 
 # Anki
-> [!question]- Trivial walk
 TARGET DECK: math::graph
 START
 Math_ONE_side

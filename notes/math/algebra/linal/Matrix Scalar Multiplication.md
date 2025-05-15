@@ -23,7 +23,6 @@ Distributivity:
 
 
 # Anki
-> [!question]- Properties Matrix Scalar Multiplication
 TARGET DECK: math::linal 
 START
 Math_ONE_side

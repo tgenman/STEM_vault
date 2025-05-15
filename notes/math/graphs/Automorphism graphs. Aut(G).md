@@ -30,7 +30,6 @@ $Aut(G)$ is a [[Group|group]] under the operation of composition
 
 
 # Anki
-> [!question]- Automorphism $Aut(G)$
 TARGET DECK: math::graph
 START
 Math_TWO_side
@@ -44,7 +43,6 @@ ADDITIONAL:
 ID: 1705261959421
 END
 
-> [!question]- Vertex-transitive (symmetric) graph
 TARGET DECK: math::graph
 START
 Math_TWO_side
@@ -58,7 +56,6 @@ ADDITIONAL:
 ID: 1705261959431
 END
 
-> [!question]- Asymmetric graphs
 TARGET DECK: math::graph
 START
 Math_TWO_side

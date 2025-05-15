@@ -14,7 +14,6 @@ tags:
 The leading coefficient of a row (first nonzero number from the left) is called the pivot and is always strictly to the right of the pivot of the row above it
 
 # Anki
-> [!question]- Pivot
 TARGET DECK: math::linal
 START
 Math_ONE_side

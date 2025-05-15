@@ -22,7 +22,6 @@ Two $u−v$ walks $W =(u=u_0,u_1,...,u_k =v)$ and $W′ =(u=v_0,v_1,...,v_l = v)
 
 
 # Anki
-> [!question]- $u − v$ walk $W$
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -35,7 +34,6 @@ ADDITIONAL:
 ID: 1705600533271
 END
 
-> [!question]- length of W
 TARGET DECK: math::graph
 START
 Math_ONE_side

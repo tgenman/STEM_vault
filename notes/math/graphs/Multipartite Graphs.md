@@ -16,7 +16,6 @@ A $1$-partite graph is then an [[Empty graph]] empty graph
 A $2$-partite graph is [[519.172.5 Bipartite graph]]. 
 
 # Anki
-> [!question]- A graph $G$ is a $k$-partite graph ($k \in N$ $k ≥ 1$)
 TARGET DECK: math::graph
 START
 Math_ONE_side

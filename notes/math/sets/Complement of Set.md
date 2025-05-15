@@ -24,7 +24,6 @@ tags:
 - $\bar{\bar{A}} = A$
 
 # Anki
-> [!question]- Complement of Set
 TARGET DECK: math::set
 START
 Math_TWO_side
@@ -34,7 +33,6 @@ PICTURE: ![[Pasted image 20220712111557.png|500]]
 ID: 1706031862933
 END
 
-> [!question]- Properties of Complement of Set
 TARGET DECK: math::set
 START
 Math_ONE_side

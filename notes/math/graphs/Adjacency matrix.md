@@ -26,7 +26,6 @@ $$
 - if we were to add the entries in row $i$ (or in column $i$), then we obtain the degree of $v_i$.
 
 # Anki
-> [!question]- The adjacency matrix
 TARGET DECK: math::graph
 START
 Math_ONE_side

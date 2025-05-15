@@ -20,7 +20,6 @@ Unit vector $u = \frac{v}{\| v \|}$ is a unit vector in the same direction as $v
 ![[Pasted image 20240210233422.png]]
 
 # Anki
-> [!question]- Unit vector
 TARGET DECK: math::linal
 START
 Math_ONE_side

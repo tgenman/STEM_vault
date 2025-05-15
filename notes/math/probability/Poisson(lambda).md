@@ -56,7 +56,6 @@ $V[X] = \lambda$
 
 
 # Anki
-> [!question]- Poisson($\lambda$)
 TARGET DECK: math::probability
 START
 Math_ONE_side

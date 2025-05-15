@@ -18,7 +18,6 @@ $$P = (u,v,w,y)$$
 ![[Pasted image 20231123204833.png]]
 
 # Anki
-> [!question]- Path $P$
 TARGET DECK: math::graph
 START
 Math_TWO_side

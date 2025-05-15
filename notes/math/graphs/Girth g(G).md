@@ -16,7 +16,6 @@ connected:
 
 
 # Anki
-> [!question]- Girth of $G$ $g(G)$
 TARGET DECK: math::graph
 START
 Math_TWO_side

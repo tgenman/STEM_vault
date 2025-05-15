@@ -19,7 +19,6 @@ An equation system is in reduced row-echelon form (also: row-reduced echelon for
 > - The [[Pivot]]  is the only nonzero entry in its column.
 
 # Anki
-> [!question]- Reduced Row-Echelon form RREF
 TARGET DECK: math::linal  
 START
 Math_ONE_side

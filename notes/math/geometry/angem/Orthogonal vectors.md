@@ -15,7 +15,6 @@ tags:
 $\bar a \perp \bar b$
 
 # Anki
-> [!question]- Orthogonal vectors
 TARGET DECK: math::linal
 START
 Math_ONE_side

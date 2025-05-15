@@ -20,7 +20,6 @@ A matrix is in row-echelon form if
 ![[Pasted image 20240416202444.png|300]]
 
 # Anki
-> [!question]- Row-Echelone form REF
 TARGET DECK: math::linal
 START
 Math_ONE_side

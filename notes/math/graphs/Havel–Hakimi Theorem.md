@@ -50,7 +50,6 @@ $s_7^{\prime}=s_7:0,0,0,0.$
  ![[Pasted image 20231115140410.png]]
 
 # Anki
-> [!question]- Havel–Hakimi Theorem
 TARGET DECK: math::graph
 START
 Math_ONE_side

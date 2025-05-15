@@ -41,7 +41,6 @@ for all $a, b \in R$.
 - The [[Range Ran(f) or Image Im(f)|image]] of a homomorphism is a substructure of the target structure
 
 # Anki
-> [!question]- Homomorphism
 TARGET DECK: stem::math::algebra 
 START
 Math_TWO_side
@@ -53,7 +52,6 @@ ADDITIONAL:
 ID: 1705262438324
 END
 
-> [!question]- Homomorphism Properties
 START
 Math_TWO_side
 TITLE: Homomorphism Properties
@@ -67,7 +65,6 @@ ADDITIONAL:
 ID: 1746384972017
 END
 
-> [!question]- Group Homomorphism
 START
 Math_TWO_side
 TITLE: Group Homomorphism

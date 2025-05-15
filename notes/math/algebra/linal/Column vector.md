@@ -19,7 +19,6 @@ where $v_1$ is the first component of $v$ and $v_2$ is the second component of $
 ![[Pasted image 20240210233704.png]]
 
 # Anki
-> [!question]- Column vector
 TARGET DECK: math::linal 
 START
 Math_TWO_side

@@ -12,7 +12,6 @@ tags:
 
 
 # Anki
-> [!question]- One-hot Encoding
 TARGET DECK: stem::ml::core
 START
 Math_ONE_side

@@ -18,7 +18,6 @@ connected:
 
 
 # Anki
-> [!question]- Сlique
 TARGET DECK: math::graph
 START
 Math_TWO_side
@@ -29,7 +28,6 @@ ADDITIONAL:
 ID: 1705258440998
 END
 
-> [!question]- k-clique
 TARGET DECK: math::graph
 START
 Math_TWO_side

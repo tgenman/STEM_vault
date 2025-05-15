@@ -28,7 +28,6 @@ $$|A \times B | = |A| \cdot |B|$$
 
 
 # Anki
-> [!question]- Cartesian product of $A$ and $B$.
 TARGET DECK: math::set 
 START
 Math_ONE_side
@@ -39,7 +38,6 @@ ADDITIONAL:
 ID: 1699126600775
 END
 
-> [!question]- [[Cardinality|Мощность]] декартового произведения множеств
 TARGET DECK: math::set   
 START
 Math_ONE_side

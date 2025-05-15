@@ -17,7 +17,6 @@ created: 2023-12-19 21:50
 
 
 # Anki
-> [!question]- Dodecahedron (12)
 TARGET DECK: math::geometry
 START
 Math_ONE_side

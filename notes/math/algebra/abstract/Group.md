@@ -29,7 +29,6 @@ If additionally [[Commutative identity]] $\forall x, y \in \mathcal{G} : x \otim
 - We only use $+$ if $G$ is abelian. Thus, $g + h = h + g$ (always), but in general, $gh \neq hg$.
 
 # Anki
-> [!question]- Group (formal definition)
 TARGET DECK: stem::math::algebra
 START
 Math_ONE_side

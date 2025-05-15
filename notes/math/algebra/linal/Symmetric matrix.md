@@ -18,7 +18,6 @@ A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 - The sum of symmetric matrices $A, B \in \mathbb{R}^{n \times n}$ is always symmetric. 
 
 # Anki
-> [!question]- Symmetric matrix
 TARGET DECK: math::linal
 START
 Math_ONE_side
@@ -30,7 +29,6 @@ PICTURE:
 ID: 1713286792637
 END
 
-> [!question]- Properties of Symmetric matrix
 TARGET DECK: math::linal
 START
 Math_ONE_side

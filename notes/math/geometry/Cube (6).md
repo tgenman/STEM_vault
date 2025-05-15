@@ -18,7 +18,6 @@ anki: false
 Куб - правильный гексаэдр
 
 # Anki
-> [!question]- Cube (6)
 TARGET DECK: math::geometry
 START
 Math_ONE_side

@@ -20,7 +20,6 @@ $\mu'_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{
 
 
 # Anki
-> [!question]- Raw moment
 TARGET DECK: math::probability
 START
 Math_ONE_side

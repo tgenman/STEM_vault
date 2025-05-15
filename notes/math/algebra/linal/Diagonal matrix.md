@@ -15,7 +15,6 @@ $E=\begin{pmatrix}56&0&0\\0&10&0\\0&0&8\end{pmatrix}$
 
 
 # Anki
-> [!question]- Diagonal matrix
 TARGET DECK: math::linal 
 START
 Math_TWO_side

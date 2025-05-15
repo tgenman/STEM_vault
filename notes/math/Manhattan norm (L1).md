@@ -19,7 +19,6 @@ $L_1 = \sum_{i=1}^{n} |a|$
 Это [[Circle|круг]]  в первой норме
 ![[Pasted image 20240203174411.png|300]]  
 # Anki
-> [!question]- $L_1$ норма
 TARGET DECK: math::linal
 START
 Math_ONE_side

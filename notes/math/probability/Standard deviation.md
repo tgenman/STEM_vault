@@ -13,7 +13,6 @@ $\sigma_X = \sqrt{\text{var}(X)}$
 
 
 # Anki
-> [!question]- Standard deviation
 TARGET DECK: math::probability
 START
 Math_ONE_side

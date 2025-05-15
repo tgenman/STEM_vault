@@ -39,8 +39,8 @@ $P(A) = \frac{\text{number of elements of } A}{n}$
 
 
 # Anki
-> [!question]- Classical definition of probability
 TARGET DECK: math::probability
+
 START
 Math_ONE_side
 TITLE: Classical definition of probability
@@ -51,18 +51,16 @@ DESCRIPTION:
 ID: 1697972721265
 END
 
-> [!question]- Probability Axioms
 START
 Math_ONE_side
 TITLE: Probability Axioms
 DESCRIPTION: 
-> - Nonnegativity $P(A) >= 0$
-> - Normalization $P(\Omega) = 1$
-> - Additivity $P(A \sqcup B ) = P(A) + P(B)$ -  where $A, B$ are disjoint sets
+- Nonnegativity $P(A) >= 0$
+- Normalization $P(\Omega) = 1$
+- Additivity $P(A \sqcup B ) = P(A) + P(B)$ -  where $A, B$ are disjoint sets
 ID: 1697972721278
 END
 
-> [!question]- Discrete Probability Law
 START
 Math_TWO_side
 TITLE: Discrete Probability Law
@@ -74,7 +72,6 @@ PICTURE:
 ID: 1709888037333
 END
 
-> [!question]- Discrete Uniform Probability Law
 START
 Math_TWO_side
 TITLE: Discrete Uniform Probability Law
@@ -86,7 +83,6 @@ PICTURE:
 ID: 1709888037335
 END
 
-> [!question]- Some Properties of Probability Laws
 START
 Math_ONE_side
 TITLE: Some Properties of Probability Laws

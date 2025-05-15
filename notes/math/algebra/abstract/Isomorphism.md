@@ -38,7 +38,6 @@ For [[Ring|rings]] $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a bijective funct
 for all $a, b \in R$.
 
 # Anki
-> [!question]- Isomorphism
 TARGET DECK: stem::math::algebra
 START
 Math_TWO_side
@@ -49,7 +48,6 @@ ADDITIONAL:
 ID: 1746385786412
 END
 
-> [!question]- Isomorphism Properties
 START
 Math_TWO_side
 TITLE: Isomorphism Properties

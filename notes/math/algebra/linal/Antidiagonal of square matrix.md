@@ -13,7 +13,6 @@ connected:
 диагональ, идущая из правого верхнего угла в левый нижний угол. 
 
 # Anki
-> [!question]- Побочная диагональ квадратной матрицы
 TARGET DECK: math::linal 
 START
 Math_TWO_side

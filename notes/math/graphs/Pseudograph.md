@@ -17,7 +17,6 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 
 
 # Anki
-> [!question]- Pseudograph
 TARGET DECK: math::graph
 START
 Math_ONE_side

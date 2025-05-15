@@ -27,7 +27,6 @@ connected:
 	- Среди [[Subset|подмножеств]] любого [[Set (math)|множества]] обязательно будут оно само и [[Empty Set]]
 
 # Anki
-> [!question]- Subset
 TARGET DECK: math::set
 START
 Math_ONE_side
@@ -39,7 +38,6 @@ ADDITIONAL:
 ID: 1705599998539
 END
 
-> [!question]- Свойства подмножеств
 TARGET DECK: math::set
 START
 Math_ONE_side
