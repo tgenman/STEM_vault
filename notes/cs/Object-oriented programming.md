@@ -13,24 +13,24 @@ links: [[004.41 Software Development MOC|Разработка ПО]]
 [[Interface (software)]]
 
 [[Class (software)]]
-	[[Data class|Дата класс]]
+    [[Data class|Дата класс]]
 
-	
+    
 [[Object (software)]]
-	[[Class data|Данные класса]]
-	[[Object Fields|Поля объекта]]
-	[[Object Method|Методы объекта]]
-	
+    [[Class data|Данные класса]]
+    [[Object Fields|Поля объекта]]
+    [[Object Method|Методы объекта]]
+    
 [[Method (software)|Метод]]
-	[[Getter and Setter]]
+    [[Getter and Setter]]
 [[Constructor]]
 
 Принципы ООП:
 - [[Encapsulation (software)]]
 - [[Polymorphism (software)]]
 - [[Inheritance (Software)]]
-	- [[Parent class]]
-	- [[Child class]]
+    - [[Parent class]]
+    - [[Child class]]
 
 
 [[Containment|Включения]]
@@ -49,8 +49,8 @@ links: [[004.41 Software Development MOC|Разработка ПО]]
 [[Data type (software)|Тип данных]]
 
 [[Access modifier 1|Модификатор доступа]]
-	[[Private access (software)|Закрытый доступ]]
-	[[Protected access (software)]]
-	[[Publict access (software)]]
-	
+    [[Private access (software)|Закрытый доступ]]
+    [[Protected access (software)]]
+    [[Publict access (software)]]
+    
 [[Global data]]

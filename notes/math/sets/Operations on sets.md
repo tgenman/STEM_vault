@@ -18,8 +18,8 @@ created: 2024-07-03 10:46
 
 [[Cartesian product of sets (A x B)]]
 - [[Partition of a set]]
-	- [[Residue classes modulo n
+    - [[Residue classes modulo n
 
 - Законы алгебры множеств
-	- [[Первый закон де Моргана]]
-	- [[Второй закон де Моргана]]
+    - [[Первый закон де Моргана]]
+    - [[Второй закон де Моргана]]

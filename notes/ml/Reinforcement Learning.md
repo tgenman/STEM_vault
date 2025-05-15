@@ -50,20 +50,20 @@ Exam program:
 - [[Reward function]]
 
 - [[State (RL)]]
-	- [[History (RL)]]
+    - [[History (RL)]]
 
 - [[State (RL)]]
-	- [[Environment State]]
-	- [[Agent State]]
-	- [[Markov state]]
+    - [[Environment State]]
+    - [[Agent State]]
+    - [[Markov state]]
 
 - [[Policy (RL)]]
 
 - Examples
-	- [[Rat Example]]
-	- [[Maze Example]]
-	- [[Gridworld Example]]
-	- [[Atari Example]]
+    - [[Rat Example]]
+    - [[Maze Example]]
+    - [[Gridworld Example]]
+    - [[Atari Example]]
 
 
 - [[Fully Observable Environments]]
@@ -75,9 +75,9 @@ Exam program:
 
 #### Major Components of an RL Agent
 - An RL agent may include one or more of these components:
-	-  [[Policy (RL)]]] : agent’s behaviour function
-	- [[V-function (RL)]]: how good is each state and/or action
-	- [[Model (RL)]]: agent’s representation of the environment
+    -  [[Policy (RL)]]] : agent’s behaviour function
+    - [[V-function (RL)]]: how good is each state and/or action
+    - [[Model (RL)]]: agent’s representation of the environment
 
 
 
@@ -127,9 +127,9 @@ Two fundamental problems in sequential decision making:
 ---
 ### Prediction and Control
 - Prediction: evaluate the future
-	- Given a policy
+    - Given a policy
 - Control: optimise the future
-	- Find the best policy
+    - Find the best policy
 
 ---
 

@@ -74,30 +74,30 @@ regularization
 
 
 - [[Loss function]]
-	- [[Mean absolute error]] 
-	- [[Mean squared error]] Root Mean S E [[Standard deviation]]
-	- [[Mean absolute percentage error]]
-	- [[Log loss]] - Логарифмические потери тесно связаны с концепцией [[Кросс-энтропия]]
-	- [[Huber loss]]
+    - [[Mean absolute error]] 
+    - [[Mean squared error]] Root Mean S E [[Standard deviation]]
+    - [[Mean absolute percentage error]]
+    - [[Log loss]] - Логарифмические потери тесно связаны с концепцией [[Кросс-энтропия]]
+    - [[Huber loss]]
 
 
 -  [[Gradient Descent]]
-	- [[Stochastic gradient descent]]
-	- [[Mini-batch gradient descent]]
-	- [[Batch gradient descent]]
+    - [[Stochastic gradient descent]]
+    - [[Mini-batch gradient descent]]
+    - [[Batch gradient descent]]
 
 
 - [[Activation function]] активация нейрона. Вносит нелинейность
-	- [[Ступенчатая функция]] 
-	- [[Sigmoid function]]
+    - [[Ступенчатая функция]] 
+    - [[Sigmoid function]]
 
 
 - [[Метрика качества]]
-	- [[бизнес-метрики]]
-	- [[Online метрики]]
-	- [[Offline метрики]]
+    - [[бизнес-метрики]]
+    - [[Online метрики]]
+    - [[Offline метрики]]
 
-	- [[Confusion matrix]]
+    - [[Confusion matrix]]
 		- [[False positive]], [[False negative]]
 		- [[True positive]], [[True negative]]
 		- [[Accuracy]],  [[Error rate]]

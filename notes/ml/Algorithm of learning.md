@@ -11,6 +11,6 @@ tags:
 ---
 
 - [[Gradient Descent]]
-	- [[Batch gradient descent]]
-	- [[Mini-batch gradient descent]]
-	- [[Stochastic gradient descent]]
+    - [[Batch gradient descent]]
+    - [[Mini-batch gradient descent]]
+    - [[Stochastic gradient descent]]
