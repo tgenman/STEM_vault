@@ -45,9 +45,9 @@ START
 Math_ONE_side
 TITLE: Classical definition of probability
 DESCRIPTION: 
-> $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
-> $A \subset \Omega$ - [[Event]]
-> $P(A) = \frac{|A|}{n}$ - [[Probability]]
+\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
+A \subset \Omega$ - [[Event]]
+P(A) = \frac{|A|}{n}$ - [[Probability]]
 ID: 1697972721265
 END
 
@@ -65,7 +65,7 @@ START
 Math_TWO_side
 TITLE: Discrete Probability Law
 DESCRIPTION: If the sample space consists of a finite number of possible outcomes, then the probability law is specified by the probabilities of the events that consist of a single element. In particular, the probability of any event $\{s_1, s_2, \ldots, s_n\}$ is the sum of the probabilities of its elements:
-> $P(\{s_1, s_2, \ldots, s_n\}) = P(s_1) + P(s_2) + \ldots + P(s_n)$
+P(\{s_1, s_2, \ldots, s_n\}) = P(s_1) + P(s_2) + \ldots + P(s_n)$
 FORMULA: 
 ADDITIONAL:
 PICTURE:
@@ -76,7 +76,7 @@ START
 Math_TWO_side
 TITLE: Discrete Uniform Probability Law
 DESCRIPTION: If the sample space consists of $n$ possible outcomes which are equally likely (i.e., all single-element events have the same probability), then the probability of any event $A$ is given by
-> $P(A) = \frac{\text{number of elements of } A}{n}$
+P(A) = \frac{\text{number of elements of } A}{n}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:
