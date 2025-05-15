@@ -20,7 +20,6 @@ $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^
 	- [[Standard deviation]]
 
 # Anki
-> [!question]- Central moment 
 TARGET DECK: math::probability
 START
 Math_ONE_side

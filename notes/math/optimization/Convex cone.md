@@ -29,7 +29,6 @@ $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \thet
 
 
 # Anki
-> [!question]- Convex cone
 TARGET DECK: math::optimization 
 START
 Math_ONE_side
@@ -47,7 +46,6 @@ PICTURE: ![[convex_cone.svg]]
 ID: 1734879190929
 END
 
-> [!question]- Important Cones
 TARGET DECK: math::optimization
 START
 Math_ONE_side

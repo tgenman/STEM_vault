@@ -19,7 +19,6 @@ In this case, the set ${B \setminus A}$ is empty.
 ![[Pasted image 20250513181511.png|300]]
 
 # Anki
-> [!question]- Relative complement
 TARGET DECK: stem::math::sets
 START
 Math_TWO_side

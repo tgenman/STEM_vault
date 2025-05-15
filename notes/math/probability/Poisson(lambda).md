@@ -78,7 +78,6 @@ PICTURE: ![[Pasted image 20240423213733.png|400]]
 ID: 1711025905236
 END
 
-> [!question]- Expected Value E(X) of Poisson($\lambda$)
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -97,7 +96,6 @@ PICTURE:
 ID: 1711025905248
 END
 
-> [!question]- Variance V(X) of Poisson($\lambda$)
 TARGET DECK: math::probability
 START
 Math_ONE_side

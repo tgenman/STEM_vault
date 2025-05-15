@@ -26,7 +26,6 @@ For each possible value $x$ of $X$:
 - $P(X \in S) = \sum_{x \in S} p_X(x).$
 
 # Anki
-> [!question]- Probability mass function (PMF) $p_X(x)$
 TARGET DECK: math::probability  
 START
 Math_ONE_side
@@ -43,7 +42,6 @@ PICTURE: ![[Pasted image 20240320183546.png]]
 ID: 1710950439103
 END
 
-> [!question]- Properties of Probability mass function (PMF) $p_X(x)$
 TARGET DECK: math::probability  
 START
 Math_ONE_side

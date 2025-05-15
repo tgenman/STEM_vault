@@ -18,7 +18,6 @@ where $B(\mathbf{x}, \varepsilon) = \mathbf{x} + \varepsilon B$ is the ball cent
 ![[Relative Interior relint(S)#Difference between interior and relative interior]]
 
 # Anki
-> [!question]- The interior of the set $S$
 TARGET DECK: math::optimization
 START
 Math_ONE_side

@@ -25,7 +25,6 @@ Addition is a binary operation that combines two elements from a set to produce 
 - **[[Inverse element]]**: For each element $a$, there exists an element $-a$ such that $a + (-a) = 0$.
 
 # Anki
-> [!question]- Addition
 TARGET DECK: stem::math::algebra
 START
 Math_TWO_side

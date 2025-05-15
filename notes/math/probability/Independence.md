@@ -21,7 +21,6 @@ If $A$ and $B$ are independent, so are $A$ and $B^c$.
 ==Independence== does not imply [[Conditional independence|conditional independence]] , and vice versa.
 
 # Anki
-> [!question]- Independence
 TARGET DECK: math::probability
 START
 Math_ONE_side

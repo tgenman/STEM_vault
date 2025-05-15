@@ -15,7 +15,6 @@ tags:
 > The [[Minimum Generating Set|minimum size of a generating set]]  for a [[Group|group]]  $G$ is called the rank of $G$, sometimes denoted as $\text{rank}(G)$ or $d(G)$.
 
 # Anki
-> [!question]- Rank of Group
 TARGET DECK: stem::math::algebra
 START
 Math_TWO_side

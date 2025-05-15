@@ -79,7 +79,6 @@ ADDITIONAL:
 ID: 1746384972021
 END
 
-> [!question]- Ring Homomorphism
 START
 Math_TWO_side
 TITLE: Ring Homomorphism

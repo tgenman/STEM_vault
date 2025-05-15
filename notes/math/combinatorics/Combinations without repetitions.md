@@ -21,7 +21,6 @@ Connected with [[Permutations with repetitions]]
 $$C_n^k = P(k, n-k)$$
 
 # Anki
-> [!question]- Combinations without repetitions
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

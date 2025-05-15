@@ -35,7 +35,6 @@ $\sum_{k=0}^{n} \binom{n}{k} p^k (1-p)^{n-k} = 1$
 ![[Pasted image 20240320191248.png]]
 
 # Anki
-> [!question]- Binomial r.v.  $\text{Bin}(n, p)$
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -61,7 +60,6 @@ PICTURE:
 ID: 1710951460558
 END
 
-> [!question]- Expected value of Binomial Distribution
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -73,7 +71,6 @@ PICTURE:
 ID: 1713899360759
 END
 
-> [!question]- Variance of Binomial Distribution
 TARGET DECK: math::probability
 START
 Math_ONE_side

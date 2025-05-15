@@ -18,7 +18,6 @@ $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\
 > The set $\mathbf{aff}(S)$ is the smallest affine set containing $S$.
 
 # Anki
-> [!question]- Affine hull of set $S$
 TARGET DECK: math::optimization
 START
 Math_ONE_side

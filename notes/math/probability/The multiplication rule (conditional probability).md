@@ -23,7 +23,6 @@ $P(A^c \cap B \cap C^c) = P(A^c \cap B) P(C^c | A^c \cap B)= P(A^c) P(B | A^c) P
 $P(A_1 \cap A_2 \cap \ldots \cap A_n) = P(A_1) \prod_{i=2}^{n} P(A_i | A_1, \ldots, A_{i-1})$
 
 # Anki
-> [!question]- The multiplication rule (conditional probability)
 TARGET DECK: math::probability 
 START
 Math_ONE_side

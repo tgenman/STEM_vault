@@ -18,7 +18,6 @@ In other words, it is a generating set of smallest possible [[Cardinality|cardin
 ![[Generating set#Example of Minimal and Minimum Generating Sets]]
 
 # Anki
-> [!question]- Minimum Generating Set
 TARGET DECK: stem::math::algebra
 START
 Math_ONE_side

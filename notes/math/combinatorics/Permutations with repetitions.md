@@ -26,7 +26,6 @@ $$P(k_1, k_2, ..., k_m) = \binom{n}{k_1,k_2,…,k_m}=\frac{n!}{k_1!⋅k_2!⋅…
 Например, если у нас есть слово «$MISSISSIPPI$», где буква $M$ встречается $1$ раз, $I$ - $4$ раза, $S$ - $4$ раза и $P$ - $2$ раза, то количество способов расположить эти буквы равно $\frac{11!}{1!⋅4!⋅4!⋅2!​}$
 
 # Anki
-> [!question]- Permutations with repetitions
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side

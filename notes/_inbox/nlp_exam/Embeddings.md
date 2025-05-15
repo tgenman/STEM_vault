@@ -52,7 +52,6 @@ tags:
   - Captures relationships and similarities between categories.
 
 # Anki
-> [!question]- Embedding
 TARGET DECK: stem::ml::core
 START
 Math_ONE_side

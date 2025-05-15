@@ -20,7 +20,6 @@ $\mathcal{X} = \bigcap_{i \in I} X_i$
 - Therefore, $z \in \mathcal{X}$ and $\mathcal{X}$ is a convex set.
 
 # Anki
-> [!question]- The intersection of any number of convex sets is convex
 TARGET DECK: math::optimization
 START
 Math_ONE_side

@@ -38,7 +38,6 @@ In probability theory, indicator functions are used to:
 - Express probabilities as $P(A) = E[I_A]$
 
 # Anki
-> [!question]- Indicator function
 TARGET DECK: stem::math::common
 START
 Math_TWO_side
@@ -50,7 +49,6 @@ ADDITIONAL:
 ID: 1746384273061
 END
 
-> [!question]- Properties of Indicator function
 TARGET DECK: stem::math::common
 START
 Math_ONE_side

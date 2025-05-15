@@ -30,7 +30,6 @@ is a set that is closed under all possible [[Affine combination|affine combinati
 
 
 # Anki
-> [!question]- Affine set (geometric definition)
 TARGET DECK: math::optimization
 START
 Math_TWO_side
@@ -44,7 +43,6 @@ The set of solutions $\left\{x \mid \mathbf{A}x =  \mathbf{b} \right\}$ is also 
 ID: 1734778183469
 END
 
-> [!question]- Affine set (сombination definition)
 TARGET DECK: math::optimization
 START
 Math_TWO_side
@@ -56,7 +54,6 @@ The set of solutions $\left\{x \mid \mathbf{A}x =  \mathbf{b} \right\}$ is also 
 ID: 1734778183475
 END
 
-> [!question]- Relationship between convex and affine set
 TARGET DECK: math::optimization
 START
 Math_ONE_side

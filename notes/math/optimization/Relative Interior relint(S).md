@@ -25,7 +25,6 @@ $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\ma
 
 
 # Anki
-> [!question]- Relative Interior of the set $S$
 TARGET DECK: Math:: Optimization  
 START
 Math_ONE_side
@@ -37,7 +36,6 @@ Any non-empty convex set $S \subseteq \mathbb{R}^n$ has a non-empty relative int
 ID: 1734846333074
 END
 
-> [!question]- Difference between interior and relative interior
 TARGET DECK: Math:: Optimization  
 START
 Math_ONE_side

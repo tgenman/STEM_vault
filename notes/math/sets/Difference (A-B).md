@@ -28,7 +28,6 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
 - $A \triangle B = (A \setminus B) \cup (B \setminus A)$ [[Symmetric difference (A △ B)]]
 
 # Anki
-> [!question]- Difference of Sets
 TARGET DECK: stem::math::sets
 START
 Math_TWO_side

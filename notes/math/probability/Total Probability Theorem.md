@@ -44,7 +44,6 @@ $$ P(B_1) = \frac{1}{10}, P(B_2) = \frac{3}{10}, P(B_3) = \frac{6}{10}. $$
 $$ P(A) = \frac{1}{10} \cdot \frac{5}{8} + \frac{3}{10} \cdot \frac{3}{6} + \frac{6}{10} \cdot \frac{4}{6}. $$
 
 # Anki
-> [!question]- Total Probability Theorem
 TARGET DECK: math::probability
 START
 Math_ONE_side

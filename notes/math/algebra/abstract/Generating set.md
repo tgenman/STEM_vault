@@ -37,7 +37,6 @@ For any generating set $S$ of $G$,
 $\textcolor{red}{minimum}  \Rightarrow \textcolor{blue}{minimal}$ but $\textcolor{blue}{minimal} \nRightarrow \textcolor{red}{minimum}$
 
 # Anki
-> [!question]- Generating Set
 TARGET DECK: stem::math::algebra
 START
 Math_TWO_side
@@ -48,7 +47,6 @@ ADDITIONAL:
 ID: 1746894805000
 END
 
-> [!question]- Example of Minimal vs Minimum Generating Sets: Hexagon Group
 TARGET DECK: stem::math::algebra
 START
 Math_ONE_side

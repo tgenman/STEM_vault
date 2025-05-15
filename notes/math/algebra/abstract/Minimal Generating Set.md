@@ -18,7 +18,6 @@ Equivalently, $S$ is minimal if for every $s \in S$, the set $S \setminus \{s\}$
 ![[Generating set#Example of Minimal and Minimum Generating Sets]]
 
 # Anki
-> [!question]- Minimal Generating Set
 TARGET DECK: stem::math::algebra
 START
 Math_ONE_side

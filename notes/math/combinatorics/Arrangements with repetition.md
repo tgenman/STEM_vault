@@ -18,7 +18,6 @@ $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 
 
 # Anki
-> [!question]- An arrangement with repetition
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

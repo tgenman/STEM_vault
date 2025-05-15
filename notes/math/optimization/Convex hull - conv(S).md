@@ -27,7 +27,6 @@ tags:
 | Different sets       | Their Convex Hull    |
 
 # Anki
-> [!question]- Convex hull conv(S)
 TARGET DECK: math::optimization
 START
 Math_ONE_side

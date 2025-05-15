@@ -52,7 +52,6 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
 
 Example format for Anki note:
 ```text
-> [!question]- Concept Name
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side (or Math_ONE_side)
@@ -95,7 +94,6 @@ $A_5^3=\frac{5!}{(5−3)!}=60$
 ![[Pasted image 20250513181511.png|300]]
 
 # Anki
-> [!question]- Arrangements without repetition
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

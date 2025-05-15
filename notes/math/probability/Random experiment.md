@@ -25,7 +25,6 @@ connected:
 	- $P(A \sqcup B) = P(A) + P(B)$
 
 # Anki
-> [!question]- Properties of Random experiment
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -40,7 +39,6 @@ ADDITIONAL:
 ID: 1697971998299
 END
 
-> [!question]- Математическая модель случайного эксперимента
 START
 Math_ONE_side
 TITLE: Математическая модель случайного эксперимента

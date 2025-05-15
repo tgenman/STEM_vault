@@ -72,7 +72,6 @@ PICTURE:
 ID: 1711009548615
 END
 
-> [!question]- Expected Value E(X) Uniform r.v. (discrete)
 TARGET DECK: math::probability 
 START
 Math_ONE_side
@@ -85,7 +84,6 @@ PICTURE:
 ID: 1711011427808
 END
 
-> [!question]- Variance V(X) Uniform r.v. (discrete)
 TARGET DECK: math::probability 
 START
 Math_ONE_side

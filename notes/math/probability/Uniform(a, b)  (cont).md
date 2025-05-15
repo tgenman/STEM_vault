@@ -21,7 +21,6 @@ tags:
 ![[Pasted image 20240424112716.png|300]]
 
 # Anki
-> [!question]- Uniform(a, b) (cont)
 TARGET DECK: math::probability 
 START
 Math_ONE_side

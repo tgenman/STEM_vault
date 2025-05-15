@@ -60,7 +60,6 @@ ID: 1746385673146
 END
 
 
-> [!question]- Group Isomorphism
 START
 Math_TWO_side
 TITLE: Group Isomorphism
@@ -71,7 +70,6 @@ ADDITIONAL:
 ID: 1746385673150
 END
 
-> [!question]- Ring Isomorphism
 START
 Math_TWO_side
 TITLE: Ring Isomorphism

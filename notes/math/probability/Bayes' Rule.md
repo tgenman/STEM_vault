@@ -45,7 +45,6 @@ $$ P(B_1) = p, \quad P(B_2) = 1 - p, \quad P(A|B_1) = 1, \quad P(A|B_2) = \frac{
 $$ P(B_1|A) = \frac{p}{p + \frac{1}{k}(1 - p)}. $$
 
 # Anki
-> [!question]- Bayes' Rule
 TARGET DECK: math::probability  
 START
 Math_TWO_side

@@ -43,7 +43,6 @@ ADDITIONAL:
 ID: 1746886388944
 END
 
-> [!question]- Group (alternative definition)
 TARGET DECK: stem::math::algebra
 START
 Math_ONE_side

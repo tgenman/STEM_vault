@@ -22,7 +22,6 @@ For example:
 - The **fourth standardized moment** is  [[Kurtosis (4) Kurt(X)]]
 
 # Anki
-> [!question]- Standardized moment
 TARGET DECK: math::probability 
 START
 Math_ONE_side

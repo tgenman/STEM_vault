@@ -26,7 +26,6 @@ tags:
 
 
 # Anki
-> [!question]- Normal distribution $\mathcal{N}(\mu, \sigma^2)$
 TARGET DECK: math::probability
 START
 Math_ONE_side

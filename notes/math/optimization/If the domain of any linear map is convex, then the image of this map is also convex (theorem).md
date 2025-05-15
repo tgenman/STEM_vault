@@ -22,7 +22,6 @@ $= A (\alpha x + (1-\alpha) y) + b = f(z),$
 where $z = \alpha x + (1-\alpha) y \in \mathcal{X}$.
 
 # Anki
-> [!question]- If the [[Domain Dom(f) or Preimage|domain]]  of any [[Function (math)|linear map]]  is convex, then the [[Range Ran(f) or Image Im(f)|image]]  of this map is also convex.
 TARGET DECK: math::optimization
 START
 Math_ONE_side

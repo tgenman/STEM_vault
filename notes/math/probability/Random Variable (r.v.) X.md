@@ -39,7 +39,6 @@ A function from the sample space $\Omega$ to the real numbers
 
 
 # Anki
-> [!question]- Random Variable (r.v.) X (def 1)
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -52,7 +51,6 @@ PICTURE:
 ID: 1710946167831
 END
 
-> [!question]- Random Variable (r.v.) X (def 2)
 TARGET DECK: math::probability
 START
 Math_ONE_side
@@ -69,7 +67,6 @@ PICTURE:
 ID: 1710946741413
 END
 
-> [!question]- Properties of Random Variable (r.v.) X
 TARGET DECK: math::probability
 START
 Math_ONE_side

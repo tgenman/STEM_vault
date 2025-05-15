@@ -24,7 +24,6 @@ $A_5^3=\frac{5!}{(5−3)!}=60$
 
 
 # Anki
-> [!question]- Arrangements without repetition
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side
