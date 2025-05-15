@@ -16,7 +16,6 @@ $$T = (u,v,y,w,v)$$
 ![[Pasted image 20231123204833.png]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_TWO_side

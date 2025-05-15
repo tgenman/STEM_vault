@@ -10,7 +10,6 @@ connected:
 > $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

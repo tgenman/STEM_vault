@@ -20,7 +20,6 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

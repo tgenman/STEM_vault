@@ -16,7 +16,6 @@ $$
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

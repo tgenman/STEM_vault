@@ -16,7 +16,6 @@ $$
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::common
 START
 Math_TWO_side

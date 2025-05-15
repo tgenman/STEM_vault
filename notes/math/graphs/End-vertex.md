@@ -14,7 +14,6 @@ connected:
 > A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

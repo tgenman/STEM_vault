@@ -18,7 +18,6 @@ connected:
 ![[Pasted image 20240117200108.png|300]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::set  
 START
 Math_TWO_side

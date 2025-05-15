@@ -11,7 +11,6 @@ connected:
 is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

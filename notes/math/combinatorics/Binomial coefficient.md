@@ -26,7 +26,6 @@ $$
 $$
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side
@@ -37,7 +36,6 @@ ADDITIONAL:
 ID: 1699125498477
 END
 
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side
@@ -48,7 +46,6 @@ ADDITIONAL:
 ID: 1698689820228
 END
 
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side
@@ -60,7 +57,6 @@ ID: 1698689820237
 END
 
 
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side
@@ -71,7 +67,6 @@ ADDITIONAL:
 ID: 1698689820242
 END
 
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side

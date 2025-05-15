@@ -21,7 +21,6 @@ When summing the degrees of the vertices of $G$, each edge of $G$ is counted twi
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

@@ -20,7 +20,6 @@ that is, if $G$ is a self-complementary graph of order $n$, then either $n ≡ 0
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

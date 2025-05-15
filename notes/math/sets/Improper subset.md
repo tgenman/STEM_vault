@@ -12,7 +12,6 @@ Cамо множество и пустое множество — называю
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::set
 START
 Math_ONE_side

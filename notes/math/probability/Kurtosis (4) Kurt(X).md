@@ -20,7 +20,6 @@ $\text{Kurt}[X] = \mathbb{E}\left[\left(\frac{X - \mu}{\sigma}\right)^4\right] =
 log-pdf for the Pearson type VII distribution with excess kurtosis of infinity (red); 2 (blue); 1, 1/2, 1/4, 1/8, and 1/16 (gray); and 0 (black)
 
 # Anki
-> [!question]-
 TARGET DECK: math::probability
 START
 Math_ONE_side

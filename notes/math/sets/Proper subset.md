@@ -12,7 +12,6 @@ connected:
 Собственное подмножество - все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::set
 START
 Math_ONE_side

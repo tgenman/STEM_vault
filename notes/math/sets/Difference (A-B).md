@@ -35,12 +35,12 @@ TITLE: Difference of Sets $A$ и $B$ denoted as $A \setminus B$
 DESCRIPTION: is the set of elements that belong to $A$ but not to $B$.
 FORMULA: $$A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$$
 ADDITIONAL: 
->- $A \setminus A = \emptyset$
->- $A \setminus \emptyset = A$
->- $\emptyset \setminus A = \emptyset$
->- $A \setminus \mathbb{U} = \emptyset$
->- $\mathbb{U} \setminus A = \overline{A}$
->- $A \triangle B = (A \setminus B) \cup (B \setminus A)$ [[Symmetric difference (A △ B)]]
+- $A \setminus A = \emptyset$
+- $A \setminus \emptyset = A$
+- $\emptyset \setminus A = \emptyset$
+- $A \setminus \mathbb{U} = \emptyset$
+- $\mathbb{U} \setminus A = \overline{A}$
+- $A \triangle B = (A \setminus B) \cup (B \setminus A)$ [[Symmetric difference (A △ B)]]
 PICTURE: ![[Pasted image 20220712114121.png]]
 ID: 1747149993402
 END

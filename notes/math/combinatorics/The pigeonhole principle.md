@@ -16,7 +16,6 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics  
 START
 Math_ONE_side
@@ -31,7 +30,6 @@ ID: 1698068782659
 END
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics    
 START
 Math_TWO_side

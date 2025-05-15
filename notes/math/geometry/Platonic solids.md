@@ -20,19 +20,17 @@ connected:
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::geometry
 START
 Math_ONE_side
 TITLE: ==Правильный многогранник== или ==плато́ново тело== 
 DESCRIPTION: это [[Выпуклый многогранник (3D)]], состоящий из одинаковых [[Правильный многоугльник (2D)]] и обладающий пространственной симметрией.
-FORMULA: - [[Tetrahedron (4)]]
+PICTURE:![[Pasted image 20231219215243.png]]
+ADDITIONAL:
+- [[Tetrahedron (4)]]
 - [[Octahedron (5)]]
 - [[Cube (6)]]
 - [[Dodecahedron (12)]]
 - [[Icosahedron (20)]]
-
-![[Pasted image 20231219215243.png]]
-ADDITIONAL:
 ID: 1705601025307
 END

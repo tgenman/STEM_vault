@@ -19,7 +19,6 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
  ![[Pasted image 20231101184533.png]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

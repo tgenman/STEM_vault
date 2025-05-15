@@ -16,7 +16,6 @@ connected:
 ![[Pasted image 20220630190715.png]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::set
 START
 Math_ONE_side

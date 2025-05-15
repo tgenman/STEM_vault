@@ -14,7 +14,6 @@ connected:
 - $V(H)=V(G)$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

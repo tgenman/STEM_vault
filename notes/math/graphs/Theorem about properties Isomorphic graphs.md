@@ -16,7 +16,6 @@ $|E(G)| = |E(H)|$
 We have already observed that isomorphic graphs have the same order and the same size. Let $v$ be a vertex of $G$ and suppose that $\deg v=k.$ Then $v$ is adjacent to $k$ vertices, say $v_1,v_2,\ldots,v_k.$ Suppose that $v$ is not adjacent to $u_1,u_2,\ldots,u_\ell.$ If $\phi:V(G)\to V(H)$ is an isomorphism, then $\phi(v)$ is adjacent to $\phi(v_1),\phi(v_2),\ldots,\phi(v_k)$ while $\phi(v)$ is not adjacent to $\phi(u_1),\phi(u_2),\ldots,\phi(u_\ell).$ Hence, $\phi(v)$ has degree $k$ in $H.$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

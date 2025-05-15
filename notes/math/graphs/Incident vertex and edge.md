@@ -13,7 +13,6 @@ connected:
 > The vertex $u$ and the edge $uv$ are said to be incident with each other.
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

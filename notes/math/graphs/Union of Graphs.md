@@ -21,7 +21,6 @@ If a graph $G$ consists of $k (≥ 2)$ disjoint copies of a graph $H$, then we w
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

@@ -21,7 +21,6 @@ connected:
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::probability
 START
 Math_ONE_side

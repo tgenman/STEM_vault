@@ -31,7 +31,6 @@ $$\binom{n}{0} - \binom{n}{1} + \ldots + (-1)^n\binom{n}{n} = \binom{n-1}{0} - (
 - [Alternating Sum and Difference of Binomial Coefficients for Given n (wiki)](https://proofwiki.org/wiki/Alternating_Sum_and_Difference_of_Binomial_Coefficients_for_Given_n "Alternating Sum and Difference of Binomial Coefficients for Given n")
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

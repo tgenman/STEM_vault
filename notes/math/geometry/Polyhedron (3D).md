@@ -13,7 +13,6 @@ connected:
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::geometry  
 START
 Math_TWO_side

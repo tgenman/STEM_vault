@@ -17,7 +17,6 @@ connected:
 > The set $N[v] = N(v) ∪ {v}$ 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -28,7 +27,6 @@ ADDITIONAL:
 ID: 1699164787998
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -39,7 +37,6 @@ ADDITIONAL:
 ID: 1699164788012
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

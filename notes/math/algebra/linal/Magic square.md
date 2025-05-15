@@ -13,7 +13,6 @@ A **magic square** is a 3x3 grid of numbers so that every row, column, and diago
 For instance, the classical example is
 $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 # Anki
-> [!question]-
 TARGET DECK: math::linal 
 START
 Math_ONE_side

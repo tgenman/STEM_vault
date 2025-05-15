@@ -23,7 +23,6 @@ $A = \{1, 3, 5\}$ - outcome is odd
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::probability
 START
 Math_TWO_side

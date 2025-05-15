@@ -29,7 +29,6 @@ The star $K_{1,3}$ is sometimes referred to as a ==claw==.
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -44,7 +43,6 @@ ID: 1699165908034
 END
 
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -55,7 +53,6 @@ ADDITIONAL:
 ID: 1699165908053
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

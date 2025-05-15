@@ -43,7 +43,6 @@ Graphs are so named because they can be represented graphically
  
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

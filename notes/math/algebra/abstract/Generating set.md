@@ -52,14 +52,14 @@ START
 Math_ONE_side
 TITLE: Example of Minimal vs Minimum Generating Sets: Hexagon Group
 DESCRIPTION:The hexagon symmetry group has: 
->- $\langle r, f \rangle$ is a minimum (and hence minimal) generating set.
->- $\langle r^2, r^3, f \rangle$ is a minimal (but not minimum) generating set.
+- $\langle r, f \rangle$ is a minimum (and hence minimal) generating set.
+- $\langle r^2, r^3, f \rangle$ is a minimal (but not minimum) generating set.
 >For any generating set $S$ of $G$,
 >$\textcolor{red}{minimum}  \Rightarrow \textcolor{blue}{minimal}$ but $\textcolor{blue}{minimal} \nRightarrow \textcolor{red}{minimum}$
 FORMULA: 
 ADDITIONAL: A generating set $S$ is:
->- minimal if removing any element makes it no longer generate.
->- minimum if it is minimal and $|S| \leq |T|$ for all other generating sets $T$.
+- minimal if removing any element makes it no longer generate.
+- minimum if it is minimal and $|S| \leq |T|$ for all other generating sets $T$.
 PICTURE: ![[Pasted image 20250510191007.png]]
 ID: 1746895007048
 END

@@ -30,7 +30,6 @@ $$
 $$
 
 # Anki
-> [!question]-
 TARGET DECK: math::common
 START
 Math_ONE_side

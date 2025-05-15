@@ -20,7 +20,6 @@ created: 2023-12-19 21:49
 ![[Pasted image 20201004121022.png]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::geometry 
 START
 Math_ONE_side

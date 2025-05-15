@@ -44,7 +44,6 @@ ADDITIONAL:
 ID: 1705600533278
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

@@ -13,7 +13,6 @@ connected:
 $$m$$
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

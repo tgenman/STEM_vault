@@ -31,7 +31,6 @@ ADDITIONAL:
 ID: 1705263411201
 END
 
-> [!question]-
 TARGET DECK: math::graph 
 START
 Math_TWO_side

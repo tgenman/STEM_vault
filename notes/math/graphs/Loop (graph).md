@@ -11,7 +11,6 @@ connected:
 is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_TWO_side

@@ -18,7 +18,6 @@ If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -30,7 +29,6 @@ ADDITIONAL:
 ID: 1699165738437
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -41,7 +39,6 @@ ADDITIONAL:
 ID: 1699165738456
 END
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

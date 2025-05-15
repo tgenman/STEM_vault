@@ -29,7 +29,6 @@ How many subsets has an $n$-element set?
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side

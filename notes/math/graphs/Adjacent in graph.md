@@ -18,7 +18,6 @@ connected:
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side
@@ -30,7 +29,6 @@ ID: 1699126049535
 END
 
 
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

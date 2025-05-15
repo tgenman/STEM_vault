@@ -15,7 +15,6 @@ $C_3 = K_3$
 > 3-cycle
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

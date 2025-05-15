@@ -11,7 +11,6 @@ connected:
 > A [[Vertex of graph (V)|vertex]] in a graph $G$ is even or odd, according to whether its [[Degree of a vertex (deg)|degree]]  in $G$ is even or odd.
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

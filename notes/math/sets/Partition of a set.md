@@ -14,7 +14,6 @@ is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of
 The subsets are the ==cells== of the partition.
 
 # Anki
-> [!question]-
 TARGET DECK: math::set 
 START
 Math_TWO_side

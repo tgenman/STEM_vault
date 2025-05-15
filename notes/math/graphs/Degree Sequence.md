@@ -21,7 +21,6 @@ For example, a degree sequence of the graph $G$  is $4,3,2,2,1$ (or $1,2,2,3,4$ 
 We commonly write the degree sequence of a graph as a nonincreasing sequence.
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

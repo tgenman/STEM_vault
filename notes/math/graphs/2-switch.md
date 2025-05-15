@@ -18,7 +18,6 @@ is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$
 One consequence of [[Theorem about 2-switches transformations of graphical sequence]] is that every two graphs with the same [[Degree Sequence|degree sequence]] are related in terms of [[2-switch]]es.
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

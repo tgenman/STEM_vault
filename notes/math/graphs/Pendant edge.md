@@ -12,7 +12,6 @@ connected:
 > An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

@@ -44,10 +44,10 @@ TARGET DECK: math::probability
 START
 Math_ONE_side
 TITLE: Classical definition of probability
-DESCRIPTION: 
-\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
-A \subset \Omega$ - [[Event]]
-P(A) = \frac{|A|}{n}$ - [[Probability]]
+DESCRIPTION:
+$\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
+$A \subset \Omega$ - [[Event]]
+$P(A) = \frac{|A|}{n}$ - [[Probability]]
 ID: 1697972721265
 END
 

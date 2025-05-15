@@ -22,7 +22,6 @@ $$m = \binom{n}{2}$$
 
 
 # Anki
-> [!question]-
 TARGET DECK: math::graph
 START
 Math_ONE_side

@@ -14,16 +14,12 @@ $$
 $$
 
 # Anki
-> [!question]-
 TARGET DECK: math::combinatorics
 START
 Math_ONE_side
 TITLE: The substraction principle (combinatorics)
 DESCRIPTION: Let $A$ be a finite set and $A \subset B$ then
-$$
-|B| = |A| - |A \backslash B|
-$$
-
+$|B| = |A| - |A \backslash B|$
 FORMULA: 
 ADDITIONAL:
 ID: 1698065777629
