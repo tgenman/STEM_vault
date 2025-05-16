@@ -7,7 +7,7 @@ parent:
   - "[[Difference (A-B)]]"
   - "[[Complement of Set]]"
 connected: 
-tags: 
+tags:
 ---
 
 > [!tip] The relative complement of set ${B}$ with respect to set ${A}$ 
@@ -20,12 +20,13 @@ In this case, the set ${B \setminus A}$ is empty.
 
 # Anki
 TARGET DECK: stem::math::sets
+
 START
-Math_TWO_side
+math_complex
 TITLE: The relative complement of set ${B}$ with respect to set ${A}$ 
 DESCRIPTION: the difference of sets ${A \setminus B}$, when ${B \subseteq A}$. Such complement is denoted as ${B_A}$.
 FORMULA: ${A \setminus B}$ when ${B \subseteq A}$
 ADDITIONAL: In this case, the set ${B \setminus A}$ is empty.
 PICTURE: ![[Pasted image 20250513181511.png]]
-ID: 1747149703733
+ID: 1747383999595
 END

@@ -39,38 +39,75 @@ In probability theory, indicator functions are used to:
 
 # Anki
 TARGET DECK: stem::math::common
-START
-Math_TWO_side
-TITLE: Indicator function
-DESCRIPTION: An ... of a subset $A$ of a set $\Omega$ is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
-$I_A(\omega)=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$
-FORMULA: 
-ADDITIONAL:
-ID: 1746384273061
-END
 
-TARGET DECK: stem::math::common
 START
 math_complex
-TITLE: Properties of Indicator function
-DESCRIPTION: 
-- $I_{\bar{A}} = 1 - I_{A}$
-- $\sum_{x\in \Omega}I_A(x)=|A|$
-- $I_{A\cap B}=I_A\cdot I_B$
-- $I_{A\cup B}=I_A + I_B - I_A\cdot I_B$
-- $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
-- $I_{\Omega}(\omega) = 1 \text{ for all } \omega \in \Omega$
-FORMULA: 
-ADDITIONAL: In probability theory: $P(A) = E[I_A]$
-ID: 1698688139477
+TITLE: Indicator function
+DESCRIPTION: An ... of a subset $A$ of a set $\Omega$ is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
+FORMULA: $I_A(\omega)=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$
+ID: 1747383066471
 END
 
+START
+math_basic_single
+QUESTION: Indicator function
+$I_A(\omega)=$
+ANSWER: $=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$
+ID: 1747383066476
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$I_{\bar{A}} =$
+ANSWER: $1 - I_{A}$
+ID: 1747383066479
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$\sum_{x\in \Omega}I_A(x)=$
+ANSWER: $=|A|$
+ID: 1747383066481
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$I_{A\cap B}=$
+ANSWER: $=I_A\cdot I_B$
+ID: 1747383066483
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$I_{A\cup B}=$
+ANSWER: $=I_A + I_B - I_A\cdot I_B$
+ID: 1747383066486
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$I_{\emptyset}(\omega) =$
+ANSWER: $I_{\emptyset}(\omega) = 0 \text{ for all } \omega \in \Omega$
+ID: 1747383066488
+END
 
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+$I_{\Omega}(\omega) =$
+ANSWER: $= 1 \text{ for all } \omega \in \Omega$
+ID: 1747383066490
+END
 
-
-
+START
+math_basic_single
+QUESTION: Properties of Indicator function
+In probability theory: $P(A) =$
+ANSWER: $E[I_A]$
+ID: 1747383066492
+END
