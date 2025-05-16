@@ -42,18 +42,19 @@ for all $a, b \in R$.
 
 # Anki
 TARGET DECK: stem::math::algebra 
+
 START
-Math_TWO_side
+math_complex
 TITLE: Homomorphism
 DESCRIPTION: A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group|groups]], [[Ring|rings]], [[Field|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
 FORMULA: For groups: $\phi(a \ast b) = \phi(a) \circ \phi(b)$
 For rings: $\phi(a + b) = \phi(a) \oplus \phi(b)$ and $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
 ADDITIONAL:
-ID: 1705262438324
+ID: 1747395478834
 END
 
 START
-Math_TWO_side
+math_complex
 TITLE: Homomorphism Properties
 DESCRIPTION: Key properties of homomorphisms between algebraic structures
 - Preserves algebraic structure operations
@@ -62,38 +63,9 @@ DESCRIPTION: Key properties of homomorphisms between algebraic structures
 - Has a [[Kernel|kernel]]: set of elements mapped to the identity element
 - Forms the fundamental concept for studying structure relationships
 ADDITIONAL:
-ID: 1746384972017
+ID: 1747395478838
 END
 
-START
-Math_TWO_side
-TITLE: Group Homomorphism
-DESCRIPTION: A homomorphism between two [[Group|groups]]
-FORMULA: For groups $(G, \ast)$ and $(H, \circ)$, a function $\phi: G \to H$ is a homomorphism if:
-$\phi(a \ast b) = \phi(a) \circ \phi(b)$ for all $a, b \in G$.
-Properties:
-- The identity element $e_G$ of $G$ maps to the identity element $e_H$ of $H$: $\phi(e_G) = e_H$
-- Preserves inverses: $\phi(a^{-1}) = \phi(a)^{-1}$
-- The [[Kernel|kernel]] of $\phi$ is a normal subgroup of $G$
-ADDITIONAL:
-ID: 1746384972021
-END
-
-START
-Math_TWO_side
-TITLE: Ring Homomorphism
-DESCRIPTION: A homomorphism between two [[Ring|rings]]
-FORMULA: For rings $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a function $\phi: R \to S$ is a homomorphism if:
-- $\phi(a + b) = \phi(a) \oplus \phi(b)$
-- $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
-for all $a, b \in R$.
-Properties:
-- Maps the additive identity to the additive identity: $\phi(0_R) = 0_S$
-- Maps the multiplicative identity to the multiplicative identity: $\phi(1_R) = 1_S$ (if $\phi$ is unital)
-- Preserves additive inverses: $\phi(-a) = -\phi(a)$
-ADDITIONAL:
-ID: 1746384972027
-END
 
 
 

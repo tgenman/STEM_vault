@@ -28,7 +28,7 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: Symmetric difference $A \triangle B$
+TITLE: Symmetric difference $A \triangle B$ (def)
 DESCRIPTION: is the set that contains all elements of the original sets that do not belong to their intersection
 FORMULA: $A \triangle B = (A \setminus B) \cup (B \setminus A)$
 PICTURE: ![[Pasted image 20220712152716.png]]
@@ -37,7 +37,7 @@ END
 
 START
 math_basic_single
-QUESTION: Symmetric difference
+QUESTION: Symmetric difference (prop)
 $A \triangle B =$
 ANSWER: $= (A \setminus B) \cup (B \setminus A)$
 ID: 1747344449305
@@ -45,7 +45,7 @@ END
 
 START
 math_basic_single
-QUESTION: Symmetric difference
+QUESTION: Symmetric difference (prop)
 $A \triangle \emptyset =$
 ANSWER: $A$
 ID: 1747344449309
@@ -53,7 +53,7 @@ END
 
 START
 math_basic_single
-QUESTION: Symmetric difference
+QUESTION: Symmetric difference (prop)
 $A \triangle A =$
 ANSWER: $\emptyset$
 ID: 1747344449311
@@ -61,7 +61,7 @@ END
 
 START
 math_basic_single
-QUESTION: Symmetric difference
+QUESTION: Symmetric difference (prop)
 $(A\triangle B)\triangle C =$
 ANSWER: $A\triangle(B\triangle C) = B\triangle(A\triangle C)$
 ID: 1747344449313

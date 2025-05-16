@@ -16,11 +16,12 @@ tags:
 
 # Anki
 TARGET DECK: stem::math::algebra
+
 START
-Math_TWO_side
-TITLE: Rank of Group
-DESCRIPTION: The minimum size of a generating set for a group $G$ is called the rank of $G$, sometimes denoted as $\text{rank}(G)$ or $d(G)$.
-FORMULA: 
-ADDITIONAL:
-ID: 1746895232873
+math_basic_double
+FRONT: Rank of Group $G$
+$\text{rank}(G)$ or $d(G)$
+BACK: is the minimum size of a generating set for a group $G$ 
+ID: 1747395665172
 END
+

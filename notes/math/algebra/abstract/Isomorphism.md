@@ -20,12 +20,6 @@ connected:
 - **Structure-preserving**: Completely preserves the structure, indicating that the structures are essentially identical
 - [[Bijective mapping property (function)|bijective]]: Provides a one-to-one correspondence between elements of both structures
 
-# Applications
-Used to demonstrate that two structures are not merely similar but "identical" in an algebraic sense, differing only in the "labels" assigned to their elements.
-
-# Relation to Homomorphisms
-All isomorphisms are homomorphisms, but not all homomorphisms are isomorphisms. An isomorphism indicates a deeper similarity between structures than a homomorphism.
-
 # Examples
 ## Group Isomorphism
 For [[Group|groups]] $(G, \ast)$ and $(H, \circ)$, a bijective function $\phi: G \to H$ is an isomorphism if:
@@ -39,50 +33,26 @@ for all $a, b \in R$.
 
 # Anki
 TARGET DECK: stem::math::algebra
+
 START
-Math_TWO_side
+math_complex
 TITLE: Isomorphism
 DESCRIPTION: A [[Homomorphism|homomorphism]] that is also [[Bijective mapping property (function)|bijective]]. Each element in one structure corresponds to exactly one element in another, preserving all operations.
 FORMULA: For operation $\ast$ in $A$ and $\circ$ in $B$: $\phi(x \ast y) = \phi(x) \circ \phi(y)$ where $\phi$ is bijective
 ADDITIONAL:
-ID: 1746385786412
+ID: 1747395543806
 END
 
 START
-Math_TWO_side
+math_complex
 TITLE: Isomorphism Properties
 DESCRIPTION: Key characteristics of isomorphisms between algebraic structures
 - [[Inverse function (math)|Invertible]]: An inverse isomorphism exists
 - Structure-preserving: Completely preserves structural operations
 - [[Bijective mapping property (function)|Bijective]]: One-to-one correspondence between elements
 ADDITIONAL:
-ID: 1746385673146
+ID: 1747395543810
 END
-
-
-START
-Math_TWO_side
-TITLE: Group Isomorphism
-DESCRIPTION: A bijective homomorphism between two [[Group|groups]] that preserves the group operation.
-FORMULA: For groups $(G, \ast)$ and $(H, \circ)$, a bijective function $\phi: G \to H$ is an isomorphism if:
-$\phi(a \ast b) = \phi(a) \circ \phi(b)$ for all $a, b \in G$
-ADDITIONAL:
-ID: 1746385673150
-END
-
-START
-Math_TWO_side
-TITLE: Ring Isomorphism
-DESCRIPTION: A bijective homomorphism between two [[Ring|rings]] that preserves both ring operations (addition and multiplication).
-FORMULA: For rings $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a bijective function $\phi: R \to S$ is an isomorphism if:
-$\phi(a + b) = \phi(a) \oplus \phi(b)$ and
-$\phi(a \cdot b) = \phi(a) \otimes \phi(b)$ for all $a, b \in R$
-ADDITIONAL:
-ID: 1746385673153
-END
-
-
-
 
 
 

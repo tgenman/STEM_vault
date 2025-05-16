@@ -39,12 +39,12 @@ $\textcolor{red}{minimum}  \Rightarrow \textcolor{blue}{minimal}$ but $\textcolo
 # Anki
 TARGET DECK: stem::math::algebra
 START
-Math_TWO_side
-TITLE: Generating Set
+math_complex
+TITLE: Generating Set 
 DESCRIPTION: A subset $S \subseteq G$ such that every element $g \in G$ can be expressed as a finite product of elements from $S$ and their inverses. This is denoted as $G = \langle S \rangle$.
 FORMULA: $G = \langle S \rangle$
 ADDITIONAL:
-ID: 1746894805000
+ID: 1747395365901
 END
 
 TARGET DECK: stem::math::algebra

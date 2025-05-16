@@ -23,7 +23,7 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: The relative complement of set ${B}$ with respect to set ${A}$ 
+TITLE: The relative complement of set ${B}$ with respect to set ${A}$ (def)
 DESCRIPTION: the difference of sets ${A \setminus B}$, when ${B \subseteq A}$. Such complement is denoted as ${B_A}$.
 FORMULA: ${A \setminus B}$ when ${B \subseteq A}$
 ADDITIONAL: In this case, the set ${B \setminus A}$ is empty.
