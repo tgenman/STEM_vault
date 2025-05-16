@@ -30,7 +30,7 @@ We show that $\bar{a}\subseteq\bar{b}$. Let $x\in\bar{a}.$ Then $x\sim a.$But$a\
 # Anki
 TARGET DECK: math::set  
 START
-Math_ONE_side
+math_complex
 TITLE: Equivalence Relations and Partitions (theorem)
 DESCRIPTION: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
 

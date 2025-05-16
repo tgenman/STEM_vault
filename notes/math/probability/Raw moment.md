@@ -22,7 +22,7 @@ $\mu'_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Raw moment
 DESCRIPTION: is a moment about zero
 FORMULA: $\mu_n = \langle X^n \rangle \equiv \begin{cases} \sum_i x_i^n f(x_i), & \text{discrete distribution} \\ \int x^n f(x)dx, & \text{continuous distribution} \end{cases}$

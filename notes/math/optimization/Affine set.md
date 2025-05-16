@@ -56,7 +56,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Relationship between convex and affine set
 FORMULA: [[Convex Set]] $\subseteq$  [[Affine set]]  
 ID: 1734778183480

@@ -21,7 +21,7 @@ An equation system is in reduced row-echelon form (also: row-reduced echelon for
 # Anki
 TARGET DECK: math::linal  
 START
-Math_ONE_side
+math_complex
 TITLE: Reduced Row-Echelon form RREF
 DESCRIPTION: An equation system is in reduced row-echelon form (also: row-reduced echelon form or row canonical form) if
 - It is in [[Row-Echelone form REF|REF]].

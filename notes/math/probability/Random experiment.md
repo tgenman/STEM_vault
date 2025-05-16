@@ -27,7 +27,7 @@ connected:
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Random experiment
 DESCRIPTION: 
 - повторяемость
@@ -40,7 +40,7 @@ ID: 1697971998299
 END
 
 START
-Math_ONE_side
+math_complex
 TITLE: Математическая модель случайного эксперимента
 DESCRIPTION: 
 - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$

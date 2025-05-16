@@ -20,7 +20,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Adjacent vertices 
 DESCRIPTION: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
 FORMULA: 
@@ -31,7 +31,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Adjacent edges
 DESCRIPTION: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
 FORMULA: 

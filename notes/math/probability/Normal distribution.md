@@ -28,7 +28,7 @@ tags:
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Normal distribution $\mathcal{N}(\mu, \sigma^2)$
 DESCRIPTION: 
 - [[PDF - f_X(x)|PDF]]: $\phi(x) = \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$

@@ -22,7 +22,7 @@ created: 2023-12-19 21:49
 # Anki
 TARGET DECK: math::geometry 
 START
-Math_ONE_side
+math_complex
 TITLE: Octahedron (5)
 Октаэдр
 DESCRIPTION: ==Окта́эдр== (греч. οκτάεδρον от οκτώ «восемь» + έδρα «основание») — многогранник с восемью гранями.

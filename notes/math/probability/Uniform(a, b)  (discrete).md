@@ -50,7 +50,7 @@ $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Uniform r.v. (discrete) $U(a, b)$
 DESCRIPTION: 
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{1}{b-a} \mathbb{I}(a \le x \le b)$
@@ -74,7 +74,7 @@ END
 
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Expected Value E(X) Uniform r.v. (discrete)
 DESCRIPTION: $E[X] = \frac{n}{2}$
 FORMULA: Proof
@@ -86,7 +86,7 @@ END
 
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Variance V(X) Uniform r.v. (discrete)
 DESCRIPTION: $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 FORMULA: Proof

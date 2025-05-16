@@ -18,7 +18,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Intersection of Sets (A ∩ B)
 **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
 DESCRIPTION: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 

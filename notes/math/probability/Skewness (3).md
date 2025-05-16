@@ -19,7 +19,7 @@ $\gamma_1 := \frac{\mu_3}{\sigma^3} = \mathbb{E}\left[\left(\frac{X - \mu}{\sigm
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Skewness
 DESCRIPTION: is a measure of the asymmetry of the probability distribution of a real-valued random variable about its mean. The skewness value can be positive, zero, negative, or undefined.
 FORMULA: $\gamma_1 := \frac{\mu_3}{\sigma^3} = \mathbb{E}\left[\left(\frac{X - \mu}{\sigma}\right)^3\right] = \frac{\mu_3}{\sigma^3} = \frac{\mathbb{E}[(X - \mu)^3]}{(\mathbb{E}[(X - \mu)^2])^{3/2}}$

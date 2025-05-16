@@ -16,7 +16,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Empty graph
 DESCRIPTION: if size $m = 0$
 FORMULA: 

@@ -19,7 +19,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Neighbours
 DESCRIPTION: Two [[Adjacent in graph|adjacent vertices]] are referred to as neighbours of each other.
 FORMULA: 
@@ -29,7 +29,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Open neighborhood of $v$ ($N_G(v)$, or $N(v)$)
 DESCRIPTION: The set of neighbours of a vertex $v$
 FORMULA: 
@@ -39,7 +39,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Closed neighborhood of $v$
 DESCRIPTION: The set $N[v] = N(v) ∪ {v}$ 
 FORMULA: 

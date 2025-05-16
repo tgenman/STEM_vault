@@ -21,7 +21,7 @@ $$
 # Anki
 TARGET DECK: math::combinatorics  
 START
-Math_ONE_side
+math_complex
 TITLE: The multiplication principle (combinatorics)
 DESCRIPTION: Suppose that $A_1,..., A_n$ are finite sets, $|A_i| = a_i$
 If $A = \{(x_1,...x_n): x_i \in A_i\}$,   then

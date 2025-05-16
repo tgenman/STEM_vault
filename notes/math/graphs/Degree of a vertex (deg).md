@@ -31,7 +31,7 @@ Not exist a [[Simple Graph (G)|graph]]  where all nodes have different degrees.
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Degree of a vertex (deg)
 DESCRIPTION:  is the number of vertices that are [[Adjacent in graph|adjacent]] to $v$. 
  is the number of vertices in its [[Neighbourhood in graph (N)|neighborhood]] $N(v)$. 

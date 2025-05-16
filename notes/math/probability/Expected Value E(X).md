@@ -50,7 +50,7 @@ $$E[X] = \sum_x xp_X(x).$$
 # Anki
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Expected Value E(X)
 DESCRIPTION: 
 $E[X] = \int x dF(x) =  \begin{cases} \sum_x xp_X(x) & \text{if } X \text{ is discrete} \\\int xf_X(x) dx & \text{if} X \text{ is continuous}\end{cases}$
@@ -68,7 +68,7 @@ END
 
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Elementary properties of expectations
 DESCRIPTION: 
 - $P[X = c] = 1 \Rightarrow E[X] = c$
@@ -90,7 +90,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Requirement for well-definig $E[x]$
 DESCRIPTION:  $\sum_{x} |x|p(x) < \infty$
 FORMULA: 

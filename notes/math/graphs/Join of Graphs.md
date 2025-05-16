@@ -20,7 +20,7 @@ Using the join operation, we see that $\bar{K_s} ∨ \bar{K_t} = K_{s,t}$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: The join $G = G_1 ∨ G_2$ 
 DESCRIPTION: has 
 vertex set $V(G) = V(G_1) ∪ V(G_2)$ and 

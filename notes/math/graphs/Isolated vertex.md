@@ -13,7 +13,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Isolated vertex
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] degree $\deg v = 0$
 FORMULA: 

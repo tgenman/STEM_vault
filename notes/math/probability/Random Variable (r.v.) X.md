@@ -41,7 +41,7 @@ A function from the sample space $\Omega$ to the real numbers
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Random Variable (r.v.) X (def 1)
 DESCRIPTION: A random variable is a real-valued function of the outcome of the  [[Random experiment|experiment]]
 A function from the sample space $\Omega$ to the real numbers
@@ -53,7 +53,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Random Variable (r.v.) X (def 2)
 DESCRIPTION: 
 действительная функция от [[Elementary event|элементарнорго исхода]]$\xi=\xi(\omega),\omega\in \Omega$, для которой при любом действительном $x$ множество $\{\omega:\xi(\omega)\le x\}$ принадлежит $\mathcal{A}$, то есть является событием, и для него определена вероятность $P\{\omega:\xi(\omega)\le x\}$.
@@ -69,7 +69,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Random Variable (r.v.) X
 DESCRIPTION: 
 - A  [[Function (math)|function]] of a ==random variable== defines another ==random variable==.

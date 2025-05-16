@@ -25,7 +25,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Кортеж
 DESCRIPTION: конечный упорядоченный список элементов
 FORMULA: Определим понятие кортежа индуктивно. 

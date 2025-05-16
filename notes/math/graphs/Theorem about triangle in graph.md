@@ -23,7 +23,7 @@ From the defining property of the graph $G$, it follows that $G^{\prime}$ contai
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Theorem about triangle in graph
 DESCRIPTION: Every [[Simple Graph (G)|graph]] of order $n ≥ 3$ and size $m > ⌊\frac{n^2}{4}⌋$ contains a [[Triangle (graph)|triangle]].
 FORMULA: 

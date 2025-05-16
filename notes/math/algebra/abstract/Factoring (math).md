@@ -20,7 +20,7 @@ $$
 # Anki
 TARGET DECK: math::common  
 START
-Math_ONE_side
+math_complex
 TITLE:  Factoring
 DESCRIPTION: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
 FORMULA: 

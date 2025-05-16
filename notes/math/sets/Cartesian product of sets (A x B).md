@@ -30,7 +30,7 @@ $$|A \times B | = |A| \cdot |B|$$
 # Anki
 TARGET DECK: math::set 
 START
-Math_ONE_side
+math_complex
 TITLE: Cartesian product of $A$ and $B$.
 DESCRIPTION: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
 FORMULA: 
@@ -40,7 +40,7 @@ END
 
 TARGET DECK: math::set   
 START
-Math_ONE_side
+math_complex
 TITLE: [[Cardinality|Мощность]] декартового произведения множеств
 DESCRIPTION: равна произведению мощностей этих множеств
 FORMULA: $$|A \times B | = |A| \cdot |B|$$
@@ -50,7 +50,7 @@ END
 
 TARGET DECK: math::set  
 START
-Math_ONE_side
+math_complex
 TITLE: Свойства декартового произведения множеств
 DESCRIPTION: 
 1. $(A_1 \cup A_2) \times B = (A_1 \times B) \cup (A_2 \times B)$

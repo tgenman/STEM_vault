@@ -36,7 +36,7 @@ Z-преобразование — важный инструмент в стат
 # Anki
 TARGET DECK: math::probability  
 START
-Math_ONE_side
+math_complex
 TITLE: Z-преобразования
 DESCRIPTION: это статистический метод, используемый для преобразования данных из [[Normal distribution|Нормального распределения]]  с любым [[Expected Value E(X)|средним значением]]  (µ) и [[Standard deviation|стандартным отклонением]]  (σ) в [[Стандартное нормальное распределение]] с средним, равным 0, и стандартным отклонением, равным 1. 
 FORMULA: $z = \frac{{X - \mu}}{{\sigma}}$

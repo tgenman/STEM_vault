@@ -23,7 +23,7 @@ If a graph $G$ consists of $k (≥ 2)$ disjoint copies of a graph $H$, then we w
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Union of Graphs
 The union $G = G_1+G_2$
 DESCRIPTION: has 

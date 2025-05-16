@@ -14,7 +14,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Proper subset
 Собственное подмножество
 DESCRIPTION: все подмножества данного множества за исключением самого множества и [[Empty Set|пустого множества]]

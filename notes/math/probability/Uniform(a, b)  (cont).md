@@ -23,7 +23,7 @@ tags:
 # Anki
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Uniform(a, b) (cont)
 DESCRIPTION: 
 - [[PDF - f_X(x)|PDF]]: $f_X(x) = \frac{1}{b-a} \mathbb{I}(a \le x < b)$

@@ -31,7 +31,7 @@ The star $K_{1,3}$ is sometimes referred to as a ==claw==.
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: A graph $G$ is complete bipartite
 DESCRIPTION: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
 FORMULA: 
@@ -45,7 +45,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Graph named Star
 DESCRIPTION: The complete bipartite graph $K_{1,t}$ 
 FORMULA: 
@@ -55,7 +55,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Graph called Claw
 DESCRIPTION: The star $K_{1,3}$
 FORMULA: 

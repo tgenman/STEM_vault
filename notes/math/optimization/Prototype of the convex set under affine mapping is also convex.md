@@ -15,7 +15,7 @@ $S \subseteq \mathbb{R}^m \text{ convex}\; \rightarrow \; f^{-1}(S) = \left\{ x 
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: prototype of the convex set under affine mapping is 
 DESCRIPTION: also convex
 FORMULA: $S \subseteq \mathbb{R}^m \text{ convex}\; \rightarrow \; f^{-1}(S) = \left\{ x \in \mathbb{R}^n \mid f(x) \in S \right\} \text{ convex} \;\; \left(f(x) = \mathbf{A}x + \mathbf{b}\right)$

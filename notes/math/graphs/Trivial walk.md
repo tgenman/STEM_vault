@@ -21,7 +21,7 @@ $$C = (u,w,x,y,w,v,u)$$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Trivial walk
 DESCRIPTION: is walk consist of a single vertex
 A trivial walk is therefore a [[Closed walk]] closed walk.

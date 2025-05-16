@@ -23,7 +23,7 @@ If $A$ and $B$ are independent, so are $A$ and $B^c$.
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE:  Independence
 DESCRIPTION: Two events $A$ and $B$ are said to be independent if 
 > $P(A \cap B) = P(A)P(B)$

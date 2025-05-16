@@ -16,7 +16,7 @@ tags:
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Matrix Comparasion
 DESCRIPTION: Две матрицы $|A|$ и $|B|$ называются ==равными== (что обозначается как  $|A| = |B|$), если
 - они равных размеров

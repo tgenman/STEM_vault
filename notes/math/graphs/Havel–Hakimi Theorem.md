@@ -52,7 +52,7 @@ $s_7^{\prime}=s_7:0,0,0,0.$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Havel–Hakimi Theorem
 DESCRIPTION: 
 > A sequence $s: d_1, d_2, \ldots, d_n$ of nonnegative integers with $\Delta = d_1 \geq d_2 \geq \cdots \geq d_n$ and $\Delta \geq 1$ is graphical if and only if the sequence

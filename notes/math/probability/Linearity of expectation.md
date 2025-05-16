@@ -19,7 +19,7 @@ $E[Y] = \sum_{x} g(x)p_X(x) = \sum_{x} (ax + b)p_X(x) = a\sum_{x} xp_X(x) + b\su
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Linearity of expectation
 DESCRIPTION:  $E[aX + b] = aE[X] + b$
 FORMULA: 

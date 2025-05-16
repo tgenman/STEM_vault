@@ -33,7 +33,7 @@ Indeed, $\alpha \hat{x} + (1-\alpha) \tilde{x} = [\alpha \hat{x}_1 + (1-\alpha) 
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: The Minkowski sum of two sets of vectors $S_1$ and $S_2$ in Euclidean space 
 DESCRIPTION: is formed by adding each vector in $S_1$ to each vector in $S_2$:
 $S_1+S_2=\{\mathbf {s_1} +\mathbf {s_2} \,|\,\mathbf {s_1} \in S_1,\ \mathbf {s_2} \in S_2\}$
@@ -46,7 +46,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: 
 DESCRIPTION: The [[Minkowski sum]] of two convex sets is a convex set (theorem)
 ADDITIONAL:

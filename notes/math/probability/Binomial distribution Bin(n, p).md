@@ -37,7 +37,7 @@ $\sum_{k=0}^{n} \binom{n}{k} p^k (1-p)^{n-k} = 1$
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Binomial r.v.  $\text{Bin}(n, p)$
 DESCRIPTION: 
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \binom{n}{x}p^x(1-p)^{n-x}$
@@ -62,7 +62,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Expected value of Binomial Distribution
 DESCRIPTION: $\mathbb{E}[X] = np$
 FORMULA: 
@@ -73,7 +73,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Variance of Binomial Distribution
 DESCRIPTION: $\mathbb{V}[X] = np(1-p)$
 FORMULA: 

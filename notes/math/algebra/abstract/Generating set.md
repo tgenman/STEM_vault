@@ -49,7 +49,7 @@ END
 
 TARGET DECK: stem::math::algebra
 START
-Math_ONE_side
+math_complex
 TITLE: Example of Minimal vs Minimum Generating Sets: Hexagon Group
 DESCRIPTION:The hexagon symmetry group has: 
 - $\langle r, f \rangle$ is a minimum (and hence minimal) generating set.

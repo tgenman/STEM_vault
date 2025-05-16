@@ -24,7 +24,7 @@ For example:
 # Anki
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Standardized moment
 DESCRIPTION: is a moment that has been normalized to be dimensionless.
 FORMULA: $\mu_k = E\left[\left(\frac{X - \mu}{\sigma}\right)^k\right]$

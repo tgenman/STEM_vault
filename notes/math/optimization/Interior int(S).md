@@ -20,7 +20,7 @@ where $B(\mathbf{x}, \varepsilon) = \mathbf{x} + \varepsilon B$ is the ball cent
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: The interior of the set $S$
 DESCRIPTION: is set:
 $\mathbf{int} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\mathbf{x}, \varepsilon) \subset S\}$

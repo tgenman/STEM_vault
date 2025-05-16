@@ -27,18 +27,17 @@ $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, 
 # Anki
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: Pascal’s triangle
 DESCRIPTION: Each row $n$ consist of the $\binom{n}{k}$:  
 $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, $\binom{4}{4} = 1$.
-FORMULA: $$
+FORMULA:
 $(a + b)^n = ?$  
 $(1 + x)^0 = 1$  
 $(1 + x)^1 = 1 + x$  
 $(1 + x)^2 = 1 + 2x + x^2$  
 $(1 + x)^3 = 1 + 3x + 3x^2 + x^3$  
 $(1 + x)^4 = 1 + 4x + 6x^2 + 4x^3 + x^4$
-$$
 ADDITIONAL:
 ID: 1698689289273
 END

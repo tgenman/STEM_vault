@@ -22,7 +22,7 @@ that is, if $G$ is a self-complementary graph of order $n$, then either $n ≡ 0
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Self-complementary graph
 DESCRIPTION: if $G$ is isomorphic to $\bar{G}$.
 FORMULA: if $G$ is a self-complementary graph of order $n$, 

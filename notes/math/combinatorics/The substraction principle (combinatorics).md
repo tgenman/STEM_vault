@@ -16,7 +16,7 @@ $$
 # Anki
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: The substraction principle (combinatorics)
 DESCRIPTION: Let $A$ be a finite set and $A \subset B$ then
 $|B| = |A| - |A \backslash B|$

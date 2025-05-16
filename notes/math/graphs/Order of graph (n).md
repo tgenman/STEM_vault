@@ -15,7 +15,7 @@ $$n$$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Order of graph (n)
 DESCRIPTION: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 FORMULA: 

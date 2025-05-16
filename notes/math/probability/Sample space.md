@@ -36,7 +36,7 @@ ID: 1697972538023
 END
 
 START
-Math_ONE_side
+math_complex
 TITLE: Sample space $\Omega$ 
 (Formal definition)
 Пространство элементарных исходов $\Omega$

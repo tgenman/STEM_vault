@@ -29,7 +29,7 @@ tags:
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Convex hull conv(S)
 DESCRIPTION: 
 - It is a set of all [[Convex combination]] of points from $S$:

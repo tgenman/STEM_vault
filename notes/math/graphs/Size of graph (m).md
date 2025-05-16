@@ -15,7 +15,7 @@ $$m$$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Size ($m$) of $G$
 DESCRIPTION: is the number of [[Edge of graph (E)|edges]] in a [[Simple Graph (G)|graph]] $G$
 FORMULA: 

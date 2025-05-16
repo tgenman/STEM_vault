@@ -28,7 +28,7 @@ For each possible value $x$ of $X$:
 # Anki
 TARGET DECK: math::probability  
 START
-Math_ONE_side
+math_complex
 TITLE: Probability mass function (PMF) $p_X(x)$
 DESCRIPTION: 
 $p_X(x) = P(X = x) = P(\{\omega \in \Omega \text{ s.t. } X(\omega) = x\})$
@@ -44,7 +44,7 @@ END
 
 TARGET DECK: math::probability  
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Probability mass function (PMF) $p_X(x)$
 DESCRIPTION: 
 - $p_X(x) \geq 0$

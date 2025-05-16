@@ -20,7 +20,7 @@ tags:
 # Anki
 TARGET DECK: math::graph 
 START
-Math_ONE_side
+math_complex
 TITLE: Theorem about number of labeled graphs
 DESCRIPTION: Число помеченных графов с n вершинами равно $2^k$, где $k=\frac{n(n-1)}{2}$
 FORMULA: #### Proof

@@ -19,7 +19,7 @@ is [[Relation on elements of sets]] that satisfies these properties for all $x,y
 # Anki
 TARGET DECK: math::set  
 START
-Math_ONE_side
+math_complex
 TITLE: An equivalence relation $\mathscr{R}$ on a set $S$ 
 DESCRIPTION: An ==equivalence relation== $\mathscr{R}$ on a set $S$ is one that satisfies these properties for all $x,y,z ∈ S$.
 > 1. ([[Reflexive]]) $x \mathscr{R} x$.

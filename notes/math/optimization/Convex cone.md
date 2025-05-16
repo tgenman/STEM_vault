@@ -31,7 +31,7 @@ $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \thet
 # Anki
 TARGET DECK: math::optimization 
 START
-Math_ONE_side
+math_complex
 TITLE: Convex cone
 DESCRIPTION: 
 is the set $S$, if:
@@ -48,7 +48,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Important Cones
 DESCRIPTION: 
 - **Nonnegative orthant** $\mathbb{R}_+^n = \{x \in \mathbb{R}^n \mid x_i \geq 0, i = 1, \dots, n\}$ → Linear programming (LP)

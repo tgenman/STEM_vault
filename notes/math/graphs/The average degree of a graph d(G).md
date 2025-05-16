@@ -12,7 +12,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: The average degree of a graph $G$ of order $n$ and size $m$ is
 DESCRIPTION: $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 FORMULA: 

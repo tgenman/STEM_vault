@@ -25,7 +25,7 @@ Hence, for every graphical sequence $s$, we must have both that $\sum_{i=1}^{n} 
 TARGET DECK: math::graph 
 
 START
-Math_ONE_side
+math_complex
 TITLE: Erdos–Gallai Theorem
 DESCRIPTION: A sequence $s: d_1, d_2, \ldots, d_n$ $(n \geq 2)$ of nonnegative integers with $d_1 \geq d_2 \geq \ldots \geq d_n$ is [[Graphical sequence|graphical]]  if and only if $\sum_{i=1}^{n} d_i$ is even and for each integer $k$ with $1 \leq k \leq n-1$,
 $$\sum_{i=1}^{k} d_i \leq 2\binom{k}{2} + \sum_{i=k+1}^{n} \min\{k, d_i\} = k(k - 1) + \sum_{i=k+1}^{n} \min\{k, d_i\}.$$

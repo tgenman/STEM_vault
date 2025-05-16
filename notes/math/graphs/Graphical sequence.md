@@ -22,7 +22,7 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Graphical sequence
 DESCRIPTION: is a finite sequence $s$ of nonnegative integers
 if $s$ is a [[Degree Sequence|degree sequence]]  of some graph.

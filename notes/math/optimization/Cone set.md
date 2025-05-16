@@ -26,7 +26,7 @@ $\sum\limits_{i=1}^k \lambda_i x_i \in \mathcal{C}$.
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Cone set (Geometric definition) 
 DESCRIPTION: 
 is the set $\mathcal{C}$  
@@ -38,7 +38,7 @@ END
 
 TARGET DECK: math::optimization 
 START
-Math_ONE_side
+math_complex
 TITLE: Cone set (Combination definition)  
 DESCRIPTION: 
 is a set that is closed under all possible [[Conic combination|conic combinations]] of its points, i.e., 

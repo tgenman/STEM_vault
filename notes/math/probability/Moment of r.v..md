@@ -27,7 +27,7 @@ the moments of a function are certain quantitative measures related to the shape
 # Anki
 TARGET DECK: math::probability 
 START
-Math_ONE_side
+math_complex
 TITLE: Moment of r.v.
 DESCRIPTION: the moments of a function are certain quantitative measures related to the shape of the function's graph
 FORMULA: 

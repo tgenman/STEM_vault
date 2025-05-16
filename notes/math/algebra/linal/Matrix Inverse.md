@@ -31,7 +31,7 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 # Anki
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: Matrix Inverse
 DESCRIPTION: Consider a square matrix $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
 FORMULA: 
@@ -42,7 +42,7 @@ END
 
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Matrix Inverse
 DESCRIPTION: 
 - ==Matrix Inverse== определяется единственным образом;

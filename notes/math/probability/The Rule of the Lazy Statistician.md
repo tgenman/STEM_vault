@@ -20,7 +20,7 @@ $\sum_y \sum_{x:g(x)=y} g(x) p_X(x) = \sum_y y \sum_{x:g(x)=y} p_X(x) = \sum_y y
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Expected Value Rule for Functions of Random Variables
 DESCRIPTION: - $Z = \varphi(X)$
 - $\mathbb{E}[Z] = \int \varphi(x) dF_X(x)$

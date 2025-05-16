@@ -22,7 +22,7 @@ The graph $Q_n$ is an $n$-regular graph of order $2^n$.
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: The $n$-cube $Q_n$ (hypercube)
 DESCRIPTION: is $K_2$ if $n = 1$, 
 while for $n ≥ 2$, $Q_n$ is defined recursively as the [[Cartesian product of sets (A x B)]] $Q_{n−1} \square K_2$ . 

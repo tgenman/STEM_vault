@@ -22,7 +22,7 @@ connected:
 # Anki
 TARGET DECK: math::geometry
 START
-Math_ONE_side
+math_complex
 TITLE: ==Правильный многогранник== или ==плато́ново тело== 
 DESCRIPTION: это [[Выпуклый многогранник (3D)]], состоящий из одинаковых [[Правильный многоугльник (2D)]] и обладающий пространственной симметрией.
 PICTURE:![[Pasted image 20231219215243.png]]

@@ -17,7 +17,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: The Petersen Graph (Cubic graph)
 DESCRIPTION: A [[519.172.4 Regular Graphs|3-regular]] graph
 FORMULA: 

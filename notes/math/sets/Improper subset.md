@@ -14,7 +14,7 @@ Cамо множество и пустое множество — называю
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Improper subset
 Несобственное подмножество
 DESCRIPTION: Cамо множество и пустое множество

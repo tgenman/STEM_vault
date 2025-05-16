@@ -17,7 +17,7 @@ $\bar a \perp \bar b$
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Orthogonal vectors
 DESCRIPTION: [[Dot product of vectors]]  is $v \cdot w = 0$ when $v$ is perpendicular to $w$.
 $\bar a \perp \bar b$

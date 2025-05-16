@@ -27,7 +27,7 @@ $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\ma
 # Anki
 TARGET DECK: Math:: Optimization  
 START
-Math_ONE_side
+math_complex
 TITLE: Relative Interior of the set $S$
 DESCRIPTION: is set:
 $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\mathbf{x}, \varepsilon) \cap \mathbf{aff} (S) \subseteq S\}$
@@ -38,7 +38,7 @@ END
 
 TARGET DECK: Math:: Optimization  
 START
-Math_ONE_side
+math_complex
 TITLE: Difference between interior and relative interior
 DESCRIPTION: 
 PICTURE: ![[rel_int.svg]]

@@ -20,7 +20,7 @@ In other words, it is a generating set of smallest possible [[Cardinality|cardin
 # Anki
 TARGET DECK: stem::math::algebra
 START
-Math_ONE_side
+math_complex
 TITLE: Minimum Generating Set
 DESCRIPTION: A generating set $S$ of a group $G$ is a minimum generating set if $|S| \leq |T|$ for every generating set $T$ of $G$. In other words, it is a generating set of smallest possible cardinality.
 FORMULA: 

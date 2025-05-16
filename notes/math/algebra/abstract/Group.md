@@ -31,7 +31,7 @@ If additionally [[Commutative identity]] $\forall x, y \in \mathcal{G} : x \otim
 # Anki
 TARGET DECK: stem::math::algebra
 START
-Math_ONE_side
+math_complex
 TITLE: Group (formal definition)
 DESCRIPTION: A set $G$ with a binary operation $*$ satisfying:
 - Closure: $\forall a,b \in G: a * b \in G$
@@ -45,7 +45,7 @@ END
 
 TARGET DECK: stem::math::algebra
 START
-Math_ONE_side
+math_complex
 TITLE: Group (alternative definition)
 DESCRIPTION: is a monoid with the presence of an inverse element
 FORMULA: 

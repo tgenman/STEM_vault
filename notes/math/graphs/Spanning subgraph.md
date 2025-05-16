@@ -16,7 +16,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: $H$ is a spanning subgraph of $G$ 
 Остовный подграф
 DESCRIPTION: If:

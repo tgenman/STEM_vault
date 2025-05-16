@@ -58,7 +58,7 @@ $V[X] = \lambda$
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Poisson($\lambda$)
 DESCRIPTION: $\text{Po}(\lambda)$  
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
@@ -80,7 +80,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Expected Value E(X) of Poisson($\lambda$)
 DESCRIPTION: $E[X] = \lambda$
 FORMULA: 
@@ -98,7 +98,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Variance V(X) of Poisson($\lambda$)
 DESCRIPTION: $V[X] = \lambda$
 FORMULA: 

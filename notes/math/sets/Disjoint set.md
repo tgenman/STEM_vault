@@ -17,7 +17,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Sets are disjoint
 DESCRIPTION:  if no two of them share a common element
 FORMULA: 

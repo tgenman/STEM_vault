@@ -34,7 +34,7 @@ $\text{var}(X) = E[(X - E[X])^2]$
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Variance
 DESCRIPTION: a measure of the spread of a [[PMF - p_X(x)|PMF]] 
 FORMULA: 
@@ -47,7 +47,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Variance
 DESCRIPTION: 
 - $\text{var}(aX + b) = a^2\text{var}(X)$

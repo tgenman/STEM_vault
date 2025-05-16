@@ -20,7 +20,7 @@ $\mathbf{cone}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \; \
 # Anki
 TARGET DECK: math::optimization  
 START
-Math_ONE_side
+math_complex
 TITLE: Conic hull of $S$
 DESCRIPTION: 
 is set of all [[Conic combination]]  of points in set $S$:

@@ -20,7 +20,7 @@ A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Symmetric matrix
 DESCRIPTION: A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 FORMULA: 
@@ -31,7 +31,7 @@ END
 
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Symmetric matrix
 DESCRIPTION: 
 - only [[Square matrix]] can be symmetric. 

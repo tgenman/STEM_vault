@@ -22,7 +22,7 @@ Example: $\|[1, 2, 3]\|_\infty = 3$, $\|[1, 0]\|_\infty = 1$, $\|[-1, 0.5]\|_\in
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Max norm (L_infinity) (Бесконечная норма, Норма шахматной доски, Максимальная норма)
 DESCRIPTION: $\ell_\infty$: $\|x\|_\infty = \max_i |x_i|$
 FORMULA: 

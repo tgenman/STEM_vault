@@ -19,7 +19,7 @@ We proceed by induction on the order $n$ of $G$ and $H.$ If $n\leq 4,$ then the 
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Theorem about 2-switches transformations of degree sequence
 DESCRIPTION: If $G$ and $H$ are two graphs with the same [[Degree Sequence]], then $H$ can be transformed into $G$ by a (possibly empty) sequence of [[2-switch]]
 FORMULA: 

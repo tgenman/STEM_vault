@@ -28,7 +28,7 @@ $$
 # Anki
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: $$\binom{n}{k} =$$
 DESCRIPTION: $$= \frac{n!}{k!(n-k)!}$$
 FORMULA: 
@@ -38,7 +38,7 @@ END
 
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: $$\binom{0}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
@@ -48,7 +48,7 @@ END
 
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: $$\binom{1}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
@@ -59,7 +59,7 @@ END
 
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: $$\binom{n}{0} = ?$$
 DESCRIPTION: $$ = 1$$
 FORMULA: 
@@ -69,7 +69,7 @@ END
 
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: $$\binom{n}{1} = ?$$
 DESCRIPTION: $$ = n$$
 FORMULA: 

@@ -32,7 +32,7 @@ $$
 # Anki
 TARGET DECK: math::common
 START
-Math_ONE_side
+math_complex
 TITLE: Сomplex conjugate
 DESCRIPTION: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
 FORMULA: So, if $z=a+bi$, then $\overline{z}=a-bi.$

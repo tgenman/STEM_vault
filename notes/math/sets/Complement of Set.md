@@ -35,7 +35,7 @@ END
 
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Complement of Set
 DESCRIPTION: - $A \cup \overline{A} = U$
 - $A \cap \overline{A} = \emptyset$

@@ -23,7 +23,7 @@ When summing the degrees of the vertices of $G$, each edge of $G$ is counted twi
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Handshaking Lemma
 Лемма о рукопожатиях
 DESCRIPTION: If $G$ is a graph of size $m$, then

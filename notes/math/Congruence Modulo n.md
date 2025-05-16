@@ -17,7 +17,7 @@ For example, we have $15 ≡ 27$ (mod $4$) because both $15$ and $27$ have remai
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Congruence Modulo n
 Сравнение по модулю n
 DESCRIPTION: ==Congruence Modulo n== - [[Equivalence Relation]] such:

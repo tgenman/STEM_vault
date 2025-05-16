@@ -22,7 +22,7 @@ $\mu_n = \mathbb{E}[(X - \mathbb{E}[X])^n] = \int_{-\infty}^{+\infty} (x - \mu)^
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Central moment 
 DESCRIPTION: is a moment of a [[Distribution of r.v. MOC|probability distribution]]  of a random variable about the random variable's [[Expected Value E(X)|mean]]
 that is, it is the expected value of a specified integer power of the deviation of the random variable from the mean. 

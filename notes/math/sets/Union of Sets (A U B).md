@@ -17,7 +17,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: **Объединение** $A∪B$ 
 DESCRIPTION: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
 FORMULA: ![[Pasted image 20220630193329.png]]

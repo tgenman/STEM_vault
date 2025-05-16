@@ -42,7 +42,7 @@ $P(A) = \frac{\text{number of elements of } A}{n}$
 TARGET DECK: math::probability
 
 START
-Math_ONE_side
+math_complex
 TITLE: Classical definition of probability
 DESCRIPTION:
 $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
@@ -52,7 +52,7 @@ ID: 1697972721265
 END
 
 START
-Math_ONE_side
+math_complex
 TITLE: Probability Axioms
 DESCRIPTION: 
 - Nonnegativity $P(A) >= 0$
@@ -84,7 +84,7 @@ ID: 1709888037335
 END
 
 START
-Math_ONE_side
+math_complex
 TITLE: Some Properties of Probability Laws
 DESCRIPTION: 
 - $𝑃 (𝐴) = 0 ⇔ 𝐴 = ∅$ - только [[Empty Set]]  имеет нулевую вероятность

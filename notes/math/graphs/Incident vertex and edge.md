@@ -15,7 +15,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Incident vertex and edge
 DESCRIPTION: The vertex $u$ and the edge $uv$ are said to be incident with each other.
 FORMULA: 

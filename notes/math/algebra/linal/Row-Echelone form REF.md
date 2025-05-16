@@ -22,7 +22,7 @@ A matrix is in row-echelon form if
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: Row-Echelone form REF
 DESCRIPTION: 
 A matrix is in row-echelon form if

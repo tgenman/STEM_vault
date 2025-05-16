@@ -14,7 +14,7 @@ is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Maximum degree ($∆(G)$)
 DESCRIPTION: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 

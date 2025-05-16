@@ -13,7 +13,7 @@ is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Minimum degree
 DESCRIPTION: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 

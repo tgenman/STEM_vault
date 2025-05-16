@@ -16,7 +16,7 @@ created: 2023-12-19 21:44
 # Anki
 TARGET DECK: math::geometry
 START
-Math_ONE_side
+math_complex
 TITLE: Tetrahedron (4)
 Тетраэдер
 DESCRIPTION: Тетраэдр является треугольной [[Пирамида|пирамидой]] при принятии любой из граней за основание. У тетраэдра 4 грани, 4 вершины и 6 рёбер. 

@@ -21,7 +21,7 @@ $L_1 = \sum_{i=1}^{n} |a|$
 # Anki
 TARGET DECK: math::linal
 START
-Math_ONE_side
+math_complex
 TITLE: $L_1$ норма (Manhattan norm (L1))
 DESCRIPTION: Сумма взятых по модулю координат вектора
 FORMULA: $L_1 = \sum_{i=1}^{n} |a|$

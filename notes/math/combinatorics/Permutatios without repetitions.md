@@ -23,7 +23,7 @@ $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 # Anki
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: Permutatios without repetitions
 Перестановки без повторения
 DESCRIPTION: 1. Число [[Arrangements without repetition|размещений]] если $n = k$ (то есть всего множества элементов)

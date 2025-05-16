@@ -22,7 +22,7 @@ log-pdf for the Pearson type VII distribution with excess kurtosis of infinity (
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Kurtosis
 DESCRIPTION: 
 (from Greek: κυρτός, kyrtos or kurtos, meaning "curved, arching") 

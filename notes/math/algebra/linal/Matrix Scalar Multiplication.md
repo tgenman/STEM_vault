@@ -25,7 +25,7 @@ Distributivity:
 # Anki
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: Properties Matrix Scalar Multiplication
 DESCRIPTION: 
 Let $A \in \mathbb{R}^{m \times n}$ and $\lambda \in \mathbb{R}$. 

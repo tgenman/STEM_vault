@@ -26,7 +26,7 @@ Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if t
 # Anki
 TARGET DECK: math::set 
 START
-Math_ONE_side
+math_complex
 TITLE: Cardinality
 DESCRIPTION: The number of elements in a set $X$.
 > Denoted by $|X|$

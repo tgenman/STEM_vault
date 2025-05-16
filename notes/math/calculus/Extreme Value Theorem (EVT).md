@@ -18,7 +18,7 @@ In other words, there is at least one point $p$ in $[a,b]$ such that $f(p)\geq f
 # Anki
 TARGET DECK: math::calculus
 START
-Math_ONE_side
+math_complex
 TITLE: Extreme Value Theorem (EVT)
 DESCRIPTION: Suppose  is continuous at every point in an interval  
 

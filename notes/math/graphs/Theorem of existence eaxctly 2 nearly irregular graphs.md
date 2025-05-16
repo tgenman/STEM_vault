@@ -19,7 +19,7 @@ We show by induction that for each integer $n \geq 2$ there are exactly two near
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Theorem of existence eaxctly 2 nearly irregular graphs
 DESCRIPTION: For every integer $n ≥ 2$, there are exactly two nearly irregular graphs of order $n$.
 FORMULA: ### Proof

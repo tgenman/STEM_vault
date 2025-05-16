@@ -51,7 +51,7 @@ END
 
 TARGET DECK: stem::math::common
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Indicator function
 DESCRIPTION: 
 - $I_{\bar{A}} = 1 - I_{A}$

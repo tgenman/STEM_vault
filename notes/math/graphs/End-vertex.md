@@ -16,7 +16,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: End-vertex
 DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 FORMULA: 

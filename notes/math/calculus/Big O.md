@@ -20,7 +20,7 @@ $$|\frac{f(n)}{g(n)}| \leq C$$
 # Anki
 TARGET DECK: math::calculus
 START
-Math_ONE_side
+math_complex
 TITLE: Функция $f(n)$ является $O(g(n))$
 Асимптотическая оценка сверху О
 DESCRIPTION: если существуют такие константы $C$ и $n_0$, что для всех $n \geq n_0$, выполняется неравенство $|f(n)| \leq C \cdot |g(n)|$.

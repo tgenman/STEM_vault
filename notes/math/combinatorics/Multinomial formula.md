@@ -23,7 +23,7 @@ We obtain each term $x_1^{n_1}\cdots x_k^{n_k}$ by choosing $x_1$ in $n_1$ of th
 # Anki
 TARGET DECK: math::combinatorics
 START
-Math_ONE_side
+math_complex
 TITLE: Multinomial formula
 DESCRIPTION: $$(x_1+x_2+\ldots+x_k)^n=\sum_{n_i\geq0,n_1+...+n_k=n}\binom{n}{n_1,n_2,...,n_k}x_1^{n_1}\cdots x_k^{n_k}$$
 FORMULA: 

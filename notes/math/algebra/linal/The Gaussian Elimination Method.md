@@ -19,7 +19,7 @@ Gaussian elimination is an algorithm that performs [[Elementary transformations]
 # Anki
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: The Gaussian Elimination Method
 DESCRIPTION: Gaussian elimination is an algorithm that performs [[Elementary transformations]]  to bring a [[Systems of Linear Equations]]  into [[Reduced Row-Echelon form RREF|RREF]] .
 FORMULA: 

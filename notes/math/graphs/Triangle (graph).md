@@ -17,7 +17,7 @@ $C_3 = K_3$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Triangle (graph)
 DESCRIPTION: 3-cycle
 [[Complete graph]] with $n=3$

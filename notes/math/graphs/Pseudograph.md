@@ -19,7 +19,7 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Pseudograph
 Псевдограф
 DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)

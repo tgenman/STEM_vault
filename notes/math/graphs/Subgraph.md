@@ -20,7 +20,7 @@ If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: A graph $H$ is a subgraph of a graph $G$
 DESCRIPTION: if $V(H)⊆V(G)$ and $E(H)⊆E(G)$
 in which case we write $H ⊆ G$.
@@ -31,7 +31,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Supergraph
 DESCRIPTION: If $H$ is a subgraph of $G$, then $G$ is a supergraph of $H$.
 FORMULA: 
@@ -41,7 +41,7 @@ END
 
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Proper subgraph
 DESCRIPTION: If $H$ is a subgraph of $G$ where $H\not\cong G$ ([[519.175.1 Isomorphic Graphs|isomorph]]), then $H$ is a proper subgraph of $G$.
 FORMULA: 

@@ -20,7 +20,7 @@ One consequence of [[Theorem about 2-switches transformations of graphical seque
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: 2-switch 
 Let $H$ be a graph containing four distinct vertices $u,v,w$ and $x$ such that $uv,wx ∈ E(H)$ and $uw,vx \not\in E(H)$
 DESCRIPTION: is process of deleting the edges $uv$ and $wx$ from $H$ and adding $uw$ and $vx$ to $H$ 

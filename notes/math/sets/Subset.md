@@ -29,7 +29,7 @@ connected:
 # Anki
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: When a set $B$ is a subset of a set $A$ (denoted by $B⊆A$ or $A⊇B$)
 DESCRIPTION: if every element of $B$ is in $A$. 
 The notations $B ⊂ A$ or $A ⊃ B$ will be used for $B ⊆ A$ but $B  \neq A$.
@@ -40,7 +40,7 @@ END
 
 TARGET DECK: math::set
 START
-Math_ONE_side
+math_complex
 TITLE: Свойства подмножеств
 DESCRIPTION: 
 - **Самопринадлежность** 

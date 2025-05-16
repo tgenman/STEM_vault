@@ -43,7 +43,7 @@ $P(A | B) = \frac{P(A \cap B)}{P(B)}$
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: The conditional probability $\mathbb{P}(A|B)$
 DESCRIPTION: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 FORMULA:  $P(A | B) = \frac{P(A \cap B)}{P(B)} = \frac{|A \cap B|}{|B|}$
@@ -60,7 +60,7 @@ END
 
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Example of conditional probability
 DESCRIPTION:
 > Event $A$: Airplane is flying above

@@ -17,7 +17,7 @@ connected:
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Multigraph (H)
 Мультиграфы
 DESCRIPTION: is a nonempty set of vertices, every two of which are joined by a finite number of edges. Hence a multigraph $H$ may be expressed as $H = (V,E)$, where $E$ is a multiset of $2$-element subsets of $V$

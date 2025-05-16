@@ -19,7 +19,7 @@ $x = \theta x_1 + (1 - \theta)x_2, \theta \in [0,1]$
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Line segment
 DESCRIPTION: Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
 Then the line segment between them is defined as follows:

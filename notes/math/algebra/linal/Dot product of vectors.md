@@ -36,7 +36,7 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 # Anki
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: Dot product of vectors
 DESCRIPTION: это частный случай [[Inner product of vectors]]
 FORMULA: $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
@@ -50,7 +50,7 @@ END
 
 TARGET DECK: math::linal 
 START
-Math_ONE_side
+math_complex
 TITLE: Properties of Dot product of vectors
 DESCRIPTION: 
 - [[Commutative identity]] $\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$

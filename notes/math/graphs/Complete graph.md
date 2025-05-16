@@ -24,7 +24,7 @@ $$m = \binom{n}{2}$$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Complete graph $K_n$
 DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 FORMULA: $$m = \binom{n}{2}$$

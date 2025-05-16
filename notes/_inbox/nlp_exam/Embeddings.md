@@ -54,7 +54,7 @@ tags:
 # Anki
 TARGET DECK: stem::ml::core
 START
-Math_ONE_side
+math_complex
 TITLE: Embedding  
 DESCRIPTION: A method for representing objects as dense vectors in a lower-dimensional space, where their similarity or semantic relationships are reflected by the proximity of their vectors. It is used to convert complex data into numerical formats.  
 FORMULA: A vector of dimension ddd, where ddd is smaller than the number of categories. Example: "king" → $[0.25,−0.64,0.13]$, "queen" → $[0.26,−0.63,0.14]$.  

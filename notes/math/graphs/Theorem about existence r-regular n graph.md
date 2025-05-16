@@ -21,7 +21,7 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: Theorem about existence r-regular n graph
 DESCRIPTION: For integers $r$ and $n$, there exists an $r$-regular graph of order $n$ if and only if
 $0 ≤ r ≤ n − 1$ 

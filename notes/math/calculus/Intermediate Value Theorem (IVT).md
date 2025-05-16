@@ -16,7 +16,7 @@ IVT says that if $f$ is continuous on an interval $[a,b]$, then for every number
 # Anki
 TARGET DECK: math::calculus 
 START
-Math_ONE_side
+math_complex
 TITLE: Intermediate Value Theorem (IVT)
 DESCRIPTION: While the [[Extreme Value Theorem (EVT)]]  says something about maximum (and minimum) values, the ==Intermediate Value Theorem== says something about the values in between.
  

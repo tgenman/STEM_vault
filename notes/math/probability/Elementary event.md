@@ -23,7 +23,7 @@ connected:
 # Anki
 TARGET DECK: math::probability
 START
-Math_ONE_side
+math_complex
 TITLE: Elementary event
 Элементарное событие, Элементарный исход
 DESCRIPTION: 1. Исходы образуют полную группу событий, то есть хотя бы один из них имеет место в результате броска

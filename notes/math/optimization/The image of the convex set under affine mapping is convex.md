@@ -22,7 +22,7 @@ Here $A_i, B \in \mathbf{S}^p$ are symmetric matrices $p \times p$.
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: The image of the convex set under affine mapping is
 DESCRIPTION: convex
 FORMULA:  $S \subseteq \mathbb{R}^n \text{ convex}\;\; \rightarrow \;\; f(S) = \left\{ f(x) \mid x \in S \right\} \text{ convex} \;\;\;\; \left(f(x) = \mathbf{A}x + \mathbf{b}\right)$

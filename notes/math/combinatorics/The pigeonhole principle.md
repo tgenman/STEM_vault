@@ -18,7 +18,7 @@ If $N$ pigeons are sitting in $K$ pigeonholes, there $N > K$ then at least one p
 # Anki
 TARGET DECK: math::combinatorics  
 START
-Math_ONE_side
+math_complex
 TITLE: The pigeonhole principle
 Принцип Дирихле
 DESCRIPTION: If $N$ items are put in $N-1$ containers then at least one container must contains more than one item

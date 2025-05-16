@@ -19,7 +19,7 @@ Proof. Assume, to the contrary, that there exists an irregular graph $G$ of orde
 # Anki
 TARGET DECK: math::graph 
 START
-Math_ONE_side
+math_complex
 TITLE:  Theorem about no existence irregular graph
 DESCRIPTION: No graph is irregular
 FORMULA: Proof

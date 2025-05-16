@@ -59,7 +59,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Difference between conic, convex, affine, and linear combinations. Hierarchy-based Comparison
 DESCRIPTION: 
 [[Convex combination]] $\subseteq$ [[Affine combination]] $\subseteq$ [[Linear combination]]  
@@ -69,7 +69,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Difference between conic, convex, affine, and linear combinations. Property-based Table
 DESCRIPTION:
 | Combination Type       | Restriction on $\sum\limits_{i=1}^n \alpha_i$ | Restriction on $\alpha_i$     |
@@ -83,7 +83,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Difference between conic, convex, affine, and linear combinations. Matrix-based Categorization
 DESCRIPTION:
 |                   | $\sum \alpha_i = 1$    | No restriction         |
@@ -95,7 +95,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Difference between Convex and Afiine combination on graph
 DESCRIPTION: Given three points ${x_1}$, ${x_2}$, ${x_3}$ on a plane. The point $P$ is a [[Convex combination]] of these three points, whereas $Q$ is not.
 ($Q$, however, is an [[Affine combination]] of these three vectors since their [[Affine hull - aff(S)]] coincides with the entire plane.)

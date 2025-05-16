@@ -20,7 +20,7 @@ $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Affine hull of set $S$
 DESCRIPTION: is the set of all [[Affine combination|affine combinations]]  of points in set $S$:
 FORMULA: $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\limits_{i=1}^k\theta_i = 1\right\}$

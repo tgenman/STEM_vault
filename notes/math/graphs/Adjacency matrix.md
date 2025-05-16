@@ -28,7 +28,7 @@ $$
 # Anki
 TARGET DECK: math::graph
 START
-Math_ONE_side
+math_complex
 TITLE: The adjacency matrix
 DESCRIPTION:  Suppose that $G$ is a graph of order $n$, where $V(G) = \{v_1, v_2, \ldots, v_n\}$. The adjacency matrix of $G$ is the $n \times n$ zero-one matrix $A(G) = [a_{ij}]$, or simply $A = [a_{ij}]$, where
 $$

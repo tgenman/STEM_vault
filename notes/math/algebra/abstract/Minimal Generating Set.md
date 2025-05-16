@@ -20,7 +20,7 @@ Equivalently, $S$ is minimal if for every $s \in S$, the set $S \setminus \{s\}$
 # Anki
 TARGET DECK: stem::math::algebra
 START
-Math_ONE_side
+math_complex
 TITLE: Minimal Generating Set
 DESCRIPTION: A generating set $S$ of a group $G$ is minimal if no proper subset of $S$ generates $G$. Equivalently, $S$ is minimal if for every $s \in S$, the set $S \setminus \{s\}$ does not generate $G$.
 FORMULA: 

@@ -22,7 +22,7 @@ $\mathcal{X} = \bigcap_{i \in I} X_i$
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: The intersection of any number of convex sets is 
 DESCRIPTION: convex
 The intersection of a finite or infinite number of convex sets $X_i$ is a convex set:

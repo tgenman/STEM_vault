@@ -36,7 +36,7 @@ $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Line (opt def)
 DESCRIPTION: Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
 Then the line passing through them is defined as follows:
@@ -48,7 +48,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Line. implicit equation
 DESCRIPTION:
 FORMULA: $\Large x + y = 1$
@@ -57,7 +57,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Line. parametric form
 FORMULA: $\Large l: \{ (x, y, z) \in R^3 | (x, y, z) = p_0 + t \vec{v}, t \in R \}$
 ID: 1734761884869
@@ -65,7 +65,7 @@ END
 
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: Line. Symmetric form
 FORMULA: $\large  x = p_{ox} + tv_x$
 $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}$

@@ -24,7 +24,7 @@ where $z = \alpha x + (1-\alpha) y \in \mathcal{X}$.
 # Anki
 TARGET DECK: math::optimization
 START
-Math_ONE_side
+math_complex
 TITLE: If the [[Domain Dom(f) or Preimage|domain]]  of any [[Function (math)|linear map]]  is convex, then the [[Range Ran(f) or Image Im(f)|image]]  of this map is
 DESCRIPTION: also convex.
 ADDITIONAL:
