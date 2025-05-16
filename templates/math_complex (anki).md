@@ -2,7 +2,7 @@
 TARGET DECK: stem::math::forgot #обс/фикс  
 
 START
-Math_TWO_side
+math_complex
 TITLE: 
 DESCRIPTION: 
 FORMULA: 

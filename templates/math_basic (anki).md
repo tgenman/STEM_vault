@@ -2,7 +2,7 @@
 TARGET DECK: stem::math::forgot #обс/фикс  
 
 START
-Math_ONE_basic
+math_basic
 QUESTION: 
 ANSWER: 
 END
