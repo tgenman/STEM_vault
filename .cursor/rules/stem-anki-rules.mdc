@@ -30,21 +30,22 @@ alwaysApply: true
 
 Example format for math_basic_single:
 ```text
-TARGET DECK: stem::math::combinatorics
+TARGET DECK: stem::math::sets
 START
 math_basic_single
-QUESTION: 
-ANSWER: 
+QUESTION: Symmetric difference
+$A \triangle \emptyset =$
+ANSWER: $A$
 END
 ```
 
 Example format for math_basic_double:
 ```text
-TARGET DECK: stem::math::combinatorics
+TARGET DECK: stem::math::graph
 START
 math_basic_double
-FRONT: 
-BACK: 
+FRONT: Clique
+BACK: Complete  Subgrap of $G$
 END
 ```
 

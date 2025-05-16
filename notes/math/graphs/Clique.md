@@ -9,7 +9,7 @@ connected:
   - "[[Vertex independence set]]"
 ---
 
-> [!tip] Сlique
+> [!tip] Clique
 > [[Complete graph|complete]] [[Subgraph]] of $G$
 
 > [!tip] k-clique
@@ -18,25 +18,22 @@ connected:
 
 
 # Anki
-TARGET DECK: math::graph
+TARGET DECK: stem::math::graph
+
 START
-Math_TWO_side
-TITLE: Сlique
-DESCRIPTION: Complete  Subgrap of $G$
-FORMULA: 
-ADDITIONAL:
-ID: 1705258440998
+math_basic_double
+FRONT: Clique
+BACK: Complete  Subgrap of $G$
+ID: 1747382109821
 END
 
-TARGET DECK: math::graph
 START
-Math_TWO_side
-TITLE: k-clique
-DESCRIPTION: A clique of order $k$
-FORMULA: 
-ADDITIONAL:
-ID: 1705258441000
+math_basic_double
+FRONT: k-clique
+BACK: A clique of order $k$
+ID: 1747382109822
 END
+
 
 
 
