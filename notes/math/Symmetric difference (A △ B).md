@@ -36,7 +36,7 @@ ID: 1747335314272
 END
 
 START
-math_basic
+math_basic_single
 QUESTION: Symmetric difference
 $A \triangle B =$
 ANSWER: $= (A \setminus B) \cup (B \setminus A)$
@@ -44,7 +44,7 @@ ID: 1747344449305
 END
 
 START
-math_basic
+math_basic_single
 QUESTION: Symmetric difference
 $A \triangle \emptyset =$
 ANSWER: $A$
@@ -52,7 +52,7 @@ ID: 1747344449309
 END
 
 START
-math_basic
+math_basic_single
 QUESTION: Symmetric difference
 $A \triangle A =$
 ANSWER: $\emptyset$
@@ -60,7 +60,7 @@ ID: 1747344449311
 END
 
 START
-math_basic
+math_basic_single
 QUESTION: Symmetric difference
 $(A\triangle B)\triangle C =$
 ANSWER: $A\triangle(B\triangle C) = B\triangle(A\triangle C)$
