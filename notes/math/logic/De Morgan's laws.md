@@ -4,8 +4,7 @@ aliases:
 parent:
   - "[[Operations on sets]]"
   - "[[👤 de Morgan, Augustus]]"
-connected:
-  - "[[Второй закон де Моргана]]"
+connected: []
 anki: false
 created: 2025-05-16 14:57
 tags:

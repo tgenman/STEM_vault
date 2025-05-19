@@ -14,17 +14,13 @@ connected:
 > [!tip] A multiset
 is a collection of objects in which each object can appear more than once.
 
-
 # Anki
-TARGET DECK: math::set
+TARGET DECK: stem::math::sets
 START
-Math_TWO_side
+math_basic_double
 FRONT: Multiset
-Множество с повторениями
 BACK: is a collection of objects in which each object can appear more than once.
-FORMULA: 
-ADDITIONAL:
-ID: 1705599792918
+ID: 1747687123921
 END
 
 
