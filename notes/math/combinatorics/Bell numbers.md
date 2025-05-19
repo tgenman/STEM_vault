@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Числа Белла
 anki: true
 created: 2024-01-21 16:14
 parent:

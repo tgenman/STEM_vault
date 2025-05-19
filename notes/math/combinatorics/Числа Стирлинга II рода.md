@@ -5,7 +5,7 @@ parent:
   - "[[Partition of a set|Разбиение множества]]"
 connected:
   - "[[519.101 Combinatorics MOC]]"
-  - "[[Числа Белла]]"
+  - "[[Bell numbers]]"
 ---
 
 > [!tip] Числа Стирлинга второго рода $S(n, k)$

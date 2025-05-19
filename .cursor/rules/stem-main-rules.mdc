@@ -43,6 +43,7 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
   connected:
     - "[[Connected Concept]]"
   created: 2023-10-23 16:47
+  anki: true
   tags:
   ---
 

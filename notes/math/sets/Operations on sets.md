@@ -16,6 +16,8 @@ created: 2024-07-03 10:46
 [[Symmetric difference (A △ B)]]
 [[Minkowski sum]]
 
+- [[Power Set]]
+
 [[Cartesian product of sets]]
 - [[Partition of a set]]
     - [[Residue classes modulo n
