@@ -20,8 +20,8 @@ Gaussian elimination is an algorithm that performs [[Elementary transformations]
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: The Gaussian Elimination Method
-DESCRIPTION: Gaussian elimination is an algorithm that performs [[Elementary transformations]]  to bring a [[Systems of Linear Equations]]  into [[Reduced Row-Echelon form RREF|RREF]] .
+FRONT: The Gaussian Elimination Method
+BACK: Gaussian elimination is an algorithm that performs [[Elementary transformations]]  to bring a [[Systems of Linear Equations]]  into [[Reduced Row-Echelon form RREF|RREF]] .
 FORMULA: 
 ADDITIONAL:
 PICTURE: ![[Pasted image 20230912205727.png]]

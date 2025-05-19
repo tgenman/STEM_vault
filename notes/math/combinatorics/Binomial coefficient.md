@@ -29,8 +29,8 @@ $$
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: $$\binom{n}{k} =$$
-DESCRIPTION: $$= \frac{n!}{k!(n-k)!}$$
+FRONT: $$\binom{n}{k} =$$
+BACK: $$= \frac{n!}{k!(n-k)!}$$
 FORMULA: 
 ADDITIONAL:
 ID: 1699125498477
@@ -39,8 +39,8 @@ END
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: $$\binom{0}{0} = ?$$
-DESCRIPTION: $$ = 1$$
+FRONT: $$\binom{0}{0} = ?$$
+BACK: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
 ID: 1698689820228
@@ -49,8 +49,8 @@ END
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: $$\binom{1}{0} = ?$$
-DESCRIPTION: $$ = 1$$
+FRONT: $$\binom{1}{0} = ?$$
+BACK: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
 ID: 1698689820237
@@ -60,8 +60,8 @@ END
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: $$\binom{n}{0} = ?$$
-DESCRIPTION: $$ = 1$$
+FRONT: $$\binom{n}{0} = ?$$
+BACK: $$ = 1$$
 FORMULA: 
 ADDITIONAL:
 ID: 1698689820242
@@ -70,8 +70,8 @@ END
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: $$\binom{n}{1} = ?$$
-DESCRIPTION: $$ = n$$
+FRONT: $$\binom{n}{1} = ?$$
+BACK: $$ = n$$
 FORMULA: 
 ADDITIONAL:
 ID: 1698689820246

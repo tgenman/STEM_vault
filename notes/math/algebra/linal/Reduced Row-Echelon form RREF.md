@@ -22,8 +22,8 @@ An equation system is in reduced row-echelon form (also: row-reduced echelon for
 TARGET DECK: math::linal  
 START
 math_complex
-TITLE: Reduced Row-Echelon form RREF
-DESCRIPTION: An equation system is in reduced row-echelon form (also: row-reduced echelon form or row canonical form) if
+FRONT: Reduced Row-Echelon form RREF
+BACK: An equation system is in reduced row-echelon form (also: row-reduced echelon form or row canonical form) if
 - It is in [[Row-Echelone form REF|REF]].
 - Every [[Pivot]] is 1.
 - The [[Pivot]]  is the only nonzero entry in its column.

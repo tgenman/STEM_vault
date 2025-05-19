@@ -23,8 +23,8 @@ Here $A_i, B \in \mathbf{S}^p$ are symmetric matrices $p \times p$.
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: The image of the convex set under affine mapping is
-DESCRIPTION: convex
+FRONT: The image of the convex set under affine mapping is
+BACK: convex
 FORMULA:  $S \subseteq \mathbb{R}^n \text{ convex}\;\; \rightarrow \;\; f(S) = \left\{ f(x) \mid x \in S \right\} \text{ convex} \;\;\;\; \left(f(x) = \mathbf{A}x + \mathbf{b}\right)$
 ID: 1734968678484
 END

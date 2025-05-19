@@ -18,8 +18,8 @@ $C_3 = K_3$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Triangle (graph)
-DESCRIPTION: 3-cycle
+FRONT: Triangle (graph)
+BACK: 3-cycle
 [[Complete graph]] with $n=3$
 FORMULA: $C_3 = K_3$
 ADDITIONAL:

@@ -16,9 +16,9 @@ A [[Walk W|walk]] whose initial and terminal vertices are same
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Closed walk
+FRONT: Closed walk
 Замкнутый маршрут
-DESCRIPTION: A [[Walk W|walk]] whose initial and terminal vertices are same
+BACK: A [[Walk W|walk]] whose initial and terminal vertices are same
 FORMULA: 
 ADDITIONAL:
 ID: 1705262071040

@@ -17,9 +17,9 @@ The subsets are the ==cells== of the partition.
 TARGET DECK: math::set 
 START
 Math_TWO_side
-TITLE: A partition of a set $S$ 
+FRONT: A partition of a set $S$ 
 Разбиение множества
-DESCRIPTION: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
+BACK: is a collection of nonempty [[Subset|subsets]] of $S$ such that every element of $S$ is in exactly one of the subsets. 
 The subsets are the ==cells== of the partition.
 FORMULA: 
 ADDITIONAL:

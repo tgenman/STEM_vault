@@ -33,8 +33,8 @@ $$
 TARGET DECK: math::common
 START
 math_complex
-TITLE: Сomplex conjugate
-DESCRIPTION: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
+FRONT: Сomplex conjugate
+BACK: The complex conjugate== of a [[Complex numbers C|complex number]] $z$, written as $\overline z,$ is the number with the same real part, with the [[Imaginary numbers|imaginary part]] negated. 
 FORMULA: So, if $z=a+bi$, then $\overline{z}=a-bi.$
 ADDITIONAL:If $z=a+bi$, then $\Re(z)=a.$ Therefore, $z+\overline{z}=a+bi+a-bi=2a$
 Therefore, $\Re(z)=(z+\overline{z})/2.$

@@ -20,9 +20,9 @@ or [[Multigraph (H)]] + [[Loop (graph)]]
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Pseudograph
+FRONT: Pseudograph
 Псевдограф
-DESCRIPTION: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
+BACK: Structures that permit both [[Parallel edges]]  and [[Loop (graph)]]  (including parallel loops)
 or [[Multigraph (H)]] + [[Loop (graph)]]
 FORMULA: ![[Pasted image 20231115154026.png]]
 ADDITIONAL:

@@ -17,8 +17,8 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Empty graph
-DESCRIPTION: if size $m = 0$
+FRONT: Empty graph
+BACK: if size $m = 0$
 FORMULA: 
 ADDITIONAL:
 ID: 1699132303418

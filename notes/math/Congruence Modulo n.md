@@ -18,9 +18,9 @@ For example, we have $15 ≡ 27$ (mod $4$) because both $15$ and $27$ have remai
 TARGET DECK: math::set
 START
 math_complex
-TITLE: Congruence Modulo n
+FRONT: Congruence Modulo n
 Сравнение по модулю n
-DESCRIPTION: ==Congruence Modulo n== - [[Equivalence Relation]] such:
+BACK: ==Congruence Modulo n== - [[Equivalence Relation]] such:
 $a ≡ b$ (mod $n$), read, “==$a$ is congruent to $b$ modulo $n$.==” 
 For example, we have $15 ≡ 27$ (mod $4$) because both $15$ and $27$ have remainder $3$ when divided by $4$.
 FORMULA: 

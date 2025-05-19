@@ -25,16 +25,16 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: First De Morgan's law (def)
-DESCRIPTION: $\overline{A \cup B} = \bar{A} \cap \bar{B}$
+FRONT: First De Morgan's law (def)
+BACK: $\overline{A \cup B} = \bar{A} \cap \bar{B}$
 PICTURE: ![[Screenshot 2022-07-12 at 11.32.18.png|400]]
 ID: 1747397199297
 END
 
 START
 math_complex
-TITLE: Second De Morgan's law (def)
-DESCRIPTION: $\overline{A \cap B} = \bar{A} \cup \bar{B}$
+FRONT: Second De Morgan's law (def)
+BACK: $\overline{A \cap B} = \bar{A} \cup \bar{B}$
 PICTURE: ![[Screenshot 2022-07-12 at 11.34.23.png|400]]
 ID: 1747397199298
 END

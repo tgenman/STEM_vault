@@ -18,8 +18,8 @@ As we can see, $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{
 TARGET DECK: math::set
 START
 Math_TWO_side
-TITLE: Residue classes modulo n (Modulus)
-DESCRIPTION: $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{2},\ldots,\overline{n-1}}$
+FRONT: Residue classes modulo n (Modulus)
+BACK: $\mathbb{Z}/n\mathbb{Z}=\set{\overline{0},\overline{1},\overline{2},\ldots,\overline{n-1}}$
 FORMULA: 
 ADDITIONAL:
 ID: 1697899492182

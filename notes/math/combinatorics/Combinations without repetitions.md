@@ -24,8 +24,8 @@ $$C_n^k = P(k, n-k)$$
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side
-TITLE:  Combinations without repetitions
-DESCRIPTION: A ==k-combination== from n elements (n-element set A) is an k-element subset of A. 
+FRONT:  Combinations without repetitions
+BACK: A ==k-combination== from n elements (n-element set A) is an k-element subset of A. 
 - Не интересует порядок. Интересует только состав.
 - Сочетания  - это в точности [[Set (math)|подмножества]]  из $k$ элементов заданного множества из $n$ элементов
 - an k-element subset of A. 

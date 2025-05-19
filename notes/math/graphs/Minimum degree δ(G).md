@@ -14,8 +14,8 @@ is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Minimum degree
-DESCRIPTION: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
+FRONT: Minimum degree
+BACK: is the minimal [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 
 ADDITIONAL:
 ID: 1699164425904

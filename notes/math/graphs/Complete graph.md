@@ -25,8 +25,8 @@ $$m = \binom{n}{2}$$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Complete graph $K_n$
-DESCRIPTION: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
+FRONT: Complete graph $K_n$
+BACK: is a [[Simple Graph (G)|graph]] graph in which every two distinct [[Vertex of graph (V)|vertices]] are adjacent
 FORMULA: $$m = \binom{n}{2}$$
 ADDITIONAL: 
 PICTURE: ![[Pasted image 20231031224948.png]]

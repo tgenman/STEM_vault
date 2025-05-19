@@ -23,8 +23,8 @@ Example: $\|[1, 2, 3]\|_\infty = 3$, $\|[1, 0]\|_\infty = 1$, $\|[-1, 0.5]\|_\in
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Max norm (L_infinity) (Бесконечная норма, Норма шахматной доски, Максимальная норма)
-DESCRIPTION: $\ell_\infty$: $\|x\|_\infty = \max_i |x_i|$
+FRONT: Max norm (L_infinity) (Бесконечная норма, Норма шахматной доски, Максимальная норма)
+BACK: $\ell_\infty$: $\|x\|_\infty = \max_i |x_i|$
 FORMULA: 
 ADDITIONAL:
 > Example: $\|[1, 2, 3]\|_\infty = 3$, $\|[1, 0]\|_\infty = 1$, $\|[-1, 0.5]\|_\infty = 1$.

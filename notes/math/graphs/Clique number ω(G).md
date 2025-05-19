@@ -16,8 +16,8 @@ is the [[Order of graph (n)|order]] of the largest [[Clique]]
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: The clique number $ω(G)$ of a graph $G$ 
-DESCRIPTION: is the [[Order of graph (n)|order]] of the largest [[Clique]]
+FRONT: The clique number $ω(G)$ of a graph $G$ 
+BACK: is the [[Order of graph (n)|order]] of the largest [[Clique]]
 FORMULA: 
 ADDITIONAL:
 ID: 1705261600873

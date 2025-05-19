@@ -23,9 +23,9 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: Codomain 
+FRONT: Codomain 
 Target set
-DESCRIPTION: Множество, в рамках которого рассматриваются возможные выходные значения функции.
+BACK: Множество, в рамках которого рассматриваются возможные выходные значения функции.
 PICTURE:![[Pasted image 20240117200108.png|300]]
 ID: 1747395927125
 END

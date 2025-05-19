@@ -27,8 +27,8 @@ tags:
 TARGET DECK: math::set
 START
 Math_TWO_side
-TITLE: Complement of Set is
-DESCRIPTION: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
+FRONT: Complement of Set is
+BACK: называют [[Set (math)|множество]], которое состоит из всех элементов, не лежащих в $A$.
 PICTURE: ![[Pasted image 20220712111557.png|500]]
 ID: 1706031862933
 END
@@ -36,8 +36,8 @@ END
 TARGET DECK: math::set
 START
 math_complex
-TITLE: Properties of Complement of Set
-DESCRIPTION: - $A \cup \overline{A} = U$
+FRONT: Properties of Complement of Set
+BACK: - $A \cup \overline{A} = U$
 - $A \cap \overline{A} = \emptyset$
 - $\overline{U} = \emptyset$
 - $\bar{\bar{A}} = A$

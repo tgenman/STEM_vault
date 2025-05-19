@@ -35,8 +35,8 @@ $\text{var}(X) = E[(X - E[X])^2]$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Variance
-DESCRIPTION: a measure of the spread of a [[PMF - p_X(x)|PMF]] 
+FRONT: Variance
+BACK: a measure of the spread of a [[PMF - p_X(x)|PMF]] 
 FORMULA: 
 > $\text{var}(X) = \sum_{x} (x-\mu)^2 p_X(x)$
 > $\text{var}(X) = E[(X - E[X])^2]$
@@ -48,8 +48,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Properties of Variance
-DESCRIPTION: 
+FRONT: Properties of Variance
+BACK: 
 - $\text{var}(aX + b) = a^2\text{var}(X)$
     - $\text{var}(aX + b) = \sum_{x} (ax + b - E[aX + b])^2 p_X(x)$ $= \sum_{x} (ax + b - aE[X] - b)^2 p_X(x)$ $= a^2 \sum_{x} (x - E[X])^2 p_X(x) = a^2 \text{var}(X).$
 - $\text{var}(X) = E[X^2] - (E[X])^2$ - Variance in Terms of [[Moment of r.v.|Moments]]  Expression

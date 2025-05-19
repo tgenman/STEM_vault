@@ -40,8 +40,8 @@ $\textcolor{red}{minimum}  \Rightarrow \textcolor{blue}{minimal}$ but $\textcolo
 TARGET DECK: stem::math::algebra
 START
 math_complex
-TITLE: Generating Set 
-DESCRIPTION: A subset $S \subseteq G$ such that every element $g \in G$ can be expressed as a finite product of elements from $S$ and their inverses. This is denoted as $G = \langle S \rangle$.
+FRONT: Generating Set 
+BACK: A subset $S \subseteq G$ such that every element $g \in G$ can be expressed as a finite product of elements from $S$ and their inverses. This is denoted as $G = \langle S \rangle$.
 FORMULA: $G = \langle S \rangle$
 ADDITIONAL:
 ID: 1747395365901
@@ -50,8 +50,8 @@ END
 TARGET DECK: stem::math::algebra
 START
 math_complex
-TITLE: Example of Minimal vs Minimum Generating Sets: Hexagon Group
-DESCRIPTION:The hexagon symmetry group has: 
+FRONT: Example of Minimal vs Minimum Generating Sets: Hexagon Group
+BACK:The hexagon symmetry group has: 
 - $\langle r, f \rangle$ is a minimum (and hence minimal) generating set.
 - $\langle r^2, r^3, f \rangle$ is a minimal (but not minimum) generating set.
 >For any generating set $S$ of $G$,

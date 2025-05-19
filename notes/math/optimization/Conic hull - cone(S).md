@@ -21,8 +21,8 @@ $\mathbf{cone}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \; \
 TARGET DECK: math::optimization  
 START
 math_complex
-TITLE: Conic hull of $S$
-DESCRIPTION: 
+FRONT: Conic hull of $S$
+BACK: 
 is set of all [[Conic combination]]  of points in set $S$:
 $\mathbf{cone}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \; \theta_i \ge 0\right\}$
 PICTURE: ![[conic_hull.svg]]

@@ -31,8 +31,8 @@ $$\mathrm{A}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{12}}&\color{blu
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Matrix Transpose
-DESCRIPTION: For $A \in \mathbb{R}^{m \times n}$ the matrix $B \in \mathbb{R}^{n \times m}$ with $b_{ij} = a_{ji}$ is called the transpose of $A$. We write $B = A^T$.
+FRONT: Matrix Transpose
+BACK: For $A \in \mathbb{R}^{m \times n}$ the matrix $B \in \mathbb{R}^{n \times m}$ with $b_{ij} = a_{ji}$ is called the transpose of $A$. We write $B = A^T$.
 FORMULA: $$\mathrm{A}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{12}}&\color{blue}{a_{13}}&\ldots&\color{blue}{a_{1n}}\\\color{blue}{a_{21}}&\color{blue}{a_{22}}&\color{blue}{a_{23}}&\ldots&\color{blue}{a_{2n}}\\\ldots&\ldots&\ldots&\ldots&\ldots\\\color{blue}{a_{m1}}&\color{blue}{a_{m2}}&\color{blue}{a_{m3}}&\ldots&\color{blue}{a_{mn}}\end{pmatrix}\quad\mathrm{A}^\mathrm{T}=\begin{pmatrix}\color{blue}{a_{11}}&\color{blue}{a_{21}}&\ldots&\color{blue}{a_{m1}}\\\color{blue}{a_{12}}&\color{blue}{a_{22}}&\ldots&\color{blue}{a_{m2}}\\\color{blue}{a_{13}}&\color{blue}{a_{23}}&\ldots&\color{blue}{a_{m3}}\\\ldots&\ldots&\ldots&\ldots\\\color{blue}{a_{1n}}&\color{blue}{a_{2n}}&\ldots&\color{blue}{a_{mn}}\end{pmatrix}$$
 ADDITIONAL:
 PICTURE:
@@ -42,8 +42,8 @@ END
 TARGET DECK: math::linal  
 START
 math_complex
-TITLE: Properties of Matrix Transpose
-DESCRIPTION: 
+FRONT: Properties of Matrix Transpose
+BACK: 
 -   $(A^{T})^{T}=A$
 -   $(A+B)^{T}=A^{T}+B^{T}$
 -   $(AB)^{T}=B^{T}A^{T}$

@@ -21,8 +21,8 @@ $$
 TARGET DECK: math::common  
 START
 math_complex
-TITLE:  Factoring
-DESCRIPTION: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
+FRONT:  Factoring
+BACK: writing a [[Polynomial|polynomial]]  as a product of other polynomials of lower degree
 FORMULA: 
 $$x^2-x-2=(x+1)(x-2).$$
 

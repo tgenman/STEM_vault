@@ -16,8 +16,8 @@ $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Magic square
-DESCRIPTION: A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
+FRONT: Magic square
+BACK: A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
 FORMULA: $$\begin{pmatrix}2&7&6\\9&5&1\\4&3&8\end{pmatrix}$$
 ADDITIONAL:
 ID: 1699125606002

@@ -28,8 +28,8 @@ connected:
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Properties of Random experiment
-DESCRIPTION: 
+FRONT: Properties of Random experiment
+BACK: 
 - повторяемость
 - отсутствие детерминистической регулярности
 - статистическая устойчивость частот
@@ -41,8 +41,8 @@ END
 
 START
 math_complex
-TITLE: Математическая модель случайного эксперимента
-DESCRIPTION: 
+FRONT: Математическая модель случайного эксперимента
+BACK: 
 - Разные результаты экспериментов  <-> $\Omega = \{\omega_1, ..., \omega_n\}$
     - [[Elementary event]] и [[Sample space]]
 - Событие (словестные) <-> $A \subset \Omega$  $A = \{1, 3, 5\}$ - выпадет нечет

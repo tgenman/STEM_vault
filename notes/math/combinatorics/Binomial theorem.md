@@ -37,8 +37,8 @@ $$=\sum_{k=0}^{n-1}\binom{n-1}{k}(a^{n-k}b^k+a^{n-1-k}b^{k+1})=\sum_{k=0}^na^{n-
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: Binomial theorem
-DESCRIPTION: $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
+FRONT: Binomial theorem
+BACK: $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$
 $$=\binom n0a^n+\binom n1a^{n-1}b+\ldots+\binom nnb^n$$
 FORMULA: Binomial Theorem. Proof
 

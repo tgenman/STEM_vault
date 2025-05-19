@@ -13,8 +13,8 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: The average degree of a graph $G$ of order $n$ and size $m$ is
-DESCRIPTION: $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
+FRONT: The average degree of a graph $G$ of order $n$ and size $m$ is
+BACK: $$\frac{\sum_{v\in V(G)}\deg v}{n}=\frac{2m}{n}.$$
 FORMULA: 
 ADDITIONAL:
 ID: 1699170504197

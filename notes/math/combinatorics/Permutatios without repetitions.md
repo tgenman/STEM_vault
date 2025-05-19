@@ -24,9 +24,9 @@ $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: Permutatios without repetitions
+FRONT: Permutatios without repetitions
 Перестановки без повторения
-DESCRIPTION: 1. Число [[Arrangements without repetition|размещений]] если $n = k$ (то есть всего множества элементов)
+BACK: 1. Число [[Arrangements without repetition|размещений]] если $n = k$ (то есть всего множества элементов)
 > 2. Всевозможные [[Tuple|кортежи]], каждый из которых содежит все эти элементы по одному разу и которые отличаются друг от друга лишь порядком элементов
 FORMULA: $$P_n = A_n^n = n \cdot (n-1) \cdot ... \cdot 1 = n!$$
 ADDITIONAL: #### Пример

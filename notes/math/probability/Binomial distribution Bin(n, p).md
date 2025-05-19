@@ -38,8 +38,8 @@ $\sum_{k=0}^{n} \binom{n}{k} p^k (1-p)^{n-k} = 1$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Binomial r.v.  $\text{Bin}(n, p)$
-DESCRIPTION: 
+FRONT: Binomial r.v.  $\text{Bin}(n, p)$
+BACK: 
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \binom{n}{x}p^x(1-p)^{n-x}$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = I_{1-p}(n-x, x+1)$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = np$
@@ -63,8 +63,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Expected value of Binomial Distribution
-DESCRIPTION: $\mathbb{E}[X] = np$
+FRONT: Expected value of Binomial Distribution
+BACK: $\mathbb{E}[X] = np$
 FORMULA: 
 ADDITIONAL:
 PICTURE:
@@ -74,8 +74,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Variance of Binomial Distribution
-DESCRIPTION: $\mathbb{V}[X] = np(1-p)$
+FRONT: Variance of Binomial Distribution
+BACK: $\mathbb{V}[X] = np(1-p)$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

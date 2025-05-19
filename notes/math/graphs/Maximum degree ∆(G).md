@@ -15,8 +15,8 @@ is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Maximum degree ($∆(G)$)
-DESCRIPTION: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
+FRONT: Maximum degree ($∆(G)$)
+BACK: is the largest [[Degree of a vertex (deg)|degree]] among the vertices of $G$
 FORMULA: 
 ADDITIONAL:
 ID: 1699165371508

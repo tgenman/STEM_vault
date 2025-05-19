@@ -21,9 +21,9 @@ $$P = (u,v,w,y)$$
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Path $P$
+FRONT: Path $P$
 Простая цепь
-DESCRIPTION: a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
+BACK: a [[Walk W|walk]] in a graph $G$ in which no [[Vertex of graph (V)|vertex]]  is repeated. 
 FORMULA: Every ==nontrivial path== is necessarily an [[Open walk]].
 $$P = (u,v,w,y)$$
 ADDITIONAL:

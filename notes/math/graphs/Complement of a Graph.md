@@ -29,8 +29,8 @@ The complement $K_n$ of the complete graph $K_n$ is the [[Empty graph|empty grap
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: The complement $\bar{G}$ of a graph G 
-DESCRIPTION: is that graph with vertex set $V(G)$ such that two vertices are [[Adjacent in graph|adjacent]] adjacent in $\bar{G}$ if and only if these vertices are not adjacent in $G$.
+FRONT: The complement $\bar{G}$ of a graph G 
+BACK: is that graph with vertex set $V(G)$ such that two vertices are [[Adjacent in graph|adjacent]] adjacent in $\bar{G}$ if and only if these vertices are not adjacent in $G$.
 FORMULA: ![[Pasted image 20231103173134.png]]
 ADDITIONAL:If $G$ is a graph of order $n$ and size $m$, then $\bar{G}$ is a graph of order $n$ and size $\binom n2 - m$. 
 The complement $K_n$ of the complete graph Kn is the [[Empty graph|empty graph]] of order $n$.

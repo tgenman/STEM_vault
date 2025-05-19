@@ -32,8 +32,8 @@ If additionally [[Commutative identity]] $\forall x, y \in \mathcal{G} : x \otim
 TARGET DECK: stem::math::algebra
 START
 math_complex
-TITLE: Group (formal definition)
-DESCRIPTION: A set $G$ with a binary operation $*$ satisfying:
+FRONT: Group (formal definition)
+BACK: A set $G$ with a binary operation $*$ satisfying:
 - Closure: $\forall a,b \in G: a * b \in G$
 - Associativity: $\forall a,b,c \in G: (a * b) * c = a * (b * c)$
 - Identity: $\exists e \in G \forall g \in G: e * g = g * e = g$
@@ -46,8 +46,8 @@ END
 TARGET DECK: stem::math::algebra
 START
 math_complex
-TITLE: Group (alternative definition)
-DESCRIPTION: is a monoid with the presence of an inverse element
+FRONT: Group (alternative definition)
+BACK: is a monoid with the presence of an inverse element
 FORMULA: 
 ADDITIONAL:
 ID: 1746886388949

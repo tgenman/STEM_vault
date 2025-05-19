@@ -28,8 +28,8 @@ Addition is a binary operation that combines two elements from a set to produce 
 TARGET DECK: stem::math::algebra
 START
 math_complex
-TITLE: Addition
-DESCRIPTION: Addition is a binary operation that combines two elements from a set to produce another element of the same set, forming the basis of algebraic structures like [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
+FRONT: Addition
+BACK: Addition is a binary operation that combines two elements from a set to produce another element of the same set, forming the basis of algebraic structures like [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
 FORMULA: 
 $a + b = b + a$ (Commutative), 
 $(a + b) + c = a + (b + c)$ (Associative), 

@@ -22,8 +22,8 @@ That the conditions are necessary is an immediate consequence of Corollary 1.5 a
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about existence r-regular n graph
-DESCRIPTION: For integers $r$ and $n$, there exists an $r$-regular graph of order $n$ if and only if
+FRONT: Theorem about existence r-regular n graph
+BACK: For integers $r$ and $n$, there exists an $r$-regular graph of order $n$ if and only if
 $0 ≤ r ≤ n − 1$ 
 $r$ and $n$ are not both odd.
 FORMULA: 

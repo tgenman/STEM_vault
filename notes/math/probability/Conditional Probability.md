@@ -44,8 +44,8 @@ $P(A | B) = \frac{P(A \cap B)}{P(B)}$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: The conditional probability $\mathbb{P}(A|B)$
-DESCRIPTION: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
+FRONT: The conditional probability $\mathbb{P}(A|B)$
+BACK: is the probability of event $A$ calculated with just the outcomes where the condition $B$ holds.
 FORMULA:  $P(A | B) = \frac{P(A \cap B)}{P(B)} = \frac{|A \cap B|}{|B|}$
 $$P(A|B)P(B) = P(A \cap B)$$
 $P(A | B) = \frac{\text{number of elements of } A \cap B}{\text{number of elements of } B}.$
@@ -61,8 +61,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Example of conditional probability
-DESCRIPTION:
+FRONT: Example of conditional probability
+BACK:
 > Event $A$: Airplane is flying above
 > Event $B$: Something registers on radar screen
 > ![[Pasted image 20240320165213.png|300]]

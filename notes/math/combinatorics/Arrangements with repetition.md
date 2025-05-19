@@ -21,9 +21,9 @@ $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side
-TITLE: An arrangement with repetition
+FRONT: An arrangement with repetition
 Размещения с повторениями (расстановки)
-DESCRIPTION: is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements can occures not once
+BACK: is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements can occures not once
 используются, когда мы выбираем и упорядочиваем $k$ объектов из набора из $n$ объектов, причем каждый объект можно выбирать неоднократно. То есть, один и тот же объект может появляться в выборке более одного раза.
 FORMULA: $$\bar{A_n^k} = n \cdot n \cdot ... \cdot n = n^k$$
 ADDITIONAL:

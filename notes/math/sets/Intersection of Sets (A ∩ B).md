@@ -19,9 +19,9 @@ connected:
 TARGET DECK: math::set
 START
 math_complex
-TITLE: Intersection of Sets (A ∩ B)
+FRONT: Intersection of Sets (A ∩ B)
 **Пересечение** $A∩B$ двух множеств $A$ и $B$ 
-DESCRIPTION: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
+BACK: множество, которое состоит из элементов, которые принадлежат обоим исходным множествам. 
 FORMULA: ![[Pasted image 20220630190715.png]]
 ADDITIONAL:
 ID: 1706040702788

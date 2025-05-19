@@ -27,8 +27,8 @@ Two sets $X$ and $Y$ have the ==same cardinality (равномощные)== if t
 TARGET DECK: math::set 
 START
 math_complex
-TITLE: Cardinality
-DESCRIPTION: The number of elements in a set $X$.
+FRONT: Cardinality
+BACK: The number of elements in a set $X$.
 > Denoted by $|X|$
 FORMULA: 
 ADDITIONAL:

@@ -24,8 +24,8 @@ if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
 TARGET DECK: math::optimization
 START
 Math_TWO_side
-TITLE: Linear combination
-DESCRIPTION: for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
+FRONT: Linear combination
+BACK: for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
 is the point $\theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_k x_k$  
 if there is no restriction on $\sum\limits_{i=1}^k \theta_i$.
 FORMULA: 

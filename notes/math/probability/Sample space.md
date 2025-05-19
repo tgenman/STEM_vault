@@ -26,10 +26,10 @@ $A = \{1, 3, 5\}$ - outcome is odd
 TARGET DECK: math::probability
 START
 Math_TWO_side
-TITLE: Sample space $\Omega$ 
+FRONT: Sample space $\Omega$ 
 (Informal definition)
 Пространство элементарных исходов $\Omega$
-DESCRIPTION: the set of all possible outcomes of an experiment
+BACK: the set of all possible outcomes of an experiment
 FORMULA: 
 ADDITIONAL: 
 ID: 1697972538023
@@ -37,10 +37,10 @@ END
 
 START
 math_complex
-TITLE: Sample space $\Omega$ 
+FRONT: Sample space $\Omega$ 
 (Formal definition)
 Пространство элементарных исходов $\Omega$
-DESCRIPTION: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
+BACK: - ==Sample space $\Omega$ ==- abstract set - пространство элементарных исходов
 - $\omega \in \Omega$ - [[Elementary event]] (element of set)
 - $A \subset \Omega$ - an [[Event]] (subset of set)
 FORMULA: 

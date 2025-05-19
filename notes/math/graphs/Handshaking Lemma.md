@@ -24,9 +24,9 @@ When summing the degrees of the vertices of $G$, each edge of $G$ is counted twi
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Handshaking Lemma
+FRONT: Handshaking Lemma
 Лемма о рукопожатиях
-DESCRIPTION: If $G$ is a graph of size $m$, then
+BACK: If $G$ is a graph of size $m$, then
 $$\sum_{v\in V(G)}\deg v=2m.$$
 FORMULA: 
 ADDITIONAL: ### Proof

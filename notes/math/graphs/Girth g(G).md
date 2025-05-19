@@ -19,8 +19,8 @@ connected:
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Girth of $G$ $g(G)$
-DESCRIPTION: the length of a smallest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
+FRONT: Girth of $G$ $g(G)$
+BACK: the length of a smallest [[Cycle graph (C_n)|cycle]]  in a graph $G$ (containing cycles)
 FORMULA: 
 ADDITIONAL:
 ID: 1705258523774

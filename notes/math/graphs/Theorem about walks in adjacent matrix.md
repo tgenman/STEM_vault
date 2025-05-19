@@ -29,8 +29,8 @@ By the Principle of Mathematical Induction, $a_{ij}^{(k)}$ is the number of diff
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about walks in adjacent matrix
-DESCRIPTION: Let $G$ be a graph with vertex set $V(G) = \{v_1, v_2, \ldots, v_n\}$ and [[Adjacency matrix|adjacency matrix]]  $A$. For each positive integer $k$, the number of different $v_i - v_j$  [[Walk W|walks]] of length $k$ in $G$ is the $(i,j)$-entry in the matrix $A^k$.
+FRONT: Theorem about walks in adjacent matrix
+BACK: Let $G$ be a graph with vertex set $V(G) = \{v_1, v_2, \ldots, v_n\}$ and [[Adjacency matrix|adjacency matrix]]  $A$. For each positive integer $k$, the number of different $v_i - v_j$  [[Walk W|walks]] of length $k$ in $G$ is the $(i,j)$-entry in the matrix $A^k$.
 FORMULA: ### Proof
 Let $a_{ij}^{(k)}$ denote the $(i,j)$-entry in the matrix $A^k$ for a positive integer $k$. Thus, $A^1 = A$ and $a_{ij}^{(1)} = a_{ij}$. We proceed by induction on $k$. For vertices $v_i$ and $v_j$ of $G$, there can be only one $v_i - v_j$ walk of length 1 or no $v_i - v_j$ walks of length 1, and this occurs if $a_{ij} = 1$ or $a_{ij} = 0$, respectively. Therefore, the $(i,j)$-entry of the matrix $A$ is the number of $v_i - v_j$ walks of length 1 in $G$. Thus, the basis step of the induction is established.
 

@@ -21,8 +21,8 @@ $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Affine hull of set $S$
-DESCRIPTION: is the set of all [[Affine combination|affine combinations]]  of points in set $S$:
+FRONT: Affine hull of set $S$
+BACK: is the set of all [[Affine combination|affine combinations]]  of points in set $S$:
 FORMULA: $\mathbf{aff}(S) = \left\{ \sum\limits_{i=1}^k\theta_i x_i \mid x_i \in S, \sum\limits_{i=1}^k\theta_i = 1\right\}$
 ADDITIONAL: The set $\mathbf{aff}(S)$ is the smallest affine set containing $S$.
 PICTURE:

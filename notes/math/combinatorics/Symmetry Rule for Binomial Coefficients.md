@@ -19,8 +19,8 @@ $$
 TARGET DECK: math::combinatorics
 START
 Math_TWO_side
-TITLE: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
-DESCRIPTION: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
+FRONT: Symmetry Rule for Binomial Coefficients $\binom{n}{k} =$
+BACK: Symmetry Rule for Binomial Coefficients $\binom{n}{n-k} =$
 FORMULA: 
 ADDITIONAL:
 ID: 1698168213881

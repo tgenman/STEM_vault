@@ -24,8 +24,8 @@ If $A$ and $B$ are independent, so are $A$ and $B^c$.
 TARGET DECK: math::probability
 START
 math_complex
-TITLE:  Independence
-DESCRIPTION: Two events $A$ and $B$ are said to be independent if 
+FRONT:  Independence
+BACK: Two events $A$ and $B$ are said to be independent if 
 > $P(A \cap B) = P(A)P(B)$
 FORMULA: $P(A | B) = P(A)$ if  $P(B) > 0$
 ADDITIONAL: If $A$ and $B$ are independent, so are $A$ and $B^c$.

@@ -16,8 +16,8 @@ connected:
 TARGET DECK: math::geometry  
 START
 Math_TWO_side
-TITLE: Polyhedron (3D)
-DESCRIPTION: Многогранник
+FRONT: Polyhedron (3D)
+BACK: Многогранник
 FORMULA: 
 ADDITIONAL:
 ID: 1705600801036

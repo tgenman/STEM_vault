@@ -29,8 +29,8 @@ tags:
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Normal distribution $\mathcal{N}(\mu, \sigma^2)$
-DESCRIPTION: 
+FRONT: Normal distribution $\mathcal{N}(\mu, \sigma^2)$
+BACK: 
 - [[PDF - f_X(x)|PDF]]: $\phi(x) = \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
 - [[CDF - F_X(x)|CDF]]: $\Phi(x) = \frac{1}{\sqrt{2\pi}\sigma} \int_{-\infty}^x e^{-\frac{(t-\mu)^2}{2\sigma^2}} dt$$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \mu$

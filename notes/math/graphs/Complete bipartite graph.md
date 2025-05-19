@@ -32,8 +32,8 @@ The star $K_{1,3}$ is sometimes referred to as a ==claw==.
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: A graph $G$ is complete bipartite
-DESCRIPTION: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
+FRONT: A graph $G$ is complete bipartite
+BACK: if $V(G)$ can be partitioned into two sets $U$ and $W$ (called partite sets again) so that $uw$ is an edge of $G$ if and only if $u∈U$ and $w∈W$
 FORMULA: 
 ADDITIONAL: If $|U| = s$ and $|W|=t$ , then this complete bipartite graph has 
  order $s+t$ 
@@ -46,8 +46,8 @@ END
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Graph named Star
-DESCRIPTION: The complete bipartite graph $K_{1,t}$ 
+FRONT: Graph named Star
+BACK: The complete bipartite graph $K_{1,t}$ 
 FORMULA: 
 ADDITIONAL:
 ID: 1699165908053
@@ -56,8 +56,8 @@ END
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Graph called Claw
-DESCRIPTION: The star $K_{1,3}$
+FRONT: Graph called Claw
+BACK: The star $K_{1,3}$
 FORMULA: 
 ADDITIONAL:
 ID: 1699165908065

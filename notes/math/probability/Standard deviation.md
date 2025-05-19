@@ -16,8 +16,8 @@ $\sigma_X = \sqrt{\text{var}(X)}$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Standard deviation
-DESCRIPTION: $\sigma_X = \sqrt{\text{var}(X)}$
+FRONT: Standard deviation
+BACK: $\sigma_X = \sqrt{\text{var}(X)}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

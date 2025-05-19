@@ -24,8 +24,8 @@ connected:
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Non labeled graph
-DESCRIPTION: 
+FRONT: Non labeled graph
+BACK: 
 > Можно сказать что [[519.175.1 Isomorphic Graphs|изоморфные графы]] это различные изображения одного и того же непомеченного графа.
 > Два изоморфных непомеченных графа будут считаться одинаковыми
 > А два неизоморфных - различными

@@ -32,8 +32,8 @@ $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \thet
 TARGET DECK: math::optimization 
 START
 math_complex
-TITLE: Convex cone
-DESCRIPTION: 
+FRONT: Convex cone
+BACK: 
 is the set $S$, if:
 $\forall x_1, x_2 \in S, \; \theta_1, \theta_2 \ge 0 \;\; \rightarrow \;\; \theta_1 x_1 + \theta_2 x_2 \in S$
 ADDITIONAL:
@@ -49,8 +49,8 @@ END
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Important Cones
-DESCRIPTION: 
+FRONT: Important Cones
+BACK: 
 - **Nonnegative orthant** $\mathbb{R}_+^n = \{x \in \mathbb{R}^n \mid x_i \geq 0, i = 1, \dots, n\}$ → Linear programming (LP)
 - **Second-order cone** $\{(x, t) \in \mathbb{R}^{n+1} \mid \|x\|_2 \leq t\}$ → Second-order cone programming (SOCP)
 - **Symmetric positive semi-definite matrices** $S_+^n$ → Semidefinite programming (SDP)

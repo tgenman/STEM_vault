@@ -18,8 +18,8 @@ $E=\begin{pmatrix}56&0&0\\0&10&0\\0&0&8\end{pmatrix}$
 TARGET DECK: math::linal 
 START
 Math_TWO_side
-TITLE: Diagonal matrix
-DESCRIPTION: [[Square matrix]], если все её ненулевые элементы расположены на главной диагонали.
+FRONT: Diagonal matrix
+BACK: [[Square matrix]], если все её ненулевые элементы расположены на главной диагонали.
 FORMULA: $E=\begin{pmatrix}56&0&0\\0&10&0\\0&0&8\end{pmatrix}$
 ADDITIONAL:
 PICTURE:

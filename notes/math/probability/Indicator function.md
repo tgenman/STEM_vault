@@ -42,8 +42,8 @@ TARGET DECK: stem::math::common
 
 START
 math_complex
-TITLE: Indicator function
-DESCRIPTION: An ... of a subset $A$ of a set $\Omega$ is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
+FRONT: Indicator function
+BACK: An ... of a subset $A$ of a set $\Omega$ is a function $I_A: \Omega \rightarrow \{0,1\}$ defined as:
 FORMULA: $I_A(\omega)=\begin{cases}1,&\text{if }\omega\in A,\\0,&\text{if }\omega\notin A.\end{cases}$
 ID: 1747383066471
 END

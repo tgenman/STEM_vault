@@ -20,8 +20,8 @@ $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 TARGET DECK: math::linal
 START
 Math_TWO_side
-TITLE: Identity matrix $E$ ($I$) 
-DESCRIPTION: называют [[Diagonal matrix]], все элементы на [[Diagonal of square matrix|главной диагонали]]  которой равны 1.
+FRONT: Identity matrix $E$ ($I$) 
+BACK: называют [[Diagonal matrix]], все элементы на [[Diagonal of square matrix|главной диагонали]]  которой равны 1.
 FORMULA: $I = E = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$
 ADDITIONAL:
 PICTURE:

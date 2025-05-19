@@ -18,8 +18,8 @@ $\bar a \perp \bar b$
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Orthogonal vectors
-DESCRIPTION: [[Dot product of vectors]]  is $v \cdot w = 0$ when $v$ is perpendicular to $w$.
+FRONT: Orthogonal vectors
+BACK: [[Dot product of vectors]]  is $v \cdot w = 0$ when $v$ is perpendicular to $w$.
 $\bar a \perp \bar b$
 FORMULA: 
 ADDITIONAL:

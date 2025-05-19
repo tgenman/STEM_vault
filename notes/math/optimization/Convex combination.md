@@ -26,8 +26,8 @@ if $\sum\limits_{i=1}^k \theta_i = 1$ and $\theta_i \geq 0$ for all $i$.
 TARGET DECK: math::optimization
 START
 Math_TWO_side
-TITLE: Convex combination
-DESCRIPTION: for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
+FRONT: Convex combination
+BACK: for $x_1, x_2, \ldots, x_k \in S$ and $\theta_1, \theta_2, \ldots, \theta_k \in \mathbb{R}$  
 is the point $\theta_1 x_1 + \theta_2 x_2 + \ldots + \theta_k x_k$  
 if $\sum\limits_{i=1}^k \theta_i = 1$ and $\theta_i \geq 0$ for all $i$.
 ID: 1734780237121

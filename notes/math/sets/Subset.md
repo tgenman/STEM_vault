@@ -43,8 +43,8 @@ END
 
 START
 math_complex
-TITLE: Properties of Subsets
-DESCRIPTION: For sets $A$, $B$, and $K$:
+FRONT: Properties of Subsets
+BACK: For sets $A$, $B$, and $K$:
 1. Reflexivity: $A ⊆ A$
 2. Transitivity: If $B ⊆ A$ and $A ⊆ K$, then $B ⊆ K$
 3. Antisymmetry: If $A ⊆ B$ and $B ⊆ A$, then $A = B$

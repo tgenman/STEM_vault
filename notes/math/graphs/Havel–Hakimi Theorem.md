@@ -53,8 +53,8 @@ $s_7^{\prime}=s_7:0,0,0,0.$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Havel–Hakimi Theorem
-DESCRIPTION: 
+FRONT: Havel–Hakimi Theorem
+BACK: 
 > A sequence $s: d_1, d_2, \ldots, d_n$ of nonnegative integers with $\Delta = d_1 \geq d_2 \geq \cdots \geq d_n$ and $\Delta \geq 1$ is graphical if and only if the sequence
 > $$s_1: d_2 - 1, d_3 - 1, \ldots, d_{\Delta + 1} - 1, d_{\Delta + 2}, \ldots, d_n$$
 > is [[Graphical sequence|graphical]].

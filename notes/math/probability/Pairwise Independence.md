@@ -29,8 +29,8 @@ $$P(A \cap B) = P(A|B)P(B) = P(A)P(B)$$
 TARGET DECK: math::probability
 START
 Math_TWO_side
-TITLE: $A_1, \ldots , A_k$ попарно независимы
-DESCRIPTION: если независимы друг относительно друга любые два события из этого множества.
+FRONT: $A_1, \ldots , A_k$ попарно независимы
+BACK: если независимы друг относительно друга любые два события из этого множества.
 $P(A \cap B) = P(A)P(B)$.
 FORMULA: $$P(A|B) = P(A)$$
 ADDITIONAL: $$P(A \cap B) = P(A|B)P(B) = P(A)P(B)$$

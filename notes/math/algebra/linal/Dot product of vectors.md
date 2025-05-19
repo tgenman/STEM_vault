@@ -37,8 +37,8 @@ $\cos(\vec{a},\vec{b})=\frac{a_1\cdot b_1+a_2\cdot b_2}{\sqrt{{a_1}^2+{a_2}^2}\c
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Dot product of vectors
-DESCRIPTION: это частный случай [[Inner product of vectors]]
+FRONT: Dot product of vectors
+BACK: это частный случай [[Inner product of vectors]]
 FORMULA: $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
 Commonly, the dot product between two vectors $a, b$ is denoted by $a^\top b$ or $\langle a, b \rangle$.
@@ -51,8 +51,8 @@ END
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Properties of Dot product of vectors
-DESCRIPTION: 
+FRONT: Properties of Dot product of vectors
+BACK: 
 - [[Commutative identity]] $\vec{b} \cdot \vec{a} = \vec{a} \cdot \vec{b}$
 - [[Associative identity|ассоциативность]]  произведения $(k \cdot \vec{a}) \cdot \vec{b} = k \cdot (\vec{a} \cdot \vec{b})$
 - [[Distributive|дистрибутивность]] [[Scalar|скалярного]] произведения $(\vec{a} + \vec{b}) \cdot \vec{c} = \vec{a} \cdot \vec{c} + \vec{b} \cdot \vec{c}$

@@ -17,8 +17,8 @@ tags:
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Matrix Comparasion
-DESCRIPTION: Две матрицы $|A|$ и $|B|$ называются ==равными== (что обозначается как  $|A| = |B|$), если
+FRONT: Matrix Comparasion
+BACK: Две матрицы $|A|$ и $|B|$ называются ==равными== (что обозначается как  $|A| = |B|$), если
 - они равных размеров
 - имеют равные соответствующие элементы
 FORMULA: 

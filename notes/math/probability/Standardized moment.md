@@ -25,8 +25,8 @@ For example:
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Standardized moment
-DESCRIPTION: is a moment that has been normalized to be dimensionless.
+FRONT: Standardized moment
+BACK: is a moment that has been normalized to be dimensionless.
 FORMULA: $\mu_k = E\left[\left(\frac{X - \mu}{\sigma}\right)^k\right]$
 ADDITIONAL:
 > Standardized moments are particularly useful for describing the shape characteristics of a distribution, such as skewness and kurtosis.

@@ -46,8 +46,8 @@ Graphs are so named because they can be represented graphically
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Graph (G)
-DESCRIPTION: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
+FRONT: Graph (G)
+BACK: is a finite nonempty set $V$ of objects called [[Vertex of graph (V)|vertices]] together with a possibly empty set $E$ of 2-element subsets of $V$ called [[Edge of graph (E)|edges]] .
 FORMULA: $$G = (V,E)$$
 ADDITIONAL:
 ID: 1699164911412

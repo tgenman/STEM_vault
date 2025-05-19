@@ -20,8 +20,8 @@ If in addition, $P(B \cap C) > 0$, conditional independence is equivalent to the
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Conditional independence
-DESCRIPTION: Two events $A$ and $B$ are said to be conditionally independent, given another event $C$ with $P(C) > 0$, if
+FRONT: Conditional independence
+BACK: Two events $A$ and $B$ are said to be conditionally independent, given another event $C$ with $P(C) > 0$, if
 $P(A \cap B | C) = P(A | C)P(B | C)$
 FORMULA: 
 ADDITIONAL: If in addition, $P(B \cap C) > 0$, conditional independence is equivalent to the condition $P(A | B \cap C) = P(A | C)$

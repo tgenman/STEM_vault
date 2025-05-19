@@ -34,8 +34,8 @@ Indeed, $\alpha \hat{x} + (1-\alpha) \tilde{x} = [\alpha \hat{x}_1 + (1-\alpha) 
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: The Minkowski sum of two sets of vectors $S_1$ and $S_2$ in Euclidean space 
-DESCRIPTION: is formed by adding each vector in $S_1$ to each vector in $S_2$:
+FRONT: The Minkowski sum of two sets of vectors $S_1$ and $S_2$ in Euclidean space 
+BACK: is formed by adding each vector in $S_1$ to each vector in $S_2$:
 $S_1+S_2=\{\mathbf {s_1} +\mathbf {s_2} \,|\,\mathbf {s_1} \in S_1,\ \mathbf {s_2} \in S_2\}$
 FORMULA: 
 ADDITIONAL:
@@ -47,8 +47,8 @@ END
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: 
-DESCRIPTION: The [[Minkowski sum]] of two convex sets is a convex set (theorem)
+FRONT: 
+BACK: The [[Minkowski sum]] of two convex sets is a convex set (theorem)
 ADDITIONAL:
 Proof
 Let $\mathcal{X}_1, \mathcal{X}_2$ be convex sets. Consider $\mathcal{X} = \mathcal{X}_1 + \mathcal{X}_2 = \{x_1 + x_2 \mid x_1 \in \mathcal{X}_1, x_2 \in \mathcal{X}_2\}$.

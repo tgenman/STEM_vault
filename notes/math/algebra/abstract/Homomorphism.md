@@ -45,8 +45,8 @@ TARGET DECK: stem::math::algebra
 
 START
 math_complex
-TITLE: Homomorphism
-DESCRIPTION: A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group|groups]], [[Ring|rings]], [[Field|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
+FRONT: Homomorphism
+BACK: A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group|groups]], [[Ring|rings]], [[Field|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
 FORMULA: For groups: $\phi(a \ast b) = \phi(a) \circ \phi(b)$
 For rings: $\phi(a + b) = \phi(a) \oplus \phi(b)$ and $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
 ADDITIONAL:
@@ -55,8 +55,8 @@ END
 
 START
 math_complex
-TITLE: Homomorphism Properties
-DESCRIPTION: Key properties of homomorphisms between algebraic structures
+FRONT: Homomorphism Properties
+BACK: Key properties of homomorphisms between algebraic structures
 - Preserves algebraic structure operations
 - Not necessarily bijective or invertible
 - May map different elements of source structure to the same element in target structure

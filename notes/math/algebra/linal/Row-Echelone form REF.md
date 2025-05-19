@@ -23,8 +23,8 @@ A matrix is in row-echelon form if
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Row-Echelone form REF
-DESCRIPTION: 
+FRONT: Row-Echelone form REF
+BACK: 
 A matrix is in row-echelon form if
 - All rows that contain only zeros are at the bottom of the matrix; correspondingly, all rows that contain at least one nonzero element are on top of rows that contain only zeros.
 - Looking at nonzero rows only, the first nonzero number from the left (also called the pivot or the leading coefficient) is always strictly to the right of the pivot of the row above it.

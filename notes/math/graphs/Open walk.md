@@ -13,8 +13,8 @@ A walk whose initial and terminal vertices are distinct
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Open walk
-DESCRIPTION: A walk whose initial and terminal vertices are distinct
+FRONT: Open walk
+BACK: A walk whose initial and terminal vertices are distinct
 FORMULA: 
 ADDITIONAL:
 ID: 1705348914030

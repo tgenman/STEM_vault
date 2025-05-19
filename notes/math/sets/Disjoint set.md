@@ -18,8 +18,8 @@ connected:
 TARGET DECK: math::set
 START
 math_complex
-TITLE: Sets are disjoint
-DESCRIPTION:  if no two of them share a common element
+FRONT: Sets are disjoint
+BACK:  if no two of them share a common element
 FORMULA: 
 ADDITIONAL:
 ID: 1705513882724

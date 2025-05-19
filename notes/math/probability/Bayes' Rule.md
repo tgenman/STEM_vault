@@ -48,8 +48,8 @@ $$ P(B_1|A) = \frac{p}{p + \frac{1}{k}(1 - p)}. $$
 TARGET DECK: math::probability  
 START
 Math_TWO_side
-TITLE: Bayes' Rule
-DESCRIPTION: Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
+FRONT: Bayes' Rule
+BACK: Вероятность $P(A_i|B)$ события $A_i$ при условии, что событие $B$ произошло:
 $P(A_i|B) = \frac{P(B|A_i)P(A_i)}{\sum_{j=1}^{k} P(B|A_j)P(A_j)}.$
 $P(A_i)$ - initial beliefs [[Prior probability]]
 $P(B|A_i)$ - prior [[Свидетельство]]

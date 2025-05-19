@@ -19,8 +19,8 @@ TARGET DECK: math::linal
 
 START
 math_complex
-TITLE: Euclidian norm (L2)
-DESCRIPTION: $$L_2= ∣\bar{a}∣_2 = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
+FRONT: Euclidian norm (L2)
+BACK: $$L_2= ∣\bar{a}∣_2 = \sqrt{a_1^2 + a_2^2 + ... + a_n^2}$$
 FORMULA: 
 ADDITIONAL:
 PICTURE: ![[Pasted image 20240203175211.png|300]]

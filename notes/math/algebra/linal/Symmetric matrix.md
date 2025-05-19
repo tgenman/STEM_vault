@@ -21,8 +21,8 @@ A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Symmetric matrix
-DESCRIPTION: A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
+FRONT: Symmetric matrix
+BACK: A matrix $A \in \mathbb{R}^{n \times n}$ is symmetric if $A = A^T$.
 FORMULA: 
 ADDITIONAL:
 PICTURE:
@@ -32,8 +32,8 @@ END
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: Properties of Symmetric matrix
-DESCRIPTION: 
+FRONT: Properties of Symmetric matrix
+BACK: 
 - only [[Square matrix]] can be symmetric. 
 - The sum of symmetric matrices $A, B \in \mathbb{R}^{n \times n}$ is always symmetric.
 FORMULA: 

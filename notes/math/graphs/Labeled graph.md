@@ -23,9 +23,9 @@ connected:
 TARGET DECK: math::graph 
 START
 Math_TWO_side
-TITLE: Labeled graph
+FRONT: Labeled graph
 Граф с $n$ вершинами называется помеченным, 
-DESCRIPTION: если его вершинам присвоены номера $1, 2, ..., n$
+BACK: если его вершинам присвоены номера $1, 2, ..., n$
 FORMULA: ![[Pasted image 20231218225715.png]]
 ADDITIONAL:
 ID: 1705263411201
@@ -34,8 +34,8 @@ END
 TARGET DECK: math::graph 
 START
 Math_TWO_side
-TITLE: Два помеченных графа считаются различнымии,
-DESCRIPTION: если существует хотя бы одна такая пара вершин $i$ и $j$, что в одном графе эти вершины образуют ребро, а в другом нет
+FRONT: Два помеченных графа считаются различнымии,
+BACK: если существует хотя бы одна такая пара вершин $i$ и $j$, что в одном графе эти вершины образуют ребро, а в другом нет
 FORMULA: 
 ADDITIONAL:
 ID: 1705263411220

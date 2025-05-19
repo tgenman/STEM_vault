@@ -28,8 +28,8 @@ $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, 
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: Pascal’s triangle
-DESCRIPTION: Each row $n$ consist of the $\binom{n}{k}$:  
+FRONT: Pascal’s triangle
+BACK: Each row $n$ consist of the $\binom{n}{k}$:  
 $\binom{4}{0} = 1$, $\binom{4}{1} = 4$, $\binom{4}{2} = 6$, $\binom{4}{3} = 4$, $\binom{4}{4} = 1$.
 FORMULA:
 $(a + b)^n = ?$  

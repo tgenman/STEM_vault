@@ -51,8 +51,8 @@ $$E[X] = \sum_x xp_X(x).$$
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Expected Value E(X)
-DESCRIPTION: 
+FRONT: Expected Value E(X)
+BACK: 
 $E[X] = \int x dF(x) =  \begin{cases} \sum_x xp_X(x) & \text{if } X \text{ is discrete} \\\int xf_X(x) dx & \text{if} X \text{ is continuous}\end{cases}$
 assuming that the sum (or integral) is well defined. 
 Requirement for well-definig $E[x]$ : $\sum_{x} |x|p(x) < \infty$
@@ -69,8 +69,8 @@ END
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Elementary properties of expectations
-DESCRIPTION: 
+FRONT: Elementary properties of expectations
+BACK: 
 - $P[X = c] = 1 \Rightarrow E[X] = c$
 - $E[cX] = cE[X]$
 - $E[X + Y] = E[X] + E[Y]$ - [[Linearity of expectation]]
@@ -91,8 +91,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Requirement for well-definig $E[x]$
-DESCRIPTION:  $\sum_{x} |x|p(x) < \infty$
+FRONT: Requirement for well-definig $E[x]$
+BACK:  $\sum_{x} |x|p(x) < \infty$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

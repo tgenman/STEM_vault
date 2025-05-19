@@ -32,8 +32,8 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Matrix Inverse
-DESCRIPTION: Consider a square matrix $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
+FRONT: Matrix Inverse
+BACK: Consider a square matrix $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in \mathbb{R}^{n \times n}$ have the property that $AB = I_n = BA$. $B$ is called the inverse of $A$ and denoted by $A^{-1}$.
 FORMULA: 
 ADDITIONAL:
 PICTURE:
@@ -43,8 +43,8 @@ END
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Properties of Matrix Inverse
-DESCRIPTION: 
+FRONT: Properties of Matrix Inverse
+BACK: 
 - ==Matrix Inverse== определяется единственным образом;
 - [[Matrix|Матрица]] имеет обратную матрицу, только если [[Determinant of matrix|определитель]] не равен нулю
 - Обратные матрицы существуют только для квадратных.

@@ -31,8 +31,8 @@ $\sum_{k=1}^{\infty} p_X(k) = \sum_{k=1}^{\infty} (1 - p)^{k-1}p = p \sum_{k=0}^
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Geometric discrete r.v.
-DESCRIPTION: 
+FRONT: Geometric discrete r.v.
+BACK: 
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = p(1-p)^{x-1} \quad x \in \mathbb{N}^+$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = 1-(1-p)^x \quad x \in \mathbb{N}^+$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \frac{1}{p}$
@@ -53,8 +53,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Expected value of Geometric random variable
-DESCRIPTION: $\mathbb{E}[X] = \frac{1}{p}$
+FRONT: Expected value of Geometric random variable
+BACK: $\mathbb{E}[X] = \frac{1}{p}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:
@@ -64,8 +64,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Variance of Geometric random variable
-DESCRIPTION: $\mathbb{V}[X] = \frac{1-p}{p^2}$
+FRONT: Variance of Geometric random variable
+BACK: $\mathbb{V}[X] = \frac{1-p}{p^2}$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

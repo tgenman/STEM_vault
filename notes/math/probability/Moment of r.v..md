@@ -28,8 +28,8 @@ the moments of a function are certain quantitative measures related to the shape
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Moment of r.v.
-DESCRIPTION: the moments of a function are certain quantitative measures related to the shape of the function's graph
+FRONT: Moment of r.v.
+BACK: the moments of a function are certain quantitative measures related to the shape of the function's graph
 FORMULA: 
 ADDITIONAL:
 - [[Raw moment]]

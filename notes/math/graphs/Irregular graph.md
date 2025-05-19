@@ -26,8 +26,8 @@ if exactly two vertices of $G$ have the same degree.
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Irregular graph
-DESCRIPTION: is a nontrivial graph $G$ 
+FRONT: Irregular graph
+BACK: is a nontrivial graph $G$ 
 if $\deg  u \neq \deg v$ for every two vertices $u$ and $v$ of $G$. 
 Actually, no graph has this property.
 FORMULA: 
@@ -38,8 +38,8 @@ END
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Nearly irregular graph
-DESCRIPTION: is a graph $G$ of order $n ≥ 2$ 
+FRONT: Nearly irregular graph
+BACK: is a graph $G$ of order $n ≥ 2$ 
 if exactly two vertices of $G$ have the same degree.
 FORMULA: 
 ADDITIONAL:

@@ -43,8 +43,8 @@ TARGET DECK: math::probability
 
 START
 math_complex
-TITLE: Classical definition of probability
-DESCRIPTION:
+FRONT: Classical definition of probability
+BACK:
 $\Omega = \{\omega_1, ..., \omega_n\}$ - [[Sample space]] of [[Elementary event]]s
 $A \subset \Omega$ - [[Event]]
 $P(A) = \frac{|A|}{n}$ - [[Probability]]
@@ -53,8 +53,8 @@ END
 
 START
 math_complex
-TITLE: Probability Axioms
-DESCRIPTION: 
+FRONT: Probability Axioms
+BACK: 
 - Nonnegativity $P(A) >= 0$
 - Normalization $P(\Omega) = 1$
 - Additivity $P(A \sqcup B ) = P(A) + P(B)$ -  where $A, B$ are disjoint sets
@@ -63,8 +63,8 @@ END
 
 START
 Math_TWO_side
-TITLE: Discrete Probability Law
-DESCRIPTION: If the sample space consists of a finite number of possible outcomes, then the probability law is specified by the probabilities of the events that consist of a single element. In particular, the probability of any event $\{s_1, s_2, \ldots, s_n\}$ is the sum of the probabilities of its elements:
+FRONT: Discrete Probability Law
+BACK: If the sample space consists of a finite number of possible outcomes, then the probability law is specified by the probabilities of the events that consist of a single element. In particular, the probability of any event $\{s_1, s_2, \ldots, s_n\}$ is the sum of the probabilities of its elements:
 P(\{s_1, s_2, \ldots, s_n\}) = P(s_1) + P(s_2) + \ldots + P(s_n)$
 FORMULA: 
 ADDITIONAL:
@@ -74,8 +74,8 @@ END
 
 START
 Math_TWO_side
-TITLE: Discrete Uniform Probability Law
-DESCRIPTION: If the sample space consists of $n$ possible outcomes which are equally likely (i.e., all single-element events have the same probability), then the probability of any event $A$ is given by
+FRONT: Discrete Uniform Probability Law
+BACK: If the sample space consists of $n$ possible outcomes which are equally likely (i.e., all single-element events have the same probability), then the probability of any event $A$ is given by
 P(A) = \frac{\text{number of elements of } A}{n}$
 FORMULA: 
 ADDITIONAL:
@@ -85,8 +85,8 @@ END
 
 START
 math_complex
-TITLE: Some Properties of Probability Laws
-DESCRIPTION: 
+FRONT: Some Properties of Probability Laws
+BACK: 
 - $𝑃 (𝐴) = 0 ⇔ 𝐴 = ∅$ - только [[Empty Set]]  имеет нулевую вероятность
 - If $A \subset B$, then $P(A) \leq P(B)$.
 - $𝑃 (𝐴 ∪ 𝐵) = 𝑃(𝐴)+𝑃(𝐵)−𝑃(𝐴∩𝐵)$ -  [[Inclusion-Exclusion principle]]

@@ -31,9 +31,9 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: Difference of Sets (def)
+FRONT: Difference of Sets (def)
 $A \setminus B$
-DESCRIPTION: is the set of elements that belong to $A$ but not to $B$.
+BACK: is the set of elements that belong to $A$ but not to $B$.
 FORMULA: $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
 PICTURE: ![[Pasted image 20220712114121.png]]
 ID: 1747383865728

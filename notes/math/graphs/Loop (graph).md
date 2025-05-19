@@ -14,8 +14,8 @@ is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Loop (graph)
-DESCRIPTION: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
+FRONT: Loop (graph)
+BACK: is an [[Edge of graph (E)|edge]]  joining a vertex to itself
 FORMULA: 
 ADDITIONAL:
 ID: 1705263594120

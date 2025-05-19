@@ -15,9 +15,9 @@ Cамо множество и пустое множество — называю
 TARGET DECK: math::set
 START
 math_complex
-TITLE: Improper subset
+FRONT: Improper subset
 Несобственное подмножество
-DESCRIPTION: Cамо множество и пустое множество
+BACK: Cамо множество и пустое множество
 FORMULA: 
 ADDITIONAL:
 ID: 1699130367605

@@ -22,8 +22,8 @@ $$C = (u,w,x,y,w,v,u)$$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Trivial walk
-DESCRIPTION: is walk consist of a single vertex
+FRONT: Trivial walk
+BACK: is walk consist of a single vertex
 A trivial walk is therefore a [[Closed walk]] closed walk.
 ID: 1705602331022
 END

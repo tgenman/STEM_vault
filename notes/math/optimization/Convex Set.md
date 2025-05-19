@@ -46,8 +46,8 @@ Top: examples of convex sets. Bottom: examples of non-convex sets.
 TARGET DECK: math::optimization
 START
 Math_TWO_side
-TITLE: Convex set (geometric definition)  
-DESCRIPTION: is the set $S$  
+FRONT: Convex set (geometric definition)  
+BACK: is the set $S$  
 if for any $x_1, x_2$ from $S$, the [[Line segment|line segment]] passing through them also lies in $S$, i.e.  
 FORMULA: $\forall \theta \in [0, 1], \forall x_1, x_2 \in S:$
 $\theta x_1 + (1-\theta) x_2 \in S$.
@@ -66,8 +66,8 @@ END
 TARGET DECK: math::optimization
 START
 Math_TWO_side
-TITLE: Convex set (сombination definition)  
-DESCRIPTION: is a set that is closed under all possible [[Convex combination|convex combinations]] of its points.
+FRONT: Convex set (сombination definition)  
+BACK: is a set that is closed under all possible [[Convex combination|convex combinations]] of its points.
 ADDITIONAL:
 [[Polyhedron (3D)]]
 [[Hyperplane]]

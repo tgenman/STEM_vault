@@ -21,8 +21,8 @@ where $B(\mathbf{x}, \varepsilon) = \mathbf{x} + \varepsilon B$ is the ball cent
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: The interior of the set $S$
-DESCRIPTION: is set:
+FRONT: The interior of the set $S$
+BACK: is set:
 $\mathbf{int} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\mathbf{x}, \varepsilon) \subset S\}$
 where $B(\mathbf{x}, \varepsilon) = \mathbf{x} + \varepsilon B$ is the ball centered at point $\mathbf{x}$ with radius $\varepsilon$.
 ID: 1734846218823

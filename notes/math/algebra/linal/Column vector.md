@@ -22,8 +22,8 @@ where $v_1$ is the first component of $v$ and $v_2$ is the second component of $
 TARGET DECK: math::linal 
 START
 Math_TWO_side
-TITLE: Column vector
-DESCRIPTION: given by $v = \left[\begin{matrix} v_1 \\ v_2 \end{matrix}\right]$ 
+FRONT: Column vector
+BACK: given by $v = \left[\begin{matrix} v_1 \\ v_2 \end{matrix}\right]$ 
 where $v_1$ is the first component of $v$ and $v_2$ is the second component of $v$.
 FORMULA: 
 ADDITIONAL:

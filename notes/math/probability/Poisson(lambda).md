@@ -59,8 +59,8 @@ $V[X] = \lambda$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Poisson($\lambda$)
-DESCRIPTION: $\text{Po}(\lambda)$  
+FRONT: Poisson($\lambda$)
+BACK: $\text{Po}(\lambda)$  
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
@@ -81,8 +81,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Expected Value E(X) of Poisson($\lambda$)
-DESCRIPTION: $E[X] = \lambda$
+FRONT: Expected Value E(X) of Poisson($\lambda$)
+BACK: $E[X] = \lambda$
 FORMULA: 
 ADDITIONAL: Proof
 $E[X] = \sum_{k=0}^{\infty} ke^{-\lambda} \frac{\lambda^k}{k!}$
@@ -99,8 +99,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Variance V(X) of Poisson($\lambda$)
-DESCRIPTION: $V[X] = \lambda$
+FRONT: Variance V(X) of Poisson($\lambda$)
+BACK: $V[X] = \lambda$
 FORMULA: 
 ADDITIONAL:
 PICTURE:

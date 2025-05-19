@@ -21,8 +21,8 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Adjacent vertices 
-DESCRIPTION: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
+FRONT: Adjacent vertices 
+BACK: If $uv$ is an edge of $G$, then $u$ and $v$ are adjacent vertices.
 FORMULA: 
 ADDITIONAL:
 ID: 1699126049535
@@ -32,8 +32,8 @@ END
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Adjacent edges
-DESCRIPTION: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
+FRONT: Adjacent edges
+BACK: If $uv$ and $vw$ are distinct edges in $G$, then $uv$ and $vw$ are adjacent edges
 FORMULA: 
 ADDITIONAL:
 ID: 1699126049540

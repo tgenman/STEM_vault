@@ -33,8 +33,8 @@ $Aut(G)$ is a [[Group|group]] under the operation of composition
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Automorphism $Aut(G)$
-DESCRIPTION: is an [[519.175.1 Isomorphic Graphs|isomorphism]] of the graph to itself.
+FRONT: Automorphism $Aut(G)$
+BACK: is an [[519.175.1 Isomorphic Graphs|isomorphism]] of the graph to itself.
 The automorphisms of a graph reflect its [[Symmetry|symmetries]].
 We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their number by $aut(G)$. 
 $Aut(G)$ is a [[Group|group]] under the operation of composition
@@ -46,8 +46,8 @@ END
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Vertex-transitive (symmetric) graph
-DESCRIPTION: Graphs in which all vertices are similar, such as (called):
+FRONT: Vertex-transitive (symmetric) graph
+BACK: Graphs in which all vertices are similar, such as (called):
 - the [[Complete graph|complete graph]]  $K_n$, 
 - the [[Complete bipartite graph|complete bipartite graph]] $K_{n,n}$
 - the [[The Petersen Graph|n-cube]]  $Q_n$, 
@@ -59,8 +59,8 @@ END
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Asymmetric graphs
-DESCRIPTION: graphs in which no two vertices are similar
+FRONT: Asymmetric graphs
+BACK: graphs in which no two vertices are similar
 FORMULA: 
 ADDITIONAL:
 ID: 1705261959444

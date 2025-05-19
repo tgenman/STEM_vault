@@ -23,8 +23,8 @@ log-pdf for the Pearson type VII distribution with excess kurtosis of infinity (
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Kurtosis
-DESCRIPTION: 
+FRONT: Kurtosis
+BACK: 
 (from Greek: κυρτός, kyrtos or kurtos, meaning "curved, arching") 
 is a measure of the "tailedness" of the [[Distribution of r.v. MOC|probability distribution]] of a real-valued random variable.
 FORMULA: $\text{Kurt}[X] = \mathbb{E}\left[\left(\frac{X - \mu}{\sigma}\right)^4\right] = \frac{\mathbb{E}[(X - \mu)^4]}{(\mathbb{E}[(X - \mu)^2])^2} = \frac{\mu_4}{\sigma^4}$

@@ -21,8 +21,8 @@ $\sum_y \sum_{x:g(x)=y} g(x) p_X(x) = \sum_y y \sum_{x:g(x)=y} p_X(x) = \sum_y y
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Expected Value Rule for Functions of Random Variables
-DESCRIPTION: - $Z = \varphi(X)$
+FRONT: Expected Value Rule for Functions of Random Variables
+BACK: - $Z = \varphi(X)$
 - $\mathbb{E}[Z] = \int \varphi(x) dF_X(x)$
     - In general, $E[g(X)] \neq g(E[X])$
     - $\mathbb{E}[I_A(x)] = \int I_A(x) dF_X(x) = \int_A dF_X(x) = \mathbb{P}[X \in A]$

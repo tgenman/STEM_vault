@@ -25,8 +25,8 @@ where $z = \alpha x + (1-\alpha) y \in \mathcal{X}$.
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: If the [[Domain Dom(f) or Preimage|domain]]  of any [[Function (math)|linear map]]  is convex, then the [[Range Ran(f) or Image Im(f)|image]]  of this map is
-DESCRIPTION: also convex.
+FRONT: If the [[Domain Dom(f) or Preimage|domain]]  of any [[Function (math)|linear map]]  is convex, then the [[Range Ran(f) or Image Im(f)|image]]  of this map is
+BACK: also convex.
 ADDITIONAL:
 Let $\mathcal{X}$ be a convex set and $x, y \in \mathcal{X}$.
 Let $f$ be a linear map: $f(x) = A x + b$.

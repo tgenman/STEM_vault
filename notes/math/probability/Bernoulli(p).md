@@ -53,8 +53,8 @@ $\text{var}(X) = E[X^2] - (E[X])^2 = E[X] - (E[X])^2 = p - p^2 = p(1-p)$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Bernoulli r.v.
-DESCRIPTION: Consider the toss of a coin, which comes up a head with probability $p$, and a tail with probability $1 - p$. The Bernoulli random variable takes the two values 1 and 0, depending on whether the outcome is a head or a tail:
+FRONT: Bernoulli r.v.
+BACK: Consider the toss of a coin, which comes up a head with probability $p$, and a tail with probability $1 - p$. The Bernoulli random variable takes the two values 1 and 0, depending on whether the outcome is a head or a tail:
 $X = \begin{cases} 1 & \text{if a head}, \\ 0 & \text{if a tail}. \end{cases}$
 Its PMF is
 $p_X(k) = \begin{cases} p & \text{if } k = 1, \\ 1 - p & \text{if } k = 0. \end{cases}$
@@ -74,8 +74,8 @@ END
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Expected Value E(X) of Bernoulli r.v.
-DESCRIPTION: 
+FRONT: Expected Value E(X) of Bernoulli r.v.
+BACK: 
 $X = \begin{cases} 1, & \text{w.p. } p \\0, & \text{w.p. } 1-p \end{cases}$
 $E[X] = 1\cdot p + 0\cdot(1-p) = p$
 FORMULA: 
@@ -87,8 +87,8 @@ END
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Variance V(X) of Bernoulli r.v.
-DESCRIPTION: $\text{var}(X) = p(1-p)$
+FRONT: Variance V(X) of Bernoulli r.v.
+BACK: $\text{var}(X) = p(1-p)$
 FORMULA: 
 ADDITIONAL: Proof
 $\text{var}(X) = \sum_{x} (x - E[X])^2 p_X(x) = (1-p)^2 p + (0-p)^2 (1-p) =$

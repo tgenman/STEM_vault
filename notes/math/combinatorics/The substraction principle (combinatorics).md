@@ -17,8 +17,8 @@ $$
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: The substraction principle (combinatorics)
-DESCRIPTION: Let $A$ be a finite set and $A \subset B$ then
+FRONT: The substraction principle (combinatorics)
+BACK: Let $A$ be a finite set and $A \subset B$ then
 $|B| = |A| - |A \backslash B|$
 FORMULA: 
 ADDITIONAL:

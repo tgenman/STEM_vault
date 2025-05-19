@@ -26,8 +26,8 @@ Distributivity:
 TARGET DECK: math::linal 
 START
 math_complex
-TITLE: Properties Matrix Scalar Multiplication
-DESCRIPTION: 
+FRONT: Properties Matrix Scalar Multiplication
+BACK: 
 Let $A \in \mathbb{R}^{m \times n}$ and $\lambda \in \mathbb{R}$. 
 Then $\lambda A = K$, $K_{ij} = \lambda a_{ij}$. Practically, $\lambda$ scales each element of $A$. 
 For $\lambda, \psi \in \mathbb{R}$, the following holds:

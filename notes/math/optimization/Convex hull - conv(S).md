@@ -30,8 +30,8 @@ tags:
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Convex hull conv(S)
-DESCRIPTION: 
+FRONT: Convex hull conv(S)
+BACK: 
 - It is a set of all [[Convex combination]] of points from $S$:
   $\text{conv}(S) = \left\{ \sum_{i=1}^{k} \theta_i x_i \mid x_i \in S, \sum_{i=1}^{k} \theta_i = 1, \theta_i \geq 0 \right\}$
 - It is an intersection of all convex sets containing $S$.

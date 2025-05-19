@@ -17,9 +17,9 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: $H$ is a spanning subgraph of $G$ 
+FRONT: $H$ is a spanning subgraph of $G$ 
 Остовный подграф
-DESCRIPTION: If:
+BACK: If:
 $H$ is a [[Subgraph|subgraph]] of $G$ and 
 $V(H)=V(G)$
 FORMULA: 

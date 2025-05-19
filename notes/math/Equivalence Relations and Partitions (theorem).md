@@ -31,8 +31,8 @@ We show that $\bar{a}\subseteq\bar{b}$. Let $x\in\bar{a}.$ Then $x\sim a.$But$a\
 TARGET DECK: math::set  
 START
 math_complex
-TITLE: Equivalence Relations and Partitions (theorem)
-DESCRIPTION: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
+FRONT: Equivalence Relations and Partitions (theorem)
+BACK: Let $S$ be a  nonempty set and let $∼$ be an [[Equivalence Relation]]  on $S$. Then $∼$ yields a  [[Partition of a set]] of $S$, where
 
 $$
 \bar{a}=\{x\in S\mid x\sim a\}.

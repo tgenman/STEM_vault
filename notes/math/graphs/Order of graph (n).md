@@ -16,8 +16,8 @@ $$n$$
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Order of graph (n)
-DESCRIPTION: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
+FRONT: Order of graph (n)
+BACK: is the number of [[Vertex of graph (V)|vertices]] in a [[Simple Graph (G)|graph]] $G$
 FORMULA: 
 ADDITIONAL:
 ID: 1699164654357

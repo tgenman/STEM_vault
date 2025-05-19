@@ -18,8 +18,8 @@ connected:
 TARGET DECK: math::set
 START
 math_complex
-TITLE: **Объединение** $A∪B$ 
-DESCRIPTION: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
+FRONT: **Объединение** $A∪B$ 
+BACK: множество, которое состоит из всех элементов исходных множеств $A$ и $B$ вместе. 
 FORMULA: ![[Pasted image 20220630193329.png]]
 ADDITIONAL:
 ID: 1706032088984

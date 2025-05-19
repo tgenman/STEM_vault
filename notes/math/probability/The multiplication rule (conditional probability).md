@@ -26,8 +26,8 @@ $P(A_1 \cap A_2 \cap \ldots \cap A_n) = P(A_1) \prod_{i=2}^{n} P(A_i | A_1, \ldo
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: The multiplication rule (conditional probability)
-DESCRIPTION: 
+FRONT: The multiplication rule (conditional probability)
+BACK: 
 Assuming that all of the conditioning events have positive probability, we have
 $P\left(\bigcap_{i=1}^{n} A_i\right) = P(A_1)P(A_2 | A_1)P(A_3 | A_1 \cap A_2) \cdots P\left(A_n | \bigcap_{i=1}^{n-1} A_i\right)$
 FORMULA: 

@@ -24,8 +24,8 @@ We obtain each term $x_1^{n_1}\cdots x_k^{n_k}$ by choosing $x_1$ in $n_1$ of th
 TARGET DECK: math::combinatorics
 START
 math_complex
-TITLE: Multinomial formula
-DESCRIPTION: $$(x_1+x_2+\ldots+x_k)^n=\sum_{n_i\geq0,n_1+...+n_k=n}\binom{n}{n_1,n_2,...,n_k}x_1^{n_1}\cdots x_k^{n_k}$$
+FRONT: Multinomial formula
+BACK: $$(x_1+x_2+\ldots+x_k)^n=\sum_{n_i\geq0,n_1+...+n_k=n}\binom{n}{n_1,n_2,...,n_k}x_1^{n_1}\cdots x_k^{n_k}$$
 FORMULA: 
 ADDITIONAL: ### Proof
 The expression $(x_{1}+x_{2}+\ldots+x_{k})^{n}$ is the product of $n$ identical sums $$(x_{1}+x_{2}+\ldots+x_{k})\cdot\ldots\cdot(x_{1}+x_{2}+\ldots+x_{k}).$$ 

@@ -17,8 +17,8 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: End-vertex
-DESCRIPTION: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
+FRONT: End-vertex
+BACK: A vertex of [[Degree of a vertex (deg)|degree]] $\deg v = 1$
 FORMULA: 
 ADDITIONAL:
 ID: 1699131882675

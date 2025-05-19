@@ -15,9 +15,9 @@ connected:
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Pendant edge
+FRONT: Pendant edge
 Висячее ребро 
-DESCRIPTION: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
+BACK: An [[Edge of graph (E)|edge]] [[Incident vertex and edge|incident]] with an [[End-vertex|end-vertex]]
 FORMULA: 
 ADDITIONAL:
 ID: 1699165371489

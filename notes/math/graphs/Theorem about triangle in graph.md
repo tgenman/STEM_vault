@@ -24,8 +24,8 @@ From the defining property of the graph $G$, it follows that $G^{\prime}$ contai
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about triangle in graph
-DESCRIPTION: Every [[Simple Graph (G)|graph]] of order $n ≥ 3$ and size $m > ⌊\frac{n^2}{4}⌋$ contains a [[Triangle (graph)|triangle]].
+FRONT: Theorem about triangle in graph
+BACK: Every [[Simple Graph (G)|graph]] of order $n ≥ 3$ and size $m > ⌊\frac{n^2}{4}⌋$ contains a [[Triangle (graph)|triangle]].
 FORMULA: 
 ADDITIONAL: ### Proof
 First, observe that the result is true for $n= 3$ and $n= 4.$ Suppose, however, that the statement is false. Then there is a smallest integer $n\geq 5$ and a graph $G$ of order $n$ and size $m>|n^2/4]$ not containing a trianglc. Let $uv$ be an edge of $G.$ Since $G$ contains no triangle, there is no vertex in $G$ adjacent to both $u$ and $v.$ Hence, $(\deg u-1)+(\deg v-1)\leq n-2$ and so $\deg u+\deg v\leq n.$ Let $G^{\prime}= G- u- v.$ Since $G^{\prime}$ is a subgraph of $G, $it follows that $G^{\prime}$ also does not contain a triangle. Furthermore, $G^{\prime}$ has order $n- 2$ and size

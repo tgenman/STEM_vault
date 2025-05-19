@@ -28,8 +28,8 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: Symmetric difference $A \triangle B$ (def)
-DESCRIPTION: is the set that contains all elements of the original sets that do not belong to their intersection
+FRONT: Symmetric difference $A \triangle B$ (def)
+BACK: is the set that contains all elements of the original sets that do not belong to their intersection
 FORMULA: $A \triangle B = (A \setminus B) \cup (B \setminus A)$
 PICTURE: ![[Pasted image 20220712152716.png]]
 ID: 1747335314272

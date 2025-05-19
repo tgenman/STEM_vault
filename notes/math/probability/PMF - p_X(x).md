@@ -29,8 +29,8 @@ For each possible value $x$ of $X$:
 TARGET DECK: math::probability  
 START
 math_complex
-TITLE: Probability mass function (PMF) $p_X(x)$
-DESCRIPTION: 
+FRONT: Probability mass function (PMF) $p_X(x)$
+BACK: 
 $p_X(x) = P(X = x) = P(\{\omega \in \Omega \text{ s.t. } X(\omega) = x\})$
 ${X = x}$ - [[Event]]
 For each possible value $x$ of $X$:
@@ -45,8 +45,8 @@ END
 TARGET DECK: math::probability  
 START
 math_complex
-TITLE: Properties of Probability mass function (PMF) $p_X(x)$
-DESCRIPTION: 
+FRONT: Properties of Probability mass function (PMF) $p_X(x)$
+BACK: 
 - $p_X(x) \geq 0$
 - $\sum_x p_X(x) = 1$
 - $P(X \in S) = \sum_{x \in S} p_X(x).$

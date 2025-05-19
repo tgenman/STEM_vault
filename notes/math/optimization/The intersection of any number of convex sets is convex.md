@@ -23,8 +23,8 @@ $\mathcal{X} = \bigcap_{i \in I} X_i$
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: The intersection of any number of convex sets is 
-DESCRIPTION: convex
+FRONT: The intersection of any number of convex sets is 
+BACK: convex
 The intersection of a finite or infinite number of convex sets $X_i$ is a convex set:
 $\mathcal{X} = \bigcap_{i \in I} X_i$
 ADDITIONAL:

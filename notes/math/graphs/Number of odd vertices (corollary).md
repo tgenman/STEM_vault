@@ -20,8 +20,8 @@ which, of course, is an even number. Since the sum of the degrees of the even ve
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Number of odd vertices (corollary)
-DESCRIPTION: Every graph has an even number of odd vertices.
+FRONT: Number of odd vertices (corollary)
+BACK: Every graph has an even number of odd vertices.
 FORMULA: 
 ADDITIONAL: ### Proof
 Proof. Suppose that $G$ is a graph of size $m$. By [[Handshaking Lemma]],

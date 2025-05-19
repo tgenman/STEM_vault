@@ -42,8 +42,8 @@ A function from the sample space $\Omega$ to the real numbers
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Random Variable (r.v.) X (def 1)
-DESCRIPTION: A random variable is a real-valued function of the outcome of the  [[Random experiment|experiment]]
+FRONT: Random Variable (r.v.) X (def 1)
+BACK: A random variable is a real-valued function of the outcome of the  [[Random experiment|experiment]]
 A function from the sample space $\Omega$ to the real numbers
 FORMULA: 
 ADDITIONAL:
@@ -54,8 +54,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Random Variable (r.v.) X (def 2)
-DESCRIPTION: 
+FRONT: Random Variable (r.v.) X (def 2)
+BACK: 
 действительная функция от [[Elementary event|элементарнорго исхода]]$\xi=\xi(\omega),\omega\in \Omega$, для которой при любом действительном $x$ множество $\{\omega:\xi(\omega)\le x\}$ принадлежит $\mathcal{A}$, то есть является событием, и для него определена вероятность $P\{\omega:\xi(\omega)\le x\}$.
 FORMULA: 
 Пусть $\Omega$ — это пространство исходов броска игральной кости $\Omega=\{1,2,3,4,5,6\}$
@@ -70,8 +70,8 @@ END
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Properties of Random Variable (r.v.) X
-DESCRIPTION: 
+FRONT: Properties of Random Variable (r.v.) X
+BACK: 
 - A  [[Function (math)|function]] of a ==random variable== defines another ==random variable==.
 - We can associate with each random variable certain "averages" of interest, such as the [[Expected Value E(X)]]  and [[Variance V(X)]] .
 - A ==random variable== can be [[Conditional Probability|conditioned]]  on an [[Event]] or on another ==random variable==.

@@ -26,8 +26,8 @@ whose length is less than $k$ and such that every edge of $W'$ belongs to $W$. T
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about path and walk
-DESCRIPTION: Let $u$ and $v$ be two vertices of a graph $G$. For every $u − v$ [[Walk W|walk]]  $W$ in $G,$ there exists a $u−v$ [[Path P|path]] $P$ such that every edge of $P$ belongs to$ W$.
+FRONT: Theorem about path and walk
+BACK: Let $u$ and $v$ be two vertices of a graph $G$. For every $u − v$ [[Walk W|walk]]  $W$ in $G,$ there exists a $u−v$ [[Path P|path]] $P$ such that every edge of $P$ belongs to$ W$.
 FORMULA: ### Proof. 
 Let $W$ be a $u - v$ walk. Among all $u - v$ walks in $G$, every edge of which belongs to $W$, let
 

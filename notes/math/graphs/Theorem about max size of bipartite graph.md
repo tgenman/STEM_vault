@@ -24,8 +24,8 @@ and so $x(n-x)\leq n^2/4.$ Since $x(n-x)$ is an integer, $x(n-x)\leq\lfloor n^2/
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about max size of bipartite graph
-DESCRIPTION: The [[Size of graph (m)|size]] of every ==bipartite graph== of order $n$ is at most $⌊\frac{n^2}{4}⌋$
+FRONT: Theorem about max size of bipartite graph
+BACK: The [[Size of graph (m)|size]] of every ==bipartite graph== of order $n$ is at most $⌊\frac{n^2}{4}⌋$
 FORMULA: 
 ADDITIONAL: ### Proof
 Let $G$ be bipartite graph of order $n$ with partite sets $U$ and $W.$ Then $|U|= x$ and $|W|= n- x$ for some integer $x$ with $1\leq x\leq n- 1.$ Hence the size of $G$ is at most $x(n-x).$

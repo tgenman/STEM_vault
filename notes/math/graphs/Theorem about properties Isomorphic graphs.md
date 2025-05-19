@@ -19,8 +19,8 @@ We have already observed that isomorphic graphs have the same order and the same
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem about properties Isomorphic graphs
-DESCRIPTION: If two graphs $G$ and $H$ are [[519.175.1 Isomorphic Graphs|isomorphic]], then they have the same [[Order of graph (n)|order]] and the same [[Size of graph (m)|size]], and the [[Degree of a vertex (deg)|degrees]] of the vertices of $G$ are the same as the degrees of the vertices of $H$
+FRONT: Theorem about properties Isomorphic graphs
+BACK: If two graphs $G$ and $H$ are [[519.175.1 Isomorphic Graphs|isomorphic]], then they have the same [[Order of graph (n)|order]] and the same [[Size of graph (m)|size]], and the [[Degree of a vertex (deg)|degrees]] of the vertices of $G$ are the same as the degrees of the vertices of $H$
 $|V (G)| = |V (H)|$
 $|E(G)| = |E(H)|$
 FORMULA: 

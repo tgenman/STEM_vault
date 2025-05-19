@@ -36,8 +36,8 @@ TARGET DECK: stem::math::algebra
 
 START
 math_complex
-TITLE: Isomorphism
-DESCRIPTION: A [[Homomorphism|homomorphism]] that is also [[Bijective mapping property (function)|bijective]]. Each element in one structure corresponds to exactly one element in another, preserving all operations.
+FRONT: Isomorphism
+BACK: A [[Homomorphism|homomorphism]] that is also [[Bijective mapping property (function)|bijective]]. Each element in one structure corresponds to exactly one element in another, preserving all operations.
 FORMULA: For operation $\ast$ in $A$ and $\circ$ in $B$: $\phi(x \ast y) = \phi(x) \circ \phi(y)$ where $\phi$ is bijective
 ADDITIONAL:
 ID: 1747395543806
@@ -45,8 +45,8 @@ END
 
 START
 math_complex
-TITLE: Isomorphism Properties
-DESCRIPTION: Key characteristics of isomorphisms between algebraic structures
+FRONT: Isomorphism Properties
+BACK: Key characteristics of isomorphisms between algebraic structures
 - [[Inverse function (math)|Invertible]]: An inverse isomorphism exists
 - Structure-preserving: Completely preserves structural operations
 - [[Bijective mapping property (function)|Bijective]]: One-to-one correspondence between elements

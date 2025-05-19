@@ -51,8 +51,8 @@ $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 TARGET DECK: math::probability
 START
 math_complex
-TITLE: Uniform r.v. (discrete) $U(a, b)$
-DESCRIPTION: 
+FRONT: Uniform r.v. (discrete) $U(a, b)$
+BACK: 
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{1}{b-a} \mathbb{I}(a \le x \le b)$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = \begin{cases} 0 & x < a \\ \frac{\lfloor x \rfloor-a + 1}{b-a} & a \le x \le b \\ 1 & x > b \end{cases}$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \frac{a+b}{2}$
@@ -75,8 +75,8 @@ END
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Expected Value E(X) Uniform r.v. (discrete)
-DESCRIPTION: $E[X] = \frac{n}{2}$
+FRONT: Expected Value E(X) Uniform r.v. (discrete)
+BACK: $E[X] = \frac{n}{2}$
 FORMULA: Proof
 $E[X] = 0 \cdot \frac{1}{n+1} + 1 \cdot \frac{1}{n+1} + \ldots + n \cdot \frac{1}{n+1} = \frac{1}{n+1} (0 + 1 + \ldots + n) = \frac{1}{n+1} \cdot \frac{n(n+1)}{2} = \frac{n}{2}$
 ADDITIONAL:
@@ -87,8 +87,8 @@ END
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Variance V(X) Uniform r.v. (discrete)
-DESCRIPTION: $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
+FRONT: Variance V(X) Uniform r.v. (discrete)
+BACK: $\text{var}(X) = \frac{1}{12} (b-a)(b-a+2)$
 FORMULA: Proof
 $\text{var}(X) = E[X^2] - (E[X])^2 = \frac{1}{n+1} (0^2 + 1^2 + 2^2 + \ldots + n^2) - \left(\frac{n}{2}\right)^2$
 $E[X^2] = \frac{1}{n+1} \cdot \frac{n(n+1)(2n+1)}{6} = \frac{n(2n+1)}{6}$

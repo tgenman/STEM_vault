@@ -37,8 +37,8 @@ $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Line (opt def)
-DESCRIPTION: Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
+FRONT: Line (opt def)
+BACK: Suppose $x_1, x_2$ are two points in $\mathbb{R^n}$. 
 Then the line passing through them is defined as follows:
 FORMULA: $x = \theta x_1 + (1 - \theta)x_2, \theta \in \mathbb{R}$
 ADDITIONAL:
@@ -49,8 +49,8 @@ END
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Line. implicit equation
-DESCRIPTION:
+FRONT: Line. implicit equation
+BACK:
 FORMULA: $\Large x + y = 1$
 ID: 1734761884853
 END
@@ -58,7 +58,7 @@ END
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Line. parametric form
+FRONT: Line. parametric form
 FORMULA: $\Large l: \{ (x, y, z) \in R^3 | (x, y, z) = p_0 + t \vec{v}, t \in R \}$
 ID: 1734761884869
 END
@@ -66,7 +66,7 @@ END
 TARGET DECK: math::optimization
 START
 math_complex
-TITLE: Line. Symmetric form
+FRONT: Line. Symmetric form
 FORMULA: $\large  x = p_{ox} + tv_x$
 $\Large l: \{ \frac{x - p_{ox}}{v_x} = \frac{x - p_{oy}}{v_y} = \frac{x - p_{oz}}{v_z} \}$
 ID: 1734761884874

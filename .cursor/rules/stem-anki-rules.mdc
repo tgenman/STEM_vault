@@ -54,8 +54,8 @@ Example format for math_complex:
 TARGET DECK: stem::math::combinatorics
 START
 math_complex
-TITLE: Concept Name
-DESCRIPTION: Definition and key points of the concept
+FRONT: Concept Name
+BACK: Definition and key points of the concept
 FORMULA: $$Formula$$
 PICTURE:
 ADDITIONAL:

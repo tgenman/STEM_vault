@@ -20,8 +20,8 @@ We show by induction that for each integer $n \geq 2$ there are exactly two near
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Theorem of existence eaxctly 2 nearly irregular graphs
-DESCRIPTION: For every integer $n ≥ 2$, there are exactly two nearly irregular graphs of order $n$.
+FRONT: Theorem of existence eaxctly 2 nearly irregular graphs
+BACK: For every integer $n ≥ 2$, there are exactly two nearly irregular graphs of order $n$.
 FORMULA: ### Proof
 First, observe that if $G$ is a nearly irregular graph of order $n$, then $G$ cannot contain a vertex of degree $0$ and a vertex of degree $n - 1$. Thus, either each vertex of $G$ has one of the degrees $0, 1, \ldots, n - 2$ or each vertex of $G$ has one of the degrees $1, 2, \ldots, n - 1$. Furthermore, if $G$ is nearly irregular, then so is $\overline{G}$.
 

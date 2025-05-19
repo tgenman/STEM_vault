@@ -22,8 +22,8 @@ $L_1 = \sum_{i=1}^{n} |a|$
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: $L_1$ норма (Manhattan norm (L1))
-DESCRIPTION: Сумма взятых по модулю координат вектора
+FRONT: $L_1$ норма (Manhattan norm (L1))
+BACK: Сумма взятых по модулю координат вектора
 FORMULA: $L_1 = \sum_{i=1}^{n} |a|$
 ADDITIONAL:
 PICTURE: ![[Pasted image 20240203174411.png|300]]  

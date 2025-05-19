@@ -16,8 +16,8 @@ connected:
 TARGET DECK: math::linal 
 START
 Math_TWO_side
-TITLE: Побочная диагональ квадратной матрицы
-DESCRIPTION: диагональ, идущая из правого верхнего угла в левый нижний угол. 
+FRONT: Побочная диагональ квадратной матрицы
+BACK: диагональ, идущая из правого верхнего угла в левый нижний угол. 
 FORMULA: 
 ADDITIONAL:
 PICTURE:

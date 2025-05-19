@@ -28,8 +28,8 @@ $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\ma
 TARGET DECK: Math:: Optimization  
 START
 math_complex
-TITLE: Relative Interior of the set $S$
-DESCRIPTION: is set:
+FRONT: Relative Interior of the set $S$
+BACK: is set:
 $\mathbf{relint} (S) = \{\mathbf{x} \in S \mid \exists \varepsilon > 0, \; B(\mathbf{x}, \varepsilon) \cap \mathbf{aff} (S) \subseteq S\}$
 ADDITIONAL: Example: 
 Any non-empty convex set $S \subseteq \mathbb{R}^n$ has a non-empty relative interior $\mathbf{relint}(S)$.
@@ -39,8 +39,8 @@ END
 TARGET DECK: Math:: Optimization  
 START
 math_complex
-TITLE: Difference between interior and relative interior
-DESCRIPTION: 
+FRONT: Difference between interior and relative interior
+BACK: 
 PICTURE: ![[rel_int.svg]]
 ID: 1734846333085
 END

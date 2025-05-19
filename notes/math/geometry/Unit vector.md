@@ -23,8 +23,8 @@ Unit vector $u = \frac{v}{\| v \|}$ is a unit vector in the same direction as $v
 TARGET DECK: math::linal
 START
 math_complex
-TITLE: A unit vector $u$ is
-DESCRIPTION: a vector whose [[Norm of vector|length]] equals one. Then $u \cdot u = 1$.
+FRONT: A unit vector $u$ is
+BACK: a vector whose [[Norm of vector|length]] equals one. Then $u \cdot u = 1$.
 Unit vector $u = \frac{v}{\| v \|}$ is a unit vector in the same direction as $v$.
 FORMULA: 
 ADDITIONAL:

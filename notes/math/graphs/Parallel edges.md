@@ -15,8 +15,8 @@ is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 TARGET DECK: math::graph
 START
 Math_TWO_side
-TITLE: Parallel edges
-DESCRIPTION: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
+FRONT: Parallel edges
+BACK: is two or more [[Edge of graph (E)|links]]  with the same pair of ends
 FORMULA: 
 ADDITIONAL:
 ID: 1705600079765

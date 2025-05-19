@@ -24,8 +24,8 @@ tags:
 TARGET DECK: math::probability 
 START
 math_complex
-TITLE: Uniform(a, b) (cont)
-DESCRIPTION: 
+FRONT: Uniform(a, b) (cont)
+BACK: 
 - [[PDF - f_X(x)|PDF]]: $f_X(x) = \frac{1}{b-a} \mathbb{I}(a \le x < b)$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = \begin{cases} 0 & x < a \\ \frac{x-a}{b-a} & a \le x < b \\ 1 & x > b \end{cases}$$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \frac{a+b}{2}$

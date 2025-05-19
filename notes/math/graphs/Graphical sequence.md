@@ -23,8 +23,8 @@ It is not all that unusual for a graphical sequence to be the degree sequence of
 TARGET DECK: math::graph
 START
 math_complex
-TITLE: Graphical sequence
-DESCRIPTION: is a finite sequence $s$ of nonnegative integers
+FRONT: Graphical sequence
+BACK: is a finite sequence $s$ of nonnegative integers
 if $s$ is a [[Degree Sequence|degree sequence]]  of some graph.
 While the conditions that $d_i ≤ n − 1$ for all $i (1 ≤ i ≤ n)$ and $\sum_{i=1}^{n} \deg v_i$ is even are necessary for s to be graphical, they are not sufficient.
 It is not all that unusual for a graphical sequence to be the degree sequence of more than one graph.

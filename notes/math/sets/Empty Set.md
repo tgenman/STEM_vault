@@ -28,8 +28,8 @@ TARGET DECK: stem::math::sets
 
 START
 math_complex
-TITLE: Empty Set (def)
-DESCRIPTION: is a unique [[Set (math)|set]] that has no elements
+FRONT: Empty Set (def)
+BACK: is a unique [[Set (math)|set]] that has no elements
 FORMULA: $\emptyset$ or $\{\}$
 ADDITIONAL: Properties:
 - $|\emptyset| = 0$
