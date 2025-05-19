@@ -11,7 +11,7 @@ tags:
   - empty
 ---
 The Cartesian product $G$ of two graphs $G1$ and $G2$, , has vertex set
-$V(G) = V(G_1) × V(G_2)$ - [[Cartesian product of sets (A x B)]]
+$V(G) = V(G_1) × V(G_2)$ - [[Cartesian product of sets]]
 where two distinct vertices $(u, v)$ and $(x, y)$ of $G_1 \square G_2$ are adjacent if either
 (1) $u = x$ and $vy ∈ E(G_2)$ or (2) $v = y$ and $ux ∈ E(G_1)$
 

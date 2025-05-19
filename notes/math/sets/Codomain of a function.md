@@ -1,15 +1,16 @@
 ---
 aliases:
-  - Кодомен
   - Target set
 anki: true
-created: 2024-01-17 20:02
+created: 2025-05-16 14:44
 parent:
   - "[[Function (math)]]"
   - "[[Set (math)]]"
 connected:
   - "[[Domain Dom(f) or Preimage]]"
   - "[[Range Ran(f) or Image Im(f)]]"
+tags:
+  - eng
 ---
 
 > [!tip] Codomain (Кодомен)
@@ -18,14 +19,15 @@ connected:
 ![[Pasted image 20240117200108.png|300]]
 
 # Anki
-TARGET DECK: math::set  
+TARGET DECK: stem::math::sets
+
 START
-Math_TWO_side
-TITLE: Codomain (Кодомен), Target set
+math_complex
+TITLE: Codomain 
+Target set
 DESCRIPTION: Множество, в рамках которого рассматриваются возможные выходные значения функции.
-FORMULA: ![[Pasted image 20240117200108.png|300]]
-ADDITIONAL:
-ID: 1706040595541
+PICTURE:![[Pasted image 20240117200108.png|300]]
+ID: 1747395927125
 END
 
 

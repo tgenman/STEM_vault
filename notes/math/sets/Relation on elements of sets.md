@@ -11,7 +11,7 @@ tags:
 ---
 
 > [!tip] A relation between [[Set (math)|sets]] $A$ and $B$
-is a subset $\mathscr{R}$ of $A\times B$ ([[Cartesian product of sets (A x B)]]). 
+is a subset $\mathscr{R}$ of $A\times B$ ([[Cartesian product of sets]]). 
 
 We read $(a,b)∈R$ as “a is related to b” and write $a$ $\mathscr{R}$ $b$.
 

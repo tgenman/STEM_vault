@@ -6,11 +6,11 @@ created: 2023-10-17 21:05
 parent:
   - "[[Set (math)]]"
 connected:
-  - "[[Cartesian product of sets (A x B)]]"
+  - "[[Cartesian product of sets]]"
   - "[[Правило суммы мощностей множеств]]"
   - "[[Inclusion-Exclusion principle]]"
   - "[[The bijection rule]]"
-tags:
+tags: 
 ---
 
 > [!tip] Cardinality

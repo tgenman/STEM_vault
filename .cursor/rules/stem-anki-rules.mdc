@@ -35,7 +35,7 @@ START
 math_basic_single
 QUESTION: Symmetric difference
 $A \triangle \emptyset =$
-ANSWER: $A$
+ANSWER: $= A$
 END
 ```
 
