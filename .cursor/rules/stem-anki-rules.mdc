@@ -33,9 +33,9 @@ Example format for math_basic_single:
 TARGET DECK: stem::math::sets
 START
 math_basic_single
-QUESTION: Symmetric difference
+FRONT: Symmetric difference
 $A \triangle \emptyset =$
-ANSWER: $= A$
+BACK: $= A$
 END
 ```
 

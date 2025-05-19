@@ -49,49 +49,49 @@ END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $A \setminus A =$
-ANSWER: $= \emptyset$
+BACK: $= \emptyset$
 ID: 1747383865738
 END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $A \setminus \emptyset =$
-ANSWER: $= A$
+BACK: $= A$
 ID: 1747383865742
 END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $\emptyset \setminus A =$
-ANSWER: $= \emptyset$
+BACK: $= \emptyset$
 ID: 1747383865745
 END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $A \setminus \mathbb{U} =$
-ANSWER: $= \emptyset$
+BACK: $= \emptyset$
 ID: 1747383865748
 END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $\mathbb{U} \setminus A =$
-ANSWER: $= \overline{A}$
+BACK: $= \overline{A}$
 ID: 1747383865752
 END
 
 START
 math_basic_single
-QUESTION: Difference of Sets (prop)
+FRONT: Difference of Sets (prop)
 $A \triangle B =$
-ANSWER: $= (A \setminus B) \cup (B \setminus A)$
+BACK: $= (A \setminus B) \cup (B \setminus A)$
 ID: 1747383865755
 END
 

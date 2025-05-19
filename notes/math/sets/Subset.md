@@ -29,20 +29,20 @@ connected:
 TARGET DECK: stem::math::sets
 START
 math_basic_single
-QUESTION: What is a subset? ($B⊆A$ or $A⊇B$)
-ANSWER: A set $B$ is a subset of set $A$ if every element of $B$ is in $A$
+FRONT: What is a subset? ($B⊆A$ or $A⊇B$)
+BACK: A set $B$ is a subset of set $A$ if every element of $B$ is in $A$
 ID: 1747686174306
 END
 
 START
 math_basic_single
-QUESTION: Difference between $B ⊂ A$ and $B ⊆ A$
-ANSWER: $B ⊂ A$ means $B ⊆ A$ but $B \neq A$ (strict subset)
+FRONT: Difference between $B ⊂ A$ and $B ⊆ A$
+BACK: $B ⊂ A$ means $B ⊆ A$ but $B \neq A$ (strict subset)
 ID: 1747686174310
 END
 
 START
-math_basic_complex
+math_complex
 TITLE: Properties of Subsets
 DESCRIPTION: For sets $A$, $B$, and $K$:
 1. Reflexivity: $A ⊆ A$
@@ -50,6 +50,7 @@ DESCRIPTION: For sets $A$, $B$, and $K$:
 3. Antisymmetry: If $A ⊆ B$ and $B ⊆ A$, then $A = B$
 4. Universal subsets: For any set $A$, both $A$ and $∅$ are subsets of $A$
 ADDITIONAL: These properties form the foundation for partial ordering in set theory
+ID: 1747686593223
 END
 
 
