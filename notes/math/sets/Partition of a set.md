@@ -23,7 +23,7 @@ The subsets $A_i$ are called the ==blocks== or ==cells== of the partition.
 - Every non-[[Empty Set|empty set]] has at least one partition (the trivial partition consisting of the set itself)
 - The number of different ways to partition a set with $n$ elements is called the [[Bell numbers]] $B_n$
 - For any partition $\{A_i\}_{i \in I}$ of $S$:
-    - $|S| = \sum_{i \in I} |A_i|$ (by [[Правило суммы мощностей множеств|sum rule for cardinalities]])
+    - $|S| = \sum_{i \in I} |A_i|$ (by [[Sum Rule for Set Cardinalities|sum rule for cardinalities]])
 
 # Anki
 TARGET DECK: stem::math::sets

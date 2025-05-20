@@ -10,10 +10,10 @@ connected:
   - "[[The bijection rule]]"
   - "[[Countable infinity set]]"
   - "[[Continuum infinity set]]"
-  - "[[Правило суммы мощностей множеств]]"
+  - "[[Sum Rule for Set Cardinalities]]"
   - "[[Inclusion-Exclusion principle]]"
   - "[[Cartesian product of sets]]"
-tags:
+tags: 
 ---
 
 > [!tip] Cardinality $|X|$ of a set $X$
@@ -23,7 +23,7 @@ For finite sets, cardinality is simply the count of elements. For infinite sets,
 
 # Properties
 1. Empty set has cardinality zero: $|\emptyset| = 0$
-2. For [[Disjoint set|disjoint sets]] $A$ and $B$: $|A \cup B| = |A| + |B|$ ([[Правило суммы мощностей множеств]])
+2. For [[Disjoint set|disjoint sets]] $A$ and $B$: $|A \cup B| = |A| + |B|$ ([[Sum Rule for Set Cardinalities]])
 3. For any sets $A$ and $B$: $|A \cup B| = |A| + |B| - |A \cap B|$ ([[Inclusion-Exclusion principle]])
 4. For [[Cartesian product of sets|Cartesian product]]: $|A \times B| = |A| \cdot |B|$
 
