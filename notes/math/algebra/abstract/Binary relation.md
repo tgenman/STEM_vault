@@ -4,7 +4,7 @@ aliases:
 anki: false
 created: 2024-07-02 19:11
 parent:
-  - "[[Relation on elements of sets]]"
+  - "[[Relation]]"
 connected:
   - "[[Binary operation]]"
 tags:

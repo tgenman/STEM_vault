@@ -4,7 +4,7 @@ aliases:
 anki: false
 created: 2024-07-03 15:06
 parent:
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
 connected:
   - "#обс/linking"
 tags:

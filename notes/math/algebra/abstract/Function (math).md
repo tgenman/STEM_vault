@@ -7,6 +7,7 @@ anki: false
 created: 2023-09-15 11:18
 parent:
   - "[[Mapping (math)]]"
+  - "[[Operations on sets]]"
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
   - "[[512.1 Elementary Algebra MOC]]"
@@ -21,7 +22,7 @@ connected:
 > [!tip] A function $φ$
  mapping $X$ into $Y$ is a [[Mapping (math)]] between $X$ and $Y$ with the property that each $x ∈ X$ appears as the first member of exactly one ordered pair $(x, y)$ in $φ$. 
 
-Such a function is also ca[](Relation%20on%20elements%20of%20sets.md)=mapping== of $X$ into $Y$. 
+Such a function is also ca[](Relation.md)=mapping== of $X$ into $Y$. 
 We write $φ : X → Y$ and express $(x, y) ∈ φ$ by $φ(x) = y$ 
 $$f:X⟶Y$$
 - The [[Domain Dom(f) or Preimage|domain]] of $φ$ is the set $X$ and 

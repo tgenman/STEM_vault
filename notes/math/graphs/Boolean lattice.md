@@ -4,7 +4,7 @@ anki: true
 created: 2023-12-16 23:15
 parent:
   - "[[519.17 Graph Theory MOC]]"
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
 connected:
   - "[[Boolean]]"
 ---

@@ -3,7 +3,7 @@ aliases:
   - Диаграмма Венна - Эйлера
 created: 2025-05-20 10:14
 parent:
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
   - "[[👤 Venn, John]]"
   - "[[👤 Eule, Leonhard]]"
 connected:

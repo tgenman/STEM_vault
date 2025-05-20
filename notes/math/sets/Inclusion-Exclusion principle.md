@@ -4,7 +4,7 @@ aliases:
 anki: false
 created: 2023-10-20 21:01
 parent:
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
   - "[[Cardinality]]"

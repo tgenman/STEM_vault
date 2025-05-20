@@ -2,7 +2,7 @@
 aliases: [Georg Cantor, Георг Кантор]
 tags: person👤
 ---
-links: [[Sets theory]]
+links: [[510.22 Set theory]]
 profession: [[Математик]]
 rec:
 city: 

@@ -2,7 +2,7 @@
 aliases:
   - Множество (математика)
 parent:
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
 created: 2024-07-03 21:59
 connected:
   - "[[Subset]]"

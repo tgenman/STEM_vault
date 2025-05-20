@@ -12,7 +12,7 @@ tags:
 # $Tri = 〈r , f 〉$
 ![[Pasted image 20250510171922.png]]
 
-Equivalences of actions like the following are called [[Relations]]:
+Equivalences of actions like the following are called [[Relation]]:
 
 $$ r^3 = 1, \quad f^2 = 1, \quad rf = fr^2, \quad fr = r^2f. $$
 

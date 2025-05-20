@@ -4,9 +4,9 @@ aliases:
 tags:
   - person👤
 connected:
-  - "[[Sets theory]]"
+  - "[[510.22 Set theory]]"
 ---
-links: [[Sets theory]], [[16 Logic]]
+links: [[510.22 Set theory]], [[16 Logic]]
 profession: [[Математик]]
 rec:
 city: 
