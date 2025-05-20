@@ -5,7 +5,7 @@ aliases:
 anki: false
 created: 2024-01-29 20:24
 parent:
-  - "[[n-ary operation on elements of set]]"
+  - "[[Operation on elements of set]]"
 connected:
   - "[[Ternary relation]]"
 tags: []

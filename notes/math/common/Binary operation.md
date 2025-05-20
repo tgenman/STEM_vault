@@ -4,7 +4,7 @@ aliases:
 anki: false
 created: 2024-01-29 20:22
 parent:
-  - "[[n-ary operation on elements of set]]"
+  - "[[Operation on elements of set]]"
 connected:
   - "[[Логическая бинарная функция]]"
   - "[[Binary relation]]"

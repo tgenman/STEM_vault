@@ -1,5 +1,14 @@
 ---
-aliases: [Логическое отрицание]
+aliases:
+  - Логическое отрицание
+anki: false
+created: 2025-05-20 15:23
+parent:
+  - "[[Unary operation]]"
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
 links: [[Логические операции]], [[Логическая унарная функция]]
 
