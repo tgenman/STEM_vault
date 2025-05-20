@@ -13,7 +13,7 @@ parent:
 - [[yandex course - ML (temp)]]
 
 - [[NLP]]
-- [[Computer Vision|CV]]
+- [[notes/_inbox/Computer Vision|CV]]
 - [[Reinforcement Learning|RL]]
 
 Method = [[Model (ML)]] + [[Loss function|Criterion]]  + [[Algorithm of learning]]
