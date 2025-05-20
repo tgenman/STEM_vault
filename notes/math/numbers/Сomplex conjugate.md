@@ -30,7 +30,7 @@ $$
 $$
 
 # Anki
-TARGET DECK: math::common
+TARGET DECK: math::number
 START
 math_complex
 FRONT: Сomplex conjugate
