@@ -4,9 +4,9 @@ aliases:
 parent:
   - "[[Operations on sets]]"
 connected:
-  - "[[Logical AND (∧)]]"
+  - "[[Logical multiplication (AND ∧)]]"
   - "[[Venn-Euler diagram]]"
-  - "[[Properties of intersection and union]]"
+  - "[[Distributivity of intersection and union]]"
 anki: true
 created: 2025-05-20 10:12
 tags: 

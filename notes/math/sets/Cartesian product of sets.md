@@ -10,7 +10,7 @@ connected:
 ---
 
 > [!tip] Cartesian product of $A$ and $B$.
-The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
+The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$ ([[Tuple]]s)
 
 
 > [!tip]  Product rule
@@ -31,7 +31,7 @@ TARGET DECK: stem::math::sets
 START
 math_basic_single
 FRONT: Cartesian product of sets (def).
-BACK: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$
+BACK: The set $A×B=\set{(a,b)|a∈A\text{ and }b∈B}$ (tuples)
 ID: 1747685141979
 END
 

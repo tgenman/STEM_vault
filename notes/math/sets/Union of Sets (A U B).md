@@ -5,11 +5,11 @@ anki: true
 parent:
   - "[[Operations on sets]]"
 connected:
-  - "[[Properties of intersection and union]]"
+  - "[[Distributivity of intersection and union]]"
   - "[[Venn-Euler diagram]]"
+  - "[[Logical multiplication (AND ∧)]]"
 created: 2024-03-24 16:47
-anki: true
-tags:
+tags: 
 ---
 
 > [!tip] Union of Sets $A \cup B$

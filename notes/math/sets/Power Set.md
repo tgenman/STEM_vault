@@ -20,13 +20,11 @@ For any set $A$:
 - $\emptyset \in P(A)$ and $A \in P(A)$
 - If $|A| = n$, then $|P(A)| = 2^n$
 - For any sets $A$ and $B$: $A \subseteq B \iff P(A) \subseteq P(B)$
-- $P(\emptyset) = \{\emptyset\}$
+- $\mathcal{P}(\emptyset) = \{\emptyset\}$  
+- $\mathcal{P}(\{1\}) = \{\emptyset, \{1\}\}$  
+- $\mathcal{P}(\{1, 2\}) = \{\emptyset, \{1\}, \{2\}, \{1, 2\}\}$
 
-# Example
-For set $A = \{1,2\}$:
-$P(A) = \{\emptyset, \{1\}, \{2\}, \{1,2\}\}$
 
-![[Screenshot 2022-07-13 at 12.14.27.png|500]]
 
 # Anki
 TARGET DECK: stem::math::sets
@@ -35,11 +33,6 @@ math_complex
 FRONT: Power Set $P(A)$ (def)
 BACK: The set of all subsets of set $A$, including empty set and $A$ itself
 FORMULA: For set with $n$ elements: $|P(A)| = 2^n$
-PICTURE: ![[Screenshot 2022-07-13 at 12.14.27.png]]
-ADDITIONAL: Properties:
-- $\emptyset \in P(A)$ and $A \in P(A)$
-- $A \subseteq B \iff P(A) \subseteq P(B)$
-- $P(\emptyset) = \{\emptyset\}$
 ID: 1747689641010
 END
 
@@ -53,10 +46,14 @@ END
 START
 math_basic_single
 FRONT: Power Set $P(A)$ (prop)
-BACK: 1. $\emptyset \in P(A)$ and $A \in P(A)$
-2. If $|A| = n$, then $|P(A)| = 2^n$
-3. For any sets $A$ and $B$: $A \subseteq B \iff P(A) \subseteq P(B)$
-4. $P(\emptyset) = \{\emptyset\}$
+BACK: 
+For any set $A$: 
+- $\emptyset \in P(A)$ and $A \in P(A)$
+- If $|A| = n$, then $|P(A)| = 2^n$
+- For any sets $A$ and $B$: $A \subseteq B \iff P(A) \subseteq P(B)$
+- $\mathcal{P}(\emptyset) = \{\emptyset\}$  
+- $\mathcal{P}(\{1\}) = \{\emptyset, \{1\}\}$  
+- $\mathcal{P}(\{1, 2\}) = \{\emptyset, \{1\}, \{2\}, \{1, 2\}\}$
 ID: 1747689641026
 END
 
