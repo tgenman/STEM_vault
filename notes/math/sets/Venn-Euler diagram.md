@@ -1,8 +1,15 @@
 ---
----
-author: [[👤 Eule, Leonhard]], [[👤 Venn, John]]
-links: [[16 Logic]]
-
+aliases:
+  - Диаграмма Венна - Эйлера
+created: 2025-05-20 10:14
+parent:
+  - "[[Sets theory]]"
+  - "[[👤 Venn, John]]"
+  - "[[👤 Eule, Leonhard]]"
+connected:
+  - "#обс/linking"
+tags:
+  - empty
 ---
 
 [[Intersection of Sets (A ∩ B)]]

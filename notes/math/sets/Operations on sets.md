@@ -9,7 +9,7 @@ created: 2024-07-03 10:46
 
 [[Intersection of Sets (A ∩ B)]]
 [[Union of Sets (A U B)]]
-[[Свойства пересечения и объединения множеств]]
+[[Properties of intersection and union]]
 
 [[Complement of Set]]
 [[Difference (A-B)]]

@@ -1,8 +1,14 @@
 ---
+aliases:
+  - Свойства пересечения и объединения множеств
 parent:
   - "[[Union of Sets (A U B)]]"
   - "[[Intersection of Sets (A ∩ B)]]"
 anki: false
+created: 2025-05-20 10:15
+connected:
+  - "#обс/linking"
+tags:
 ---
 
 

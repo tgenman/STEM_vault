@@ -5,8 +5,8 @@ anki: true
 parent:
   - "[[Operations on sets]]"
 connected:
-  - "[[Свойства пересечения и объединения множеств]]"
-  - "[[Диаграмма Венна - Эйлера]]"
+  - "[[Properties of intersection and union]]"
+  - "[[Venn-Euler diagram]]"
 ---
 
 > [!tip] **Объединение** $A∪B$ 
