@@ -1,3 +1,15 @@
+---
+aliases:
+  - Reflexivity
+anki: false
+created: 2025-05-20 10:46
+parent:
+  - "[[Binary relation]]"
+connected:
+  - "#обс/linking"
+tags:
+  - empty
+---
 
 
 Бинарное отношение $\mathcal{R}$ на $\mathcal{A}$ называется

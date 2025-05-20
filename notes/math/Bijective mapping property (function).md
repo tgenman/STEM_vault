@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Injective mapping property (function)]]"
   - "[[Surjective mapping property (function)]]"
-  - "[[Равномощность множеств]]"
+  - "[[Equipotent Sets]]"
 ---
 
 > [!tip] A function is bijective 

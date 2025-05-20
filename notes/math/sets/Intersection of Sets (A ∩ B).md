@@ -19,10 +19,11 @@ $A \cap B = \{x \mid x \in A \text{ and } x \in B\}$
 ![[Pasted image 20220630190715.png]]
 
 # Properties
-- $A \cap B = B \cap A$ (commutativity)
-- $A \cap \emptyset = \emptyset$ (intersection with empty set)
-- $A \cap A = A$ (idempotence)
-- If $A \subseteq B$, then $A \cap B = A$
+- [[Commutative identity|Commutativity]] : $A \cap B = B \cap A$
+- [[Associative identity|Associativity]] : $(A \cap B) \cap C = A \cap (B \cap C)$
+- Empty set: $A \cap \emptyset = \emptyset$
+- [[Idempotence]]: $A \cap A = A$
+- Subset property: If $A \subseteq B$, then $A \cap B = A$
 
 # Anki
 TARGET DECK: stem::math::sets
@@ -51,6 +52,7 @@ FORMULA: $A \cap B = \{x \mid x \in A \text{ and } x \in B\}$
 PICTURE: ![[Pasted image 20220630190715.png]]
 ADDITIONAL: Properties:
 - Commutativity: $A \cap B = B \cap A$
+- Associativity: $(A \cap B) \cap C = A \cap (B \cap C)$
 - Empty set: $A \cap \emptyset = \emptyset$
 - Idempotence: $A \cap A = A$
 - Subset property: If $A \subseteq B$, then $A \cap B = A$

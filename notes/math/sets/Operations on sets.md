@@ -20,7 +20,7 @@ created: 2024-07-03 10:46
 
 [[Cartesian product of sets]]
 - [[Partition of a set]]
-    - [[Residue classes modulo n
+    - [[Residue classes modulo n]]
 
 - Законы алгебры множеств
     - [[De Morgan's laws]]

@@ -1,11 +1,17 @@
 ---
 aliases:
   - Бесконечное множество
-created: 2023-10-17 21:22
+  - Uncountable set
+created: 2025-05-20 10:55
 parent:
   - "[[Set (math)]]"
 connected:
   - "[[Infinity (math)]]"
+  - "[[Countable set]]"
+  - "#обс/linking"
+anki: false
+tags:
+  - empty
 ---
 
 - [[Countable infinity set]]

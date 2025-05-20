@@ -15,13 +15,12 @@ connected:
 
 
 # Anki
-TARGET DECK: math::set
+TARGET DECK: stem::math::sets
+
 START
-math_complex
+math_basic_single
 FRONT: Sets are disjoint
 BACK:  if no two of them share a common element
-FORMULA: 
-ADDITIONAL:
 ID: 1705513882724
 END
 
