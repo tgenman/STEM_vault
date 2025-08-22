@@ -10,7 +10,7 @@ connected:
   - "[[Ring]]"
   - "[[512.5 General Algebra MOC]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 Абелева группа (или [[Commutative identity|коммутативная]] коммутативная группа) Это [[Group|Группа]] если на ней определена [[Commutative identity]]

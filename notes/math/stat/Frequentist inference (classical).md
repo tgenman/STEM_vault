@@ -7,6 +7,6 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 Основоположник - [[Фишер]]

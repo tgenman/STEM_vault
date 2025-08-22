@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[False positive]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 ![[Pasted image 20240722193406.png]]

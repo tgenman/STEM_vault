@@ -10,7 +10,6 @@ connected:
   - "[[Domain Dom(f) or Preimage]]"
   - "[[Range Ran(f) or Image Im(f)]]"
 tags:
-  - eng
 ---
 
 > [!tip] Codomain (Кодомен)

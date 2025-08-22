@@ -3,7 +3,7 @@ aliases:
   - Числа Евклида
 anki: false
 tags:
-  - empty
+  - content/empty
 parent:
   - "[[Prime numbers P]]"
   - "[[👤 Euclid]]"

@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Addition operation]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 

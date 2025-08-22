@@ -9,7 +9,7 @@ connected:
   - "[[Monoid]]"
   - "[[512.5 General Algebra MOC]]"
 tags:
-  - empty
+  - content/empty
 ---
 Полугруппа - определена [[Associative identity]] бинарной операции [[Логическая бинарная функция]]
 

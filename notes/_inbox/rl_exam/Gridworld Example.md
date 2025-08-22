@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 Gridworld Example: Prediction
 ![[Pasted image 20241024200333.png]]

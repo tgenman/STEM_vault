@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Bayes' Rule]]"
 tags:
-  - empty
+  - content/empty
 ---
 [[Байес, Томас]]
 

@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] The Relationship Between Value and Q-functions

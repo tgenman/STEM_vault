@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Error rate]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Аccuracy 

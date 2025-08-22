@@ -11,5 +11,5 @@ connected:
   - "[[False positive rate FPR]]"
   - "[[Recall|True positive rate TPR]]"
 tags:
-  - empty
+  - content/empty
 ---

@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 More formally consider sample $X_1, ..., X_n$ i.i.d. (simple sample). 

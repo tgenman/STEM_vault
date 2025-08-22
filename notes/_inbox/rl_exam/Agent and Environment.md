@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[History (RL)]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 ![[Pasted image 20241024184905.png|500]]

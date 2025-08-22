@@ -12,7 +12,7 @@ connected:
   - "[[Linear and Polynomial Regression]]"
   - "[[Total Sum of Squares (TSS or SST)]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] The quality of a point estimate is sometimes assessed by the **mean squared error**, or MSE defined by

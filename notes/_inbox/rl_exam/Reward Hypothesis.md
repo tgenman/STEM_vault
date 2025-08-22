@@ -6,7 +6,7 @@ parent:
   - "[[Cumulative reward (discounted)]]"
 connected: []
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Reward Hypothesis

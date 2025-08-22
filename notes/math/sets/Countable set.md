@@ -8,5 +8,5 @@ parent:
 connected:
   - "[[Infinity set]]"
 tags:
-  - empty
+  - content/empty
 ---

@@ -6,7 +6,7 @@ parent:
   - "[[519.175.4 Random graphs MOC]]"
 connected: 
 tags:
-  - empty
+  - content/empty
 ---
 - $\Omega$ - the set of all [[Simple Graph (G)]]s without loops and multiple edges on $V$ with exactly $m$ edges,
  - $\mathcal{F}=2^\Omega$,

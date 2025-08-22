@@ -7,7 +7,7 @@ parent:
   - "[[Cartesian product of sets]]"
 connected: 
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Relation (n-арное)

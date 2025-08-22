@@ -10,7 +10,7 @@ parent:
 connected:
   - "[[Precision]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 

@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 ![[Pasted image 20241024194552.png|300]]

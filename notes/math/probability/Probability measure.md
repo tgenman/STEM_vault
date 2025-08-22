@@ -9,7 +9,7 @@ connected:
   - "[[Probability space]]"
   - "[[517.518.11 Measure theory]]"
 tags:
-  - empty
+  - content/empty
 ---
 Это вероятность в аксиоматике [[Kolmogorov definition of probability (general)]]
 

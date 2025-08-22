@@ -9,7 +9,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 [[Intersection of Sets (A ∩ B)]]

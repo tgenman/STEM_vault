@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Countable infinity set]]"
 ---
-#empty
+#content/empty
 
 
 

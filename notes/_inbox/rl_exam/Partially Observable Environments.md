@@ -8,7 +8,7 @@ connected:
   - "[[Fully Observable Environments]]"
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 - **Partial observability**: agent indirectly observes the environment:

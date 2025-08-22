@@ -10,5 +10,5 @@ connected:
   - "[[Normal subgroup]]"
   - "[[Kernel]]"
 tags:
-  - empty
+  - content/empty
 ---

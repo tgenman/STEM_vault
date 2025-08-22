@@ -8,7 +8,7 @@ parent:
   - "[[Vertex-cut]]"
 connected: []
 tags:
-  - empty
+  - content/empty
 ---
 
 Вершины BC-дерева соответствуют блокам и точкам сочленения.

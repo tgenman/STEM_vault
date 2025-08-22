@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] The transition function $P(s'|s,a)$ 

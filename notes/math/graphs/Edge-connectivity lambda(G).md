@@ -8,7 +8,7 @@ connected:
   - "[[Vertex-connectivity k(G)]]"
   - "[[Edge-cut]]"
 tags:
-  - "#empty"
+  - "#content/empty"
 ---
 
 > [!tip] Edge-connectivity $\lambda(G)$

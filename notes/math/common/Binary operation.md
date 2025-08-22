@@ -9,7 +9,7 @@ connected:
   - "[[Логическая бинарная функция]]"
   - "[[Binary relation]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Бинарная операция на множестве $\mathcal{A}$ – 

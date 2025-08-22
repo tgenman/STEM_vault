@@ -9,5 +9,5 @@ connected:
   - "[[519.173.1 Connected graph]]"
   - "[[Vertex-cut]]"
 tags:
-  - empty
+  - content/empty
 ---

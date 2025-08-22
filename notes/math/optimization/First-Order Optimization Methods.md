@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 1. Метод сопряженных градиентов - это как навигатор, который:

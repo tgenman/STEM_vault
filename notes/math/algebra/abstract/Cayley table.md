@@ -8,5 +8,5 @@ connected:
   - "[[Cayley graph]]"
   - "[[👤 Cayley, Arthur]]"
 tags:
-  - empty
+  - content/empty
 ---

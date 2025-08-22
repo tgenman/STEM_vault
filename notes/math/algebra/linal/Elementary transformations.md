@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 created: 2024-04-16 20:17
 ---
 

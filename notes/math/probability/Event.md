@@ -9,7 +9,7 @@ connected:
   - "[[Sample space]]"
   - "[[Elementary event]]"
 tags:
-  - empty
+  - content/empty
 ---
 Событие - подмножество [[Elementary event]]s $А$, такое что $A \in \mathcal{F}$
 

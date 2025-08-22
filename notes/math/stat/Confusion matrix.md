@@ -7,7 +7,7 @@ parent:
   - "[[Hypothesis testing]]"
 connected: []
 tags:
-  - empty
+  - content/empty
 ---
 
 - [[True positive]], [[True negative]]

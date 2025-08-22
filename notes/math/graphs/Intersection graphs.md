@@ -5,7 +5,7 @@ parent:
 connected:
   - "[[Incidence graphs]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 

@@ -2,7 +2,7 @@
 aliases: 
 tags:
   - theorem
-  - empty
+  - content/empty
 anki: false
 created: 2023-10-29 20:30
 parent:

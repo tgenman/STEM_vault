@@ -11,7 +11,7 @@ connected:
   - "[[Random experiment]]"
   - "[[Random Variable (r.v.) X]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 Randomness is a way of modeling lack of information; 

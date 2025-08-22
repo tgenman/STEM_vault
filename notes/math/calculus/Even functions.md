@@ -4,7 +4,7 @@ aliases:
   - Четная функция
 created: 2024-07-03 22:12
 tags:
-  - empty
+  - content/empty
 anki: false
 parent: 
 connected:

@@ -8,7 +8,7 @@ created: 2024-07-03 22:13
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 

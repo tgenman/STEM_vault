@@ -8,5 +8,5 @@ parent:
 connected:
   - "[[Observer's mistake]]"
 tags:
-  - empty
+  - content/empty
 ---

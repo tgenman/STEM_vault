@@ -7,7 +7,7 @@ parent:
   - "[[Matrix]]"
 connected: 
 tags:
-  - empty
+  - content/empty
 ---
 
 

@@ -7,5 +7,5 @@ parent:
 connected:
   - "[[Discrete Random Variable]]"
 tags:
-  - empty
+  - content/empty
 ---

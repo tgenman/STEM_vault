@@ -9,5 +9,5 @@ connected:
   - "[[Cycle graph (C_n)]]"
   - "[[Гамильтонов граф]]"
 tags:
-  - empty
+  - content/empty
 ---

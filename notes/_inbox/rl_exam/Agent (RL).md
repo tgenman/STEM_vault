@@ -7,5 +7,5 @@ parent:
 connected:
   - "[[Agency]]"
 tags:
-  - empty
+  - content/empty
 ---

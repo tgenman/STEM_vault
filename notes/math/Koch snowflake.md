@@ -8,7 +8,7 @@ connected:
   - "[[Complex numbers C]]"
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 anki: false
 ---
 

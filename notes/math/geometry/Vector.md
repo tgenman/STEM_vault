@@ -5,7 +5,7 @@ created: 2024-07-03 22:10
 parent:
   - "[[512.64  Linear algebra MOC]]"
 tags:
-  - empty
+  - content/empty
 anki: false
 connected:
   - "#обс/linking"

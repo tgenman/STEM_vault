@@ -6,6 +6,6 @@ parent:
   - "[[512.5 General Algebra MOC]]"
 connected: []
 tags:
-  - empty
+  - content/empty
 ---
 

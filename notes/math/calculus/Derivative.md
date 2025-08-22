@@ -2,7 +2,7 @@
 aliases:
   - Производная
 tags:
-  - empty
+  - content/empty
 anki: false
 created: 2024-07-03 22:11
 parent: 

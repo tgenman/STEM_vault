@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 - $\Omega$ - the set of all [[Simple Graph (G)]] without loops and multiple edges on $V$, 
 - $\mathcal{F}=2^\Omega$,

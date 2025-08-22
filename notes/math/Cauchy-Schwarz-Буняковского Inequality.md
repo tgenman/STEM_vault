@@ -8,7 +8,7 @@ connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
   - "[[Inner product of vectors|Скалярное произведение векторов]]"
 tags:
-  - empty
+  - content/empty
 anki: false
 ---
 

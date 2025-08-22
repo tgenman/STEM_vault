@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 links: [[Логические операции]], [[Логическая унарная функция]]
 

@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Rectangle]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 

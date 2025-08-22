@@ -10,7 +10,7 @@ connected:
   - "[[Group]]"
   - "[[512.5 General Algebra MOC]]"
 tags:
-  - empty
+  - content/empty
 ---
 Моноид - [[Semigroup]] с определенным [[Identity element]]
 

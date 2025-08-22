@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Covariance]]"
 tags:
-  - empty
+  - content/empty
 ---
  
  $\rho [X, Y] = \frac{\text{Cov}[X, Y]}{\sqrt{V[X]V[Y]}}$

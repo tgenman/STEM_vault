@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Vertex covering number Beta(G)]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Паросочетание в графе $G=(V,E)$ 

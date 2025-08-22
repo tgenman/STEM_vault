@@ -10,5 +10,5 @@ connected:
   - "[[Ring]]"
   - "[[Field]]"
 tags:
-  - empty
+  - content/empty
 ---

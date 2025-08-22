@@ -9,7 +9,7 @@ connected:
   - "[[Classical definition of probability]]"
   - "[[👤 Колмогоров, Андрей Николаевич]]"
 tags:
-  - empty
+  - content/empty
 ---
 Kolmogorov definition of probability (general)
 - A [[Probability space]] $(\Omega, \mathcal{F}, P)$ 

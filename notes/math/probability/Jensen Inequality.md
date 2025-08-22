@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 $\mathbb{E}[\phi(X)] \geq \phi(\mathbb{E}[X])$ for $\phi$ being a convex function.

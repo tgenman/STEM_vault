@@ -10,5 +10,5 @@ connected:
   - "[[Kernel]]"
   - "[[Quotient group]]"
 tags:
-  - empty
+  - content/empty
 ---

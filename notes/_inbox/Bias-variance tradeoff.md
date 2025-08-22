@@ -9,7 +9,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 [[Bias]] and [[Standard error]] are strongly connected in a [[Mean squared error|MSE]]:

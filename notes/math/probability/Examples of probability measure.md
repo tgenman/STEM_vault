@@ -6,7 +6,7 @@ parent:
   - "[[Probability measure]]"
 connected: 
 tags:
-  - empty
+  - content/empty
 ---
 - [[Classical definition of probability]] 
     - $\Omega=\{\omega_1,\ldots,\omega_n\},\:\mathcal{F}=2^\Omega,\:\mathcal{P}(A)=\frac{|A|}n$

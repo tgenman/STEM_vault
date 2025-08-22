@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 [[Labels|Targets]] : ${Y = \mathbb{R}}$ или ${Y = \mathbb{R}^M}$

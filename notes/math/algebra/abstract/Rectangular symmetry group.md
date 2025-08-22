@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Rectangle]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 The set $Rect = \{e, h, v , r \}$

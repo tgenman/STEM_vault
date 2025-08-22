@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Point estimator]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] Point estimation 

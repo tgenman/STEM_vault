@@ -9,5 +9,5 @@ connected:
   - "[[Научные гипотезы]]"
   - "[[Научный метод]]"
 tags:
-  - empty
+  - content/empty
 ---

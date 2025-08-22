@@ -8,7 +8,7 @@ connected:
   - "[[Action (RL)]]"
   - "[[Reward function]]"
 tags:
-  - empty
+  - content/empty
 ---
 
 > [!tip] The **history** is 

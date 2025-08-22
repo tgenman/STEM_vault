@@ -8,7 +8,7 @@ connected:
   - "[[Матрица линейного преобразования]]"
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 anki: false
 ---
 

@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - empty
+  - content/empty
 ---
 
 |                     | [[Model-based RL]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | [[Model-free RL]]                                                                                                                                                                                                                                                                                                                                                     |
