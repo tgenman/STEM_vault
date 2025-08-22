@@ -33,6 +33,7 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
 - **Front Matter**: Each note should start with essential metadata, including aliases, links, and tags.
     - you should not translate aliases to english. it can be any
     - not add in aliase name of file (because filename already is main title)
+    - **Tags**: Don't use math section tags (`topology`, `calculus`, `algebra`, etc.) - use folder structure instead. Use content tags: `theorem`, `lemma`, etc.
 
   ```text
   ---

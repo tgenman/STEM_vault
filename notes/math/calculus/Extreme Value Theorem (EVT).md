@@ -9,7 +9,8 @@ parent:
 connected:
   - "[[Intermediate Value Theorem (IVT)]]"
   - "[[Compact set]]"
-  - "[[Maximum and minimum]]"
+  - "[[supremum X (sup X)]]"
+  - "[[infimum X (inf X)]]"
 tags:
   - theorem
 ---
@@ -28,7 +29,7 @@ In other words: $f([a,b])$ is bounded and both $\sup f([a,b])$ and $\inf f([a,b]
 
 ## Key Conditions
 
-- **Continuity**: $f$ must be continuous on $[a,b]$
+- **[[Continuous function|Continuity]]**: $f$ must be continuous on $[a,b]$
 - **Closed interval**: The domain must be closed (includes endpoints)
 - **Bounded interval**: The domain must be bounded (finite length)
 

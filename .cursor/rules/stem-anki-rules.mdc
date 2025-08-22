@@ -26,7 +26,7 @@ alwaysApply: true
     - `stem::math::probability`
     - `stem::math::sets`
     - `stem::ml::core`
-
+    - `stem::ml::topology`
 
 Example format for math_basic_single:
 ```text
