@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 - For independent random variables $X_1, \ldots, X_n$ bounded within intervals $[a_i, b_i]$, Hoeffding's inequality is given by $\mathbb{P}[\bar{X} - \mathbb{E}[\bar{X}] \geq t] \leq e^{-2nt^2}$ for $t > 0$.

@@ -11,5 +11,5 @@ connected:
   - "[[PMF - p_X(x)|PMF]]"
   - "[[PDF - f_X(x)|PDF]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

@@ -9,5 +9,5 @@ created: 2025-05-20 15:24
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---

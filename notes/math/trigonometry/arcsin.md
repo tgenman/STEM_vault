@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[sin]]"
 tags:
-  - content/empty
+  - fix/empty
 created: 2024-07-03 22:05
 ---
 

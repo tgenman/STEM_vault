@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Sigma algebra of subsets of sample space]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 Пусть $M$ - система подмножеств $\Omega$. 
 ==Наименьшая $\sigma$-алгебра, порожденная $M$,==  - есть $\mathscr{F}-\sigma$-алгебра, такая что не существует $\sigma$-алгебры, содержащей $M$ и содержащаяся в $\mathscr{F}$ как собственное подмножество. 

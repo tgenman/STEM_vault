@@ -7,6 +7,6 @@ parent:
 connected:
   - "[[Zero Matrix]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 

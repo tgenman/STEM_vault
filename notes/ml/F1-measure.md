@@ -10,7 +10,7 @@ connected:
   - "[[Recall]]"
   - "[[Precision]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

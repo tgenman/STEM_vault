@@ -6,7 +6,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 ## 3.1. NLP Applications in Reinforcement Learning
 

@@ -5,7 +5,7 @@ aliases:
   - Linear Hull
 created: 2024-07-03 22:16
 tags:
-  - content/empty
+  - fix/empty
 anki: false
 parent: 
 connected:

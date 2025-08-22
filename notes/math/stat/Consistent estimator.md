@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Strong consistent estimator]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] An estimator $\hat{\theta}$ is called consistent if

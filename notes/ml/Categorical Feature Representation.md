@@ -5,7 +5,7 @@ created: 2025-01-19 23:47
 parent: "[[Feature Representation]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 Methods for processing categorical data that do not have a natural numerical format
 - [[One-hot Encoding]]

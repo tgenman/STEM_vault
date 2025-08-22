@@ -7,7 +7,7 @@ connected:
   - "[[Окрестность U (матан)]]"
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 created: 2024-07-03 22:07
 ---
 

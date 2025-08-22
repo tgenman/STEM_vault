@@ -6,7 +6,7 @@ parent:
   - "[[Moment of r.v.]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Central moment 

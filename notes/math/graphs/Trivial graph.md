@@ -8,7 +8,7 @@ connected:
   - "[[Null graph]]"
   - "[[Empty graph]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

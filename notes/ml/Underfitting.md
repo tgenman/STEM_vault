@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Overfitting]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

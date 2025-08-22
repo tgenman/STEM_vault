@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Row-Echelone form REF]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Reduced Row-Echelon form

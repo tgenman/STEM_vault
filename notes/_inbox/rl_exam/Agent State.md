@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] The **agent state** $S^a_t$ is 

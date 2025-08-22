@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Chebyshev Inequality]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 $\mathbb{P}[\phi(X) \geq t] \leq \frac{\mathbb{E}[\phi(X)]}{t}$

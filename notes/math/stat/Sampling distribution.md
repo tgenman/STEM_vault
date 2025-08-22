@@ -9,7 +9,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Sampling distribution

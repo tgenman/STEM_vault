@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[519.22 Statistic MOC]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 Let $X, X_1, X_2, \ldots, X_n$ be i.i.d. r.v., $\mu = \mathbb{E}[X]$ and $\sigma^2 = \text{Var}[X]$.

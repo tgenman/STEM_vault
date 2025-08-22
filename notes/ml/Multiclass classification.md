@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 [[Labels|Targets]]: ${Y = 1, \dots, K}$

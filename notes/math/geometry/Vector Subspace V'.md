@@ -2,7 +2,7 @@
 aliases:
   - Векторное подпространство
 tags:
-  - content/empty
+  - fix/empty
 anki: false
 parent: 
 connected:

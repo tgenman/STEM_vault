@@ -3,7 +3,7 @@ aliases: [Alvin Toffler, Элвин Тоффлер]
 tags: person👤/writer✏️
 ---
 links:
-profession: #обс/фикс 
+profession: #fix/general 
 rec:
 city: 
 university: 

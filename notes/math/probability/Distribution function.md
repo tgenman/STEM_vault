@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Function (math)]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 $$

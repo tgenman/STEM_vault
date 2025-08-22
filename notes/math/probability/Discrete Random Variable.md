@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[General Random Variables]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

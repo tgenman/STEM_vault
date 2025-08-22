@@ -1,7 +1,7 @@
 ---
 aliases: [Ограничения]
 ---
-links: #обс/linking 
+links: #fix/linking 
 
 ---
 

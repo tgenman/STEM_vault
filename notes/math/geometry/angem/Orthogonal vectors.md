@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Dot product of vectors]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Orthogonal vectors

@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Relationship Between V-function and Q-function]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Q-function (State-Action Value Function)

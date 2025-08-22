@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Recall]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 скольким больных среди помеченных больными.

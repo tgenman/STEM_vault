@@ -6,7 +6,7 @@ parent:
   - "[[Environment (RL)]]"
 connected: []
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 ![[Pasted image 20241024184905.png|500]]

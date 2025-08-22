@@ -8,7 +8,7 @@ parent:
   - "[[519.22 Statistic MOC]]"
 connected: []
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 - [[Convergence Almost surely (a.s.)]] 

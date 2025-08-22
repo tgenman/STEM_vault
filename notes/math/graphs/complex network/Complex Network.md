@@ -6,7 +6,7 @@ parent:
   - "[[Complex Networks MOC]]"
 connected: []
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 Виды сложных сетей:

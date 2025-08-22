@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Kolmogorov definition of probability (general)]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 A probability space $(\Omega, \mathcal{F}, P)$
 - $\Omega$ - a [[Sample space]]

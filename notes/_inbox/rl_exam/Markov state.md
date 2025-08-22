@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Markov Property]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 An **information state** (a.k.a. **Markov state**) contains all useful information from the [[History (RL)]].

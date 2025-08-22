@@ -6,7 +6,7 @@ parent:
 connected:
   - "[[Convergence]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 Let $(T_n)_{n\geq1}$ a sequence of r.v. and $T$ a r.v. ($T$ may be deterministic).

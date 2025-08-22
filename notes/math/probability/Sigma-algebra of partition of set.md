@@ -6,7 +6,7 @@ parent:
   - "[[Minimum sigma-algebra]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 $D_1,D_2,\ldots\subseteq\Omega,D_i\cap D_j=\varnothing,\bigcup D_i=\Omega$ 
 $\mathscr{F}=\sigma(\{D_1,D_2,\ldots\})-$ ==наименьшая $\sigma$-алгебра==, порожденная [[Partition of a set|разбиением]]  $D_1,D_2,\ldots-$ все возможные объединения конечного и бесконечного числа множеств из разбиения.

@@ -7,7 +7,7 @@ parent:
   - "[[Rigid transformation]]"
 connected: []
 tags:
-  - content/empty
+  - fix/empty
 ---
 
  An ==**identity function**== is a function that always returns the same value that was used as its argument.

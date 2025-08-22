@@ -7,7 +7,7 @@ parent:
   - "[[Environment (RL)]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 > [!tip] The **environment state** $S^e_t$ is 
 the [[Environment (RL)]] 's private representation.

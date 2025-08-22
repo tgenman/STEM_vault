@@ -8,5 +8,5 @@ connected:
   - "[[False negative]]"
   - "[[False positive]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

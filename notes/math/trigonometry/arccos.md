@@ -4,7 +4,7 @@ aliases:
   - Арккосинус
 anki: false
 tags:
-  - content/empty
+  - fix/empty
 created: 2024-07-03 22:04
 parent:
   - "[[Trigonometry]]"

@@ -6,7 +6,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] Bellman Equations: The Fundamental Recursion of Value Functions

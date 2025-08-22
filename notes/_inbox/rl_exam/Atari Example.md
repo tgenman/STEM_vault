@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 Atari Example: Reinforcement Learning
 ![[Pasted image 20241024195943.png|400]]

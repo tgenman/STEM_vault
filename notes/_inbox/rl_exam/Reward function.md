@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Cumulative reward (discounted)]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] reward function

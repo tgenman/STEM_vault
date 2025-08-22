@@ -3,7 +3,7 @@ parent:
   - "[[517 Сalculus MOC|Calculus]]"
 tags:
   - content/theorem
-  - content/empty
+  - fix/empty
 aliases: 
 anki: false
 created: 2024-07-03 22:12

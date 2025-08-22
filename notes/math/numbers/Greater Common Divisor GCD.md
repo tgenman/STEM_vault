@@ -10,7 +10,7 @@ parent:
 connected:
   - "[[Least Common Multiple LCM]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 ![[Algoritmy_1_896ef556d4.svg]]

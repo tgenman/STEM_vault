@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[512.5 General Algebra MOC]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 - abelian additive group of the ring

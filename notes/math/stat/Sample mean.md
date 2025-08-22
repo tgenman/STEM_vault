@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[519.22 Statistic MOC]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

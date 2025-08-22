@@ -6,5 +6,5 @@ parent:
   - "[[Group examples MOC]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---

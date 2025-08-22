@@ -7,5 +7,5 @@ parent:
 connected:
   - "[[Triangle]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

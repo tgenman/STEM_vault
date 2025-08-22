@@ -7,5 +7,5 @@ parent:
 connected:
   - "[[Vertex independence number Alfa(G)]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

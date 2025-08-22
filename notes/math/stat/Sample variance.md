@@ -8,6 +8,6 @@ connected:
   - "[[Sample mean]]"
   - "[[519.22 Statistic MOC]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 $S^2 = \frac{1}{n - 1} \sum_{i=1}^{n}(X_i - \bar{X}_n)^2$.

@@ -8,7 +8,7 @@ connected:
   - "[[512 Algebra]]"
   - "[[Linearity]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

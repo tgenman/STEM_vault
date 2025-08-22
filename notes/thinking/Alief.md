@@ -3,7 +3,7 @@ aliases:
   - Anticipation
 anki: false
 ---
-links: #обс/linking
+links: #fix/linking
 
 ---
 

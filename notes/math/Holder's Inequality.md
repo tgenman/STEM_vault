@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 links: [[Inner product of vectors|Скалярное произведение векторов]], [[Cauchy-Schwarz-Буняковского Inequality|Неравенство Коши-Шварца]]
 

@@ -10,7 +10,7 @@ connected:
 anki: false
 created: 2024-07-03 22:14
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 

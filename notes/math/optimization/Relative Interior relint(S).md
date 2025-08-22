@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Affine hull - aff(S)]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip]  Relative Interior of the set $S$

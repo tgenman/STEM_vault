@@ -7,7 +7,7 @@ parent:
   - "[[Probability]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 $\mu-$ the [[517.518.112 Lebesgue measure]] on $R^n$ 
 $\mathcal{B} ( R^n) : = \sigma( B_1 \times ... \times B_n, B_i\in \mathcal{B} ( R) )$ - [[517.518.113 Borel sigma-algebra]]

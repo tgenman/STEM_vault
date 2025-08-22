@@ -6,7 +6,7 @@ parent:
   - "[[519.22 Statistic MOC]]"
 connected: 
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 > [!tip] A statistical model $\mathcal{F}$ 

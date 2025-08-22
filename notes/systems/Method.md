@@ -1,7 +1,7 @@
 ---
 aliases: [Метод]
 ---
-links: #обс/linking 
+links: #fix/linking 
 
 ---
 

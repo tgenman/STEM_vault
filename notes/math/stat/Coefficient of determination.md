@@ -2,7 +2,7 @@
 aliases:
   - Коэффициент детерминации
 tags:
-  - content/empty
+  - fix/empty
 anki: false
 created: 2024-07-03 22:19
 parent: 

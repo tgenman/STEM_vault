@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Inclusion-Exclusion principle]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 $$

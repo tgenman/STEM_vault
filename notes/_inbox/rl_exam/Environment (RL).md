@@ -6,5 +6,5 @@ parent:
 connected:
   - "[[Environment State]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

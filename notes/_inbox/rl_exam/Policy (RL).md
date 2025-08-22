@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/empty
+  - fix/empty
 ---
 > [!tip] Policy in Reinforcement Learning
 A policy π is the brain of an [[Agent (RL)|agent]] in a [[Markov Decision process (MDP)|MDP]], defining how it should act in any situation. It creates a mapping between states and actions, essentially serving as the agent's strategy or decision-making rule.

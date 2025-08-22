@@ -8,5 +8,5 @@ parent:
 connected:
   - "[[True negative]]"
 tags:
-  - content/empty
+  - fix/empty
 ---

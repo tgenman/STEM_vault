@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Inner product of vectors|Scalar product]]"
 tags:
-  - content/empty
+  - fix/empty
 ---
 
 
