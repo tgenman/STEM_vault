@@ -6,5 +6,5 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/MOC
+  - content/moc
 ---

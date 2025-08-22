@@ -4,7 +4,7 @@ created: 2025-01-19 23:42
 parent: "[[Machine Learning MOC|ML MOC]]"
 connected: []
 tags:
-  - content/MOC
+  - content/moc
 ---
 
 ![[Categorical Feature Representation]] 

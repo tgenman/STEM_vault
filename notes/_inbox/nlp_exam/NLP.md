@@ -5,7 +5,7 @@ created: 2025-01-19 23:28
 parent: "[[004.85 Machine Learning (notion)|ML]]"
 connected: 
 tags:
-  - content/MOC
+  - content/moc
 ---
 
 [[One-hot Encoding]]

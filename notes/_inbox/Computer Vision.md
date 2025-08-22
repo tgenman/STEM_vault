@@ -7,7 +7,7 @@ parent:
   - "[[Machine Learning MOC]]"
 connected: []
 tags:
-  - content/MOC
+  - content/moc
 ---
 ![[Screenshot 2025-02-17 at 10.05.25.png]]
 

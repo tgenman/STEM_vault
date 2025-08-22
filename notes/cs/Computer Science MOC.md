@@ -2,7 +2,7 @@
 aliases:
   - Информатика
 tags:
-  - content/MOC
+  - content/moc
 ---
 links: [[004 IT MOC|ИТ]], [[510.5 🐜Algorithms MOC|Алгоритмы]]
 

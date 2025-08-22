@@ -6,7 +6,7 @@ parent:
   - "[[51 Math MOC]]"
 connected: []
 tags:
-  - content/MOC
+  - content/moc
 ---
  convex optimization to be a generalization of linear programming.
 

@@ -2,7 +2,7 @@
 aliases:
   - ML MOC
 tags:
-  - content/MOC
+  - content/moc
 connected:
   - "[[004.432.2 🐍 Python MOC]]"
   - "[[Neural Networks (notion)]]"

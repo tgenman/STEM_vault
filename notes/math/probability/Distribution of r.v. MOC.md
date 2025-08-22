@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Distribution function]]"
 tags:
-  - content/MOC
+  - content/moc
 ---
 
 $\Omega=\mathbb{R}$ -  [[Sample space]] [[Real numbers R]]

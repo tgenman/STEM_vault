@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/MOC
+  - content/moc
 ---
 ![[Pasted image 20250211231823.png]]
 

@@ -14,7 +14,9 @@ connected:
   - "[[Heine-Borel theorem]]"
   - "[[Open cover]]"
   - "[[Metric space]]"
-tags: []
+tags:
+  - content/definition
+content:
 ---
 
 > [!tip] Compact Set
@@ -78,6 +80,7 @@ START
 math_basic_double
 FRONT: Compact set
 BACK: A set where every open cover has a finite subcover
+ID: 1755884012708
 END
 
 TARGET DECK: stem::math::topology
@@ -89,6 +92,7 @@ FORMULA: $K \subset \mathbb{R}^n$ is compact $\Leftrightarrow$ $K$ is closed and
 ADDITIONAL: This equivalence only holds in finite-dimensional Euclidean spaces. In general metric spaces, closed + bounded ≠ compact
 PICTURE:
 PROOF:
+ID: 1755884012714
 END
 
 TARGET DECK: stem::math::topology
@@ -96,6 +100,7 @@ START
 math_basic_single
 FRONT: Why is (0,1) not compact?
 BACK: It's not closed - the open cover $\{(\frac{1}{n}, 1-\frac{1}{n})\}_{n=3}^{\infty}$ has no finite subcover
+ID: 1755884012719
 END
 
 TARGET DECK: stem::math::topology
@@ -104,4 +109,5 @@ math_basic_single
 FRONT: Compact sets and continuous functions
 What happens when you apply a continuous function to a compact set?
 BACK: The image is also compact (continuous image of compact set is compact)
+ID: 1755884012723
 END

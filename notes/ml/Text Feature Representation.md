@@ -6,7 +6,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - content/MOC
+  - content/moc
 ---
 - **[[Bag of Words (BoW)]]**: Represents text as a set of words and their frequencies.
 - **[[TF-IDF (Term Frequency-Inverse Document Frequency)]]**: Enhances BoW by weighting important words.

@@ -1,6 +1,6 @@
 ---
 aliases: [Разум, Интеллект]
-tags: content/MOC
+tags: content/moc
 ---
 links:  [[000 🗄Index]]
 
