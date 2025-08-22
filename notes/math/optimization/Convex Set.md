@@ -12,6 +12,10 @@ connected:
   - "[[Cone set]]"
   - "[[Convex hull - conv(S)]]"
   - "[[Operations preserving convexity]]"
+  - "[[Closed set]]"
+  - "[[Bounded set]]"
+  - "[[Compact set]]"
+  - "[[Open set]]"
 tags:
 ---
 
@@ -40,6 +44,48 @@ Top: examples of convex sets. Bottom: examples of non-convex sets.
 
 
 ![[Affine set#Relationship between convex and affine set]]
+
+## Topological Properties
+
+### Convexity vs Topological Properties
+
+```mermaid
+graph TD
+    A["Convex Set"] --> B["Geometric Properties"]
+    A --> C["Topological Properties"]
+    
+    B --> D["Line segments<br/>stay inside"]
+    B --> E["Convex combinations<br/>preserved"]
+    
+    C --> F["Closed?<br/>(not always)"]
+    C --> G["Bounded?<br/>(not always)"]
+    C --> H["Compact?<br/>(if closed + bounded)"]
+    
+    I["Examples:"] --> J["[0,1] - convex,<br/>closed, bounded,<br/>compact"]
+    I --> K["(0,1) - convex,<br/>open, bounded,<br/>not compact"]
+    I --> L["ℝ - convex,<br/>closed, unbounded,<br/>not compact"]
+```
+
+### Key Relationships
+
+- **Convex ≠ [[Closed set|Closed]]**: $(0,1)$ is convex but [[Open set|open]]
+- **Convex ≠ [[Bounded set|Bounded]]**: $\mathbb{R}$ is convex but unbounded  
+- **Convex ≠ [[Compact set|Compact]]**: Need both closed and bounded
+- **Convex + Closed + Bounded = Compact** (in $\mathbb{R}^n$)
+
+### Important Examples
+
+1. **Closed ball**: $\overline{B}(0,r) = \{x : \|x\| \leq r\}$ 
+   - Convex ✓, [[Closed set|Closed]] ✓, [[Bounded set|Bounded]] ✓, [[Compact set|Compact]] ✓
+
+2. **Open ball**: $B(0,r) = \{x : \|x\| < r\}$
+   - Convex ✓, [[Open set|Open]] ✓, [[Bounded set|Bounded]] ✓, Not [[Compact set|Compact]] ✗
+
+3. **Interval $[0,1]$**: 
+   - Convex ✓, [[Closed set|Closed]] ✓, [[Bounded set|Bounded]] ✓, [[Compact set|Compact]] ✓
+
+4. **Interval $(0,1)$**:
+   - Convex ✓, [[Open set|Open]] ✓, [[Bounded set|Bounded]] ✓, Not [[Compact set|Compact]] ✗
 
 
 # Anki
