@@ -17,8 +17,12 @@ I use this database as a personal study guide for mathematics and STEM subjects,
 - **Revise Older Notes**: Periodically update notes to follow the current format for uniformity.
 - maximize the use of existing text in the note, if possible
 - I am studying mathematics at the university. Don’t explain very simple things
-- The notes are interconnected and form a graph. One note may reference others. Through this notation `[[Other concept]]` or `[[Other concept|alias how it will be displayed in the text]]`
-    - So you can use search to find related concepts concerning the note you are creating (parents, same type, children)
+- **Interconnected Notes**: The notes form a graph through `[[Other concept]]` or `[[Other concept|alias]]` notation
+    - Use search to find related concepts (parents, same type, children)
+    - **Linking Strategy**: After creating a note, make a second pass to maximize connections:
+      - Link key terms to existing notes instead of plain text
+      - Reference related concepts rather than explaining them inline
+      - Build semantic bridges between mathematical areas
 
 # Notation
 - **Markdown (.md)**: Notes in markdown format, stored in Obsidian.
