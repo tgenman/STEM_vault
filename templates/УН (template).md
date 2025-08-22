@@ -4,7 +4,7 @@ anki: false
 created: {{date}} {{time}}
 parent:
 connected:
-  - "#обс/linking"
 tags:
-  - empty
+  - fix/empty
+  - fix/linking
 ---

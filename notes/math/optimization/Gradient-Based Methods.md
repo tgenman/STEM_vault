@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases:
 anki: false
 created: 2024-12-19 13:23
 parent:
-  - "[[Convex optimization MOC]]"
+  - "[[519.853.3 Convex optimization MOC]]"
 connected:
   - "[[Gradient Descent]]"
 tags:

@@ -1,5 +1,5 @@
 ---
-tags: content/конспект
+tags: content/summary
 ---
 links: [[Лекция]], [[🗑Garbage Collection]]
 

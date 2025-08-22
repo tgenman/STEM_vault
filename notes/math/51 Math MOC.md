@@ -34,7 +34,7 @@ connected:
     - [[519.22 Statistic MOC]]
 - [[519.83 🃏Game Theory]]
 
-[[Convex optimization MOC]]
+[[519.853.3 Convex optimization MOC]]
 
 ![[Pasted image 20231227230322.png]]
 
