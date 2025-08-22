@@ -26,7 +26,7 @@ $$
 
 
 
-## Свойства #anki
+## Свойства #fix/anki
 
 - The Constant Rule
 $$
