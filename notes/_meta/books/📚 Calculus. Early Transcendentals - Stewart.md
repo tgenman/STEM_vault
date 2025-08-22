@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags:
-  - status/BACKLOG_🌰
-  - book📚/classbook📖
+  - meta/status/BACKLOG_🌰
+  - meta/book📚/classbook📖
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
 author:

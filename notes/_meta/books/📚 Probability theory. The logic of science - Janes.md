@@ -2,8 +2,8 @@
 aliases:
   - 📚 Теория вероятности. Логика науки - Джейнс
 tags:
-  - book📚/classbook📖
-  - status/TODO_🌱
+  - meta/book📚/classbook📖
+  - meta/status/TODO_🌱
 connected:
   - "[[519.21  Probability theory]]"
   - "[[519.22 Statistic MOC]]"

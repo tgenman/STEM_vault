@@ -1,6 +1,6 @@
 ---
 aliases: [Бернард Больцано]
-tags: person👤
+tags: meta/person👤
 ---
 links: -
 profession: [[Математик]]

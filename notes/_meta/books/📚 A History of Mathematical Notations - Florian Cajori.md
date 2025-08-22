@@ -2,8 +2,8 @@
 aliases:
   - История математической нотации
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 connected:
   - "[[51(091) Math History MOC]]"
 author:

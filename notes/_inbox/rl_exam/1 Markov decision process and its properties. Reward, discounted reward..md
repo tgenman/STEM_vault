@@ -8,7 +8,7 @@ connected:
   - "#обс/linking"
 tags:
   - fix/empty
-  - группа
+  - fix/группа
 ---
 - [[Markov Decision process (MDP)]]
 - [[Transition function]]

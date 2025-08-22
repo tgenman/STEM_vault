@@ -1,6 +1,6 @@
 ---
 aliases: [Stephen Wolfram, Стивен Вольфрам]
-tags: person👤/writer✏️
+tags: meta/person👤/writer✏️
 ---
 links: -
 profession:  [[Математик]]

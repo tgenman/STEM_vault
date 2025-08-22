@@ -2,8 +2,8 @@
 aliases:
   - Истина и красота. Всемирная история симметрии
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 parent:
   - "[[Symmetry|Симметрия]]"
   - "[[514 Geometry MOC]]"

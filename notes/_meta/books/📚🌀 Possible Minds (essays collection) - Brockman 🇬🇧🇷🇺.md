@@ -1,7 +1,7 @@
 ---
-tags: book📚/essays
+tags: meta/book📚/essays
 ---
-status: #status/BACKLOG_🌰
+status: #meta/status/BACKLOG_🌰
 links: [[GAI]], [[004. 8 AI MOC]]
 title: Possible Minds: Twenty-Five Ways of Looking at AI
 title2: Искусственный интеллект – надежды и опасения

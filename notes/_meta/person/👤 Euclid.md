@@ -1,6 +1,6 @@
 ---
 aliases: [Евклид]
-tags: person👤
+tags: meta/person👤
 ---
 links: -
 profession: [[Математик]]

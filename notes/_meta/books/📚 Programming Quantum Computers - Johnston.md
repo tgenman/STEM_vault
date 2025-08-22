@@ -2,8 +2,8 @@
 aliases:
   - Программирование квантовых компьютеров
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 ---
 links: [[Quantum Computing]], [[Квантовый компьютер]], [[51 Math MOC|Математика]]
 recom: 

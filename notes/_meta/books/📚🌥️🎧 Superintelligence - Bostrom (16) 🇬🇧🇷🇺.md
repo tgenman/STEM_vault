@@ -1,7 +1,7 @@
 ---
-tags: book📚/audiobook🎧
+tags: meta/book📚/audiobook🎧
 ---
-status: #status/ON_HOLD_🌥️
+status: #meta/status/ON_HOLD_🌥️
 links: [[GAI]], [[004. 8 AI MOC]], [[Трансгуманизм]]
 title: Superintelligence. Paths, Dangers, Strategies
 title2: Искусственный интеллект. Этапы. Угрозы. Стратегии

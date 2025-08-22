@@ -1,6 +1,6 @@
 ---
 aliases: [David Deutsch, Дэвид Дойч]
-tags: person👤/writer✏️
+tags: meta/person👤/writer✏️
 ---
 links:
 profession: [[Физик]], 

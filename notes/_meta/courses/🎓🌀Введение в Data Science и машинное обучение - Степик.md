@@ -1,8 +1,8 @@
 ---
-tags: course🎓
+tags: meta/course🎓
 ---
 links: [[Machine Learning MOC|Машинное обучение]]
-status: #status/BACKLOG_🌰
+status: #meta/status/BACKLOG_🌰
 author: [[👤Карпов, Анатолий]]
 provider: [[🏛Bioinformatics Institute|Институт биоинформатики]]
 platform: [[Stepik|Степик]]

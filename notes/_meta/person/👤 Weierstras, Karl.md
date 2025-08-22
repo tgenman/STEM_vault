@@ -1,6 +1,6 @@
 ---
 aliases: [Карл Вейерштрасс]
-tags: person👤
+tags: meta/person👤
 ---
 links: -
 profession: [[Математик]]

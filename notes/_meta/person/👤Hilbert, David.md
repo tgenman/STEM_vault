@@ -1,6 +1,6 @@
 ---
 aliases: [David Hilbert, Давид Гильберт]
-tags: person👤
+tags: meta/person👤
 ---
 links:
 profession: [[Математик]]

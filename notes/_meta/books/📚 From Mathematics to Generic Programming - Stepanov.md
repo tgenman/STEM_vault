@@ -2,8 +2,8 @@
 aliases:
   - 📚 От математики к обобщенному программированию
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 ---
 links: [[51 Math MOC|Математика]], [[004.41 Software Development MOC]]
 recom: 

@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 connected:
   - "[[519.17 Graph Theory MOC]]"
 author:

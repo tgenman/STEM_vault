@@ -1,6 +1,6 @@
 ---
 aliases: [Alexander Stepanov, Александр Степанов]
-tags: person👤/writer✏️
+tags: meta/person👤/writer✏️
 ---
 links: -
 profession: 

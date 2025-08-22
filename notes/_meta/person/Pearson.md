@@ -2,7 +2,7 @@
 aliases:
   - Пирсон
 tags:
-  - person👤
+  - meta/person👤
 created: 2024-05-01 21:51
 connected:
   - "#обс/linking"

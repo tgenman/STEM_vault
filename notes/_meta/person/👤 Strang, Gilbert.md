@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - person👤/writer✏️
+  - meta/person👤/writer✏️
 recommendation: 
 created: 2024-01-13 18:27
 connected:

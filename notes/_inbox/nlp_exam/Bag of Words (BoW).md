@@ -8,7 +8,7 @@ connected:
   - "#обс/linking"
 tags:
   - fix/empty
-  - группа
+  - fix/группа
 ---
 
 > [!tip] Bag of Words (BoW)

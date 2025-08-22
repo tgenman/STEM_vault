@@ -2,8 +2,8 @@
 aliases:
   - Флатландия. роман во многих измерениях
 tags:
-  - book📚
-  - status/BACKLOG_🌰
+  - meta/book📚
+  - meta/status/BACKLOG_🌰
 title_rus: "Флатландия: роман во многих измерениях"
 title_original: Flatland. A Romance of Many Dimensions
 parent:

@@ -1,6 +1,6 @@
 ---
 aliases: [Генрих Гейне]
-tags: person👤
+tags: meta/person👤
 ---
 links: -
 profession: [[Математик]]

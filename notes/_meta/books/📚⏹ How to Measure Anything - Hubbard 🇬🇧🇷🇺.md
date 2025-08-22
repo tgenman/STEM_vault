@@ -1,9 +1,9 @@
 ---
 aliases: []
 tags:
-  - book📚
+  - meta/book📚
 ---
-status: #status/TODO_🌱
+status: #meta/status/TODO_🌱
 links:  [[Вычисления в уме]],[[Instrumental rationality]], [[Бизнес]]
 title: How to Measure Anything: Finding the Value of Intangibles in Business
 title2: Как измерить все, что угодно. Оценка стоимости нематериального в бизнесе

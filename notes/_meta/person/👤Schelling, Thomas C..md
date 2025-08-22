@@ -1,6 +1,6 @@
 ---
 aliases: [Thomas C. Schelling, Томас Шеллинг]
-tags: person👤/writer✏️
+tags: meta/person👤/writer✏️
 ---
 links:
 profession: [[Математик]]

@@ -1,6 +1,6 @@
 ---
 aliases: [Bertrand Arthur William Russell, Bertrand Russell, Бертран Рассел]
-tags: person👤/writer✏️
+tags: meta/person👤/writer✏️
 ---
 links:
 profession: [[Философ]], [[Логик]], [[Математик]]

@@ -2,8 +2,8 @@
 aliases:
   - 📚 Введение в линейную алгебру
 tags:
-  - book📚/classbook📖
-  - status/IN_PROGRESS_🌿
+  - meta/book📚/classbook📖
+  - meta/status/IN_PROGRESS_🌿
 connected:
   - "[[512.64  Linear algebra MOC]]"
 author:

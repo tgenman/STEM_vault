@@ -1,5 +1,5 @@
 ---
-tags: person👤
+tags: meta/person👤
 ---
 links: -
 profession: [[Логик]]

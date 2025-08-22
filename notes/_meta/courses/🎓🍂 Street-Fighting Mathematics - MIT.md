@@ -1,7 +1,7 @@
 ---
 tags:
-  - course🎓
-  - status/CLOSED_🍂
+  - meta/course🎓
+  - meta/status/CLOSED_🍂
 archive: true
 ---
 links: [[51 Math MOC]] [[Instrumental rationality]] [[Вычисления в уме]]

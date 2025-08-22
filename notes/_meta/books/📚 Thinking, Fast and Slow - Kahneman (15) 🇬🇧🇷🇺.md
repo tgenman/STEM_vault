@@ -1,8 +1,8 @@
 ---
 aliases: [Думай медленно... решай быстро]
-tags: book📚/audiobook🎧
+tags: meta/book📚/audiobook🎧
 ---
-status: #status/DONE_🌳
+status: #meta/status/DONE_🌳
 links: [[Rationality]], [[Decision making]], [[Поведенческая экономика]]
 title: Thinking, Fast and Slow
 title2: Думай медленно... решай быстро

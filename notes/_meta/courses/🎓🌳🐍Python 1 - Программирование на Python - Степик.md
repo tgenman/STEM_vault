@@ -1,8 +1,8 @@
 ---
-tags: course🎓
+tags: meta/course🎓
 ---
 links: [[004.432.2 🐍 Python MOC|Питон]]
-status: #status/DONE_🌳
+status: #meta/status/DONE_🌳
 author: 
 provider: [[🏛Bioinformatics Institute]]
 platform: [[Stepik]]

@@ -1,7 +1,7 @@
 ---
 tags:
-  - course🎓
-  - status/BACKLOG_🌰
+  - meta/course🎓
+  - meta/status/BACKLOG_🌰
 ---
 links: [[Machine Learning MOC]] [[Deep Learning MOC]]
 author: 
