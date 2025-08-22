@@ -4,7 +4,7 @@ aliases:
   - Информационные технологии
   - Information Technologies
 tags:
-  - MOC
+  - content/MOC
 parent: []
 ---
 [[Computer Science MOC]]

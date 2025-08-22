@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!tip] 

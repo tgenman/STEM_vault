@@ -3,7 +3,7 @@ created: 2025-04-14 20:49
 doi: https://doi.org/10.18653/v1/2023.findings-acl.247
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Shuming Ma, Zhifang Sui, and Furu Wei. 2023

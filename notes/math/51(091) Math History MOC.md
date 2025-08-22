@@ -5,7 +5,7 @@ parent:
   - "[[51 Math MOC]]"
   - "[[История MOC]]"
 tags:
-  - MOC
+  - content/MOC
 ---
 
 

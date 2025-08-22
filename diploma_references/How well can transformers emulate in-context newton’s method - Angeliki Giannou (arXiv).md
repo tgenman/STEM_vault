@@ -3,7 +3,7 @@ created: 2025-04-16 19:56
 doi: https://doi.org/10.48550/arXiv.2403.03183
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 Angeliki Giannou, Liu Yang, Tianhao Wang, Dimitris Papailiopoulos, and Jason D Lee.
 

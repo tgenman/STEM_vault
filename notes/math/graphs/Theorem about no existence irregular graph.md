@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Degree Sequence]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!note] 

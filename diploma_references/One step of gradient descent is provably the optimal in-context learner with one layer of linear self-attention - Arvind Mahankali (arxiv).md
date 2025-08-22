@@ -3,7 +3,7 @@ created: 2025-04-14 21:04
 doi: https://doi.org/10.48550/arXiv.2307.03576
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 [Arvind Mahankali](https://arxiv.org/search/cs?searchtype=author&query=Mahankali,+A), [Tatsunori B. Hashimoto](https://arxiv.org/search/cs?searchtype=author&query=Hashimoto,+T+B), [Tengyu Ma](https://arxiv.org/search/cs?searchtype=author&query=Ma,+T)
 

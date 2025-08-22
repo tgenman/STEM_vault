@@ -3,7 +3,7 @@ created: 2025-04-14 21:01
 doi: https://doi.org/10.48550/arXiv.2211.15661
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, and Denny Zhou.

@@ -3,7 +3,7 @@ created: 2025-04-15 17:35
 doi: https://proceedings.neurips.cc/paper_files/paper/2024/file/57a3c602f0a1c8980cc5ed07e49d9490-Paper-Conference.pdf
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 Max Vladymyrov, Johannes Von Oswald, Mark Sandler, and Rong Ge.

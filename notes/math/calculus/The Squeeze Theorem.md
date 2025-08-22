@@ -1,6 +1,6 @@
 ---
 tags:
-  - theorem
+  - content/theorem
   - content/empty
 aliases: 
 anki: false

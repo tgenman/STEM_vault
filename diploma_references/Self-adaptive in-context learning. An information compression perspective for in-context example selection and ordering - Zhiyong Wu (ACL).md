@@ -3,7 +3,7 @@ created: 2025-04-14 20:34
 doi: https://doi.org/10.18653/v1/2023.acl-long.79
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 https://aclanthology.org/2023.acl-long.79/
 Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, and Lingpeng Kong. 

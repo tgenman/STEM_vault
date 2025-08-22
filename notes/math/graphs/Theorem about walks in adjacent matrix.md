@@ -4,7 +4,7 @@ aliases:
   - "[[Walk W]]"
 connected: 
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!note] Theorem about walks in adjacent matrix

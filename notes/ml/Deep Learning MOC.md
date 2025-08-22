@@ -2,7 +2,7 @@
 aliases:
   - Глубокое обучение МОС
 tags:
-  - MOC
+  - content/MOC
 parent: 
 connected:
   - "[[Machine Learning MOC]]"

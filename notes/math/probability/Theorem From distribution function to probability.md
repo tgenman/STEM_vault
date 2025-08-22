@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - theorem
+  - content/theorem
   - content/empty
 anki: false
 created: 2023-10-29 20:30

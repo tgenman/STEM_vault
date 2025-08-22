@@ -5,7 +5,7 @@ parent:
   - "[[519.172.4 Regular Graphs]]"
 connected: 
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!note] Theorem

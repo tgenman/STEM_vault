@@ -11,7 +11,7 @@ connected:
   - "[[Binomial theorem]]"
   - "[[519.101 Combinatorics MOC]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 $$(a + b)^n = \sum\limits_{k=0}^n \binom{n}{k} a^{n-k} b^k = $$

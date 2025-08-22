@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - content/MOC
 parent:
   - "[[330 Economy MOC]]"
 ---

@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Theorem about 2-switches transformations of graphical sequence]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 #### Definition

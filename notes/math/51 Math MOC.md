@@ -3,7 +3,7 @@ aliases:
   - Mathematics
   - Математика
 tags:
-  - MOC
+  - content/MOC
 domain: "[[Math]]"
 connected:
   - "[[530 Physic MOC]]"

@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Формула Пойа]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!note] 

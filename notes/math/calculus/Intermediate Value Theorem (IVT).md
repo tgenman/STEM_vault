@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Extreme Value Theorem (EVT)]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 While the [[Extreme Value Theorem (EVT)]]  says something about maximum (and minimum) values, the ==Intermediate Value Theorem== says something about the values in between.
  

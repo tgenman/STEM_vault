@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - theorem
+  - content/theorem
 parent: 
 connected:
   - "#обс/linking"

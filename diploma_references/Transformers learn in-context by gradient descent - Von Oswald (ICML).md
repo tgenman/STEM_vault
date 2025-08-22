@@ -3,7 +3,7 @@ created: 2025-04-14 20:51
 doi: https://proceedings.mlr.press/v202/von-oswald23a.html
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 https://proceedings.mlr.press/v202/von-oswald23a.html

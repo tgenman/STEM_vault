@@ -3,7 +3,7 @@ created: 2025-04-14 21:07
 doi: https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ed3d610ea4b68e7afb30ea7d01422c6-Abstract-Conference.html
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 _Kwangjun Ahn, Xiang Cheng, Hadi Daneshmand, Suvrit Sra_

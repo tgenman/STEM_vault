@@ -7,7 +7,7 @@ connected:
   - "[[2-switch]]"
   - "[[Theorem about 2-switches transformations of graphical sequence]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!note] Theorem about 2-switches transformations of degree sequence

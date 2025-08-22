@@ -4,7 +4,7 @@ doi:
 author:
   - "[[Tom Brown]]"
 tags:
-  - paper
+  - content/paper
 ---
 https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html
 

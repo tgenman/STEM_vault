@@ -3,7 +3,7 @@ created: 2025-04-16 13:26
 doi: https://doi.org/10.48550/arXiv.2111.02080
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 Sang Michael Xie, Aditi Raghunathan, Percy Liang, and Tengyu Ma.
 

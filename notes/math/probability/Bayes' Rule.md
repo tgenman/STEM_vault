@@ -10,7 +10,7 @@ connected:
   - "[[Total Probability Theorem]]"
   - "[[Возможные миры]]"
 tags:
-  - theorem
+  - content/theorem
 ---
 
 > [!tip] Bayes' Rule

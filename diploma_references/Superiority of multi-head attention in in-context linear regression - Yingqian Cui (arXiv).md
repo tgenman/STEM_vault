@@ -3,7 +3,7 @@ created: 2025-04-16 20:07
 doi:
 author:
 tags:
-  - paper
+  - content/paper
 ---
 Yingqian Cui, Jie Ren, Pengfei He, Jiliang Tang, and Yue Xing.
 

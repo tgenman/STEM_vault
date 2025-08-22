@@ -1,12 +1,11 @@
 ---
-aliases: 
+aliases:
 created: 2023-11-01 12:07
 parent:
   - "[[Vertex of graph (V)]]"
 connected:
   - "#обс/linking"
 tags:
-  - corollary
 ---
 > [!info] Corollary
 > Every graph has an even number of odd vertices.

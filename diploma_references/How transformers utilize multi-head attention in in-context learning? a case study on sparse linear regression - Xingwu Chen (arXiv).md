@@ -3,7 +3,7 @@ created: 2025-04-16 20:02
 doi: https://doi.org/10.48550/arXiv.2408.04532
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 Xingwu Chen, Lei Zhao, and Difan Zou.
 

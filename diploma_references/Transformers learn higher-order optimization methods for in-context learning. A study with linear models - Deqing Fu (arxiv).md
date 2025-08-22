@@ -3,7 +3,7 @@ created: 2025-04-14 21:09
 doi: https://doi.org/10.48550/arXiv.2310.17086
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 [Deqing Fu](https://arxiv.org/search/cs?searchtype=author&query=Fu,+D), [Tian-Qi Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+T), [Robin Jia](https://arxiv.org/search/cs?searchtype=author&query=Jia,+R), [Vatsal Sharan](https://arxiv.org/search/cs?searchtype=author&query=Sharan,+V)
 

@@ -3,7 +3,7 @@ created: 2025-04-14 19:35
 doi:
 author:
 tags:
-  - paper
+  - content/paper
 ---
 Qingyang Wu, Zhenzhong Lan, Kun Qian, Jing Gu, Alborz Geramifard, and Zhou Yu. 
 [Qingyang Wu](https://arxiv.org/search/cs?searchtype=author&query=Wu,+Q), [Zhenzhong Lan](https://arxiv.org/search/cs?searchtype=author&query=Lan,+Z), [Kun Qian](https://arxiv.org/search/cs?searchtype=author&query=Qian,+K), [Jing Gu](https://arxiv.org/search/cs?searchtype=author&query=Gu,+J), [Alborz Geramifard](https://arxiv.org/search/cs?searchtype=author&query=Geramifard,+A), [Zhou Yu](https://arxiv.org/search/cs?searchtype=author&query=Yu,+Z)

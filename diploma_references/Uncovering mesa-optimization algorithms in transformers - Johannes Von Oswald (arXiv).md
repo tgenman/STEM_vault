@@ -3,7 +3,7 @@ created: 2025-04-16 13:30
 doi: https://doi.org/10.48550/arXiv.2309.05858
 author: 
 tags:
-  - paper
+  - content/paper
 ---
 
 Johannes Von Oswald, Eyvind Niklasson, Maximilian Schlegel, Seijin Kobayashi, Nicolas Zucchet, Nino Scherrer, Nolan Miller, Mark Sandler, Max Vladymyrov, Razvan Pascanu, et al.
