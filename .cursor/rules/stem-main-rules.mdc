@@ -23,6 +23,7 @@ I use this database as a personal study guide for mathematics and STEM subjects,
 # Notation
 - **Markdown (.md)**: Notes in markdown format, stored in Obsidian.
 - **Latex for Formulas**: Inline formulas with `$`, block formulas with `$$`. STRICTLY dont use `\(`for formulas
+- **Mermaid Diagrams**: Use for visual explanation of concepts, relationships, or examples. Helps illustrate abstract mathematical ideas.
 - **Definition**: The definition should come first, marked with a callout `> [!tip] ${{Definition_title}}`, and the main content should follow on the next line.
     - Second line after `> [!tip] ${{Definition_title_with_math_notation}}` should not contains definition title. Only debinition body itself. For example `> is an ordered ...`
     - Example: ```text
@@ -42,6 +43,7 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
       - `content/algorithm`
       - `content/summary`
       - `content/application`
+      - `content/moc`
     - **anki**: `true` if exists Anki block and else is `false`
 
   ```text

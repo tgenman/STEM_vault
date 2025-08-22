@@ -29,10 +29,6 @@ In $\mathbb{R}^n$ with the standard metric, the following are equivalent:
 2. **Sequential compactness**: Every sequence in $K$ has a convergent subsequence with limit in $K$
 3. **[[Heine-Borel theorem]]**: $K$ is closed and bounded
 
-```python
-print("Hello")
-```
-
 ## Key Properties
 
 - **Closed**: Every compact set is closed
