@@ -10,6 +10,7 @@ connected:
   - "[[Metric space]]"
   - "[[Compact set]]"
   - "[[Closed set]]"
+  - "[[Heine-Borel theorem]]"
   - "[[Diameter of set]]"
 tags:
   - content/definition
@@ -68,7 +69,7 @@ In $C([0,1])$: $f$ bounded ⟺ $\sup_{x \in [0,1]} |f(x)| < \infty$
 
 ## Connection to Compactness
 
-**[[Heine-Borel theorem]]**: In $\mathbb{R}^n$, [[Compact set|compact]] = [[Closed set|closed]] + [[Bounded set|bounded]]
+**[[Heine-Borel theorem]]**: In $\mathbb{R}^n$, a set is [[Compact set|compact]] if and only if it is [[Closed set|closed]] and [[Bounded set|bounded]]
 
 # Anki
 

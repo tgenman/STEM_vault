@@ -10,6 +10,7 @@ connected:
   - "[[Metric space]]"
   - "[[Open set]]"
   - "[[Compact set]]"
+  - "[[Heine-Borel theorem]]"
   - "[[Continuous function]]"
   - "[[Complement of set]]"
 tags:
@@ -64,7 +65,7 @@ graph TD
 
 ## Connection to Compactness
 
-In $\mathbb{R}^n$: **[[Closed set|Closed]] + [[Bounded set|Bounded]] = [[Compact set|Compact]]** ([[Heine-Borel theorem]])
+**[[Heine-Borel theorem]]**: In $\mathbb{R}^n$, a set is [[Compact set|compact]] if and only if it is [[Closed set|closed]] and [[Bounded set|bounded]]
 
 # Anki
 

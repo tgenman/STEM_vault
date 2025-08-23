@@ -27,7 +27,7 @@ In $\mathbb{R}^n$ with the standard metric, the following are equivalent:
 
 1. **Open cover definition**: Every open cover has a finite subcover
 2. **Sequential compactness**: Every sequence in $K$ has a convergent subsequence with limit in $K$
-3. **[[Heine-Borel theorem]]**: $K$ is closed and bounded
+3. **[[Heine-Borel theorem]]**: $K$ is [[Closed set|closed]] and [[Bounded set|bounded]]
 
 ## Key Properties
 
