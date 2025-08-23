@@ -14,7 +14,6 @@ connected:
   - "[[Bounded set]]"
   - "[[Compact set]]"
   - "[[Continuous function]]"
-  - "[[Topology]]"
   - "[[Distance function]]"
   - "[[The triangle inequality]]"
 tags:
