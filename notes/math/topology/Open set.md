@@ -8,6 +8,7 @@ parent:
   - "[[515.1 Topology]]"
 connected:
   - "[[Metric space]]"
+  - "[[Open Ball]]"
   - "[[Closed set]]"
   - "[[Compact set]]"
   - "[[Continuous function]]"
@@ -17,7 +18,7 @@ tags:
 ---
 
 > [!tip] Open Set
-> A subset $U$ of a [[Metric space|metric space]] $(X,d)$ is **open** if for every point $x \in U$, there exists $r > 0$ such that the open ball $B(x,r) \subset U$.
+> A subset $U$ of a [[Metric space|metric space]] $(X,d)$ is **open** if for every point $x \in U$, there exists $r > 0$ such that the [[Open Ball|open ball]] $B(x,r) \subset U$.
 
 ## Equivalent Characterizations
 
@@ -46,12 +47,12 @@ tags:
 - $\{a\}$ - singleton sets
 - $\mathbb{N}$ - discrete sets in usual topology
 
-## Open Balls
+## [[Open Ball|Open Balls]]
 
 In any [[Metric space|metric space]], the fundamental open sets are:
 $$B(x,r) = \{y \in X : d(x,y) < r\}$$
 
-Every open set is a union of open balls.
+Every open set is a union of [[Open Ball|open balls]].
 
 ## Visual Intuition
 

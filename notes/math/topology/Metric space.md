@@ -7,6 +7,8 @@ created: 2024-12-22 13:25
 parent:
   - "[[515.1 Topology]]"
 connected:
+  - "[[Open Ball]]"
+  - "[[Closed Ball]]"
   - "[[Open set]]"
   - "[[Closed set]]"
   - "[[Bounded set]]"
@@ -52,9 +54,9 @@ For all $x,y,z \in X$:
 ## Key Concepts
 
 ### Open and Closed Sets
-- **Open ball**: $B(x,r) = \{y \in X : d(x,y) < r\}$
-- **Closed ball**: $\overline{B}(x,r) = \{y \in X : d(x,y) \leq r\}$
-- **[[Open set]]**: Union of open balls
+- **[[Open Ball|Open ball]]**: $B(x,r) = \{y \in X : d(x,y) < r\}$
+- **[[Closed Ball|Closed ball]]**: $\overline{B}(x,r) = \{y \in X : d(x,y) \leq r\}$
+- **[[Open set]]**: Union of [[Open Ball|open balls]]
 - **[[Closed set]]**: Complement of [[Open set|open set]]
 
 ### Convergence
@@ -63,7 +65,7 @@ Sequence $(x_n)$ converges to $x$ if: $\lim_{n \to \infty} d(x_n, x) = 0$
 ## Topology Induced by Metric
 
 Every [[Metric space|metric space]] $(X,d)$ induces a topology where:
-- [[Open set|Open sets]] are unions of open balls
+- [[Open set|Open sets]] are unions of [[Open Ball|open balls]]
 - This makes every [[Metric space|metric space]] a topological space
 
 ## Visual Intuition
@@ -115,6 +117,6 @@ START
 math_basic_single
 FRONT: Metric vs topology
 How does a metric relate to topology?
-BACK: Every metric induces a topology where open sets are unions of open balls $B(x,r) = \{y: d(x,y) < r\}$
+BACK: Every metric induces a topology where open sets are unions of [[Open Ball|open balls]] $B(x,r) = \{y: d(x,y) < r\}$
 ID: 1755890967077
 END

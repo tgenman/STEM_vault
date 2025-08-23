@@ -21,7 +21,7 @@ tags:
 ## Equivalent Definitions
 
 1. **Diameter definition**: $\text{diam}(S) = \sup\{d(x,y) : x,y \in S\} < \infty$
-2. **Ball definition**: $S \subset B(x_0, r)$ for some center $x_0$ and radius $r$
+2. **Ball definition**: $S \subset [[Open Ball|B(x_0, r)]]$ for some center $x_0$ and radius $r$
 3. **Coordinate-wise** (in $\mathbb{R}^n$): Each coordinate is bounded
 
 ## Key Properties

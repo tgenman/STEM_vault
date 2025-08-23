@@ -42,7 +42,7 @@ In $\mathbb{R}^n$ with the standard metric, the following are equivalent:
 - $[a,b]$ - any closed interval (also [[Convex Set|convex]])
 - $\{0\} \cup \{\frac{1}{n} : n \in \mathbb{N}\}$ - finite set plus convergent sequence
 - Any finite set
-- [[Convex Set|Convex]] closed balls: $\overline{B}(0,r)$ in any norm
+- [[Convex Set|Convex]] [[Closed Ball|closed balls]]: $\overline{B}(0,r)$ in any norm
 
 ### Non-Compact Sets in $\mathbb{R}$
 - $(0,1)$ - open interval (not closed, but [[Convex Set|convex]])
