@@ -4,7 +4,7 @@ aliases:
 anki: true
 created: 2024-12-21 19:06
 parent:
-  - "#обс/linking"
+  - "[[515.1 Topology]]"
 connected:
   - "[[Relative Interior relint(S)]]"
 tags:
