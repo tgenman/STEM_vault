@@ -8,6 +8,9 @@ connected:
 tags:
   - fix/empty
   - fix/linking
+moc:
+  - "[[517.98 Functional Analysis]]"
+  - "[[515.1 Topology]]"
 ---
 Space это [[Set (math)]] множество + выбранная [[Structure (math)]] структура + подходящие морфизмы
 
@@ -67,13 +70,3 @@ graph TD
 | [[Euclidean space]] $\mathbb{R}^n$ |     ✅      |    ✅     |        ✅         |         ✅         |             ✅              |              ✅               |
 
 
-
-
-
-| Концепт               | Основной раздел                             | Папка / Теги                               | Связанные заметки                                                                                          | Заметки-подсказки                        |
-| --------------------- | ------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [[Norm of vector]]    | Functional Analysis                         | FA/Norms        #fa                        | [[Metric (distance)]], [[Banach space]]                                                                    | Даёт метрику                             |
-| [[Normed space]]      | Functional Analysis                         | FA/NormedSpaces #fa                        | [[Banach space]], [[Linear operator]]                                                                      | Общая рамка                              |
-| [[Banach space]]      | Functional Analysis                         | FA/Banach       #fa                        | [[Normed space]], [[Hahn–Banach theorem]]                                                                  | Полнота по норме                         |
-| [[Hilbert space]]     | Functional Analysis                         | FA/Hilbert      #fa                        | [[Inner product space]], [[Riesz representation]]                                                          | Полнота по IP                            |
-| [[Euclidean space]]   | Linear Algebra (finite); also FA & Topology | LA/Euclidean #linear-algebra #fa #topology | [[Dot product of vectors]], [[Norm of vector]], [[Metric (distance)]], [[Completeness]], [[Hilbert space]] | Конечномерный IP; норма→метрика; полнота |

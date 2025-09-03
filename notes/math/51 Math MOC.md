@@ -25,7 +25,7 @@ connected:
 - [[515.1 Topology]]
 - [[517 Сalculus MOC]] 
     - [[517.52 Ряды и последовательности]]
-    - [[517.98 Функциональный анализ]]
+    - [[517.98 Functional Analysis]]
 - 519.1 Комбинаторный анализ. Теория графов
     - [[519.101 Combinatorics MOC]]
     - [[519.17 Graph Theory MOC]]

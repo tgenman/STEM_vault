@@ -11,5 +11,5 @@ tags:
   - fix/linking
 moc:
   - "[[515.1 Topology]]"
-  - "[[517.98 Функциональный анализ]]"
+  - "[[517.98 Functional Analysis]]"
 ---

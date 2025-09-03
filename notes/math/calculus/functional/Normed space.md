@@ -1,10 +1,11 @@
 ---
 aliases:
-  - Норма
 anki: false
-created: 2025-09-03 20:18
+created: 2025-09-03 20:37
 parent:
+  - "[[Space]]"
 connected:
+  - "[[Norm]]"
 tags:
   - fix/empty
   - fix/linking
