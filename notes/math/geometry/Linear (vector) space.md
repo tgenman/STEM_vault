@@ -1,12 +1,35 @@
 ---
 aliases:
   - Векторное пространство
-created: 2023-08-10 19:38
+  - Линейное пространство
+  - Vector space
+created: 2025-09-03 18:52
 parent:
   - "[[Abelian group]]"
 connected:
   - "[[Vector]]"
+anki: false
+tags:
+  - fix/empty
 ---
+Векторное пространство — это [[Abelian group|Абелева группа]] (по сложению) с действием [[Field]] [[Scalar]] поля скаляров, удовлетворяющим аксиомам линейности.
+Vector space = абелева группа + линейное действие поля.
+
+```mermaid
+graph TD
+  M["Monoid (M, +)"] 
+  G["Group (G, +, inverse)"]
+  AG["Abelian group (A, + commutative)"]
+  MOD["Module (M over ring R)"]
+  V["Vector space (V over field F)"]
+
+  M -->|add inverses| G
+  G -->|require commutativity| AG
+  AG -->|add scalar multiplication by ring| MOD
+  MOD -->|restrict scalars to field| V
+
+```
+
 
 
 ==Векторное пространство V== - множество всех векторов V, которые можно складывать друг с другом и умножать на скаляр

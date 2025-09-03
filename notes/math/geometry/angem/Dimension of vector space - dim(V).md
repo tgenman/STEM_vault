@@ -13,7 +13,7 @@ tags:
 
 
 **Connected with:**
-- [[Vector space V|Векторное пространство]]
+- [[Linear (vector) space|Векторное пространство]]
 - [[Basis VS]] 
 
 

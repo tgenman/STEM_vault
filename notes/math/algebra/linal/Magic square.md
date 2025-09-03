@@ -6,7 +6,7 @@ created: 2023-10-30 20:01
 parent:
   - "[[Matrix|Матрица]]"
 connected:
-  - "[[Vector space V]]"
+  - "[[Linear (vector) space]]"
 ---
 A **magic square** is a 3x3 grid of numbers so that every row, column, and diagonal sum to the same value. 
 

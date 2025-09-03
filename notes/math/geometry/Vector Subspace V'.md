@@ -9,7 +9,7 @@ connected:
   - "#обс/linking"
 ---
 
-vector space $V'$ is a **subspace** of a [[Vector space V]] if
+vector space $V'$ is a **subspace** of a [[Linear (vector) space]] if
 -   $V′$ is a vector space;
 -   every element of $V'$ is also an element of $V$.
 
@@ -28,7 +28,7 @@ All we need is
 
 
 **Connected with:**
-- [[Vector space V]]
+- [[Linear (vector) space]]
 - [[Span]]
 
 

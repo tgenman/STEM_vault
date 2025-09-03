@@ -2,9 +2,9 @@
 aliases:
   - Линейная комбинация векторов
 created: 2023-08-10 15:29
-tags: 
+tags:
 parent:
-  - "[[Vector space V]]"
+  - "[[Linear (vector) space]]"
 connected:
   - "[[Affine combination]]"
   - "[[Convex combination]]"
