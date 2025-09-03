@@ -26,7 +26,7 @@ graphs in which no two vertices are similar
 ![[Pasted image 20231101184708.png]]
 
 We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their number by $aut(G)$. 
-$Aut(G)$ is a [[Group|group]] under the operation of composition
+$Aut(G)$ is a [[Group (G,*)|group]] under the operation of composition
 
 
 # Anki
@@ -37,7 +37,7 @@ FRONT: Automorphism $Aut(G)$
 BACK: is an [[519.175.1 Isomorphic Graphs|isomorphism]] of the graph to itself.
 The automorphisms of a graph reflect its [[Symmetry|symmetries]].
 We denote the set of all automorphisms of a graph $G$ by $Aut(G)$, and their number by $aut(G)$. 
-$Aut(G)$ is a [[Group|group]] under the operation of composition
+$Aut(G)$ is a [[Group (G,*)|group]] under the operation of composition
 FORMULA: 
 ADDITIONAL:
 ID: 1705261959421

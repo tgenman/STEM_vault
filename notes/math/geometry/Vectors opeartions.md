@@ -3,7 +3,7 @@ aliases: Операции над векторами
 ---
 
 [[Norm of vector]]
-[[Inner product of vectors]] as Inner product
+[[Inner product]] as Inner product
 [[Cross product of vectors]]
 Outer product
 

@@ -11,16 +11,3 @@ connected:
 Обобщение понятия [[Real numbers R]]
 
 
-
-
-
-
-
-
-
-
-
-
-#### Bookmarks
-- 
-

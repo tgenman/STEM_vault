@@ -1,7 +1,6 @@
 ---
 aliases:
   - Метрическое пространство
-  - Metric
 anki: true
 created: 2024-12-22 13:25
 parent:

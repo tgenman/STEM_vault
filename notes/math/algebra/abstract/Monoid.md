@@ -7,7 +7,7 @@ parent:
   - "[[Semigroup]]"
   - "[[Algebraic Structure]]"
 connected:
-  - "[[Group]]"
+  - "[[Group (G,*)]]"
   - "[[512.5 General Algebra MOC]]"
 tags:
   - fix/empty

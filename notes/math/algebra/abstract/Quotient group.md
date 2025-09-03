@@ -4,7 +4,7 @@ aliases:
 anki: false
 created: 2024-05-03 18:40
 parent:
-  - "[[Group]]"
+  - "[[Group (G,*)]]"
   - "[[512.5 General Algebra MOC]]"
 connected:
   - "[[Normal subgroup]]"

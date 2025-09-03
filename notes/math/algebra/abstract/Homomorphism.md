@@ -8,14 +8,14 @@ parent:
 connected:
   - "[[Isomorphism]]"
   - "[[Algebraic Structure]]"
-  - "[[Group]]"
-  - "[[Ring]]"
-  - "[[Field]]"
+  - "[[Group (G,*)]]"
+  - "[[Ring (R,+,*)]]"
+  - "[[Field (F,+,*)]]"
   - "[[Kernel]]"
 ---
 
 > [!tip] Homomorphism
-> A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group|groups]], [[Ring|rings]], [[Field|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
+> A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group (G,*)|groups]], [[Ring (R,+,*)|rings]], [[Field (F,+,*)|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
 
 # Properties
 - Preserves [[Algebraic Structure|algebraic structure]] operations
@@ -26,11 +26,11 @@ connected:
 
 # Examples
 ## Group Homomorphism
-For [[Group|groups]] $(G, \ast)$ and $(H, \circ)$, a function $\phi: G \to H$ is a homomorphism if:
+For [[Group (G,*)|groups]] $(G, \ast)$ and $(H, \circ)$, a function $\phi: G \to H$ is a homomorphism if:
 $\phi(a \ast b) = \phi(a) \circ \phi(b)$ for all $a, b \in G$.
 
 ## Ring Homomorphism
-For [[Ring|rings]] $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a function $\phi: R \to S$ is a homomorphism if:
+For [[Ring (R,+,*)|rings]] $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a function $\phi: R \to S$ is a homomorphism if:
 - $\phi(a + b) = \phi(a) \oplus \phi(b)$
 - $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
 for all $a, b \in R$.
@@ -46,7 +46,7 @@ TARGET DECK: stem::math::algebra
 START
 math_complex
 FRONT: Homomorphism
-BACK: A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group|groups]], [[Ring|rings]], [[Field|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
+BACK: A function $\phi: A \to B$ between two [[Algebraic Structure|algebraic structures]] (e.g., [[Group (G,*)|groups]], [[Ring (R,+,*)|rings]], [[Field (F,+,*)|fields]]) that preserves the structure operations. For any operation $\ast$ in $A$ and corresponding operation $\circ$ in $B$, the relationship $\phi(x \ast y) = \phi(x) \circ \phi(y)$ holds.
 FORMULA: For groups: $\phi(a \ast b) = \phi(a) \circ \phi(b)$
 For rings: $\phi(a + b) = \phi(a) \oplus \phi(b)$ and $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
 ADDITIONAL:

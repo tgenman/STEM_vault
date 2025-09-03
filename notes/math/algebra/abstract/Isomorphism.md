@@ -22,11 +22,11 @@ connected:
 
 # Examples
 ## Group Isomorphism
-For [[Group|groups]] $(G, \ast)$ and $(H, \circ)$, a bijective function $\phi: G \to H$ is an isomorphism if:
+For [[Group (G,*)|groups]] $(G, \ast)$ and $(H, \circ)$, a bijective function $\phi: G \to H$ is an isomorphism if:
 $\phi(a \ast b) = \phi(a) \circ \phi(b)$ for all $a, b \in G$.
 
 ## Ring Isomorphism
-For [[Ring|rings]] $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a bijective function $\phi: R \to S$ is an isomorphism if:
+For [[Ring (R,+,*)|rings]] $(R, +, \cdot)$ and $(S, \oplus, \otimes)$, a bijective function $\phi: R \to S$ is an isomorphism if:
 - $\phi(a + b) = \phi(a) \oplus \phi(b)$
 - $\phi(a \cdot b) = \phi(a) \otimes \phi(b)$
 for all $a, b \in R$.

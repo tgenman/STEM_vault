@@ -4,7 +4,7 @@ aliases:
 anki: true
 created: 2025-05-10 19:22
 parent:
-  - "[[Group]]"
+  - "[[Group (G,*)]]"
   - "[[Generating set]]"
 connected:
   - "[[Minimum Generating Set]]"
@@ -12,7 +12,7 @@ tags:
 ---
 
 > [!tip] Rank (Minimum Generation Number) of group $G$
-> The [[Minimum Generating Set|minimum size of a generating set]]  for a [[Group|group]]  $G$ is called the rank of $G$, sometimes denoted as $\text{rank}(G)$ or $d(G)$.
+> The [[Minimum Generating Set|minimum size of a generating set]]  for a [[Group (G,*)|group]]  $G$ is called the rank of $G$, sometimes denoted as $\text{rank}(G)$ or $d(G)$.
 
 # Anki
 TARGET DECK: stem::math::algebra

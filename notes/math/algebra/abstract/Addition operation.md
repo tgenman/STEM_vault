@@ -9,14 +9,14 @@ connected:
   - "[[Multiplication operation]]"
   - "[[Identity element]]"
   - "[[Inverse element]]"
-  - "[[Group]]"
-  - "[[Ring]]"
-  - "[[Field]]"
-tags: 
+  - "[[Group (G,*)]]"
+  - "[[Ring (R,+,*)]]"
+  - "[[Field (F,+,*)]]"
+tags:
 ---
 
 > [!tip] Addition
-Addition is a binary operation that combines two elements from a set to produce another element of the same set, often forming the basis of algebraic structures such as [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
+Addition is a binary operation that combines two elements from a set to produce another element of the same set, often forming the basis of algebraic structures such as [[Group (G,*)|groups]], [[Ring (R,+,*)|rings]], and [[Field (F,+,*)|fields]].
 
 # Properties
 - **[[Commutative identity]]**: $a + b = b + a$
@@ -29,7 +29,7 @@ TARGET DECK: stem::math::algebra
 START
 math_complex
 FRONT: Addition
-BACK: Addition is a binary operation that combines two elements from a set to produce another element of the same set, forming the basis of algebraic structures like [[Group|groups]], [[Ring|rings]], and [[Field|fields]].
+BACK: Addition is a binary operation that combines two elements from a set to produce another element of the same set, forming the basis of algebraic structures like [[Group (G,*)|groups]], [[Ring (R,+,*)|rings]], and [[Field (F,+,*)|fields]].
 FORMULA: 
 $a + b = b + a$ (Commutative), 
 $(a + b) + c = a + (b + c)$ (Associative), 

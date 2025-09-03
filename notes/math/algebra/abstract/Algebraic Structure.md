@@ -4,10 +4,12 @@ aliases:
 anki: false
 created: 2024-01-08 13:42
 parent:
-  - "[[512.5 General Algebra MOC]]"
-connected: 
+  - "[[Structure (math)]]"
+connected:
 tags:
   - fix/empty
+moc:
+  - "[[512.5 General Algebra MOC]]"
 ---
 
 > [!tip] **Алгебраическая структура**

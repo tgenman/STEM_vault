@@ -6,11 +6,11 @@ created: 2024-07-03 22:12
 parent:
   - "[[Cauchy-Schwarz-Буняковского Inequality]]"
 connected:
-  - "#обс/linking"
+  - "[[Dot product of vectors]]"
 tags:
   - fix/empty
 ---
-links: [[Inner product of vectors|Скалярное произведение векторов]], [[Cauchy-Schwarz-Буняковского Inequality|Неравенство Коши-Шварца]]
+links: [[Inner product|Скалярное произведение векторов]], [[Cauchy-Schwarz-Буняковского Inequality|Неравенство Коши-Шварца]]
 
 
 $$

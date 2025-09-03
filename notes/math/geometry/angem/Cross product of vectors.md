@@ -50,5 +50,5 @@ $[\bar a \times \bar a] = 0$
 
 **Connected with:**
 - [[Vectors opeartions]]
-- [[Inner product of vectors]]
+- [[Inner product]]
 

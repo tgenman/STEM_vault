@@ -6,7 +6,7 @@ parent:
   - "[[Vector|Вектор]]"
 connected:
   - "[[Unit vector]]"
-  - "[[Inner product of vectors]]"
+  - "[[Inner product]]"
 created: 2024-02-03 17:59
 ---
 
@@ -30,13 +30,13 @@ A norm must satisfy the following properties:
 
 
 #### Connection with Inner product
- Any [[Inner product of vectors]] inner product induces a ==norm==:
+ Any [[Inner product]] inner product induces a ==norm==:
  $\|x\| := \sqrt{\langle x, x \rangle}$
 
 Example: [[Dot product of vectors]]  induces [[Euclidian norm (L2)]]:
 $\sqrt{\langle x, x \rangle} = \sqrt{x_1^2 + x_2^2 + \ldots + x_n^2} = \|x\|_2$
 
-(!) Not every ==norm== is induced by an [[Inner product of vectors]] inner product.
+(!) Not every ==norm== is induced by an [[Inner product]] inner product.
 Example: [[Manhattan norm (L1)]].
 
 

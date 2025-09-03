@@ -18,8 +18,8 @@ A **nullary operation** (or constant operation) on a set $\mathcal{A}$ is an ope
 
 # Examples:
 - The constant function $f() = 0$ on the set of real numbers $\mathbb{R}$
-- The identity element $e$ in a [[Group|group]]
-- The zero element in a [[Ring|ring]]
+- The identity element $e$ in a [[Group (G,*)|group]]
+- The zero element in a [[Ring (R,+,*)|ring]]
 - The empty set $\emptyset$ in the power set $\mathcal{P}(X)$
 
 # Properties:

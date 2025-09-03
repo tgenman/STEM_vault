@@ -4,13 +4,13 @@ aliases:
 anki: true
 created: 2024-02-03 18:17
 parent:
-  - "[[Inner product of vectors]]"
+  - "[[Inner product]]"
 connected:
   - "[[Euclidian norm (L2)]]"
 ---
 
 > [!tip] Dot product 
-это частный случай [[Inner product of vectors]]
+это частный случай [[Inner product]]
 $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
 Commonly, the dot product between two vectors $a, b$ is denoted by $a^\top b$ or $\langle a, b \rangle$.
@@ -38,7 +38,7 @@ TARGET DECK: math::linal
 START
 math_complex
 FRONT: Dot product of vectors
-BACK: это частный случай [[Inner product of vectors]]
+BACK: это частный случай [[Inner product]]
 FORMULA: $\vec{a} \cdot \vec{b} = a_x b_x + a_y b_y + a_z b_z = (\vec{a}, \vec{b})$ 
 $\vec{a} \cdot \vec{b} = |\vec{a}| |\vec{b}| \cos{\phi}$
 Commonly, the dot product between two vectors $a, b$ is denoted by $a^\top b$ or $\langle a, b \rangle$.

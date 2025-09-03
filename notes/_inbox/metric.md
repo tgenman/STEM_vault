@@ -1,0 +1,12 @@
+---
+aliases:
+  - Метрика
+anki: false
+created: 2025-09-03 20:15
+parent:
+connected:
+  - "[[Metric space]]"
+tags:
+  - fix/empty
+  - fix/linking
+---

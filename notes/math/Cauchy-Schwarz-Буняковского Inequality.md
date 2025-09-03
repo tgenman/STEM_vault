@@ -6,7 +6,7 @@ parent:
   - "[[512.1 Elementary Algebra MOC]]"
 connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
-  - "[[Inner product of vectors|Скалярное произведение векторов]]"
+  - "[[Dot product of vectors]]"
 tags:
   - fix/empty
 anki: false
@@ -15,7 +15,7 @@ anki: false
 $\mathbb{E}[XY]^2 \leq \mathbb{E}[X^2] \mathbb{E}[Y^2]$
 
 
-[[Inner product of vectors]] двух веторов меньше или равно произведению их [[Norm of vector]]
+[[Inner product]] двух веторов меньше или равно произведению их [[Norm of vector]]
 
 $\frac{a + b}{2} = \sqrt{ab}$
 
