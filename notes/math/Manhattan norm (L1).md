@@ -6,7 +6,7 @@ anki: true
 parent:
   - "[[Norm of vector]]"
 created: 2024-02-03 17:54
-connected: 
+connected:
 tags:
   - fix/empty
 ---

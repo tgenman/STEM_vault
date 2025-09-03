@@ -9,4 +9,7 @@ connected:
 tags:
   - fix/empty
   - fix/linking
+moc:
+  - "[[515.1 Topology]]"
+  - "[[517.98 Функциональный анализ]]"
 ---

@@ -4,10 +4,13 @@ aliases:
 anki: false
 parent:
   - "[[Vector|Вектор]]"
+  - "[[Norm]]"
 connected:
   - "[[Unit vector]]"
   - "[[Inner product]]"
 created: 2024-02-03 17:59
+moc:
+  - "[[512.64  Linear algebra MOC]]"
 ---
 
 #### Definition
