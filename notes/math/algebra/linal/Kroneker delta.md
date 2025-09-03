@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 anki: true
 created: 2024-01-07 21:25
 parent:
@@ -8,10 +8,10 @@ connected:
   - "[[512.64  Linear algebra MOC]]"
   - "[[Identity matrix]]"
 ---
-
+> [!tip] 
 $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
-- $1$ if $i = j$
-- $0$ if $i \ne j$
+> - $1$ if $i = j$
+> - $0$ if $i \ne j$
 
 
 # Anki

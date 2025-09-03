@@ -7,7 +7,7 @@ connected:
   - "#обс/linking"
 tags:
   - fix/empty
-  - fix/группа
+  - fix/study_group
 ---
 **
 

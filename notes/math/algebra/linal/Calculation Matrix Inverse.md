@@ -9,7 +9,7 @@ connected:
   - "[[Matrix Operations]]"
 tags: []
 ---
-
+// TODO перенести все в Matrix Inverse 
 
 $$A^{-1}=\dfrac1{|A|}\cdot {A_{ij}}^T,$$
 где $|A|$ — определитель матрицы $A$,
