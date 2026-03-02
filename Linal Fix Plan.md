@@ -70,7 +70,7 @@ Anki/экспорт:
 
 ### `parent`
 
-- Для entity/concept заметок внутри `linal/`: в `parent` обязательно есть `[[512.64  Linear algebra MOC]]`.
+- Для entity/concept заметок внутри `linal/`: в `parent` обязательно есть `[[Linear algebra (field)]]`.
 - Второй `parent` добавлять только если он очевиден; не больше 2.
 - Для самой MOC: `notes/math/algebra/linal/512.64  Linear algebra MOC.md` имеет одного «родителя сверху» (решение в Chunk 0).
 
@@ -107,7 +107,7 @@ Anki/экспорт:
 
 ### Chunk 0 — Решения до начала правок (обязательно)
 
-- `notes/math/algebra/linal/512.64  Linear algebra MOC.md`: какой parent «сверху»?
+- `notes/_meta/moc/512.64  Linear algebra MOC.md`: какой parent «сверху»?
   - оставить `[[512 Algebra]]` (как сейчас)
   - или сменить на `[[512.1 Elementary Algebra MOC]]` (чище по цепочке)
 - `notes/math/algebra/linal/Linearity.md` (0 байт): что это?
@@ -124,6 +124,7 @@ Anki/экспорт:
 Файлы (первый проход, 16 шт.):
 
 - `notes/math/algebra/linal/512.64  Linear algebra MOC.md` (заменить `\(...\)` → `$...$`)
+- `notes/_meta/moc/512.64  Linear algebra MOC.md` (заменить `\(...\)` → `$...$`)
 - `notes/math/algebra/linal/Magic square.md` (удалить хвостовой мусор `04.png|150]]`)
 - `notes/math/algebra/linal/Matrix.md` (добавить нормальный frontmatter)
 - `notes/math/algebra/linal/Matrix Operations.md` (убедиться, что это umbrella; `anki` не ставить)
@@ -227,6 +228,7 @@ Anki/экспорт:
 - `notes/math/algebra/linal/Линейная зависимость векторов.md`:
   - отделить atomic definition от набора критериев/геометрических следствий
 - `notes/math/algebra/linal/512.64  Linear algebra MOC.md`:
+- `notes/_meta/moc/512.64  Linear algebra MOC.md`:
   - оставить как индекс
   - рассуждения/таблицы вынести в отдельные концепты и линковать из MOC
 
