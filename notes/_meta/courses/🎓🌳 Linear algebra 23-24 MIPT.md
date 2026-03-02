@@ -10,7 +10,7 @@ url: https://lms.mipt.ru/course/view.php?id=4899&type=lecture
 recommendation: 
 family: 
 connected:
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear algebra (field)]]"
   - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-14 12:29
 ---

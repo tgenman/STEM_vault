@@ -49,6 +49,7 @@ I use this database as a personal study guide for mathematics and STEM subjects,
 - **Revise Older Notes**: Periodically update notes to follow the current format for uniformity.
 - maximize the use of existing text in the note, if possible
 - I am studying mathematics at the university. Don't explain very simple things
+- KISS principle (keek it simple stupid)
 - **Interconnected Notes**: The notes form a graph through `[[Other concept]]` or `[[Other concept|alias]]` notation
     - Use search to find related concepts (parents, same type, children)
     - **Linking Strategy**: After creating a note, make a second pass to maximize connections:

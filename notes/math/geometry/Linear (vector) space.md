@@ -9,7 +9,7 @@ parent:
   - "[[Space]]"
 connected:
   - "[[Vector]]"
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear algebra (field)]]"
 anki: false
 tags:
   - fix/empty

@@ -5,8 +5,8 @@ created: 2024-01-07 21:25
 parent:
   - "[[Indicator function]]"
 connected:
-  - "[[512.64  Linear algebra MOC]]"
   - "[[Identity matrix]]"
+  - "[[Linear algebra (field)]]"
 ---
 > [!tip] 
 $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide):
@@ -24,7 +24,6 @@ BACK: $I_{ij} = \delta_{ij}$ - [[Indicator function]] (two indexes are coincide)
 - $0$ if $i \ne j$
 ID: 1706545740973
 END
-
 
 
 

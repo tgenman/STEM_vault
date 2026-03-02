@@ -1,6 +1,5 @@
 ---
 aliases: 
-  - "[[512.64  Linear algebra MOC]]"
 anki: false
 created: 2024-07-03 22:11
 connected:
@@ -27,7 +26,6 @@ $$
 \Large d(P, O) = \frac{|\vec{n} \cdot p_o|}{||\vec{n}||}
 $$
 ![[Pasted image 20230913142909.png|300]]
-
 
 
 

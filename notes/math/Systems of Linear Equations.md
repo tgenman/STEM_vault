@@ -2,7 +2,7 @@
 aliases:
   - Система линейных уравнений (СЛУ)
 parent:
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear algebra (field)]]"
 ---
 
 ### Solution Set 
@@ -20,5 +20,4 @@ $$A⋅X=B$$
 $$A^{−1}A⋅X=A^{−1}B⇔EX=A^{−1}B⇔X=A^{−1}B$$
 
 - [[The Gaussian Elimination Method]]
-
 

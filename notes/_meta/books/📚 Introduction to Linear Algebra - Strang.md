@@ -5,7 +5,7 @@ tags:
   - meta/book📚/classbook📖
   - meta/status/IN_PROGRESS_🌿
 connected:
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear algebra (field)]]"
 author:
   - "[[👤 Strang, Gilbert]]"
 created: 2024-01-13 18:26
@@ -102,4 +102,8 @@ TRIANGLE INEQUALITY: ${\lVert v+w\rVert \le \lVert v\rVert + \lVert w\rVert}$
 
 
 Матрица разностей
+
+Forward difference (прямая разность)
+Backward difference (обратная)
+Central difference (центральная)
 Cyclic difference

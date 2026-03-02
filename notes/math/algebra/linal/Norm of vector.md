@@ -8,9 +8,8 @@ parent:
 connected:
   - "[[Unit vector]]"
   - "[[Inner product]]"
+  - "[[Linear algebra (field)]]"
 created: 2024-02-03 17:59
-moc:
-  - "[[512.64  Linear algebra MOC]]"
 ---
 
 #### Definition
@@ -41,7 +40,6 @@ $\sqrt{\langle x, x \rangle} = \sqrt{x_1^2 + x_2^2 + \ldots + x_n^2} = \|x\|_2$
 
 (!) Not every ==norm== is induced by an [[Inner product]] inner product.
 Example: [[Manhattan norm (L1)]].
-
 
 
 

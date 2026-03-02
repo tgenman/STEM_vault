@@ -8,5 +8,4 @@ connected:
 tags:
   - fix/empty
   - fix/linking
-moc: "[[512.64  Linear algebra MOC]]"
 ---

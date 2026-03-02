@@ -3,12 +3,13 @@ aliases:
   - Вектор
 created: 2024-07-03 22:10
 parent:
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear (vector) space]]"
 tags:
   - fix/empty
 anki: false
 connected:
-  - "#обс/linking"
+  - "[[Linear algebra (field)]]"
+  - "[[Basis VS]]"
 ---
 
 Vector - are [[Linear combination]] of the elements of a [[Basis VS]]
@@ -27,7 +28,6 @@ Vector - are [[Linear combination]] of the elements of a [[Basis VS]]
 - $a + b = b + a$
 - $(a + b) + c = a + (b + c)$ - ассоциативности тоже распространяется на векторы.
 - $a + 0 = a$
-
 
 
 

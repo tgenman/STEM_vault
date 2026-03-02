@@ -28,5 +28,4 @@ $$
 
 
 **Connected with:**
-- [[512.64  Linear algebra MOC|Линейная алгебра]]
-
+- [[Linear algebra (field)|Линейная алгебра]]

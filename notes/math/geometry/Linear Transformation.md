@@ -3,10 +3,10 @@ aliases:
   - Линейное преобразование
 created: 2024-07-03 22:15
 parent:
-  - "[[512.64  Linear algebra MOC]]"
+  - "[[Linear (vector) space]]"
 connected:
   - "[[Матрица линейного преобразования]]"
-  - "#обс/linking"
+  - "[[Linear algebra (field)]]"
 tags:
   - fix/empty
 anki: false
@@ -26,7 +26,6 @@ anki: false
 А вот отображение $A(\vec{x}) = \vec{x} + 5$ линейным преобразованием не является:  
 1) $(\vec{x} + \vec{y}) + 5 \neq (\vec{x} + 5) + (\vec{y} + 5) = (\vec{x} + \vec{y}) + 10$;  
 2) $(n\vec{x}) + 5 \neq n(\vec{x} + 5) = n\vec{x} + 5n$.
-
 
 
 

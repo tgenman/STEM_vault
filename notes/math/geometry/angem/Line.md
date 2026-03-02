@@ -5,7 +5,6 @@ anki: true
 created: 2024-07-03 22:13
 tags: 
 parent:
-  - "[[512.64  Linear algebra MOC]]"
   - "[[514 Geometry MOC]]"
 connected:
   - "[[Plane]]"

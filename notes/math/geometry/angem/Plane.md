@@ -1,8 +1,6 @@
 ---
 aliases:
   - Плоскость
-  - "[[512.64  Linear algebra MOC]]"
-  - "[[514 Geometry MOC]]"
 connected:
   - "[[Point]]"
   - "[[Line]]"
@@ -36,7 +34,6 @@ $$
 
 
 ![[Pasted image 20230912203453.png|300]]
-
 
 
 
