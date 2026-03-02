@@ -80,7 +80,7 @@ $A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
       - `content/summary`
       - `content/application`
       - `content/moc`
-    - **anki**: `true` if exists Anki block and else is `false`
+    - **anki**: only for entity/concept notes; `true` if note contains an Anki block, otherwise `false`. For MOC/umbrella/index notes (tagged `content/moc`), omit the `anki` field entirely.
 
   ```text
   ---

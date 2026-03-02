@@ -99,3 +99,7 @@ TRIANGLE INEQUALITY: ${\lVert v+w\rVert \le \lVert v\rVert + \lVert w\rVert}$
 [[Expected Value E(X)]]
 
 
+
+
+Матрица разностей
+Cyclic difference
