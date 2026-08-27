@@ -1,6 +1,6 @@
 ---
 aliases: [Огюстен Коши]
-tags: meta/person👤
+tags: мета/человек👤
 ---
 links: -
 profession: [[Математик]]

@@ -1,6 +1,6 @@
 ---
 aliases: [Vilfredo Federico Damaso Pareto, Pareto, Вильфредо Парето]
-tags: meta/person👤
+tags: мета/человек👤
 ---
 links:
 profession: [[Scientist]], [[Инженер]]

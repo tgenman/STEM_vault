@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - meta/person👤
+  - мета/человек👤
 created: 2025-04-14 20:25
 connected:
   - "#обс/linking"

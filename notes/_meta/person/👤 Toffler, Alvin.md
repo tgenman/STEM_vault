@@ -1,6 +1,6 @@
 ---
 aliases: [Alvin Toffler, Элвин Тоффлер]
-tags: meta/person👤/writer✏️
+tags: мета/человек👤/писатель✏️
 ---
 links:
 profession: #fix/general 

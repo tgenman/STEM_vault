@@ -1,11 +1,11 @@
 ---
-tags: meta/book📚
+tags: мета/книга📚
 ---
 links: #fix/linking
 title: Word and Object
 author: Willard Van Orman Quine
 recom: [[👤Медведева, Пион]]  [[🎓🌥️ Онтологика и коммуникация - ШСМ]]
-status: #meta/status/BACKLOG_🌰
+status: #гтд/статус/когда-нибудь🌰
 family:
 
 ---

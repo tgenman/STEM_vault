@@ -1,11 +1,11 @@
 ---
-tags: meta/book📚/audiobook🎧
+tags: мета/книга📚/аудиокнига🎧
 ---
 links: [[004. 8 AI MOC]], [[GAI]], [[Научно-популярная литература]], [[Футурология]]
 title: Life 3.0—возможные варианты развития Artificial General Intelligence
 author: [[👤Tegmark, Max]]
 recom: [[👤Замесин, Иван]]
-status: #meta/status/DONE_🌳
+status: #гтд/статус/готово🌳
 family: [[📚📚 Серия книг «Элементы (Corpus)»]]
 
 ---

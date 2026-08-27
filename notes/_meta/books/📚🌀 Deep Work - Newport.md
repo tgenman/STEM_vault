@@ -1,11 +1,11 @@
 ---
-tags: meta/book📚
+tags: мета/книга📚
 ---
 links: [[Learning to Learn]] [[Продуктивность]] [[Когнитивистика]]
 title: Deep Work: Rules for Focused Success in a Distracted World / В работу с головой. Паттерны успеха от IT-специалиста
 author: [[👤Newport, Cal]]
 rec:
-status: #meta/status/BACKLOG_🌰
+status: #гтд/статус/когда-нибудь🌰
 
 ---
 

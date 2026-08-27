@@ -1,6 +1,6 @@
 ---
 aliases: [Max Erik Tegmark, Max Tegmark, Макс Тегмарк]
-tags: meta/person👤/writer✏️
+tags: мета/человек👤/писатель✏️
 ---
 links:
 profession: [[Физик]]

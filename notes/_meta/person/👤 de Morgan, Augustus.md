@@ -2,7 +2,7 @@
 aliases:
   - Огюстес де Морган
 tags:
-  - meta/person👤
+  - мета/человек👤
 connected:
   - "[[510.22 Set theory]]"
 ---

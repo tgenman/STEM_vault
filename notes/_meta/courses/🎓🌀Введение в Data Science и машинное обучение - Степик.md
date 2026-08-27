@@ -1,8 +1,8 @@
 ---
-tags: meta/course🎓
+tags: гтд/course🎓
 ---
 links: [[Machine Learning MOC|Машинное обучение]]
-status: #meta/status/BACKLOG_🌰
+status: #гтд/статус/когда-нибудь🌰
 author: [[👤Карпов, Анатолий]]
 provider: [[🏛Bioinformatics Institute|Институт биоинформатики]]
 platform: [[Stepik|Степик]]

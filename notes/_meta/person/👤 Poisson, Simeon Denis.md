@@ -2,7 +2,7 @@
 aliases:
   - Пуассон
 tags:
-  - meta/person👤
+  - мета/человек👤
 created: 2024-03-21 11:41
 connected: []
 ---

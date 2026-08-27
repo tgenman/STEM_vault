@@ -1,6 +1,6 @@
 ---
 aliases: [Rudolf Taschner, Рудольф Ташнер]
-tags: meta/person👤/writer✏️
+tags: мета/человек👤/писатель✏️
 ---
 links:
 profession: [[Математик]]

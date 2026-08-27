@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags:
-  - meta/status/BACKLOG_🌰
-  - meta/book📚/classbook📖
+  - гтд/статус/когда-нибудь🌰
+  - мета/книга📚/учебник📖
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
 author:

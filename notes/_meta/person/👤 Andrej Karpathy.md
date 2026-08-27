@@ -2,7 +2,7 @@
 aliases:
   - Андрей Карпаты
 tags:
-  - meta/person👤
+  - мета/человек👤
 created: 2024-12-10 10:30
 connected:
 ---

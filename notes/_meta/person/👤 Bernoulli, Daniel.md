@@ -1,6 +1,6 @@
 ---
 aliases: Даниил Бернулли
-tags: meta/person👤
+tags: мета/человек👤
 ---
 links: 
 profession: [[Физик]], [[Математик]]

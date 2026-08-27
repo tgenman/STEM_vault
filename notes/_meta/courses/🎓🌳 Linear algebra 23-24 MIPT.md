@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/course🎓
-  - meta/status/DONE_🌳
+  - гтд/course🎓
+  - гтд/статус/готово🌳
 author:
   - "[[👤 Елишев, Андрей Михайлович]]"
 provider: "[[🏛МФТИ|MIPT]]"

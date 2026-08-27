@@ -1,6 +1,6 @@
 ---
 aliases: [Архимед]
-tags: meta/person👤
+tags: мета/человек👤
 ---
 links: 
 profession: [[Scientist|Ученый]], [[Инженер]]

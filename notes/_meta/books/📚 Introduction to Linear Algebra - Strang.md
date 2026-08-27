@@ -2,8 +2,8 @@
 aliases:
   - 📚 Введение в линейную алгебру
 tags:
-  - meta/book📚/classbook📖
-  - meta/status/IN_PROGRESS_🌿
+  - мета/книга📚/учебник📖
+  - гтд/статус/прогресс🌿
 connected:
   - "[[Linear algebra (field)]]"
 author:

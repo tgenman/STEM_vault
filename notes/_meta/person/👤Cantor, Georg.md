@@ -1,6 +1,6 @@
 ---
 aliases: [Georg Cantor, Георг Кантор]
-tags: meta/person👤
+tags: мета/человек👤
 ---
 links: [[510.22 Set theory]]
 profession: [[Математик]]

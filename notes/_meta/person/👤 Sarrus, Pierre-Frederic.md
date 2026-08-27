@@ -1,6 +1,6 @@
 ---
 aliases: [Пьер Фредерик Саррюс]
-tags: meta/person👤/writer✏️
+tags: мета/человек👤/писатель✏️
 ---
 links: -
 profession: [[Математик]]

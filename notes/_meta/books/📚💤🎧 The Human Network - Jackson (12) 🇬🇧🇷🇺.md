@@ -2,8 +2,8 @@
 aliases:
   - 📚 Человеческие сети
 tags:
-  - meta/book📚/audiobook🎧
-  - meta/status/ON_HOLD_🌥️
+  - мета/книга📚/аудиокнига🎧
+  - гтд/статус/пауза🌥️
 parent:
   - "[[Social Network|Социальные сети]]"
   - "[[519.17 Graph Theory MOC]]"

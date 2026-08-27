@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/book📚/classbook📖
-  - meta/status/ON_HOLD_🌥️
+  - мета/книга📚/учебник📖
+  - гтд/статус/пауза🌥️
 created: 2023-08-09 13:08
 connected:
   - "[[Linear algebra (field)]]"

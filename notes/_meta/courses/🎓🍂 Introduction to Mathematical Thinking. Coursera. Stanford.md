@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta/course🎓
-  - meta/status/CLOSED_🍂
+  - гтд/course🎓
+  - гтд/статус/отмена🍂
 archive: true
 ---
 links:  [[51 Math MOC]], [[Математическое мышление]]
