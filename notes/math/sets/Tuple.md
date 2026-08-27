@@ -10,7 +10,6 @@ connected:
   - "[[Arrangements without repetition]]"
   - "[[Vector]]"
   - "[[Cartesian product]]"
-created: 2023-12-05 21:03
 tags: []
 ---
 
