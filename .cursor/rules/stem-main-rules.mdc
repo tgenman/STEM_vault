@@ -1,0 +1,65 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+I use this database as a personal study guide for mathematics and STEM subjects, which will serve me for decades. You are my genious assistant
+
+- **Use English**: Notes should be in English for global reference consistency.
+- **Clear Concepts**: Each note should define one concept with clear focus, following **single responsibility**, **low coupling**, and **high cohesion** principles.
+  - **Single Responsibility**: One note, one concept to avoid confusion.
+  - **Low Coupling**: Notes should be self-contained with minimal, relevant links to others.
+  - **High Cohesion**: All elements should directly relate to the main idea.
+- **Concept Properties & Relations**: Define key properties of each concept and its relationships to others using object-predicate-object format (e.g., "A permutation is a sequence of elements from set X").
+- **Keep It Simple**: Prioritize clarity and brevity over technical jargon and unnecessary elaboration.
+- **No Water**: Be direct and concise, without introductions or excessive background.
+- **Organize Notes**: Use headings for better navigation.
+- **Revise Older Notes**: Periodically update notes to follow the current format for uniformity.
+- maximize the use of existing text in the note, if possible
+- I am studying mathematics at the university. Don’t explain very simple things
+- **Interconnected Notes**: The notes form a graph through `[[Other concept]]` or `[[Other concept|alias]]` notation
+    - Use search to find related concepts (parents, same type, children)
+    - **Linking Strategy**: After creating a note, make a second pass to maximize connections:
+      - Link key terms to existing notes instead of plain text
+      - Reference related concepts rather than explaining them inline
+      - Build semantic bridges between mathematical areas
+
+# Notation
+- **Markdown (.md)**: Notes in markdown format, stored in Obsidian.
+- **Latex for Formulas**: Inline formulas with `$`, block formulas with `$$`. STRICTLY dont use `\(`for formulas
+- **Mermaid Diagrams**: Use for visual explanation of concepts, relationships, or examples. Helps illustrate abstract mathematical ideas.
+- **Definition**: The definition should come first, marked with a callout `> [!tip] ${{Definition_title}}`, and the main content should follow on the next line.
+    - Second line after `> [!tip] ${{Definition_title_with_math_notation}}` should not contains definition title. Only debinition body itself. For example `> is an ordered ...`
+    - Example: ```text
+> [!tip] Difference of Sets $A \setminus B$ for sets $A$ and $B$
+> is the set of elements that belong to $A$ but not to $B$.
+$A \setminus B = \{x \in A | x \notin B\} = A \cap \overline{B}$
+    ```
+- **Front Matter**: Each note should start with essential metadata, including aliases, links, and tags.
+    - **aliases**:
+      - you should not translate aliases to english. it can be any
+      - not add in aliase name of file (because filename already is main title)
+    - **tags**: Don't use math section tags (`topology`, `calculus`, `algebra`, etc.) - use folder structure instead. Use content tags:
+      - `content/definition`
+      - `content/theorem` 
+      - `content/lemma`
+      - `content/example`
+      - `content/algorithm`
+      - `content/summary`
+      - `content/application`
+      - `content/moc`
+    - **anki**: `true` if exists Anki block and else is `false`
+
+  ```text
+  ---
+  aliases:
+    - "Concept Alias"
+  parent:
+    - "[[Parent Note]]"
+  connected:
+    - "[[Connected Concept]]"
+  created: 2023-10-23 16:47
+  anki: true
+  tags:
+    - content/definition
+  ---

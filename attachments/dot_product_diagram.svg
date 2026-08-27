@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 400" font-family="'Times New Roman', Times, serif">
+  <!-- Background -->
+  <rect width="620" height="400" fill="white"/>
+
+  <!-- Dashed line for v·w < 0 (going to the left) -->
+  <line x1="310" y1="260" x2="80" y2="210" stroke="black" stroke-width="2.5" stroke-dasharray="14,10"/>
+  <polygon points="80,210 98,218 96,208" fill="black"/>
+
+  <!-- Dashed line for v·w = 0 (going straight up) -->
+  <line x1="310" y1="260" x2="200" y2="50" stroke="black" stroke-width="2.5" stroke-dasharray="14,10"/>
+  <polygon points="200,50 208,68 196,66" fill="black"/>
+
+  <!-- Dashed line for v·w > 0 (going upper-right) -->
+  <line x1="310" y1="260" x2="360" y2="50" stroke="black" stroke-width="2.5" stroke-dasharray="14,10"/>
+  <polygon points="360,50 366,70 354,66" fill="black"/>
+
+  <!-- Solid vector v (going to the right and slightly up) -->
+  <line x1="310" y1="260" x2="520" y2="170" stroke="black" stroke-width="2.8"/>
+  <polygon points="520,170 498,170 502,182" fill="black"/>
+
+  <!-- Solid line going to lower-left (extension of v backwards) -->
+  <line x1="310" y1="260" x2="130" y2="340" stroke="black" stroke-width="1.2"/>
+
+  <!-- Label: v (bold italic) -->
+  <text x="528" y="172" font-size="22" font-style="italic" font-weight="bold" fill="black">v</text>
+
+  <!-- Label: v · w > 0 (blue) -->
+  <text x="370" y="45" font-size="20" font-style="italic" font-weight="bold" fill="#2872B8">v · w &gt; 0</text>
+
+  <!-- Label: v · w = 0 (blue) -->
+  <text x="62" y="45" font-size="20" font-style="italic" font-weight="bold" fill="#2872B8">v · w = 0</text>
+
+  <!-- Label: v · w < 0 (blue) -->
+  <text x="88" y="200" font-size="20" font-style="italic" font-weight="bold" fill="#2872B8">v · w &lt; 0</text>
+
+  <!-- Label: angle with v less than 90° -->
+  <text x="380" y="290" font-size="16" fill="black">angle with </text>
+  <text x="476" y="290" font-size="16" font-style="italic" fill="black">v</text>
+  <text x="380" y="312" font-size="16" font-weight="bold" fill="black">less than 90°</text>
+  <text x="380" y="334" font-size="16" fill="black">in this half-plane</text>
+
+  <!-- Label: angle with v greater than 90° -->
+  <text x="50" y="290" font-size="16" fill="black">angle with </text>
+  <text x="146" y="290" font-size="16" font-style="italic" fill="black">v</text>
+  <text x="50" y="312" font-size="16" font-weight="bold" fill="black">greater than 90°</text>
+  <text x="50" y="334" font-size="16" fill="black">in this half-plane</text>
+
+  <!-- Origin dot -->
+  <circle cx="310" cy="260" r="3" fill="black"/>
+</svg>

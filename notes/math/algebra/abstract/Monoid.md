@@ -1,0 +1,29 @@
+---
+aliases:
+  - Моноид
+anki: false
+created: 2023-10-21 13:09
+parent:
+  - "[[Semigroup]]"
+  - "[[Algebraic Structure]]"
+connected:
+  - "[[Group (G,*)]]"
+  - "[[512.5 General Algebra MOC]]"
+tags:
+  - fix/empty
+---
+Моноид - [[Semigroup]] с определенным [[Identity element]]
+
+- пример [[Natural numbers N|Натуральные числа]] с нулем
+
+
+
+
+
+
+
+
+
+
+
+

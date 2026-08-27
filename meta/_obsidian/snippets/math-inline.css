@@ -1,0 +1,19 @@
+.theme-light span.math > mjx-container[jax="CHTML"] {
+    font-size: 120%;
+    color: #007A00 !important;
+}
+
+.theme-light .math-inline > mjx-container[jax="CHTML"] {
+    font-size: 120%;
+    color: #007A00 !important;
+}
+
+.theme-dark span.math > mjx-container[jax="CHTML"] {
+    font-size: 120%;
+    color: #f0e700 !important;
+}
+
+.theme-dark .math-inline > mjx-container[jax="CHTML"] {
+    font-size: 120%;
+    color: #f0e700 !important;
+}

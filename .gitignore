@@ -1,0 +1,6 @@
+.obsidian/
+.git/
+.idea/
+readlater/assets/
+
+.DS_Store
