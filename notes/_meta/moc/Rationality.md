@@ -35,10 +35,16 @@ Rationality is the study and practice of forming beliefs and choosing actions in
 - [[Cognitive Bias MOC|Cognitive Bias]]
 - [[162.5 Logical Fallacies]]
 - [[Idea Inoculation]]
+- [[Amathia]]
 
 ## applied practices
 
 - [[CFAR]]
+
+## litanies
+
+- [[Litany of Gendlin]]
+- [[Litany of Tarski]]
 
 ## sources
 

@@ -1,12 +1,12 @@
 ---
 publish: true
 ---
-links: [[CFAR]], [[Debugging]]
+links: [[CFAR]], [[Debugging]], [[Bug]]
 
 ---
     
     
-1.  ==**Pick a bug**. This can be large and sticky or small and straightforward.==
+1.  ==**Pick a [[Bug|bug]]**. This can be large and sticky or small and straightforward.==
 2.  ==**Describe a recent, concrete example.** Tell the story of a time the bug occurred, hitting as much relevant, causal detail as you can.== If you can’t remember clearly, try describing the _parable_ of the bug—a made-up example intended to be characteristic. Often, it’s helpful in particular to inquire into the difference between what happened, and what you _wish_ had happened (whether this is concrete or general).
 3.  ==**Where did it go wrong?** Try to pinpoint the exact moment at which you left the path to your preferred outcome, and instead ended up on the path toward the actual, dispreferred outcome.== This may be obvious, or it may require tracing things back through several causal steps, especially if the preferred outcome is somewhat vague—instead of looking at the moment when you began to notice problems, look for the moment that _led to_ those problems.
 4.  ==**Zero in on the exact moment.** Think of the bug as a movie, and look for the exact frame where you ought to have intervened, or want to intervene in the future.== At this level of behavior, most things should look like trigger-action patterns—this happening causes that, which leads directly to _that_, which set _that_ into motion. Look for thoughts, emotions, words, specific actions, or things you failed to think of (or the absence or negation of any of these).

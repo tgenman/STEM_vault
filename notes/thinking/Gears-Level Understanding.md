@@ -1,5 +1,6 @@
 ---
 publish: true
+aliases: [Gears-level]
 ---
 links: [[CFAR]]
 

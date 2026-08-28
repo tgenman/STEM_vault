@@ -9,7 +9,7 @@ provider: [[Yandex Praktikum]]
 platform:  [[Yandex Praktikum]]
 url: [url](https://practicum.yandex.ru/profile/data-scientist/)
 family: 
-recom: [[👤Галимзянов, Аскар]]
+recom: Аскар Галимзянов
 
 ___
 

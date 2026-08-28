@@ -14,7 +14,7 @@ _The concepts underlying the Againstness model (such as the division of the auto
 
 ==We often pay insufficient attention to the fact that our minds live inside of our bodies, and cannot help but be powerfully influenced by this fact==. The fields of economics, decision theory, and heuristics & biases have plenty to say about human irrationality, and disciplines like embodied cognition and evolutionary anthropology are uncovering more and more about how our physiology affects our thinking, but there’s currently not much bridging the gap, and where such connections _do_ exist, they often offer little in the way of concrete guidance or next actions.
 
-The Againstness technique is the tip of what we hope will prove to be a very large iceberg, with lots of useful content for developing physical rationality and overcoming metacognitive blindspots. ==It’s less an algorithm, and more a set of reminders about how to deal with the reality of being a program that wrote itself, running on a computer made of meat.==
+The Againstness technique is the tip of what we hope will prove to be a very large iceberg, with lots of useful content for developing physical rationality and overcoming [[Metacognitive Blindspot|metacognitive blindspots]]. ==It’s less an algorithm, and more a set of reminders about how to deal with the reality of being a program that wrote itself, running on a computer made of meat.==
 
 ---
 
