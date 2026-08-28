@@ -13,8 +13,8 @@ created: 2023-10-23 16:47
 tags:
 ---
 
-> [!tip] An arrangement without repetition $A^{k}_{n}$
- is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
+> [!tip] An arrangement without repetition $A_n^k$
+> An arrangement without repetition of $k$ elements from an $n$-element set $A$ is an ordered $k$-[[Tuple|tuple]] $(x_1,\ldots,x_k)$ of pairwise distinct elements of $A$, where $0 \le k \le n$.
 
 $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 
@@ -29,9 +29,8 @@ START
 Math_TWO_side
 FRONT:  Arrangements without repetition
 Размещение без повторений
-BACK:  is an ordered $n$-[[Tuple|tuple]] $(x_1,..., x_n)$ elements of $A$, where each elements occurs exactly once
+BACK: An ordered $k$-[[Tuple|tuple]] $(x_1,\ldots,x_k)$ of pairwise distinct elements chosen from an $n$-element set, where $0 \le k \le n$.
 FORMULA: $$A_n^k= V_{n, k} = \frac{n!}{(n-k)!} = n \cdot (n-1) \cdot ... \cdot (n - k + 1) = (n)_k$$
 ADDITIONAL:
 ID: 1698069638670
 END
-
