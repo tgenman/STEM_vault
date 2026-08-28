@@ -40,6 +40,18 @@ CFAR is a source of techniques for applied [[Instrumental rationality]].
 - [[Five-Second Versions]]
 - [[The Strategic Level]]
 
+## appendices
+
+- [[Marginal Attention]]
+- [[Turbocharging]]
+- [[Againstness]]
+- [[Aversion Factoring]]
+- [[Copernicus and Chaos]]
+- [[Frame-by-Frame Debugging]]
+- [[Mundanification]]
+- [[Negative Visualization]]
+- [[Deliberate Performance]]
+
 ## materials
 
 - CFAR Handbook 2019
