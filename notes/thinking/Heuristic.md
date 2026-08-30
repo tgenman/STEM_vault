@@ -1,7 +1,7 @@
 ---
 aliases: [Эвристика, эвристики]
 ---
-links: [[Rationality|Рациональность]], [[Decision making|Принятие решений]], [[📚 CFAR - Handbook 2019]]
+links: [[Rationality|Рациональность]], [[Decision making|Принятие решений]], [[CFAR]]
 
 ---
 

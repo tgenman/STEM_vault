@@ -1,7 +1,7 @@
 ---
 aliases: [Факторизация]
 ---
-links: [[📚 CFAR - Handbook 2019]], [[Instrumental rationality|Инструментальная рациональность]]
+links: [[CFAR]], [[Instrumental rationality|Инструментальная рациональность]]
 
 ---
 

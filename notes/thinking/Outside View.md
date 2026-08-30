@@ -1,6 +1,6 @@
 ---
 ---
-links: [[📚 CFAR - Handbook 2019]], [[Inside View]]
+links: [[CFAR]], [[Inside View]]
 
 ---
 
