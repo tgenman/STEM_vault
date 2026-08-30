@@ -2,7 +2,7 @@
 aliases: [Физика]
 tags: content/moc
 ---
-links: [[🌍Interests MOC]], [[51 Math MOC]]
+links: [[51 Math MOC]]
 people: [[notes/_meta/person/👤Feynman, Richard Phillips]], [[👤Tegmark, Max]]
 
 ---

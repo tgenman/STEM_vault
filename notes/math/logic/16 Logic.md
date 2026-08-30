@@ -2,7 +2,7 @@
 aliases:
   - Логика
 parent:
-  - "[[🌍Interests MOC]]"
+  - "[[51 Math MOC]]"
 connected:
   - "[[510.6 Математическая логика]]"
   - "[[162.5 Logical Fallacies]]"

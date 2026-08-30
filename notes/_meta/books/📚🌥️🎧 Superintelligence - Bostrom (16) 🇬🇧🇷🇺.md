@@ -2,7 +2,7 @@
 tags: мета/книга📚/аудиокнига🎧
 ---
 status: #гтд/статус/пауза🌥️
-links: [[GAI]], [[004. 8 AI MOC]], [[Трансгуманизм]]
+links: [[GAI]], [[004. 8 AI MOC]], трансгуманизм
 title: Superintelligence. Paths, Dangers, Strategies
 title2: Искусственный интеллект. Этапы. Угрозы. Стратегии
 author: [[👤Bostrom, Nick]]
