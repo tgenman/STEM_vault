@@ -1,5 +1,5 @@
 ---
-tags: гтд/course🎓
+tags: гтд/курс🎓
 ---
 links: [[Machine Learning MOC|Машинное обучение]]
 status: #гтд/статус/когда-нибудь🌰

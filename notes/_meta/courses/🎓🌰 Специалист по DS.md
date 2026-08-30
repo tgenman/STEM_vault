@@ -1,6 +1,6 @@
 ---
 tags:
-  - гтд/course🎓
+  - гтд/курс🎓
   - гтд/статус/когда-нибудь🌰
 ---
 links: [[Machine Learning MOC]] [[Deep Learning MOC]]

@@ -1,7 +1,6 @@
 ---
 created: 2025-04-14 19:07
 tags:
-  - fix/author
 ---
 UC Davis
 
