@@ -4,7 +4,7 @@ tags: гтд/курс🎓
 links: [[Machine Learning MOC]]
 status: #гтд/статус/пауза🌥️
 author: 
-provider: [[Yandex Praktikum]]
+provider: Yandex Praktikum
 url: [url]()
 
 

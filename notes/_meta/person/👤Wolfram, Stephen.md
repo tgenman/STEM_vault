@@ -3,7 +3,7 @@ aliases: [Stephen Wolfram, Стивен Вольфрам]
 tags: мета/человек👤/писатель✏️
 ---
 links: -
-profession:  [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

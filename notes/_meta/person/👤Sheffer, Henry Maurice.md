@@ -2,7 +2,7 @@
 tags: мета/человек👤
 ---
 links: -
-profession: [[Логик]]
+profession: Логик
 rec:
 city: 
 university: 

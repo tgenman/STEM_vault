@@ -3,8 +3,8 @@ tags: мета/книга📚
 ---
 links: [[Планирование]]
 title: Why Greatness Cannot Be Planned: The Myth of the Objective
-author: [[👤Stanley, Kennet]]
-recom: [[👤Медведева, Пион]], [[👤Левенчук, Анатолий]], [[👤👤👤Чат мастридера]]
+author: Stanley, Kennet
+recom: [[👤Медведева, Пион]], [[👤Левенчук, Анатолий]], Чат мастридера
 status: #гтд/статус/туду🌱
 family:
 

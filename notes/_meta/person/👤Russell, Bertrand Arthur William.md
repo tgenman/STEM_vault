@@ -3,7 +3,7 @@ aliases: [Bertrand Arthur William Russell, Bertrand Russell, Бертран Ра
 tags: мета/человек👤/писатель✏️
 ---
 links:
-profession: [[Философ]], [[Логик]], [[Математик]]
+profession: Философ, Логик, Математик
 rec:
 city: 
 university: 

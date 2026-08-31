@@ -52,8 +52,6 @@ There’s often a similar dynamic in Focusing, where people are trying to tease 
 
 > “Okay, what’s left, what’s left. Hmmm. I need. . . hmmm. It was for the party? Was it. . . soda? No, it wasn’t—I mean yes, I do need soda, but that isn’t the thing I’m forgetting. Something for the snacks—was it hummus? No, not hummus, but we’re getting clos—GUACAMOLE! Yes. That’s it. It was guacamole.”
 
-![[Pasted image 20210128185729.png]]
-
 ---
 
 ### From felt senses to handles
@@ -65,8 +63,6 @@ The next piece of the puzzle is **handles**.
 
 Let’s say a felt sense is like a photograph:
 
-![[Pasted image 20210128185816.png]]
-
 ==Photographs contain a lot of information==. They’re rich in detail and nuance. They often have lots of colors and contrast. They’re unique, in the sense that it’s not at all hard to tell most photos apart from one another.
 
 But the vast majority of that information is tacit. It’s hard to compress into words. If I were to show you a hundred similar photographs of a hundred similar faces, it would be pretty hard to get you to pick out the right one simply by talking about the details of the face.
@@ -75,11 +71,7 @@ The same is true of felt senses—or, more strictly, of the implicit mental mode
 
 A sketch, on the other hand, is compressed. It can be evocative, but it’s sparse and utilitarian, conveying as much of the relevant information as possible with economy of line. In order to get something as rich as a real face out of a sketch, your brain has to do a lot of processing, and regenerate a lot of information, filling in a lot of gaps.
 
-![[Pasted image 20210128185922.png]]
-
 ==Yet a sketch can nevertheless be more or less accurate. It can be a good fit for the photograph—a true match. You could have a sketch of very high quality that just isn’t the same face.==
-
-![[Pasted image 20210128190029.png]]
 
 ==It’s that sense of correspondence that we’re looking for, when we do Focusing.== [[👤Gendlin, Eugene T.|Gendlin]] often uses the word ==resonance—does the word or phrase that you just used resonate with the felt sense?== Are they a good match for each other?
 
@@ -87,21 +79,15 @@ A sketch, on the other hand, is compressed. It can be evocative, but it’s spar
 
 You might try out a first-draft statement like “I’m bothered by the fact that we’ve been fighting a lot,” and then sort of hold that statement up against the felt sense, just like holding a sketch up next to a photograph to see if they match. ==You’ll think of the sentence, and then turn your attention back to the tightness in your chest, and see if the tightness responds in any way.==
 
-![[Pasted image 20210128190133.png]]
-
 > “No, that’s not it.”
 
 From there, you can iterate and explore, following your sense of that was partially true—which part was most true?
 
 > “It’s more like—ugh—like I never know what to say? Or—no—it’s like I have to say the right things, or else.”
 
-![[Pasted image 20210128190148.png]]
-
 Hopefully, some part of the handle is more resonant with the felt sense, now that you’ve wiggled your way around a little—some part of it is a better match than before. And then you keep iterating, being sure to pause each time and leave space for the felt sense to respond. Remember, the goal is to listen, not to explain.
 
 > “It’s like—if I say the wrong thing, everything will fall apart? Because— because I’m the only one who’s trying to fix things, or something? Yeah—it’s like I’m the only one who’s willing to do the work—who’s willing to make sacrifices to keep the relationship healthy and strong.”
-
-![[Pasted image 20210128190201.png]]
 
 You get the idea. ==As the process continues, the handle grows more and more accurate, and evokes more and more of the underlying what’s-really- going-on. You’ll often feel a sort of click, or a release of pressure, or a deep rightness, once you say the thing that really completes the picture.==
 
@@ -143,15 +129,11 @@ And then, from among the items “on the shelf,” you can choose one that you w
 
 Or maybe, having gotten out all the tangible problems, there remains some sensation that you have no explanation for. Having created space for it, you can now sit with it and see what it has to say.
 
-![[Pasted image 20210128190524.png]]
-
 #### Get physically comfortable
 The Focusing technique depends on you being able to attend to your physiological sensations, and also to do so with some degree of lightness. ==If you’re physically uncomfortable, you’re likely to end up either distracted== (by e.g. a pain in your back) or with too much weight on your felt sense, as you brute-force your attention into place.
 
 #### Don’t “focus”
 ==The Focusing technique doesn’t mean focusing in the sense of “target your attention deliberately and with a lot of effort,” as in “stop daydreaming and focus!”== Instead, it means something more like turning the knob on a microscope or a pair of binoculars—there’s something that you can see or sense, but only ==indistinctly, and the mental motion is one of gently bringing it into focus.==
-
-![[Pasted image 20210128190645.png]]
 
 #### Hold space
 Remember, Focusing is a receptive technique. Often, the back-and-forth between felt sense and handle will contain long stretches of silence—sometimes thirty seconds or more. Don’t push to go super fast, and don’t expect immediate clarity or staggering revelations. ==Just listen, and feel, and try to hold space for whatever might float up.==
@@ -176,31 +158,21 @@ This one is important. Frequently, first-time Focusers will dive right into a la
 
 In cases like this, you can end up subject to the emotions and your expe- rience of whatever’s going on, rather than being able to take them as object. They can fill your vision and be somewhat overwhelming.
 
-![[Pasted image 20210128190958.png]]
-
 ==The first piece of advice in this domain is simply “give yourself permission to not dive in too deep.”== Simply reminding yourself that there are boundaries, and that you’re not required to climb down into the pit of despair, is often enough.
 
 ==If you do find yourself drawn toward something large and scary, though, or if you find yourself slipping in despite your best efforts, we recommend doing something like going meta.==
 
 Let’s say you were in the middle of Focusing, and your current felt sense has a handle like “slumped and defeated.” You haven’t yet figured out what the slumped and defeated is about, and you were just about to start asking.
 
-![[Pasted image 20210128191156.png]]
-
 But you’re worried that might be too intense. ==What you can do instead is ask yourself how you feel about your sense that you feel slumped and defeated. When you hold that story in your mind, what’s your reaction to it? What does it feel like, to look at yourself and see “slumped and defeated”?==
 
 Perhaps your reaction to that is “sad.” You don’t like being in a slumped and defeated state, and so noticing that you are produces sadness.
 
-![[Pasted image 20210128191225.png]]
-
 If you check how you feel about that—==if you ask yourself “what’s it like to feel sad about feeling slumped?”==—you may find something like squidginess or uncertainty. You may be unsure whether it’s good or bad to feel sad about feeling slumped.
-
-![[Pasted image 20210128191244.png]]
 
 ==And if you check how you feel about the squidginess, you may finally reach a state of something like neutrality or equanimity or okay-ness==. It seems “fine” to feel uncertain about feeling sad about feeling slumped. The loop has sort of bottomed out, and from that perspective you can see all of the things without being subject to any of them. You’re no longer blended with the parts of you that are in thrall to the emotion; you’re now outside of them, or larger than them, and able to dialogue with them, and that’s a good place from which to do Focusing.
 
 ==Another way to create space in a similarly useful fashion is to simply restate a feeling two or three times, with increasing awareness and metacognitive distance each time.== So, for instance, the word “rage” might become “I’m feeling rage,” and then “something in me is feeling rage,” and then “I’m sensing that something in me is feeling rage.” The slow backing-out from this is me to this is something I’m noticing can go a long way toward allowing you to engage with deep or heavy feelings without getting lost in them or overwhelmed by them.
-
-![[Pasted image 20210128191408.png]]
 
 ---
 

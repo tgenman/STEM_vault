@@ -3,7 +3,7 @@ aliases: [Бернард Больцано]
 tags: мета/человек👤
 ---
 links: -
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

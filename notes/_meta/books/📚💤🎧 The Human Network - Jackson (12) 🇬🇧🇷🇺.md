@@ -11,7 +11,7 @@ recommendation: "[[👤 Торопов, Никита Игоревич]]"
 title_original: "The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors"
 title_rus: Человеческие сети. Как социальное положение влияет на наши возможности, взгляды и поведение
 ---
-author: [[👤 Jackson, Matthew O.]]
+author: Jackson, Matthew O.
 year: 
 
 

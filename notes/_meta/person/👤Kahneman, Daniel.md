@@ -4,7 +4,7 @@ tags: мета/человек👤/писатель✏️
 publish: true
 ---
 links: 👤Tversky, Amos
-profession: , [[Scientist]], [[Психотерапевт|Психолог]]
+profession: Scientist, Психолог
 rec:
 city: 
 university: 

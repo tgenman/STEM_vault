@@ -4,7 +4,7 @@ tags: мета/книга📚
 links: [[330 Economy MOC]] [[Бизнес]]  [[Важность сотрудничества]], [[Wikipedia]]
 title: Wikinomics: How Mass Collaboration Changes Everything
 title2: Викиномика. Как массовое сотрудничество изменяет всё
-author: [[👤Tapscott, Don]], [[persons/👤Williams, Anthony D.]]
+author: Tapscott, Don, Williams, Anthony D.
 rec:
 status: #гтд/статус/когда-нибудь🌰
 family:

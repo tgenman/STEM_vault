@@ -3,7 +3,7 @@ aliases: [David Deutsch, Дэвид Дойч]
 tags: мета/человек👤/писатель✏️
 ---
 links:
-profession: [[Физик]], 
+profession: Физик
 rec:
 city: 
 university: 

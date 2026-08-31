@@ -4,9 +4,9 @@ tags: мета/книга📚/аудиокнига🎧
 links: [[004. 8 AI MOC]], [[GAI]], [[Научно-популярная литература]], [[Футурология]]
 title: Life 3.0—возможные варианты развития Artificial General Intelligence
 author: [[👤Tegmark, Max]]
-recom: [[👤Замесин, Иван]]
+recom: Замесин, Иван
 status: #гтд/статус/готово🌳
-family: [[📚📚 Серия книг «Элементы (Corpus)»]]
+family: Серия книг «Элементы (Corpus)»
 
 ---
 
@@ -16,8 +16,6 @@ family: [[📚📚 Серия книг «Элементы (Corpus)»]]
 
 Закон мура может действовать ещё 200 лет. Верхний предел ещё 10 в 33 степени
 
-![[Pasted image 20210308211501.png]]
-![[Pasted image 20210308211451.png]]
 
 
 # Life 3.0—возможные варианты развития Artificial General Intelligence

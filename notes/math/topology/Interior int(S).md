@@ -42,7 +42,7 @@ tags:
 
 A set $U$ is [[Open set|open]] if and only if $U = \text{int}(U)$.
 
-![[Relative Interior relint(S)#Difference between interior and relative interior]]
+![[Relative Interior relint(S)#Difference between Interior and Relative Interior]]
 
 # Anki
 

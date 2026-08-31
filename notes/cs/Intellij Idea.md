@@ -25,4 +25,3 @@ JavaRush][https://www.youtube.com/watch?v=vQksLDvacTo&index=13&list=PLawfWYMUziZ
 
 ## Интеграция с Jira
 shift+alt+N
-![[Шаблон_генерации_сообщений_комитов_для_связки_с_j_9af245e7ebf1.pdf]]

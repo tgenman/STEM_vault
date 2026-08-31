@@ -3,7 +3,7 @@ aliases: [Rudolf Taschner, Рудольф Ташнер]
 tags: мета/человек👤/писатель✏️
 ---
 links:
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

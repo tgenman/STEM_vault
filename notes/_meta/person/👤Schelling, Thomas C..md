@@ -3,7 +3,7 @@ aliases: [Thomas C. Schelling, Томас Шеллинг]
 tags: мета/человек👤/писатель✏️
 ---
 links:
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

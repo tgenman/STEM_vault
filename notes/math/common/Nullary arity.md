@@ -19,7 +19,7 @@ For a function $f$, if it takes no arguments, we say it has arity 0 or is nullar
 # Types and Examples
 
 ## Nullary Operation
-![[Nullary Operation#Examples]]
+![[Nullary Operation#Examples:]]
 
 ## Nullary Relation
 ![[Nullary Relation#Examples]]
@@ -48,5 +48,4 @@ FRONT: A property of a function, operation, or relation that takes zero argument
 BACK: Nullary arity
 ID: 1747745634730
 END 
-
 

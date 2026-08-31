@@ -7,7 +7,7 @@ connected:
   - "[[510.22 Set theory]]"
 ---
 links: [[510.22 Set theory]], [[16 Logic]]
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

@@ -3,7 +3,7 @@ aliases: [Blaise Pascal, Блез Паскаль]
 tags: мета/человек👤
 ---
 links:
-profession: [[Математик]], [[Физик]]
+profession: Математик, Физик
 rec:
 city: 
 university: 

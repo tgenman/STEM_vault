@@ -10,7 +10,7 @@ parent:
 links: [[Теория хаоса]]
 title: Taming the Infinite: The Story of Mathematics from the First Numbers to Chaos Theory
 title2: Укрощение бесконечности. История математики от первых чисел до теории хаоса
-author: [[👤 Stewart, Ian]]
+author: Stewart, Ian
 year: 2007
 
 ---

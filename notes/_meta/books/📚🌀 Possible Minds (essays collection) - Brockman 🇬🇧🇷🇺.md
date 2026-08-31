@@ -5,7 +5,7 @@ status: #гтд/статус/когда-нибудь🌰
 links: [[GAI]], [[004. 8 AI MOC]]
 title: Possible Minds: Twenty-Five Ways of Looking at AI
 title2: Искусственный интеллект – надежды и опасения
-author: [[👤Brockman, John|John Brockman]]
+author: John Brockman
 year: 2019
 family:
 rec:

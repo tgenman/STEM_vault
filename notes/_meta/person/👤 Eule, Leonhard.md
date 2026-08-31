@@ -3,7 +3,7 @@ aliases: [Леонард Эйлер, Эйлер]
 tags: мета/человек👤
 ---
 links: -
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

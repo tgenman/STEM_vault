@@ -3,7 +3,7 @@ aliases: [David Hilbert, Давид Гильберт]
 tags: мета/человек👤
 ---
 links:
-profession: [[Математик]]
+profession: Математик
 rec:
 city: 
 university: 

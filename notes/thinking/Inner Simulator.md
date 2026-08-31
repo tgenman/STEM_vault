@@ -31,11 +31,7 @@ links: [[CFAR]]
 Epistemic status: Firm
 _The concepts underlying the Inner Simulator model (and the related practical technique of [[Murphyjitsu]]) are well-known and well-researched, including [[👤Kahneman, Daniel|Kahneman]]’s S1/S2, mental simulation, and mental contrasting. Similarly, the problems that this unit seeks to address (such as [[Optimism bias]] and the [[Planning Fallacy]]) have been studied in detail. There is some academic support for specific substeps of Mur- phyjitsu (e.g. prospective hindsight), and strong anecdotal support (but no formal research) for the overall technique, which was developed through iterated experimentation and critical feedback. See the Further Resources section for more discussion._
 
-![[Pasted image 20210128173701.png]]
-
 When you move to catch a falling pen, or notice that your friend is upset just by the way they entered the room, you’re using your inner simulator. It’s a different sort of processing from the explicit/verbal stuff we usually call “thinking,” and it results in a very different kind of output.
-
-![[Pasted image 20210128173756.png]]
 
 ==Each of us carries around a rich, complex model of the universe in our head, assembled from a lifetime of experiences and memories. ==We don’t have28to think about how to catch a falling pen, because our inner simulator knows how falling objects move. Similarly, it knows what facial expressions mean, what it’s like to drive from home to work, and what sorts of things tend to go wrong given a set of circumstances. It’s a powerful tool, and ==learning how to access it and when to trust it is one of the first steps to becoming a whole-brain thinker.==
 
@@ -44,8 +40,6 @@ When you move to catch a falling pen, or notice that your friend is upset just b
 ==In a sense, it’s your job to balance the competing recommendations from all of these different advisors to arrive at the best possible decision. ==Your inner sim, for example, provides feedback extremely quickly and is good at any type of task where you have lots of experience to draw on, but tends to fall prey to framing effects and will sometimes sneakily substitute an easy question for a harder one. Your explicit verbal models, on the other hand, are great for abstractions and comparisons (such as noticing that $1/day$350/year), but are slow and vulnerable to wishful thinking and ideological distortions. (In some situations, neither of these advisors is sufficient. Imagine someone who’s never driven on ice before starting to skid—their inner sim will likely “tell” them to slam on the brakes before their explicit verbal models has time to offer up the sentence don’t slam on the brakes when you’re skidding on ice. Yet leaving those slooooooooow verbal models in control of the driving process is a terrible idea in its own right, like trying to catch a ball by first explicitly calculating its trajectory according to physics equations.)
 
 ==You can think of your inner sim as a black box that’s capable of performing a few specific functions, given certain input.== It’s very, very good at doing those functions, and not so great with most other things (for instance, inner sim is terrible at understanding large numbers, and causes us to donate the same amount of money to save 8,000 or 800,000 hypothetical birds from oil spills). But if you need a particular kind of reality check, it helps to know which parts of reality inner sim sees most clearly.
-
-![[Pasted image 20210128174225.png]]
 
 ## Prompts for your inner sim
 

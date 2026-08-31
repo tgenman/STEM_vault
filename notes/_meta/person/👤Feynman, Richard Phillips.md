@@ -3,7 +3,7 @@ aliases: [Richard Phillips Feynman, Richard Feynman, Feynman, Ричард Фе�
 tags: мета/человек👤
 ---
 links:
-profession: [[Физик]]
+profession: Физик
 rec:
 city: 
 university: 

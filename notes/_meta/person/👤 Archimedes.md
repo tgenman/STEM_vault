@@ -3,7 +3,7 @@ aliases: [Архимед]
 tags: мета/человек👤
 ---
 links: 
-profession: [[Scientist|Ученый]], [[Инженер]]
+profession: Ученый, Инженер
 rec:
 city: 
 university: 

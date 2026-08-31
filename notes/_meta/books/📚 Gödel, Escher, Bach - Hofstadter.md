@@ -10,10 +10,10 @@ connected:
 links: [[Математическое мышление]], [[Rationality]]
 title: Gödel, Escher, Bach: An Eternal Golden Braid
 title2: Гедель, Эшер и Бах
-author: [[👤Hofstadter, Douglas R.]]
+author: Hofstadter, Douglas R.
 year: 1979
 family:
-recom: [[📚🌳 Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺]], [[👤Yudkowsky, Eliezer]], [[👤Deutsch, David|Дэвид Дойч]]
+recom: Harry Potter and the Methods of Rationality - Yudkowsky 🇬🇧🇷🇺, [[👤Yudkowsky, Eliezer]], [[👤Deutsch, David|Дэвид Дойч]]
 
 ---
 
