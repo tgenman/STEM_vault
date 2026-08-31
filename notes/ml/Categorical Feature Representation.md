@@ -17,4 +17,4 @@ Methods for processing categorical data that do not have a natural numerical for
 - **Ordinal Encoding**: Encodes ordered categories as integers.
 - **Count Encoding**: Uses the count of each category in the dataset.
 - **Probability Ratio Encoding**: Encodes categories based on the ratio of positive to negative outcomes.
-- [[Embeddings]]
+- Embeddings

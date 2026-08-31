@@ -14,12 +14,12 @@ tags:
 
 
 Theoretical minima:
-1. [[1 Markov decision process and its properties. Reward, discounted reward.]]
-2. [[2 What is a Q-function and a Value-function? Relationship between them]]
-3. [[3 How can RL be applied to NLP or CV tasks?]]
-4. [[4 Exploration-exploitation tradeoff]]
-5. [[5 Value-based vs. Policy based methods (general idea)]]
-6. [[6 What is the difference between model-based and model-free RL?]]
+1. Markov decision process and its properties. Reward, discounted reward.
+2. What is a Q-function and a Value-function? Relationship between them
+3. How can RL be applied to NLP or CV tasks?
+4. Exploration-exploitation tradeoff
+5. Value-based vs. Policy based methods (general idea)
+6. What is the difference between model-based and model-free RL?
 
 Exam program:
 7. Cross-entropy method (tabular and approximate case).
@@ -44,30 +44,30 @@ Exam program:
 
 
 
-- [[Agent (RL)]] + [[Environment (RL)]] = [[Agent and Environment]]
-- [[Observation (RL)]]
-- [[Action (RL)]]
-- [[Reward function]]
+- Agent (RL) + Environment (RL) = Agent and Environment
+- Observation (RL)
+- Action (RL)
+- Reward function
 
-- [[State (RL)]]
-    - [[History (RL)]]
+- State (RL)
+    - History (RL)
 
-- [[State (RL)]]
-    - [[Environment State]]
-    - [[Agent State]]
-    - [[Markov state]]
+- State (RL)
+    - Environment State
+    - Agent State
+    - Markov state
 
-- [[Policy (RL)]]
+- Policy (RL)
 
 - Examples
-    - [[Rat Example]]
-    - [[Maze Example]]
-    - [[Gridworld Example]]
-    - [[Atari Example]]
+    - Rat Example
+    - Maze Example
+    - Gridworld Example
+    - Atari Example
 
 
-- [[Fully Observable Environments]]
-- [[Partially Observable Environments]]
+- Fully Observable Environments
+- Partially Observable Environments
 
 
 
@@ -75,9 +75,9 @@ Exam program:
 
 #### Major Components of an RL Agent
 - An RL agent may include one or more of these components:
-    -  [[Policy (RL)]]] : agent’s behaviour function
-    - [[V-function (RL)]]: how good is each state and/or action
-    - [[Model (RL)]]: agent’s representation of the environment
+    - Policy (RL): agent’s behaviour function
+    - V-function (RL): how good is each state and/or action
+    - Model (RL): agent’s representation of the environment
 
 
 
@@ -142,5 +142,4 @@ Two fundamental problems in sequential decision making:
 DQN, 
 [A3C](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2), 
 [Генетический Алгоритм](https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC)
-
 

@@ -14,7 +14,7 @@ links: [[CFAR]], [[Instrumental rationality]], [[Internal Double Crux|Внутр
 
 ## [[CFAR]]
 ### Epistemic status: Firm
-_The Focusing technique was developed by [[👤Gendlin, Eugene T.|Eugene Gendlin]] as an attempt to answer the question of why some therapeutic patients make significant progress while others do not. [[👤Gendlin, Eugene T.|Gendlin]] studied a large number of cases while teasing out the dynamics that became Focusing, and then spent a significant amount of time investigating whether his techniqueified version was functional and efficacious. While the CFAR version is not the complete Focusing technique, we have seen it be useful for many alumni._
+_The Focusing technique was developed by Eugene Gendlin as an attempt to answer the question of why some therapeutic patients make significant progress while others do not. Gendlin studied a large number of cases while teasing out the dynamics that became Focusing, and then spent a significant amount of time investigating whether his techniqueified version was functional and efficacious. While the CFAR version is not the complete Focusing technique, we have seen it be useful for many alumni._
 
 If you’ve ever felt your throat go suddenly dry when a conversation turned south, or broken out into a sweat when you considered doing something scary, or noticed yourself tensing up when someone walked into the room, or felt a sinking feeling in the pit of your stomach as you thought about your upcoming schedule and obligations, or experienced a lightness in your chest as you thought about your best friend’s upcoming visit, or or or or...
 
@@ -32,7 +32,7 @@ The way this process works is by interfacing with your felt senses. Butterflies 
 
 We’ll get more into the actual nuts and bolts of the technique in a minute, but first it’s ==worth emphasizing that Focusing is a receptive technique.==
 
-==When [[👤Gendlin, Eugene T.|Eugene Gendlin]] was first developing Focusing, he noticed that the patients who tended to make progress were making lots of uncertain noises during their sessions. They would hem and haw and hesitate and correct themselves and slowly iterate toward a statement they could actually endorse:==
+==When Eugene Gendlin was first developing Focusing, he noticed that the patients who tended to make progress were making lots of uncertain noises during their sessions. They would hem and haw and hesitate and correct themselves and slowly iterate toward a statement they could actually endorse:==
 
 > “I had a fight with my mother last week. Or—well—it wasn’t exactly a fight, I guess? I mean—ehhhhhhh—well, we were definitely shout- ing at the end, and I’m pretty sure she’s mad at me. It was about the dishes—or at least—well, it started about the dishes, but then it turned into—I think she feels like I don’t respect her, or something? Ugh, that’s not quite right, I’m pretty sure she knows I respect her. It’s like—hmmmmm—more like there are things she wants—she ex- pects—she thinks I should do, just because—because of, I dunno, like tradition and filial piety, or something?”
 
@@ -40,9 +40,9 @@ We’ll get more into the actual nuts and bolts of the technique in a minute, bu
 
 > “Okay, so, I had another fight with my mother last week; she contin- ues to make a lot of demands that are unreasonable and insists on pretending like she can decode my actions into some kind of hidden motive, like the dishes thing secretly means I don’t respect and ap- preciate everything she’s done for me. It’s frustrating, because that relationship is important to me, but she’s making it so that the only way I can maintain it is through actions I feel like I shouldn’t have to take.”
 
-According to [[👤Gendlin, Eugene T.|Gendlin]], ==this effect was the dominant factor in patient outlook—more important than the type of therapy, or the magnitude of the problem, or the skill and experience of the therapist.==
+According to Gendlin, ==this effect was the dominant factor in patient outlook—more important than the type of therapy, or the magnitude of the problem, or the skill and experience of the therapist.==
 
-[[👤Gendlin, Eugene T.|Gendlin]] posited that patients ==found value in this tip-of-the-tongue pro- cess because they were spending time at what he called “the edge”—the fuzzy boundary between implicit and explicit, between “already known” and “not yet known,” between pre-verbal and verbal.== If (as is often the case for patients in therapy) one’s goal is increased awareness and clarity with regard to complex issues, spending time in the already-known areas is not very useful. The juicy stuff, the new insight and knowledge, comes from gently approaching that edge, being willing to sit with the vague and not-yet-clear, and patiently waiting as things materialize.
+Gendlin posited that patients ==found value in this tip-of-the-tongue pro- cess because they were spending time at what he called “the edge”—the fuzzy boundary between implicit and explicit, between “already known” and “not yet known,” between pre-verbal and verbal.== If (as is often the case for patients in therapy) one’s goal is increased awareness and clarity with regard to complex issues, spending time in the already-known areas is not very useful. The juicy stuff, the new insight and knowledge, comes from gently approaching that edge, being willing to sit with the vague and not-yet-clear, and patiently waiting as things materialize.
 
 ==From the use-your-whole-brain perspective that CFAR tends to take, it makes sense that the latter patient—the one with a strong set of preconceptions— would be less likely to make progress than the former.== The latter patient is using their [[System 2]] explicit reasoning to make sense of the situation—and they’re using only their [[System 2]]. They have a top-down narrative explana- tion for everything that’s happening, and that top-down narrative is drowning out contrary evidence and subtle signals and anything that doesn’t fit the party line.
 
@@ -73,7 +73,7 @@ A sketch, on the other hand, is compressed. It can be evocative, but it’s spar
 
 ==Yet a sketch can nevertheless be more or less accurate. It can be a good fit for the photograph—a true match. You could have a sketch of very high quality that just isn’t the same face.==
 
-==It’s that sense of correspondence that we’re looking for, when we do Focusing.== [[👤Gendlin, Eugene T.|Gendlin]] often uses the word ==resonance—does the word or phrase that you just used resonate with the felt sense?== Are they a good match for each other?
+==It’s that sense of correspondence that we’re looking for, when we do Focusing.== Gendlin often uses the word ==resonance—does the word or phrase that you just used resonate with the felt sense?== Are they a good match for each other?
 
 ==Often, your first attempt at a handle will not resonate at all==. Let’s imagine that you’re focusing on something that’s been bothering you about your relationship with your romantic partner, and this has manifested itself in a felt sense of hot, slightly nauseous tightness in your chest.
 
@@ -93,7 +93,7 @@ You get the idea. ==As the process continues, the handle grows more and more acc
 
 (Note that “completes” is actually a bit of an overstatement—it’s often the case that you don’t get a full picture of something like an entire face, but that instead you get a lot of clarity on one or more parts. In our metaphor, this would be something like, you traced the jawline and one eyebrow and nothing else, but you really got an accurate sense of that jawline and that eyebrow, and that produces a click on its own.)
 
-==[[👤Gendlin, Eugene T.|Gendlin]] makes the point that the felt sense will often change—or vanish— once you’ve uncovered a good handle.== It’s as if there was a part of you that was trying to send up a red flag via a physiological sensation—as long as your [[System 2]] hasn’t got the message yet, that sensation is going to continue to occur. Once the message is accurately received, though, and your [[System 2]] can write a poem that captures what that part of you was really trying to say, there’s often a relaxing, opening-up sort of feeling. The alert is no longer necessary, because the problem is no longer unrecognized or unacknowledged or unclear.
+==Gendlin makes the point that the felt sense will often change—or vanish— once you’ve uncovered a good handle.== It’s as if there was a part of you that was trying to send up a red flag via a physiological sensation—as long as your [[System 2]] hasn’t got the message yet, that sensation is going to continue to occur. Once the message is accurately received, though, and your [[System 2]] can write a poem that captures what that part of you was really trying to say, there’s often a relaxing, opening-up sort of feeling. The alert is no longer necessary, because the problem is no longer unrecognized or unacknowledged or unclear.
 
 ---
 
@@ -198,7 +198,7 @@ If you check how you feel about that—==if you ask yourself “what’s it like
 ---
 
 ## Focusing—Further Resources
-[[📚 Focusing - Gendeling]]
+📚 Focusing - Gendeling
 
 ---
 

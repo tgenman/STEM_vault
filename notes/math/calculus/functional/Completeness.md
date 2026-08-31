@@ -10,4 +10,4 @@ tags:
   - fix/linking
 ---
 
-[[Критерий Коши]]  ([[Cauchy sequence]] ) - Критерий полноты      
+[[Критерий Коши]] (Cauchy sequence) — критерий полноты

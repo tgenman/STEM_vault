@@ -1,7 +1,7 @@
 ---
 tags: content/summary
 ---
-links: [[Лекция]], [[🗑Garbage Collection]]
+links: Лекция, 🗑Garbage Collection
 
 ---
 

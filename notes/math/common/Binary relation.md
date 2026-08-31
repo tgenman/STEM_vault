@@ -19,8 +19,8 @@ tags:
 
 
 Примеры:
-- **[[Равенство]]**: $(x, y) \in \mathcal{R} \iff x = y$.
-- **[[Неравенство]]**: $(x, y) \in \mathcal{R} \iff x \leq y$.
+- **Равенство**: $(x, y) \in \mathcal{R} \iff x = y$.
+- **Неравенство**: $(x, y) \in \mathcal{R} \iff x \leq y$.
 - [[Symmetry]]: $(x, y) \in \mathcal{R} \implies (y, x) \in \mathcal{R}$.
 
 **Свойства бинарного отношения:**

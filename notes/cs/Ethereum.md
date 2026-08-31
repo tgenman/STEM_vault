@@ -1,7 +1,7 @@
 ---
 aliases: [Эфир]
 ---
-links: [[Blockchain]], [[Ethereum|Эфир]], [[Криптовалюты]]
+links: [[Blockchain]], [[Ethereum|Эфир]], Криптовалюты
 
 ---
 

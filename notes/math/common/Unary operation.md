@@ -34,7 +34,7 @@ Some unary operations may have the following special properties:
 - **[[Idempotence]]**: Operation $f$ is idempotent if $f(f(a)) = f(a)$ for all $a \in \mathcal{A}$
 - **[[Involution]]**: Operation $f$ is an involution if $f(f(a)) = a$ for all $a \in \mathcal{A}$
 
-Note: Only the [[Identity function|identity function]] $f(x) = x$ can be both idempotent and an involution simultaneously.
+Note: Only the identity function $f(x) = x$ can be both idempotent and an involution simultaneously.
 
 # Anki
 TARGET DECK: stem::math::common
@@ -77,7 +77,6 @@ BACK:
 Note: Only identity function can be both idempotent and involution
 ID: 1749048629932
 END
-
 
 
 

@@ -29,52 +29,52 @@ parent: []
 ---
 ### Различные подходы
 - [[Вычислительное мышление]]
-- [[Асинхронное программирование]]
+- Асинхронное программирование
 - [[Machine Learning MOC]]
 - [[Акторы]]
-- [[Quantum Computing]]
-- [[Архитектура компьютера]]
+- Quantum Computing
+- Архитектура компьютера
 ---
 ### Разное
-[[Раскладка клавиатуры]]
-[[VR рабочий стол]]
+Раскладка клавиатуры
+VR рабочий стол
 [[Testing]]
 [[Computer Science MOC]]
-[[ssh]]
+ssh
 
 [[Data Structures]]
 [[Databases MOC]]
 [[Functional programming]]
-[[Information security]]
-[[Робототехника]]
+Information security
+Робототехника
 [[Blockchain]]
-[[Networks]]
+Networks
 [[🧬Bioinformatic]]
 
 [[HTML]], [[CSS]]
 
 [[Latex]]
 
-[[🏛JetBrains Hyperskill]]
+🏛JetBrains Hyperskill
 
 [[CLI 1]]
 
-[[Облачные технологии]]
-[[Электронная почта]]
-[[Agile MOC]]
-[[IDE. Среды разработки]]
+Облачные технологии
+Электронная почта
+Agile MOC
+IDE. Среды разработки
 
-[[Vim]]
-[[Git MOC]]
-[[Скрипты]]
-[[Закон Амдала]]
+Vim
+Git MOC
+Скрипты
+Закон Амдала
 [[🎓🌀Мета программа Анализ данных. Stepik]]
-[[Домашнее облако]]
+Домашнее облако
 [[docker and kubernetes]]
-[[RegEx]]
+RegEx
 [[Compiler]]
-[[Профиль на GitHub]]
-[[Open Source]]
-[[Product Management]]
+Профиль на GitHub
+Open Source
+Product Management
 
-[[Клавиатура]]
+Клавиатура

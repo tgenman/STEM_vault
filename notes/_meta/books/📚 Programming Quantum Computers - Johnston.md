@@ -5,7 +5,7 @@ tags:
   - мета/книга📚
   - гтд/статус/когда-нибудь🌰
 ---
-links: [[Quantum Computing]], [[Квантовый компьютер]], [[51 Math MOC|Математика]]
+links: Quantum Computing, Квантовый компьютер, [[51 Math MOC|Математика]]
 recom: 
 title: Programming Quantum Computers. Essential Algorithms and Code Samples
 title2: Программирование квантовых компьютеров. Базовые алгоритмы и примеры кода

@@ -52,7 +52,7 @@ graph LR
 ## Applications
 
 1. **Convergence**: If $d(x_n, x) \to 0$ and $d(x_n, y) \to 0$, then $d(x,y) = 0$, so $x = y$
-2. **Continuity**: Triangle inequality helps prove continuity of [[Distance function|distance function]]
+2. **Continuity**: Triangle inequality helps prove continuity of distance function
 3. **[[519.853.3 Convex optimization MOC|Optimization]]**: Used in proving convergence of optimization algorithms
 
 ## Reverse Triangle Inequality

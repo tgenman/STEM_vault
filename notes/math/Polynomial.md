@@ -27,8 +27,7 @@ where
 **Connected with:**
 - [[Golden ratio (golden rectangle)]]
 - [[Factoring (math)]]
-- [[Квадратичная функция]]
+- Квадратичная функция
 -  [[Linear equations|Линейная функция]]
-
 
 

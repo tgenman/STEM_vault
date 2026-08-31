@@ -12,7 +12,7 @@ parent:
 ---
 - [[yandex course - ML (temp)]]
 
-- [[NLP]]
+- NLP
 - [[notes/_meta/moc/Computer Vision|CV]]
 - [[Reinforcement Learning|RL]]
 
@@ -54,10 +54,10 @@ $$ \| y - Xw \|_{2}^{2} \rightarrow \min_{w} $$
 [[Linear models]]
 [[Интерпретируемость]]
 
-[[Hyperparameter]]
+Hyperparameter
 Any quantity that you set before the training process .
 
-[[Parameter]]
+Parameter
 Any quantity that the model creates or modifies during the training process
 
 Cross-validation
@@ -88,7 +88,7 @@ regularization
 
 
 - [[Activation function]] активация нейрона. Вносит нелинейность
-    - [[Ступенчатая функция]] 
+    - Ступенчатая функция
     - [[Sigmoid function]]
 
 
@@ -142,8 +142,8 @@ regularization
         - [K-ближайших соседей](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_k-%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D1%85_%D1%81%D0%BE%D1%81%D0%B5%D0%B4%D0%B5%D0%B9) K-NN
         - [[Support Vector Machine (SVM)]]
     - [[Regression (machine learning)]] 
-        - [[Linear regression]]
-        - [[Polynomial regression]]
+        - Linear regression
+        - Polynomial regression
         - [[Linear and Polynomial Regression]]
         - Ridge-Lasso Regression
     - [[Ranking]]

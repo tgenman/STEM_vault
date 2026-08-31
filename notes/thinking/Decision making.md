@@ -5,6 +5,6 @@ links: [[Goal]]
 
 ---
 
-[[Управление рисками]]
+Управление рисками
 
-[[📚🌀 Rational Choice in an Uncertain World - Dawes 🇬🇧]]
+📚🌀 Rational Choice in an Uncertain World - Dawes 🇬🇧

@@ -1,9 +1,8 @@
 ---
 aliases: [Биткоин]
 ---
-links: [[Криптовалюты]], [[085 💰Finances]], [[Blockchain]], [[Ethereum|Эфир]]
+links: Криптовалюты, 085 💰Finances, [[Blockchain]], [[Ethereum|Эфир]]
 
 ---
 
-[[Unspent Transaction Output]]
-
+Unspent Transaction Output

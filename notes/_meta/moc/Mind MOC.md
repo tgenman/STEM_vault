@@ -2,7 +2,7 @@
 aliases: [Разум, Интеллект]
 tags: content/moc
 ---
-links:  [[000 🗄Index]]
+links:  000 🗄Index
 
 ---
 

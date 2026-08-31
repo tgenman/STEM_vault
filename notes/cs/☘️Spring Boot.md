@@ -5,9 +5,9 @@ links: [[004.432.2 ☕️ Java MOC]]
 
 ---
 
-[[📚🌀 Spring Boot in Action - Walls 🇬🇧]]
+📚🌀 Spring Boot in Action - Walls 🇬🇧
 
-[Hyperskill Knowledge Map](https://hyperskill.org/knowledge-map) [[🏛JetBrains Hyperskill]]
+[Hyperskill Knowledge Map](https://hyperskill.org/knowledge-map) 🏛JetBrains Hyperskill
 
 ---
 - Spring Boot the Reaper 51[https://www.youtube.com/watch?v=zEdHFXr9D9Y](https://www.youtube.com/watch?v=zEdHFXr9D9Y)

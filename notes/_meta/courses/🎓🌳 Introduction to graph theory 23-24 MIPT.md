@@ -75,7 +75,7 @@ connected:
             - [x] 3.14, ✅ 2024-03-15
         - BM: 
             - [ ] 5.2.5 
-[[Introduction to graph theory. HW 5. ]]
+Introduction to graph theory. HW 5.
 
 
 
@@ -91,7 +91,7 @@ connected:
         - BM: 
             - [ ] 9.1.2, 
             - [ ] 9.1.3(b) 
-[[Introduction to graph theory. HW 6]]
+Introduction to graph theory. HW 6
 
 Topic 7. Hamiltonian Graphs.
 Reading: CLZ: 6.2

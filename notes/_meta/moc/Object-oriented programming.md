@@ -6,51 +6,51 @@ links: [[004.41 Software Development MOC|Разработка ПО]]
 
 ---
 
-[[Абстракция (ПО)]], [[Абстрактный тип данных]]
-[[Implementation|Реализация]]
-[[Override|Переопределение]]
+Абстракция (ПО), Абстрактный тип данных
+Реализация
+Переопределение
 
-[[Interface (software)]]
+Interface (software)
 
-[[Class (software)]]
-    [[Data class|Дата класс]]
+Class (software)
+    Дата класс
 
     
-[[Object (software)]]
-    [[Class data|Данные класса]]
-    [[Object Fields|Поля объекта]]
-    [[Object Method|Методы объекта]]
+Object (software)
+    Данные класса
+    Поля объекта
+    Методы объекта
     
-[[Method (software)|Метод]]
-    [[Getter and Setter]]
-[[Constructor]]
+Метод
+    Getter and Setter
+Constructor
 
 Принципы ООП:
-- [[Encapsulation (software)]]
-- [[Polymorphism (software)]]
-- [[Inheritance (Software)]]
-    - [[Parent class]]
-    - [[Child class]]
+- Encapsulation (software)
+- Polymorphism (software)
+- Inheritance (Software)
+    - Parent class
+    - Child class
 
 
-[[Containment|Включения]]
+Включения
 
-[[SOLID principles]]
-[[Law of Demeter]]
+SOLID principles
+Law of Demeter
 
-[[Cohesion]]
-[[Coupling]]
+Cohesion
+Coupling
 
-[[Программирование сквозь интерфейс]]
+Программирование сквозь интерфейс
 
 
 
-[[Сигнатура метода]]
-[[Data type (software)|Тип данных]]
+Сигнатура метода
+Тип данных
 
-[[Access modifier 1|Модификатор доступа]]
-    [[Private access (software)|Закрытый доступ]]
-    [[Protected access (software)]]
-    [[Publict access (software)]]
+Модификатор доступа
+    Закрытый доступ
+    Protected access (software)
+    Publict access (software)
     
-[[Global data]]
+Global data

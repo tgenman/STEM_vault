@@ -1,7 +1,7 @@
 ---
 aliases: [Блокчейн]
 ---
-links: [[Криптовалюты]]
+links: Криптовалюты
 
 ---
 
@@ -10,10 +10,10 @@ links: [[Криптовалюты]]
 [[Solana]]
 
 
-[[🎓⏹ Введение в блокчейн-технологии на базе платформы Ethereum - Степик]]
+🎓⏹ Введение в блокчейн-технологии на базе платформы Ethereum - Степик
 
 
-[[DeFi]]
+DeFi
 
 - Курс по криптовалютам от Стэнфорда [https://www.coursera.org/learn/cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
 - Визуальное объяснение блокчейна [http://blockchaindemo.io/](http://blockchaindemo.io/)
@@ -36,7 +36,7 @@ Transactions bring about transfer of value in Bitcoin Blockchain. The concept UT
 
 Once a block is verified and algorithmically agreed by the miners, it is added to the chain of blocks, viz., the blockchain.
 
-An [[Unspent Transaction Output]]  can be spent as an input in a new transaction.
+An Unspent Transaction Output  can be spent as an input in a new transaction.
 
 The main operations in a blockchain are transaction validation and block creation with the consensus of the participants. Yet, there are many underlying implicit operations, as well.
 

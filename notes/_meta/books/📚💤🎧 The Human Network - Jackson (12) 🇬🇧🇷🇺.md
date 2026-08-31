@@ -28,4 +28,4 @@ https://www.litres.ru/metu-o-dzhekson/chelovecheskie-seti-kak-socialnoe-polozhen
 ---
 
 
-[[Парадокс дружбы]]
+Парадокс дружбы

@@ -1,7 +1,7 @@
 ---
 aliases: [Забор Честертона]
 ---
-links: [[Philosophy]], [[Rationality|Рациональность]]
+links: Philosophy, [[Rationality|Рациональность]]
 
 ---
 

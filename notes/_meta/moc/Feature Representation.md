@@ -24,7 +24,7 @@ tags:
 ![[Text Feature Representation]]
 
 
-- **Time Series Representation** [[Time Series ML]]
+- **Time Series Representation** Time Series ML
   - Methods for analyzing sequential data over time:
     - **Lag Features**: Uses past values as features.
     - **Rolling Statistics**: Calculates moving averages, standard deviations, etc.
@@ -38,7 +38,7 @@ tags:
     - **Embeddings**: Converts images into dense vector representations (e.g., using deep learning models like CNNs).
     - **Color Histograms**: Analyzes color distribution in an image.
 
-- **Graph Feature Representation** [[Graph ML]]
+- **Graph Feature Representation** Graph ML
   - Methods for processing graph data:
     - **Adjacency Matrix**: Represents graphs as matrices showing node connections.
     - **Node Embeddings**: Converts graph nodes into vector representations (e.g., Node2Vec, GraphSAGE).

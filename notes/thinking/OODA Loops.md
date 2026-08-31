@@ -5,9 +5,9 @@ links: [[CFAR]]
 
 ---
 
-Цикл НОРД **O**bserve–**O**rient–**D**ecide–**A**ct «**н**аблюдение, **о**риентация, **р**ешение, **д**ействие»)— концепция, разработанная [[👤Boyd, John]] в 1995 году, также известная как «петля Бойда»
+Цикл НОРД **O**bserve–**O**rient–**D**ecide–**A**ct «**н**аблюдение, **о**риентация, **р**ешение, **д**ействие»)— концепция, разработанная 👤Boyd, John в 1995 году, также известная как «петля Бойда»
 
-United States Air Force Colonel [[👤Boyd, John]] was a fighter pilot and theorist who developed a model of decisionmaking called the OODA loop.
+United States Air Force Colonel 👤Boyd, John was a fighter pilot and theorist who developed a model of decisionmaking called the OODA loop.
 
 Essentially, Colonel Boyd’s theory was that people are constantly looping through the same four steps as they interact with their environment:
 

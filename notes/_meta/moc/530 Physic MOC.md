@@ -16,14 +16,14 @@ people: [[notes/_meta/person/👤Feynman, Richard Phillips]], [[👤Tegmark, Max
 [[Статистика Ферми - Дирака и запрет Паули]]
 
 
-[[📚⏹🎧Кратчайшая история времени - Хокинг, Млодинов (6)]]
+📚⏹🎧Кратчайшая история времени - Хокинг, Млодинов (6)
 [[📚 The Beginning of Infinity - Deutsch (21) 🇬🇧🇷🇺 — карта книги]]
-[[📚⏹🎧The Fabric of Reality - Deutsch (14) 🇬🇧🇷🇺]]
-[[📚🌀A Beautiful Question - Wilczek 🇬🇧🇷🇺]]
-[[📚🌀Приключения мистера Томпкинса - Гамов]]
-[[📚🌀The Order of Time - Rovelli]]
-[[📚🌀🎧Квантовый лабиринт - Халперн (12)]]
-[[📚🌀 Thinking Physics. Understandable Practical Reality - Epstein 🇬🇧🇷🇺]]
+📚⏹🎧The Fabric of Reality - Deutsch (14) 🇬🇧🇷🇺
+📚🌀A Beautiful Question - Wilczek 🇬🇧🇷🇺
+📚🌀Приключения мистера Томпкинса - Гамов
+📚🌀The Order of Time - Rovelli
+📚🌀🎧Квантовый лабиринт - Халперн (12)
+📚🌀 Thinking Physics. Understandable Practical Reality - Epstein 🇬🇧🇷🇺
 
 [[Вопросы к лекциям Фейнмана]]
 

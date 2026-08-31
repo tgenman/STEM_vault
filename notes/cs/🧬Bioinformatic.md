@@ -1,7 +1,7 @@
 ---
 aliases: [Биоинформатика]
 ---
-links: [[004 IT MOC]], [[570 🌱Biology MOC]], [[Computer Science MOC]], [[600 🧬Biotechnology]]
+links: [[004 IT MOC]], 570 🌱Biology MOC, [[Computer Science MOC]], 600 🧬Biotechnology
 
 ---
 
@@ -9,7 +9,7 @@ links: [[004 IT MOC]], [[570 🌱Biology MOC]], [[Computer Science MOC]], [[600 
 
 
 ### Курсы
-[[🎓🌀Введение в биоинформатику. Метагеномика. СПбГУ. Stepik]]
+🎓🌀Введение в биоинформатику. Метагеномика. СПбГУ. Stepik
 
 обучением биоинформатике https://blastim.ru/  
 * Дофигища лекций по биоинформатике [https://geektimes.ru/post/289173/](https://geektimes.ru/post/289173/)

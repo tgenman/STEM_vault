@@ -64,7 +64,7 @@ So, if $z$ has a [[Magnitude of a complex number|magnitude]]  of $∣z∣$ and a
 
 
 
-[[🎓🌳 Imaginary Numbers are Real - youtube]]
+🎓🌳 Imaginary Numbers are Real - youtube
 
 
 

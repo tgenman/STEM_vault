@@ -45,7 +45,7 @@ The [[Heine-Borel theorem]] provides a **complete characterization** of [[Compac
 ### Reverse Direction ($\Leftarrow$): Closed + Bounded $\Rightarrow$ Compact
 
 This is the deeper direction, typically proven using:
-- **[[Sequential compactness]]**: Every sequence has convergent subsequence
+- **Sequential compactness**: Every sequence has convergent subsequence
 - **Bolzano-Weierstrass theorem**: Bounded sequences have convergent subsequences
 - **Closed property**: Limits of convergent subsequences remain in the set
 

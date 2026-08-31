@@ -9,7 +9,7 @@ title_original: Flatland. A Romance of Many Dimensions
 parent:
   - "[[514 Geometry MOC]]"
 ---
-links: [[Фантастика (жанр) (неспецифичная)]]
+links: Фантастика (жанр) (неспецифичная)
 author: Abbott, Edwin Abbott
 year: 1884
 
