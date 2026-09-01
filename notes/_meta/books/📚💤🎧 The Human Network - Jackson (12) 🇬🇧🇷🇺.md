@@ -5,7 +5,7 @@ tags:
   - мета/книга📚/аудиокнига🎧
   - гтд/статус/пауза🌥️
 parent:
-  - "[[Social Network|Социальные сети]]"
+  - "[[Complex Networks MOC|Социальные сети]]"
   - "[[519.17 Graph Theory MOC]]"
 recommendation: "[[👤 Торопов, Никита Игоревич]]"
 title_original: "The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors"

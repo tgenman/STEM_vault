@@ -7,7 +7,7 @@ created: 2023-07-07 10:02
 connected:
   - "[[The additional principle (combinatorics)]]"
   - "[[The substraction principle (combinatorics)]]"
-  - "[[Product Rule of Probability]]"
+  - "[[The multiplication rule (conditional probability)|Product Rule of Probability]]"
 ---
 Suppose that $A_1,..., A_n$ are finite sets, $|A_i| = a_i$
 If $A = \{(x_1,...x_n): x_i \in A_i\}$,   then

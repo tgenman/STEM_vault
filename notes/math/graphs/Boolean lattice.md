@@ -5,8 +5,6 @@ created: 2023-12-16 23:15
 parent:
   - "[[519.17 Graph Theory MOC]]"
   - "[[510.22 Set theory]]"
-connected:
-  - "[[Boolean]]"
 ---
 
 > [!tip] The boolean lattice $BL_n$ ($n ≥ 1$) 
@@ -26,7 +24,6 @@ FORMULA: ![[Pasted image 20231216231553.png]]
 ADDITIONAL:
 ID: 1705260711041
 END
-
 
 
 

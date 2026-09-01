@@ -11,8 +11,8 @@ connected:
   - "[[Closed set]]"
   - "[[Bounded set]]"
   - "[[Metric space]]"
-  - "[[Open cover]]"
-  - "[[Sequential compactness]]"
+  - "[[open cover|Open cover]]"
+  - "[[sequential compactness|Sequential compactness]]"
 tags:
   - content/theorem
 ---

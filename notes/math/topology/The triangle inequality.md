@@ -9,7 +9,7 @@ parent:
   - "[[514 Geometry MOC]]"
 connected:
   - "[[Metric space]]"
-  - "[[Distance function]]"
+  - "[[Metric|Distance function]]"
   - "[[Norm of vector]]"
 tags:
   - content/theorem

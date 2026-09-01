@@ -3,8 +3,6 @@ aliases:
   - Уловка Галлилея
 parent:
   - "[[162.5 Logical Fallacies]]"
-connected:
-  - "[[👤Галлилей]]"
 ---
 Galileo gambit
 If someone is going against the tide of popular thinking, they must be right because the likes of Galileo were right.

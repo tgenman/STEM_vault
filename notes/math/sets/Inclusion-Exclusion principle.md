@@ -11,7 +11,7 @@ connected:
   - "[[519.101 Combinatorics MOC]]"
   - "[[Union of Sets (A U B)]]"
   - "[[Operations on sets]]"
-  - "[[Intersection]]"
+  - "[[Intersection of Sets (A ∩ B)|Intersection]]"
 tags:
 ---
 
@@ -73,4 +73,3 @@ FRONT: Inclusion-Exclusion Principle
 BACK: A counting technique for computing the cardinality of a union of sets using alternating sums of intersection cardinalities
 ID: 1747852031283
 END
-

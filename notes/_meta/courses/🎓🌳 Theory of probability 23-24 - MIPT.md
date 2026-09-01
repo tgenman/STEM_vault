@@ -3,15 +3,14 @@ tags:
   - гтд/курс🎓
   - гтд/статус/готово🌳
 author:
-  - "[[👤 Жуковский, Максим Евгеньевич]]"
+  - Жуковский, Максим Евгеньевич
 provider: "[[🏛МФТИ|MIPT]]"
-platform: "[[Stepik]]"
+platform: Stepik
 url: https://stepik.org/course/179060/info
 recommendation: 
 family: 
 connected:
   - "[[519.21  Probability theory|Probability theory]]"
-  - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-01 12:08
 ---
 control: диф зачет
@@ -74,4 +73,3 @@ control: диф зачет
 #### Bookmarks
 - [Youtube](https://www.youtube.com/playlist?list=PL51E_hyhGzZIUvhRodPlQ55uD02DoQp8I)
 - [программа (рус)](https://docs.google.com/document/d/1GHmJAWFkmRshm01t4d2rbwn4CCiU9wbI/edit)
-

@@ -4,7 +4,7 @@ aliases:
 parent:
   - "[[162.5 Logical Fallacies]]"
 connected:
-  - "[[бритва Оккама]]"
+  - "[[Occam's razor|бритва Оккама]]"
 ---
 Multiplication of entities
 Including more causes that are ultimately irrelevant.

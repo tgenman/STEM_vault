@@ -12,7 +12,7 @@ connected:
   - "[[Closed set]]"
   - "[[Bounded set]]"
   - "[[Heine-Borel theorem]]"
-  - "[[Open cover]]"
+  - "[[open cover|Open cover]]"
   - "[[Metric space]]"
 tags:
   - content/definition

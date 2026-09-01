@@ -12,7 +12,7 @@ connected:
   - "[[Closed set]]"
   - "[[Compact set]]"
   - "[[Continuous function]]"
-  - "[[Open cover]]"
+  - "[[open cover|Open cover]]"
 tags:
   - content/definition
 ---

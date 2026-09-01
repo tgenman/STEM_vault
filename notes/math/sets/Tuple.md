@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Arrangements without repetition]]"
   - "[[Vector]]"
-  - "[[Cartesian product]]"
+  - "[[Cartesian product of sets|Cartesian product]]"
 tags: []
 ---
 
@@ -55,4 +55,3 @@ FRONT: Ordered pair
 BACK: A tuple of length 2
 ID: 1747752604245
 END
-

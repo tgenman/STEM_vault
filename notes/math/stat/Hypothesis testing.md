@@ -6,7 +6,6 @@ parent:
   - "[[519.22 Statistic MOC]]"
   - "[[Гипотеза]]"
 connected:
-  - "[[Научные гипотезы]]"
   - "[[Научный метод]]"
 tags:
   - fix/empty

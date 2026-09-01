@@ -11,7 +11,7 @@ connected:
   - "[[Metric space]]"
   - "[[Closed set]]"
   - "[[Open Ball]]"
-  - "[[Distance function]]"
+  - "[[Metric|Distance function]]"
   - "[[Compact set]]"
 tags:
   - content/definition

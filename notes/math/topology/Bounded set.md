@@ -11,7 +11,7 @@ connected:
   - "[[Compact set]]"
   - "[[Closed set]]"
   - "[[Heine-Borel theorem]]"
-  - "[[Diameter of set]]"
+  - "[[diameter of set|Diameter of set]]"
 tags:
   - content/definition
 ---

@@ -5,13 +5,12 @@ tags:
 author:
   - "[[👤 Елишев, Андрей Михайлович]]"
 provider: "[[🏛МФТИ|MIPT]]"
-platform: "[[Цифровая среда обучения - МФТИ]]"
+platform: Цифровая среда обучения - МФТИ
 url: https://lms.mipt.ru/course/view.php?id=4899&type=lecture
 recommendation: 
 family: 
 connected:
   - "[[Linear algebra (field)]]"
-  - "[[🎓 CC MIPT - 1 semester]]"
 created: 2023-10-14 12:29
 ---
   

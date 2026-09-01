@@ -7,7 +7,7 @@ connected:
   - "[[Linear algebra (field)]]"
 title_original: No bullshit guide to linear algebra
 author:
-  - "[[👤 Savov, Ivan]]"
+  - Savov, Ivan
 ---
 
 

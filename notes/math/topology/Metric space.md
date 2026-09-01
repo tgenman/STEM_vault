@@ -13,7 +13,7 @@ connected:
   - "[[Bounded set]]"
   - "[[Compact set]]"
   - "[[Continuous function]]"
-  - "[[Distance function]]"
+  - "[[Metric|Distance function]]"
   - "[[The triangle inequality]]"
 tags:
   - content/definition

@@ -3,7 +3,6 @@ aliases:
   - История математики
 parent:
   - "[[51 Math MOC]]"
-  - "[[История MOC]]"
 tags:
   - content/moc
 ---
