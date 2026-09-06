@@ -1,5 +1,5 @@
 ---
-tags: гтд/курс🎓
+tags: мета/курс🎓
 ---
 links: [[Machine Learning MOC]]
 status: #гтд/статус/пауза🌥️

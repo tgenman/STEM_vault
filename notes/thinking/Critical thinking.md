@@ -32,6 +32,6 @@ tags:
 
 ## источники
 
-- [[📚 Rational Quotient - Stanovich — карта книги]]
-- [[📚 Intuition Pumps - Dennett (17) 🇬🇧🇷🇺 — карта книги]]
+- [[Rational Quotient - Stanovich 📚🥑🌱]]
+- [[Intuition Pumps - Dennett (17) 📚🥑🌱]]
 - [[📚 Психология критического мышления - Халперн — карта книги]]

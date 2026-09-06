@@ -2,6 +2,7 @@
 aliases:
   - The Rationality Quotient — карта книги
 created: 2026-08-28
+title: "The Rationality Quotient: Toward a Test of Rational Thinking"
 author: Keith E. Stanovich
 connected:
   - "[[Critical thinking]]"
@@ -10,6 +11,9 @@ connected:
   - "[[Cognitive Bias MOC]]"
 tags:
   - content/summary
+  - мета/книга📚
+  - гтд/проект🥑
+  - гтд/статус/туду🌱
 ---
 # The Rationality Quotient
 

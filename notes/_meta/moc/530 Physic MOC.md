@@ -17,7 +17,7 @@ people: [[notes/_meta/person/👤Feynman, Richard Phillips]], [[👤Tegmark, Max
 
 
 📚⏹🎧Кратчайшая история времени - Хокинг, Млодинов (6)
-[[📚 The Beginning of Infinity - Deutsch (21) 🇬🇧🇷🇺 — карта книги]]
+[[notes/_meta/books/The Beginning of Infinity - Deutsch (21) 📚🥑🌳]]
 📚⏹🎧The Fabric of Reality - Deutsch (14) 🇬🇧🇷🇺
 📚🌀A Beautiful Question - Wilczek 🇬🇧🇷🇺
 📚🌀Приключения мистера Томпкинса - Гамов

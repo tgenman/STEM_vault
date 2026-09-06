@@ -68,7 +68,6 @@ Vim
 Git MOC
 Скрипты
 Закон Амдала
-[[🎓🌀Мета программа Анализ данных. Stepik]]
 Домашнее облако
 [[docker and kubernetes]]
 RegEx

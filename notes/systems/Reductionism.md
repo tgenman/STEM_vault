@@ -19,4 +19,4 @@ tags:
 
 Редукционизм не следует смешивать с полезной декомпозицией системы или с отрицанием системных уровней.
 
-Источник: [[📚 The Beginning of Infinity - Deutsch (21) 🇬🇧🇷🇺 — карта книги]]
+Источник: [[notes/_meta/books/The Beginning of Infinity - Deutsch (21) 📚🥑🌳]]

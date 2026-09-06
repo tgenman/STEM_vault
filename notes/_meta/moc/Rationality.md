@@ -50,7 +50,7 @@ Rationality is the study and practice of forming beliefs and choosing actions in
 ## sources
 
 - [[LessWrong]]
-- [[📚 The Beginning of Infinity - Deutsch (21) 🇬🇧🇷🇺 — карта книги|The Beginning of Infinity]]
+- [[notes/_meta/books/The Beginning of Infinity - Deutsch (21) 📚🥑🌳|The Beginning of Infinity]]
 - [LessWrong — русская вики](https://lesswrong.ru/wiki/Заглавная_страница)
 - [Metaculus](https://www.metaculus.com/)
 - [Clearer Thinking](https://www.clearerthinking.org/)
