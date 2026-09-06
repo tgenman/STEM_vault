@@ -6,7 +6,7 @@ parent:
   - "[[Moment of r.v.]]"
 connected: 
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Raw moment

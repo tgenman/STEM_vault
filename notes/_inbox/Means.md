@@ -6,8 +6,8 @@ created: 2026-02-12 10:12
 parent:
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc:
 ---
 # Means (Averages) — краткий конспект

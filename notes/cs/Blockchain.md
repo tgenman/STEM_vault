@@ -27,7 +27,7 @@ The blockchain technology supports methods for
 -   a distributed immutable ledger of records of transactions.
     
 
-#fix/general
+#фикс/общее
 **Decentralization** means the network operates on a user-to-user (or peer-to-peer) basis.
 
 A **Distributed Immutable Ledger** means the data doesn't sit on one all-powerful server and the data stored in it cannot be deleted or edited

@@ -8,7 +8,7 @@ connected:
   - "[[Матрица линейного преобразования]]"
   - "[[Linear algebra (field)]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 ---
 

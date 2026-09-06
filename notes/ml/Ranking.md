@@ -7,7 +7,7 @@ parent:
   - "[[Machine Learning MOC|ML MOC]]"
 connected: []
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 [[Labels|Targets]]: ${Y}$ — конечное упорядоченное множество

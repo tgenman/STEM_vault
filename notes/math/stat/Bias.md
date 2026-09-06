@@ -8,7 +8,7 @@ parent:
   - "[[519.22 Statistic MOC]]"
 connected: 
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Bias 

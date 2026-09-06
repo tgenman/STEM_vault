@@ -6,8 +6,8 @@ created: 2025-09-03 20:21
 parent:
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 ---
 
 [[Критерий Коши]] (Cauchy sequence) — критерий полноты

@@ -9,7 +9,7 @@ connected:
   - "[[Clique number ω(G)]]"
   - "[[Edge independence number Alfa`(G)]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 Есть граф $G=(V,E)$ и есть множество вершин графа $W\subseteq V$. Никакие две вершины не соединены ребром. 

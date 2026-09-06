@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Отображение $F$ из множества $\mathcal{A}$ в множество $\mathcal{B}$ (обозначается $F: \mathcal{A} \to \mathcal{B}$) – 

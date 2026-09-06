@@ -8,7 +8,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 Появляется при замене [[Euclidian norm (L2)]]  нормы в [[Mean squared error|MSE]] на [[Manhattan norm (L1)]] :
 

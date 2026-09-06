@@ -7,7 +7,7 @@ parent:
   - "[[Structure (math)]]"
 connected:
 tags:
-  - fix/empty
+  - фикс/пусто
 moc:
   - "[[512.5 General Algebra MOC]]"
 ---

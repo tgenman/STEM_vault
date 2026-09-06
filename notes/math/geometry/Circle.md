@@ -1,6 +1,6 @@
 ---
 aliases: [Круг]
-links: #fix/linking 
+links: #фикс/связь 
 
 
 $$(x - h)^2+(y - k)^2=r^2$$

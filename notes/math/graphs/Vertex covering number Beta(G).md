@@ -8,5 +8,5 @@ parent:
 connected:
   - "[[Matching (graphs)|Паросочетания]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

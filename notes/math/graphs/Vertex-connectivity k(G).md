@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Edge-connectivity lambda(G)]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Vertex-connectivity k(G)

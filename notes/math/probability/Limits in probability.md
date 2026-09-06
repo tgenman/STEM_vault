@@ -6,5 +6,5 @@ parent:
   - "[[519.21  Probability theory|Probability theory]]"
 connected: []
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

@@ -6,6 +6,6 @@ parent:
   - "[[512.5 General Algebra MOC]]"
 connected: []
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 

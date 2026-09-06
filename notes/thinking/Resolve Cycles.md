@@ -1,6 +1,8 @@
 ---
-aliases: [Resolve Cycle, Пятиминутка]
-tags: контент/описание_техники
+aliases:
+  - Resolve Cycle
+  - Пятиминутка
+tags:
 publish: true
 ---
 links: [[CFAR]], [[Instrumental rationality]]

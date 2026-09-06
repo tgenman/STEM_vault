@@ -8,5 +8,5 @@ connected:
   - "[[Vertex independence set]]"
   - "[[Edge independence number Alfa`(G)]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

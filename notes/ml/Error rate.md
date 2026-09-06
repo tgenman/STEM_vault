@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Accuracy]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Error rate

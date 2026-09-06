@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Random vector]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Nuisance parameter

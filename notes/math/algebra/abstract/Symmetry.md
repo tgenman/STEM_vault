@@ -7,7 +7,7 @@ parent:
   - "[[Binary relation]]"
 connected: []
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Symmetry

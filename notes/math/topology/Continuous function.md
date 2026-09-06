@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[One-sided Limits]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

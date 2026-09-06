@@ -2,7 +2,7 @@
 aliases:
   - Производная
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 created: 2024-07-03 22:11
 parent: 
@@ -26,7 +26,7 @@ $$
 
 
 
-## Свойства #fix/anki
+## Свойства #фикс/анки
 
 - The Constant Rule
 $$

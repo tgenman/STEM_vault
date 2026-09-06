@@ -5,7 +5,7 @@ created: 2024-07-03 22:11
 connected:
   - "#обс/linking"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 ### Between two [[Point]]s

@@ -10,5 +10,5 @@ connected:
   - "[[Ring (R,+,*)]]"
   - "[[Field (F,+,*)]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

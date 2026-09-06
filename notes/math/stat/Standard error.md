@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Standard deviation]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Standard error

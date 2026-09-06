@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Binary operation]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Бинарное отношение $\mathcal{R}$ на множестве $\mathcal{A}$ 

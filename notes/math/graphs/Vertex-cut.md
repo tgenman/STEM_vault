@@ -10,7 +10,7 @@ connected:
   - "[[Vertex-connectivity k(G)|Connectivity k(G)]]"
   - "[[Edge-cut]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 Точка сочленения графа — это вершина, удаление которой делает граф несвязным.

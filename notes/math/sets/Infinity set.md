@@ -11,7 +11,7 @@ connected:
   - "#обс/linking"
 anki: false
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 - [[Countable infinity set]]

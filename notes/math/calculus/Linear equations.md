@@ -7,7 +7,7 @@ parent:
   - "[[512.1 Elementary Algebra MOC]]"
 connected: 
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

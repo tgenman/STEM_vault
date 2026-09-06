@@ -10,7 +10,7 @@ parent:
 connected:
   - "[[Precision]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

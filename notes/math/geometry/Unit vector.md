@@ -10,7 +10,7 @@ connected:
   - "[[Identity matrix]]"
   - "[[Identity element]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] A unit vector $u$ is 

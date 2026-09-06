@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Recall|True positive rate TPR]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] FPR (false positive rate)

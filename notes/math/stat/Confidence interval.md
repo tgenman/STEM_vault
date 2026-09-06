@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] A $1 - \alpha$ confidence interval for a parameter $\theta$ 

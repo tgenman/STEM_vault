@@ -7,7 +7,7 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
   $$f'_d(x) = \lim_{\alpha \to 0} \frac{f(x + \alpha d) - f(x)}{\alpha}$$

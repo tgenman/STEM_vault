@@ -6,6 +6,6 @@ parent:
   - "[[Space]]"
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 ---

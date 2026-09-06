@@ -3,7 +3,7 @@ aliases:
   - Arctangent
   - Арктангенс
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 created: 2024-07-03 22:10
 parent: 

@@ -8,8 +8,8 @@ parent:
 connected:
   - "[[Normed space]]"
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc:
   - "[[517.98 Functional Analysis]]"
 ---

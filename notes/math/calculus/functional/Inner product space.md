@@ -7,6 +7,6 @@ parent:
   - "[[Inner product]]"
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 ---

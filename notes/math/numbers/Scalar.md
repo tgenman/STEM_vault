@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Inner product|Scalar product]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

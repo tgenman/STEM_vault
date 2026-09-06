@@ -8,5 +8,5 @@ connected:
   - "[[False negative]]"
   - "[[False positive]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

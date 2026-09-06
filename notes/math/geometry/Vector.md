@@ -5,7 +5,7 @@ created: 2024-07-03 22:10
 parent:
   - "[[Linear (vector) space]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 connected:
   - "[[Linear algebra (field)]]"

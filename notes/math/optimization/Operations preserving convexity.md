@@ -6,7 +6,7 @@ parent:
   - "[[Convex Set]]"
 connected: []
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 -  [[Minkowski sum]] (linear combination)

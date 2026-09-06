@@ -8,7 +8,7 @@ connected:
 anki: false
 created: 2024-07-03 22:14
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

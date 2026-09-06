@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Hypercubes]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 The Cartesian product $G$ of two graphs $G1$ and $G2$, , has vertex set
 $V(G) = V(G_1) × V(G_2)$ - [[Cartesian product of sets]]

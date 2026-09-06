@@ -9,8 +9,8 @@ connected:
   - "[[Inner product space]]"
   - "[[Banach space]]"
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc:
   - "[[517.98 Functional Analysis]]"
 ---

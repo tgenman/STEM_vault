@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Markov Inequality]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 $\mathbb{P}[|X - \mathbb{E}[X]| \geq t] \leq \frac{V[X]}{t^2}$.

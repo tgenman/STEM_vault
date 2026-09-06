@@ -5,7 +5,7 @@ links: [[Reduce complexity]], [[System thinking]]
 
 ---
 
-#fix/general Создать ноды под эти модели??
+#фикс/общее Создать ноды под эти модели??
 
 http://web.mit.edu/esd.83/www/notebook/Complexity.PDF
 

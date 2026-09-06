@@ -8,7 +8,7 @@ connected:
   - "[[Function (math)|Single-valued mapping]]"
 created: 2024-07-03 15:12
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

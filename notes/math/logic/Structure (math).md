@@ -6,8 +6,8 @@ parent:
   - "[[Set (math)]]"
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc: "[[510.6 Математическая логика]]"
 ---
 

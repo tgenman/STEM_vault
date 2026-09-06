@@ -9,7 +9,7 @@ connected:
   - "[[Vertex independence number Alfa(G)]]"
   - "[[Edge independence set]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 (противоположность [[Clique]])

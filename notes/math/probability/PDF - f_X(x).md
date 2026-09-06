@@ -11,5 +11,5 @@ connected:
   - "[[PMF - p_X(x)|PMF]]"
   - "[[CDF - F_X(x)|CDF]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

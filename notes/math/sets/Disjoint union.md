@@ -9,7 +9,7 @@ connected:
   - "[[Intersection of Sets (A ∩ B)]]"
   - "[[Disjoint set]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

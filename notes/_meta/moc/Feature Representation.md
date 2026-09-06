@@ -5,7 +5,7 @@ parent: "[[Machine Learning MOC|ML MOC]]"
 connected: []
 tags:
   - content/moc
-  - fix/empty
+  - фикс/пусто
 ---
 
 ![[Categorical Feature Representation]] 

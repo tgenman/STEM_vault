@@ -6,8 +6,8 @@ parent:
   - "[[Set (math)]]"
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc:
   - "[[517.98 Functional Analysis]]"
   - "[[515.1 Topology]]"

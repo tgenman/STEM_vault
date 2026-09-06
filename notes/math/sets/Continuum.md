@@ -10,7 +10,7 @@ connected:
   - "[[Real numbers R]]"
   - "[[Aleph number]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 ---
 Континуум - [[Cardinality|мощность]] [[Power Set|булеана]] [[Countable infinity set|счетного множества]] 

@@ -8,5 +8,5 @@ parent:
 connected:
   - "[[Научный метод]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---

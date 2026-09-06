@@ -7,7 +7,7 @@ parent:
   - "[[Sigma algebra of subsets of sample space]]"
 connected: 
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 - trivial
     - $\mathcal{F}_0 = \set{\emptyset, \Omega}$ - nothing less

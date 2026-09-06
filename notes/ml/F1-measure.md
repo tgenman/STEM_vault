@@ -10,7 +10,7 @@ connected:
   - "[[Recall]]"
   - "[[Precision]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

@@ -8,7 +8,7 @@ connected:
   - "[[👤 Cauchy, Augustin Louis|Огюстен Коши]]"
   - "[[Dot product of vectors]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 anki: false
 ---
 

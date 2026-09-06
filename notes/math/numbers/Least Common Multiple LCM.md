@@ -9,7 +9,7 @@ parent:
 connected:
   - "[[Greater Common Divisor GCD]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

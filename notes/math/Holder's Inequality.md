@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Dot product of vectors]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 links: [[Inner product|Скалярное произведение векторов]], [[Cauchy-Schwarz-Буняковского Inequality|Неравенство Коши-Шварца]]
 

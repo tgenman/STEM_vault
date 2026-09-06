@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Underfitting]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 

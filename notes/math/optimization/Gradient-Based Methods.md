@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Gradient Descent]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 1. Скорость сходимости:
 

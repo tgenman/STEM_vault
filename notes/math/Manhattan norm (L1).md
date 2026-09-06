@@ -8,7 +8,7 @@ parent:
 created: 2024-02-03 17:54
 connected:
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] $L_1$ норма

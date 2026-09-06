@@ -1,5 +1,5 @@
 # Anki
-TARGET DECK: stem::math::forgot #fix/general  
+TARGET DECK: stem::math::forgot #фикс/общее  
 
 START
 math_complex

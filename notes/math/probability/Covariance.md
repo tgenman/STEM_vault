@@ -8,7 +8,7 @@ connected:
   - "[[Variance V(X)]]"
   - "[[Correlation]]"
 tags:
-  - fix/empty
+  - фикс/пусто
 ---
 
 > [!tip] Covariance
