@@ -11,7 +11,7 @@ connected:
   - "[[Relative Interior relint(S)]]"
   - "[[Closed set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Interior of set $S$ denoted $\text{int}(S)$

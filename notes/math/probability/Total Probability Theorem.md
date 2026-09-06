@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Bayes' Rule|Формула Байеса]]"
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!tip] Total Probability Theorem

@@ -1,6 +1,6 @@
 ---
 aliases: [ООП, OOP, Объектно-ориентированное программирование]
-tags: content/moc
+tags: контент/мос
 ---
 links: [[004.41 Software Development MOC|Разработка ПО]]
 

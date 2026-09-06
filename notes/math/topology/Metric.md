@@ -10,7 +10,7 @@ connected:
   - "[[Metric space]]"
   - "[[The triangle inequality]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] metric
 > A **metric** on a set $X$ is a function $d:X\times X\to[0,\infty)$ such that for all $x,y,z\in X$:

@@ -1,6 +1,6 @@
 ---
 aliases: [Разум, Интеллект]
-tags: content/moc
+tags: контент/мос
 ---
 links:  000 🗄Index
 

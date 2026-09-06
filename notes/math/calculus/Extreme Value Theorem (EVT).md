@@ -12,7 +12,7 @@ connected:
   - "[[supremum X (sup X)]]"
   - "[[infimum X (inf X)]]"
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!tip] Extreme Value Theorem (EVT)

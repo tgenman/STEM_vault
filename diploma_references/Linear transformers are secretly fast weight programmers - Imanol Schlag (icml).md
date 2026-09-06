@@ -3,7 +3,7 @@ created: 2025-04-16 13:13
 doi: https://proceedings.mlr.press/v139/schlag21a.html
 author: 
 tags:
-  - content/paper
+  - мета/статья📄
 ---
 Imanol Schlag, Kazuki Irie, and Jürgen Schmidhuber
 

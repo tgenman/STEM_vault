@@ -8,7 +8,7 @@ parent:
 connected:
   - "[[Markov process]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] Markov property
 > A discrete-time stochastic process $(X_n)$ has the **Markov property** if, conditional on its present state, its next-state distribution does not depend on the earlier history:

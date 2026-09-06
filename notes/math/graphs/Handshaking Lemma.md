@@ -3,7 +3,7 @@ aliases:
   - Handshaking Lemma
   - Лемма о рукопожатиях
 tags:
-  - content/lemma
+  - контент/лемма
 anki: true
 created: 2023-11-01 11:53
 parent:

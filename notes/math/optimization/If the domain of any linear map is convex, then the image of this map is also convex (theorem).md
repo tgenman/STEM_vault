@@ -7,7 +7,7 @@ parent:
   - "[[Function (math)]]"
 connected: 
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!tip] Theorem

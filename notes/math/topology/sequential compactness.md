@@ -9,7 +9,7 @@ connected:
   - "[[Compact set]]"
   - "[[Heine-Borel theorem]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] sequential compactness
 > A subset $K$ of a topological space is **sequentially compact** if every sequence in $K$ has a subsequence that converges to a point of $K$.

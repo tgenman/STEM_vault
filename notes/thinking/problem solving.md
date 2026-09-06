@@ -10,7 +10,7 @@ connected:
   - "[[Resolve Cycles]]"
   - "[[Математическое мышление]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] problem solving
 > **Problem solving** is the process of moving from a current state to a goal when the required sequence of actions is not known in advance.

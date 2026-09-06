@@ -11,7 +11,7 @@ connected:
   - "[[Convex set]]"
   - "[[Open Ball]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Relative Interior $\text{relint}(S)$ of set $S$

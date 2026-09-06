@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - content/theorem
+  - контент/теорема
 anki: true
 created: 2023-10-21 17:58
 parent:

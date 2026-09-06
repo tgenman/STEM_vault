@@ -2,7 +2,7 @@
 aliases:
   - Алгебра
 tags:
-  - content/moc
+  - контент/мос
 parent:
   - "[[51 Math MOC]]"
 created: 2023-05-11 17:23

@@ -9,7 +9,7 @@ connected:
   - "[[Multiplication of entities]]"
   - "[[Reductionism]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] Occam's razor
 > Among explanations that account for the same evidence, prefer the one that introduces fewer unnecessary assumptions or entities.

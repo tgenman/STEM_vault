@@ -4,7 +4,7 @@ parent:
   - "[[Irregular graph]]"
 connected: 
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!note] 

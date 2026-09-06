@@ -3,7 +3,7 @@ created: 2025-04-16 13:20
 doi: https://proceedings.mlr.press/v119/sun20b.html
 author: 
 tags:
-  - content/paper
+  - мета/статья📄
 ---
 Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei Efros, and Moritz Hardt. 
 

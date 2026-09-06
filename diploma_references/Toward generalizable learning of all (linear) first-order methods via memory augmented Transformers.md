@@ -2,7 +2,7 @@
 created: 2025-04-14 19:02
 doi: https://doi.org/10.48550/arXiv.2410.07263
 tags:
-  - content/paper
+  - мета/статья📄
 author:
   - "[[Sanchayan Dutta]]"
   - "[[Suvrit Sra]]"

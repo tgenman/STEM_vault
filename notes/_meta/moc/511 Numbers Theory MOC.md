@@ -3,7 +3,7 @@ aliases:
   - Числа
   - Теория Чисел
 tags:
-  - content/moc
+  - контент/мос
 parent:
   - "[[51 Math MOC]]"
 ---

@@ -1,5 +1,5 @@
 ---
-tags: content/summary
+tags: контент/саммари
 ---
 links: Лекция, 🗑Garbage Collection
 

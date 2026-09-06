@@ -13,7 +13,7 @@ connected:
   - "[[Closed Ball]]"
   - "[[Metric|Distance function]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Open Ball $B(x,r)$

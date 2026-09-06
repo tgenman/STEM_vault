@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - content/theorem
+  - контент/теорема
 created: 2023-11-03 16:35
 parent:
   - "[[519.172.5 Bipartite graph]]"

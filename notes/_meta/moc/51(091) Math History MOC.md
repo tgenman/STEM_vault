@@ -4,7 +4,7 @@ aliases:
 parent:
   - "[[51 Math MOC]]"
 tags:
-  - content/moc
+  - контент/мос
 ---
 
 

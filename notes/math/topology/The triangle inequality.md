@@ -12,7 +12,7 @@ connected:
   - "[[Metric|Distance function]]"
   - "[[Norm of vector]]"
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!tip] Triangle Inequality

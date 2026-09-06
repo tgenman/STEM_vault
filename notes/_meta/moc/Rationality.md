@@ -3,7 +3,7 @@ aliases:
   - Рациональность
 publish: true
 tags:
-  - content/moc
+  - контент/мос
 ---
 # rationality
 

@@ -14,7 +14,7 @@ connected:
   - "[[Continuous function]]"
   - "[[open cover|Open cover]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Open Set

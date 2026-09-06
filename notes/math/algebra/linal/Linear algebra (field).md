@@ -14,7 +14,7 @@ connected:
   - "[[Norm of vector]]"
 created: 2026-03-02 10:49
 tags:
-  - content/summary
+  - контент/саммари
 ---
 
 > [!tip] Linear algebra (field)

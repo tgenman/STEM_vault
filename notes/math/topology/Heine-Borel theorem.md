@@ -14,7 +14,7 @@ connected:
   - "[[open cover|Open cover]]"
   - "[[sequential compactness|Sequential compactness]]"
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!tip] Heine-Borel Theorem

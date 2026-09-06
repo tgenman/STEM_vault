@@ -1,7 +1,7 @@
 ---
 created: 2026-03-02 10:49
 tags:
-  - content/summary
+  - контент/саммари
 ---
 
 # План фиксов: линейная алгебра (`notes/math/algebra/linal/`)

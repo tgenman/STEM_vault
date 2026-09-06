@@ -9,7 +9,7 @@ connected:
   - "[[Metric]]"
   - "[[Bounded set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] diameter of a set
 > For a nonempty subset $A$ of a [[Metric space|metric space]] $(X,d)$, its diameter is

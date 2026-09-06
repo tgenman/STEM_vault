@@ -8,7 +8,7 @@ parent:
   - "[[Convex Set]]"
 connected: 
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 > [!tip] theorem
 A function $f$ is convex if and only if epigraph of $f$ is a convex set.

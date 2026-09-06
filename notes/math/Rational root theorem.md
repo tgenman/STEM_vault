@@ -2,7 +2,7 @@
 aliases:
   - Fundamental theorem of Algebra
 tags:
-  - content/theorem
+  - контент/теорема
 anki: true
 created: 2023-08-08 22:44
 parent:

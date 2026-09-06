@@ -13,7 +13,7 @@ connected:
   - "[[Heine-Borel theorem]]"
   - "[[diameter of set|Diameter of set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Bounded Set

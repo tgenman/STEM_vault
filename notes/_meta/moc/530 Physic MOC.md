@@ -1,6 +1,6 @@
 ---
 aliases: [Физика]
-tags: content/moc
+tags: контент/мос
 ---
 links: [[51 Math MOC]]
 people: [[notes/_meta/person/👤Feynman, Richard Phillips]], [[👤Tegmark, Max]]

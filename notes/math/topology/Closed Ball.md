@@ -14,7 +14,7 @@ connected:
   - "[[Metric|Distance function]]"
   - "[[Compact set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Closed Ball $\overline{B}(x,r)$

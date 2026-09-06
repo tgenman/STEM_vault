@@ -5,7 +5,7 @@ parent:
 connected:
   - "[[Havel–Hakimi Theorem]]"
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!note] Erdos–Gallai Theorem

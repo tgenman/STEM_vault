@@ -14,7 +14,7 @@ connected:
   - "[[Continuous function]]"
   - "[[Complement of set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Closed Set

@@ -15,7 +15,7 @@ connected:
   - "[[open cover|Open cover]]"
   - "[[Metric space]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Compact Set

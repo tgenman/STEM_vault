@@ -1,6 +1,6 @@
 ---
 tags:
-  - content/theorem
+  - контент/теорема
   - фикс/пусто
 aliases: 
 anki: false

@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags:
-  - content/theorem
+  - контент/теорема
 parent:
   - "[[519.17 Graph Theory MOC]]"
 connected:

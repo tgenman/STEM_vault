@@ -10,7 +10,7 @@ connected:
   - "[[Decision making]]"
   - "[[Cognitive Bias MOC]]"
 tags:
-  - content/summary
+  - контент/саммари
   - мета/книга📚
   - гтд/проект🥑
   - гтд/статус/туду🌱

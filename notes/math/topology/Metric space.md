@@ -16,7 +16,7 @@ connected:
   - "[[Metric|Distance function]]"
   - "[[The triangle inequality]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 
 > [!tip] Metric Space

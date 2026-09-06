@@ -5,7 +5,7 @@ parent:
   - "[[Walk W]]"
 connected: 
 tags:
-  - content/theorem
+  - контент/теорема
 ---
 
 > [!note] Theorem about path and walk

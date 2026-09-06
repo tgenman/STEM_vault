@@ -9,7 +9,7 @@ connected:
   - "[[Open set]]"
   - "[[Compact set]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] open cover
 > An **open cover** of a subset $A$ of a topological space $X$ is a family $\mathcal{U}$ of [[Open set|open sets]] such that

@@ -13,7 +13,7 @@ connected:
   - "[[Probability]]"
   - "[[Intuition Pump]]"
 tags:
-  - content/definition
+  - контент/определение
 ---
 > [!tip] Critical thinking
 > Critical thinking is the deliberate use of cognitive skills and strategies to improve the quality of beliefs, judgments, and decisions.

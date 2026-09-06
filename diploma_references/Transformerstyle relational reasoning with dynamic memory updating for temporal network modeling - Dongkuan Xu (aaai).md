@@ -3,7 +3,7 @@ created: 2025-04-15 17:41
 doi: https://doi.org/10.1609/aaai.v35i5.16583
 author: 
 tags:
-  - content/paper
+  - мета/статья📄
 ---
 Dongkuan Xu, Junjie Liang, Wei Cheng, Hua Wei, Haifeng Chen, and Xiang Zhang. 
 
