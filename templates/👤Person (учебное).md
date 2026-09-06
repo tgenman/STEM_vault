@@ -1,12 +1,11 @@
 ---
 aliases: 
 tags:
-  - person👤
-created: {{date}} {{time}}
+  - мета/человек👤
+  - фикс/связь
+created: "{{date}}"
 connected:
-  - "#обс/linking"
 ---
-
 
 
 

@@ -1,11 +1,13 @@
 ---
-tags: мета/книга📚/учебник📖
+tags:
+  - мета/книга📚/учебник📖
+  - гтд/статус/туду🌱
+  - гтд/проект🥑
 ---
 links: [[System thinking]], [[System engineering]]
 title: Business Objects - Re-Engineering for Re-Use 3rd Ed - early draft - 20140927
 author: Partridge, Chris
 recom: [[👤Медведева, Пион]], [[👤Левенчук, Анатолий]]
-status: #гтд/статус/туду🌱
 
 ---
 

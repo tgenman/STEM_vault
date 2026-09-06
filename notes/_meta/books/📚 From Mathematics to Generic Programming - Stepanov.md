@@ -4,6 +4,7 @@ aliases:
 tags:
   - мета/книга📚
   - гтд/статус/когда-нибудь🌰
+  - гтд/проект🥑
 ---
 links: [[51 Math MOC|Математика]], [[004.41 Software Development MOC]]
 recom: 

@@ -4,6 +4,7 @@ aliases:
 tags:
   - мета/книга📚/учебник📖
   - гтд/статус/туду🌱
+  - гтд/проект🥑
 connected:
   - "[[519.21  Probability theory]]"
   - "[[519.22 Statistic MOC]]"

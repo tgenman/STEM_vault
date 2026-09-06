@@ -4,6 +4,7 @@ aliases:
 tags:
   - мета/книга📚/аудиокнига🎧
   - гтд/статус/пауза🌥️
+  - гтд/проект🥑
 parent:
   - "[[Complex Networks MOC|Социальные сети]]"
   - "[[519.17 Graph Theory MOC]]"

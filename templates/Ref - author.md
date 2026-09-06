@@ -1,5 +1,5 @@
 ---
-created: {{date}} {{time}}
+created: "{{date}}"
 tags:
-  - author
+  - мета/человек👤
 ---

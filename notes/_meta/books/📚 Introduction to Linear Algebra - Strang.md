@@ -4,6 +4,7 @@ aliases:
 tags:
   - мета/книга📚/учебник📖
   - гтд/статус/прогресс🌿
+  - гтд/проект🥑
 connected:
   - "[[Linear algebra (field)]]"
 author:

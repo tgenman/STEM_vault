@@ -1,8 +1,9 @@
 ---
-tags: мета/курс🎓
+tags:
+  - мета/курс🎓
+  - гтд/статус/пауза🌥️
 ---
 links: [[Machine Learning MOC]]
-status: #гтд/статус/пауза🌥️
 author: 
 provider: Yandex Praktikum
 url: [url]()

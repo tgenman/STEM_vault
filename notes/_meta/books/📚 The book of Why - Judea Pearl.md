@@ -1,11 +1,13 @@
 ---
-tags: мета/книга📚
+tags:
+  - мета/книга📚
+  - гтд/статус/туду🌱
+  - гтд/проект🥑
 ---
 links: Наука  [[Байесианство]] [[Bayes' Rule]]
 title: The Book of Why: The New Science of Cause and Effect
 author: Pearl, Judea
 recom: [[👤Левенчук, Анатолий]], [[👤Медведева, Пион]]
-status: #гтд/статус/туду🌱
 
 ---
 

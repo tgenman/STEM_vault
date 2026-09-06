@@ -1,16 +1,15 @@
 ---
 aliases: 
 tags:
-  - book📚
-  - status/BACKLOG_🌰
-connected: 
+  - мета/книга📚
+  - гтд/проект🥑
+  - гтд/статус/когда-нибудь🌰
+  - фикс/связь
 author: 
 family: 
 recommendation:
-created: {{date}} {{time}}
+created: "{{date}}"
 connected:
-  - "#обс/linking"
 ---
-
 
 

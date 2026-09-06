@@ -1,11 +1,13 @@
 ---
-tags: мета/книга📚
+tags:
+  - мета/книга📚
+  - гтд/статус/когда-нибудь🌰
+  - гтд/проект🥑
 ---
 links: Learning to Learn Продуктивность [[когнитивная наука|Когнитивистика]]
 title: Deep Work: Rules for Focused Success in a Distracted World / В работу с головой. Паттерны успеха от IT-специалиста
 author: Newport, Cal
 rec:
-status: #гтд/статус/когда-нибудь🌰
 
 ---
 

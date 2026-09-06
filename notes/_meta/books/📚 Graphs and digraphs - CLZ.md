@@ -3,6 +3,7 @@ aliases:
 tags:
   - мета/книга📚
   - гтд/статус/когда-нибудь🌰
+  - гтд/проект🥑
 connected:
   - "[[519.17 Graph Theory MOC]]"
 author:

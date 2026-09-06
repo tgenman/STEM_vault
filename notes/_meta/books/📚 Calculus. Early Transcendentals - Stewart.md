@@ -3,6 +3,7 @@ aliases:
 tags:
   - гтд/статус/когда-нибудь🌰
   - мета/книга📚/учебник📖
+  - гтд/проект🥑
 connected:
   - "[[517 Сalculus MOC|Calculus]]"
 author:

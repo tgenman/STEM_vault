@@ -1,7 +1,7 @@
 ---
-created: {{date}} {{time}}
+created: "{{date}}"
 doi:
 author:
 tags:
-  - paper
+  - мета/статья📄
 ---

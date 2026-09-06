@@ -1,11 +1,11 @@
 ---
 aliases: 
 anki: false
-created: {{date}} {{time}}
+created: "{{date}}"
 parent:
 connected:
 tags:
-  - fix/empty
-  - fix/linking
+  - фикс/пусто
+  - фикс/связь
 moc:
 ---
