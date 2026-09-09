@@ -6,7 +6,10 @@ tags:
 links: "[[Learning to Learn]]"
 title: Practice Perfect. 42 Rules for Getting Better at Getting Better
 title2: От знаний к навыкам. Универсальные правила эффективной тренировки любых умений
-author: "[[👤Lemov, Doug]], [[👤Woolway, Erica]], [[👤Yezzi, Katie]]"
+author:
+  - "[[👤Lemov, Doug]]"
+  - "[[👤Woolway, Erica]]"
+  - "[[👤Yezzi, Katie]]"
 recom: "[[👤Левенчук, Анатолий]]"
 ---
 

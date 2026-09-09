@@ -19,3 +19,7 @@ tags:
 
 > [!tip] Linear algebra (field)
 > is the study of [[Linear (vector) space|vector spaces]] and [[Linear Transformation|linear maps]] between them, often represented by [[Matrix|matrices]] and used to solve [[Systems of Linear Equations|systems of linear equations]].
+
+## материалы
+
+- [[📚 No bullshit guide to linear algebra - Savov]]
