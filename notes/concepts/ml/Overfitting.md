@@ -17,5 +17,5 @@ tags:
 #### For [[Regression (machine learning)]]
 ![[Pasted image 20250414224217.png]]
 
-#### For [[Classification]] ([[Binary classification]])
+#### For [[Classification ML|Classification]] ([[Binary classification]])
 ![[Pasted image 20250414224224.png]]

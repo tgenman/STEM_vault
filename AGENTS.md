@@ -34,7 +34,10 @@
 
 - `notes/_inbox/`: захват и неразобранные заготовки.
 - `notes/_meta/{moc,books,courses,person}/`: навигация и происхождение знаний.
-- `notes/{math,ml,cs,physic,economy,systems,thinking,dev}/`: предметный корпус.
+- `notes/maps/`: карты ML, AI и связанных направлений; остальные тематические карты пока остаются в `_meta/moc/` и предметных разделах.
+- `notes/concepts/ml/`: понятия, методы, метрики и заготовки ML; прежняя `notes/ml/` разобрана.
+- `notes/sources/notes/`: сохранённые учебные конспекты пилота ML.
+- `notes/{math,cs,physic,economy,systems,thinking,dev}/`: остальные предметные разделы; их устройство пока не менялось.
 - `notes/biology/`: биология, эволюция и происхождение жизни.
 - `notes/_homework/`: задания и решения.
 - `diploma_references/`: библиографические записи дипломной работы.

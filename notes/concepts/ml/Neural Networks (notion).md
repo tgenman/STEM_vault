@@ -4,7 +4,7 @@ aliases:
 parent:
   - "[[Machine Learning MOC|ML]]"
 connected:
-  - "[[Deep Learning (notion)]]"
+  - "[[Deep Learning MOC]]"
   - "[[Deep Learning MOC]]"
 ---
 ![[Pasted image 20230503230300.png|300]]
@@ -24,7 +24,7 @@ connected:
 
 ### Сферы применения
 - [[Natural Language Processing]]
-- [[notes/ml/Computer Vision]]
+- [[notes/maps/Computer Vision]]
 - Speech recognition
 - Machine translation
 

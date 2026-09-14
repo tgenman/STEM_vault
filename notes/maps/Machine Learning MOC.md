@@ -33,7 +33,7 @@ updated: 2026-09-13
 ## направления
 
 - NLP
-- [[notes/_meta/moc/Computer Vision|CV]]
+- [[notes/maps/Computer Vision|CV]]
 - [[Reinforcement Learning|RL]]
 
 ## основные понятия
@@ -113,7 +113,7 @@ regularization
 
 ## по задачам
 - [[Regression (machine learning)]]
-- [[Classification]]
+- [[Classification ML|Classification]]
     - [[Binary classification]]
     - [[Multiclass classification]]
     - [[Multilabel classification]]

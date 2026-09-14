@@ -1,11 +1,14 @@
 ---
 aliases:
   - CV
+  - Компьютерное зрение
 anki: false
 created: 2025-02-17 13:12
 parent:
   - "[[Machine Learning MOC]]"
-connected: []
+  - "[[Deep Learning MOC]]"
+connected:
+  - "[[Neural Networks (notion)]]"
 tags:
   - контент/мос
 ---
