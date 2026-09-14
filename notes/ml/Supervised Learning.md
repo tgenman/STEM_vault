@@ -3,7 +3,7 @@ aliases:
   - Обучение с учителем
 created: 2023-05-03 11:02
 parent:
-  - "[[004.85 Machine Learning (notion)|ML]]"
+  - "[[Machine Learning MOC|ML]]"
 ---
 
 
@@ -13,6 +13,5 @@ parent:
 ## Subtypes:
 - [[Classification ML]] 
 - [[Regression (machine learning)]]
-
 
 

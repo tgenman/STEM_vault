@@ -2,7 +2,7 @@
 aliases:
   - Нейронные сети
 parent:
-  - "[[004.85 Machine Learning (notion)|ML]]"
+  - "[[Machine Learning MOC|ML]]"
 connected:
   - "[[Deep Learning (notion)]]"
   - "[[Deep Learning MOC]]"
@@ -37,4 +37,3 @@ connected:
 **Connected with:**
 - [[Neural Networks (notion)]]
 - [[Архитектура нейронных сетей]]
-

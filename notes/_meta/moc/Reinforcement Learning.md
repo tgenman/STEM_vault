@@ -4,7 +4,7 @@ aliases:
   - RL
 created: 2025-02-11 16:09
 parent:
-  - "[[004.85 Machine Learning (notion)|ML]]"
+  - "[[Machine Learning MOC|ML]]"
 connected:
   - "#обс/linking"
 tags:
