@@ -12,7 +12,7 @@ connected:
   - "[[Compact set]]"
   - "[[Heine-Borel theorem]]"
   - "[[Continuous function]]"
-  - "[[Complement of set]]"
+  - "[[Complement of Set]]"
 tags:
   - контент/определение
 ---

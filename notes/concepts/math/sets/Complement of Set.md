@@ -7,7 +7,7 @@ parent:
 connected:
   - "[[Complement of a Graph]]"
   - "[[Universal set]]"
-  - "[[Empty set]]"
+  - "[[Empty Set]]"
 created: 2025-05-20 00:22
 tags:
 ---
