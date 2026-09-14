@@ -6,5 +6,6 @@ parent:
 connected:
   - "#обс/linking"
 tags:
+  - фикс/пусто
   - контент/мос
 ---
