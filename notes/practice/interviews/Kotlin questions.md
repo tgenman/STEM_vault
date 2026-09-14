@@ -7,4 +7,5 @@ connected:
   - "[[Java questions]]"
   - "[[Spring questions]]"
 tags:
+  - фикс/пусто
 ---
