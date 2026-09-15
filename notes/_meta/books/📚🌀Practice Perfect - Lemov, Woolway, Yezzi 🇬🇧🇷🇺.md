@@ -3,7 +3,6 @@ tags:
   - мета/книга📚
   - гтд/проект🥑
   - гтд/статус/когда-нибудь🌰
-links: "[[Learning to Learn]]"
 title: Practice Perfect. 42 Rules for Getting Better at Getting Better
 title2: От знаний к навыкам. Универсальные правила эффективной тренировки любых умений
 author:
