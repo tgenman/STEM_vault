@@ -8,8 +8,11 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - фикс/пусто
 ---
+
+> [!tip] Mean absolute error
+> Mean absolute error (MAE) is the average of the absolute values of the errors
+
 Появляется при замене [[Euclidian norm (L2)]]  нормы в [[Mean squared error|MSE]] на [[Manhattan norm (L1)]] :
 
 $$ \text{MAE}(y, \hat{y}) = \frac{1}{N} \sum_{i=1}^{N} | y_{i} - \hat{y}_{i} | $$

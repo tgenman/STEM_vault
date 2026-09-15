@@ -9,10 +9,12 @@ parent:
 connected:
   - "[[Covariance]]"
 tags:
-  - фикс/пусто
 ---
- 
- $\rho [X, Y] = \frac{\text{Cov}[X, Y]}{\sqrt{V[X]V[Y]}}$
+
+> [!tip] correlation
+> Correlation quantifies the strength of the relationship between two measurements.
+
+$\rho [X, Y] = \frac{\text{Cov}[X, Y]}{\sqrt{V[X]V[Y]}}$
 
 
 
