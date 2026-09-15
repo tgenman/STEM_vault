@@ -7,5 +7,12 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - фикс/пусто
+  - контент/определение
 ---
+
+> [!tip] alternative hypothesis $H_1$
+> The competing hypothesis specifying departures from the null that the test is designed to detect.
+
+For a mean, examples are $\mu>\mu_0$, $\mu<\mu_0$ and $\mu\ne\mu_0$. See [[one-sided and two-sided tests]].
+
+Source: [NIST: statistical tests](https://www.itl.nist.gov/div898/handbook/prc/section1/prc13.htm).
