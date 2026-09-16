@@ -2,46 +2,42 @@
 aliases: Геометрия
 ---
 
-[[514.116 Trigonometry MOC]]
+## плоские фигуры
 
+- [[Многоугольник (2D)]]
+    - [[Правильный многоугльник (2D)]]
+    - [[Выпуклый многоугольник (2D)]]
+- [[Triangle]]
+    - [[Isosceles triangle]]
+    - [[Equilateral triangle]]
+- [[Circle]]
+    - [[Radius]]
+- [[Conic Sections]]
 
-
-[[🎓🍂 Геометрия и группы]]
-!!! Геометрия - Карло Ровелли
+## пространственные фигуры
 
 - [[Polyhedron (3D)]]
     - [[Правильный многогранник (3D)]]
         - [[Platonic solids]]
     - [[Выпуклый многогранник (3D)]]
-- [[Многоугольник (2D)]]
-    - [[Правильный многоугльник (2D)]]
-    - [[Выпуклый многоугольник (2D)]]
+- [[Конус]]
 
+## отношения и связанные темы
 
-[[Конус]]
-[[Conic Sections]]
+- [[Vertical angles]]
+- [[Parallel Lines]]
+- [[The triangle inequality]]
+- [[Golden ratio (golden rectangle)|Золотое сечение]]
+- [[514.116 Trigonometry MOC]]
+- [[51 Math MOC]]
 
-[[Vertical angles]]
-[[Parallel Lines]]
-
-[[Triangle]]:
-- [[Isosceles triangle]]
-- [[Equilateral triangle]]
-
-[[The triangle inequality]]
-
-[[Golden ratio (golden rectangle)|Золотое сечение]]
-
+## термины без наполнения
 
 Arc - дуга
 Semicircle - полуокружность
 
-[[Circle]]
-    [[Radius]]
+## источники
 
+- [[🎓🍂 Геометрия и группы]]
 
-
-
-**Connected with:**
-- [[51 Math MOC]]
-
+!!! Геометрия - Карло Ровелли

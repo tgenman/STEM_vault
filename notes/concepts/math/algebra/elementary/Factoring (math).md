@@ -17,6 +17,12 @@ $$
 
 
 
+## исходный фрагмент из карты элементарной алгебры
+
+==factoring==, which consists of rewriting the expression with the common parts taken out in front of a bracket: ab  $ab+ac = a(b+c)$
+
+Источник переноса: [[512.1 Elementary Algebra MOC]]. Содержательная проверка не выполнялась.
+
 # Anki
 TARGET DECK: math::common  
 START

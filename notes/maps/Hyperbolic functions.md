@@ -7,8 +7,10 @@ parent:
 connected:
   - "#обс/linking"
 tags:
-  - фикс/пусто
+  - контент/мос
 ---
+
+## функции
 
 - [[sinh (shx)|Hyperbolic sine]] 
 - [[cosh (chx)|Hyperbolic cosine]]
@@ -17,23 +19,17 @@ tags:
 - [[sech|Hyperbolic secant]]
 - [[csch|Hyperbolic cosecant]]
 
+## тождества и графики
 
----
-![[Pasted image 20230707105733.png]]
-## Тождества
+- [[основное гиперболическое тождество]]
+- [[формулы сложения гиперболических функций]]
+- [[графики гиперболических функций]]
 
-$$\cosh^2(x) - \sinh^2(x) = 1$$
-$$\sinh(𝑥 ± 𝑦) = \sinh(𝑥)\cosh(𝑦) ± \cosh(𝑥)\sinh(𝑦)$$
-$$\cosh(𝑥 ± 𝑦) = \cosh(𝑥)\cosh(𝑦) ± \sinh(𝑥)\sinh(𝑦)$$
-$$\tanh(𝑥 ± 𝑦) = \frac{\tanh(𝑥) ±\tanh(𝑦)}{1±\tanh(𝑥)\tanh(𝑦)}$$
-$$\coth(𝑥 ± 𝑦) = \frac{1 ± \coth(𝑥)\coth(𝑦)}{\coth(𝑥) ± \coth(𝑦)}$$
-
+## источники
 
 [вики](https://en.wikipedia.org/wiki/Hyperbolic_functions)
 
-
-**Connected with:**
+## связанные темы
 - [[Function (math)|Функция]]
 - [[Hyperbola|Гипербола]]
 - [[Тригонометрические функции]]
-
