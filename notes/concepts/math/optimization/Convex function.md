@@ -11,11 +11,9 @@ connected:
 tags:
 ---
 
-> [!tip] convex function
-> A function $f:C\to\mathbb R$ on a convex set $C$ is convex if, for all $x,y\in C$ and $t\in[0,1]$,
-> $f((1-t)x+ty)\le(1-t)f(x)+tf(y).$
-
-For the distinct-point strict inequality, see [[strictly convex function]]. For a positive uniform quadratic bound, see [[Strongly Convex Function]].
+> [!tip] Function $f : \mathcal{X} \subset \mathbb{R}^n \to \mathbb{R}$ is called convex (strictly convex),
+if $\mathcal{X}$ is a convex set and $\forall \mathbf{x}_1, \mathbf{x}_2 \in \mathcal{X}$ and $\alpha \in [0, 1]$ ($\alpha \in (0, 1)$) we have:
+$f(\alpha \mathbf{x}_1 + (1 - \alpha) \mathbf{x}_2) \leq (<) \, \alpha f(\mathbf{x}_1) + (1 - \alpha) f(\mathbf{x}_2)$
 
 ##### Examples of convex functions
 - $x^p$ for $x \geq 0$ and $p \geq 1$
@@ -27,6 +25,8 @@ For the distinct-point strict inequality, see [[strictly convex function]]. For 
 
 ## критерии и свойства
 
+- [[strictly convex function]]
+- [[Strongly Convex Function]]
 - [[first-order criterion of convexity]]
 - [[second-order criterion of convexity]]
 - [[local minimum of a convex function is global]]
@@ -39,5 +39,3 @@ For the distinct-point strict inequality, see [[strictly convex function]]. For 
 Выпуклая вниз функция, её график выделен синим, и [надграфик](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA "Надграфик") закрашен зелёным.
 
 ![[ConvexFunction.svg]]
-
-Источник переноса: [[519.853.3 Convex optimization MOC]].

@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 anki: true
 created: 2024-03-21 11:26
 parent:
@@ -8,15 +8,15 @@ parent:
 connected:
   - "[[👤 Poisson, Simeon Denis]]"
   - "[[Binomial distribution Bin(n, p)]]"
-tags: 
+tags:
 ---
 
-> [!tip] Poisson disribution $\text{Po}(\lambda)$  
+> [!tip] Poisson disribution $\text{Po}(\lambda)$
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
 - [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
-- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$  
+- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$
 
 This is a legitimate PMF because
 $\sum_{k=0}^{\infty} e^{-\lambda} \frac{\lambda^k}{k!} = e^{-\lambda} \left(1 + \lambda + \frac{\lambda^2}{2!} + \frac{\lambda^3}{3!} + \ldots\right) = e^{-\lambda}e^{\lambda} = 1$
@@ -54,27 +54,23 @@ $E[X] = \lambda$
 #### [[Variance V(X)]]
 $V[X] = \lambda$
 
+
 ## связи распределений
 
-If $X_1,\ldots,X_n$ are mutually independent with $X_i\sim\operatorname{Po}(\lambda_i)$, then
-$$
-\sum_{i=1}^nX_i\sim\operatorname{Po}\left(\sum_{i=1}^n\lambda_i\right).
-$$
-Their MGFs multiply to $\exp[(\sum_i\lambda_i)(e^s-1)]$. Pairwise independence alone is not the assumption used here.
-
-Sources: [R stats: Poisson](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Poisson.html), [MGF of an independent sum](https://heogden.github.io/math2011/sums-of-random-variables.html).
+- $X_i \sim Po(\lambda_i)$ and $X_i \perp\!\!\!\perp X_j$ implies $\sum_{i=1}^{n} X_i \sim Po\left( \sum_{i=1}^{n} \lambda_i \right)$
+- $X_i \sim Po(\lambda_i)$ and $X_i \perp\!\!\!\perp X_j$ implies $\sum X_i \sim Bin\left( n, \frac{\sum_{j=1}^{n} \lambda_j}{\sum_{j=1}^{n} \lambda_j} \right)$
 
 # Anki
 TARGET DECK: math::probability
 START
 math_complex
 FRONT: Poisson($\lambda$)
-BACK: $\text{Po}(\lambda)$  
+BACK: $\text{Po}(\lambda)$
 - [[PMF - p_X(x)|PMF]]: $p_X(x) = \frac{\lambda^x e^{-\lambda}}{x!}$
 - [[CDF - F_X(x)|CDF]]: $F_X(x) = e^{-\lambda}\sum_{i=0}^x \frac{\lambda^i}{i!}$
 - [[Expected Value E(X)|E(X)]]: $\mathbb{E}[X] = \lambda$
 - [[Variance V(X)|Var(x)]]: $\mathbb{V}[X] = \lambda$
-- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$   
+- [[Производящая функция моментов случайной M_X(s)|M_X(s)]]: $M_X(s) = e^{\lambda(e^s-1)}$
 FORMULA: This is a legitimate PMF because
 $\sum_{k=0}^{\infty} e^{-\lambda} \frac{\lambda^k}{k!} = e^{-\lambda} \left(1 + \lambda + \frac{\lambda^2}{2!} + \frac{\lambda^3}{3!} + \ldots\right) = e^{-\lambda}e^{\lambda} = 1$
 ADDITIONAL: More precisely, the Poisson PMF with parameter $\lambda$ is a good approximation for a [[Binomial distribution Bin(n, p)|binomial]]  PMF with parameters $n$ and $p$, i.e.,
@@ -92,7 +88,7 @@ START
 math_complex
 FRONT: Expected Value E(X) of Poisson($\lambda$)
 BACK: $E[X] = \lambda$
-FORMULA: 
+FORMULA:
 ADDITIONAL: Proof
 $E[X] = \sum_{k=0}^{\infty} ke^{-\lambda} \frac{\lambda^k}{k!}$
 Since the term for $k=0$ is zero (as it results in $0$ multiplied by some constant), we start from $k=1$:
@@ -110,7 +106,7 @@ START
 math_complex
 FRONT: Variance V(X) of Poisson($\lambda$)
 BACK: $V[X] = \lambda$
-FORMULA: 
+FORMULA:
 ADDITIONAL:
 PICTURE:
 ID: 1711025905251

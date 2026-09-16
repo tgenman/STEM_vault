@@ -11,17 +11,8 @@ connected:
   - "[[Benjamini-Hochberg procedure]]"
   - "[[False positive]]"
 tags:
+  - фикс/пусто
   - контент/определение
 ---
 
-> [!tip] false discovery rate
-> The expected fraction of false rejections among all rejected hypotheses, taking that fraction as zero when there are no rejections.
-
-$$
-\operatorname{FDR}=\mathbb{E}\left[\frac{V}{\max(R,1)}\right],
-$$
-where $V$ counts false rejections and $R$ counts all rejections.
-
-FDR is an error criterion, not a correction algorithm or a guarantee about the realized fraction in one study.
-
-Source: [R stats: p.adjust](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/p.adjust.html).
+False Discovery Rate FDR (The Benjamini-Hochberg method) - how to compensate

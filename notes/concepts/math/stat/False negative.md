@@ -12,13 +12,8 @@ tags:
   - контент/определение
 ---
 
-> [!tip] false negative
-> A negative decision when the condition being detected is present.
+(**β-ошибка, ложноотрицательное заключение** ошибка второго рода) - ситуация, когда принята неверная нулевая гипотеза.
 
-## in hypothesis testing
-
-Failing to reject a false $H_0$ is a Type II error. For a specified alternative $\theta$, its probability is $\beta(\theta)$ and [[statistical power]] is $1-\beta(\theta)$. “Not rejected” does not mean “proved” or “accepted as true”.
-
-Source: [MIT: hypothesis testing and power](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_week06_lec13.pdf).
+- β - False Negative Rate P(not reject H0|H1)
 
 ![[Pasted image 20240722193406.png]]

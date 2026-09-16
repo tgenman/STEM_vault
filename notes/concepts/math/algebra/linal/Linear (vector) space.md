@@ -12,14 +12,14 @@ connected:
   - "[[Linear algebra (field)]]"
 anki: false
 tags:
-  - фикс/пусто
 ---
+
 Векторное пространство — это [[Abelian group|Абелева группа]] (по сложению) с действием [[Field (F,+,*)]] [[Scalar]] поля скаляров, удовлетворяющим аксиомам линейности.
 Vector space = абелева группа + линейное действие поля.
 
 ```mermaid
 graph TD
-  M["Monoid (M, +)"] 
+  M["Monoid (M, +)"]
   G["Group (G, +, inverse)"]
   AG["Abelian group (A, + commutative)"]
   MOD["Module (M over ring R)"]
@@ -59,7 +59,7 @@ graph TD
 #### Properties
 - [[Abelian group]] of [[Addition operation]] $+$
     -   If $\vec{u}$ and $\vec{v}$ are vectors in $V$, then $\vec{u}+\vec{v}$ is also in $V$. [[Closure of]]
-    - [[Associative identity]] [[Addition operation]]  $(\vec{u}+\vec{v})+\vec{w}=\vec{u}+(\vec{v}+\vec{w})$ 
+    - [[Associative identity]] [[Addition operation]]  $(\vec{u}+\vec{v})+\vec{w}=\vec{u}+(\vec{v}+\vec{w})$
     - “zero vector” in $V$, appropriately called “$0$”, so that $\vec{v}+0=v$ for all $\vec{v}$ in $V$.
     - If $\vec{v}$ is a vector in $V$, then there is a vector $\vec{−v}∈V$ so that $\vec{v}+(\vec{-v})=0$.
     - commutativity (adding) $\vec{u}+\vec{v}=\vec{v}+\vec{u}$
@@ -71,11 +71,10 @@ graph TD
 
 ## операции и тип результата
 
-- [[Addition operation]] maps $V\times V$ to $V$; scalar multiplication maps $F\times V$ to $V$.
-- For real vectors, an [[Inner product]] returns a scalar; [[Dot product of vectors]] is the standard coordinate example.
-- [[Cross product of vectors]] requires its own setting and is not a vector-space axiom.
-- [[outer product of vectors]] returns a matrix in coordinates, rather than a vector in the original space.
-
-A vector space is a module over a field. Additional products or geometric structures do not follow solely from the vector-space axioms.
-
-Источник переноса: [[512.64  Linear algebra MOC]].
+| Объект         | Операция(и)                          | Какая структура                               |
+|----------------|--------------------------------------|-----------------------------------------------|
+| Векторы \(V=\mathbb{R}^n\) | Сложение \(+\)                         | Абелева группа                               |
+|                | Скалярное умножение \(\lambda v\)    | Модуль над полем (если поле — векторное пространство) |
+|                | Dot product \(v\cdot w\)             | Даёт скаляр → не бинарная операция на \(V\)   |
+|                | Cross product \(v\times w\)          | Определён только для \(\mathbb{R}^3\) (и \(\mathbb{R}^7\)) → частная операция, не универсальная |
+|                | Outer product \(v\otimes w\)         | Даёт матрицу/тензор → порождает тензорные пространства, не замкнут в \(V\) |

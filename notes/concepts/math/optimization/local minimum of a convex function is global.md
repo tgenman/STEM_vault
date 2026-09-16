@@ -12,17 +12,12 @@ tags:
   - контент/теорема
 ---
 
-> [!tip] local minimum is global
-> If $C\subseteq\mathbb R^n$ is convex and $f:C\to\mathbb R$ is convex, every local minimum relative to $C$ is a global minimum on $C$.
+### Theorem
+If $f$ is a convex function and $x^*$ is a point of local minimum, then $x^*$ is a point of global minimum.
 
-## proof
-
-Let $x^*$ be a local minimum. If it is not global, there is a feasible point $y$ with $f(y)<f(x^*)$; no assumption that a global minimum is attained is needed.
-
-Choose $t\in(0,1)$ small enough that $z=(1-t)x^*+ty$ lies in the neighbourhood of local minimality. Convexity of $C$ gives $z\in C$, and
-$$
-f(z)\le(1-t)f(x^*)+tf(y)<f(x^*),
-$$
-a contradiction.
-
-Основа переноса: [[519.853.3 Convex optimization MOC]]. Условия и рассуждения уточнены при разборе; внешняя атрибуция первоисточника не проверена.
+### Proof
+- Assume that there exists a point $y^*$ such that $y^* \neq x^*$ and $y^*$ is a point of global minimum: $f(y^*) < f(x^*)$.
+- By the definition of a point of local minimum: $f(x^*) \leq f(x)$, where $\|x^* - x\|_2 \leq \delta$.
+- Choose sufficiently small $\alpha \in (0, 1)$ and consider a point $z = (1-\alpha) x^* + \alpha y^*$ such that $\|x^* - z\|_2 \leq \delta$.
+- $$f(x^*) \leq f(z) \leq \alpha f(y^*) + (1-\alpha) f(x^*) < f(x^*).$$
+- We get a contradiction, therefore the assumption is incorrect and $x^*$ is a point of global minimum.

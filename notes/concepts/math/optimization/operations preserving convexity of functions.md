@@ -13,15 +13,8 @@ tags:
   - контент/саммари
 ---
 
-> [!tip] operations preserving convexity of functions
-> The following constructions preserve convexity on their stated domains.
-
-- Nonnegative sums: if $f_i$ are convex on a common convex domain and $a_i\ge0$, then $\sum_{i=1}^k a_if_i$ is convex.
-- Finite pointwise maxima: $\max_{i=1,\ldots,k}f_i$ is convex when each $f_i$ is convex on a common convex domain.
-- Affine precomposition: $f(Ax+b)$ is convex on the preimage of the convex domain of $f$.
-- Line restrictions: $g(t)=f(x_0+tv)$ are the preceding construction for a scalar argument.
-- Scalar composition, sufficient condition: $h\circ f$ is convex if $f$ is convex and $h$ is convex and nondecreasing on an interval containing the range of $f$.
-
-For the last case, first apply monotonicity to the convexity inequality for $f$, then apply convexity of $h$. These are operations on functions, separate from [[Operations preserving convexity|operations on sets]].
-
-Основа переноса: [[519.853.3 Convex optimization MOC]]. Условия и рассуждения уточнены при разборе; внешняя атрибуция первоисточника не проверена.
+- If $f(x)$ is convex, then $g(x) = f(Ax + b)$ is convex.
+- If $f(x)$ is convex, then $g(t) = f(x + t y)$ is convex.
+- If $f_i(x)$ are convex, then $f(x) = \max_{i=1,\dots,m} f_i(x)$ is convex.
+- The sum of convex functions with non-negative coefficients is a convex function.
+- Scalar composition $h(f(x))$ preserves convexity under certain conditions.

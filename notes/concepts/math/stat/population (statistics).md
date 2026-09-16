@@ -12,9 +12,6 @@ tags:
   - контент/определение
 ---
 
-> [!tip] population
-> The target collection of units or outcomes about which a statistical study seeks to draw conclusions.
-
-Population parameters describe that target, while sample statistics are calculated from observed data. Examples from the original map: population mean and population standard deviation.
-
-Source: [NIST: populations and sampling](https://www.itl.nist.gov/div898/handbook/ppc/section1/ppc134.htm).
+Population / population parameters - Генеральная совокупность
+- population mean $\mu$
+- population standart deviation (population SD)

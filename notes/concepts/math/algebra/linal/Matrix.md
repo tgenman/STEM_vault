@@ -3,14 +3,15 @@ aliases:
   - Матрица
 parent: "[[Linear algebra (field)]]"
 ---
+
 ==Матрицей== размера $𝑚 × 𝑛$ называется упорядоченная прямоугольная таблица чисел, имеющая $𝑚$ строк и $𝑛$ столбцов.
 
 $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} & a_{23} & ... & a_{2n} \\ a_{31} & a_{32} & a_{33} & ... & a_{3n} \\ ... & ... & ... & ... & ... \\ a_{m1} & a_{m2} & a_{m3} & ... & a_{mn} \end{pmatrix}=(a_{ij})_{m{\times}n}$$
 
 
 
-В **прямоугольной** матрице количество строк не совпадает с количеством столбцов. 
-В [[Square matrix|квадратной]]  количество строк и столбцов совпадает. 
+В **прямоугольной** матрице количество строк не совпадает с количеством столбцов.
+В [[Square matrix|квадратной]]  количество строк и столбцов совпадает.
 
 
 
@@ -31,7 +32,7 @@ $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} &
 5) \ $(A+B)^{T}=A^{T}+B^{T}$ — транспонированная сумма матриц равна сумме этих транспонированных матриц.
 
 ### Свойства умножения на скаляр
-1) $1\cdot A=A$; 
+1) $1\cdot A=A$;
 2) $-1\cdot A=-A$.
 3) $0\cdot A= \begin{pmatrix} 0 & 0 & 0 & … & 0 \\ 0 & 0 & 0 & … & 0 \\ 0 & 0 & 0 & … & 0 \\ \cdots & \cdots & \cdots & \cdots & \cdots \\ 0 & 0 & 0 & … & 0 \end{pmatrix}$
 4) Для любого числа $k\in\mathbb{R}$ умножение на скаляр коммутативно: $k\cdot A=A\cdot k$.
@@ -55,13 +56,10 @@ $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} &
 
 ## алгебраическая структура
 
-For a field $F$ and fixed positive dimensions $m,n$, $M_{m,n}(F)$ is a [[Linear (vector) space|vector space]] under [[Matrix Addition]] and [[Matrix Scalar Multiplication]]. Its additive structure is an [[Abelian group]]: the [[Identity element|identity]] is [[Zero Matrix]], and the [[Inverse element|additive inverse]] of $A$ is $-A$.
-
-For square matrices $M_n(F)$:
-- [[Matrix Matrix Multiplication]] is associative and has identity [[Identity matrix]], forming a [[Monoid]].
-- Addition and multiplication give a unital associative [[Ring (R,+,*)|ring]] and an associative algebra over $F$.
-- The invertible matrices form [[general linear group]], not the entire set $M_n(F)$.
-
-[[Matrix Transpose]] maps $M_{m,n}(F)$ to $M_{n,m}(F)$; inversion is defined only on invertible square matrices.
-
-Источник переноса: [[512.64  Linear algebra MOC]].
+| Объект         | Операция(и)                          | Какая структура                               |
+|----------------|--------------------------------------|-----------------------------------------------|
+| Матрицы \(M_n(\mathbb{R})\) | Сложение \(+\)                         | Абелева группа                               |
+|                | Умножение матриц \(\cdot\)           | Ассоциативный моноид (есть единица \(I\))    |
+|                | Сложение + умножение                 | Кольцо (даже унитальное, если считать \(I\)) |
+|                | + скалярное умножение                | Ассоциативная алгебра над полем              |
+|                | Обратимость при det \(\neq 0\)       | Группа \(GL_n(\mathbb{R})\) по умножению     |

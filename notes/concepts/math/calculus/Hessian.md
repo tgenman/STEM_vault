@@ -10,8 +10,7 @@ connected:
 tags: []
 ---
 
-> [!tip] Hessian $f''(x)=\nabla^2 f(x)$
-> For $f\in C^2(U)$ on an open $U\subseteq\mathbb R^n$, the Hessian is the matrix of second partial derivatives:
-> $$[\nabla^2 f(x)]_{ij}=\frac{\partial^2 f}{\partial x_i\,\partial x_j}(x).$$
+> [!tip] **Hessian** $f''(x)$
+is a square matrix  such that $\left[f''(x)\right]_{ij} = \frac{\partial^2 f}{\partial^2 x_i \partial^2 x_j}$.
 
 - [[second-order criterion of convexity]]

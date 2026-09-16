@@ -12,9 +12,6 @@ tags:
   - контент/определение
 ---
 
-> [!tip] p-hacking
-> Data-dependent selection of analyses, outcomes, exclusions, or stopping rules to obtain small [[p-value|p-values]], without accounting for that selection in inference.
+p-hacking  -  refers to the misuse and abuse of analysis techniques and results in being fooled by false positives.
 
-Repeatedly collecting data until significance appears is one example. Unaccounted analytical flexibility can inflate false positives. Multiple testing with an appropriate, pre-specified error-control procedure is not itself p-hacking.
-
-Sources: [Simmons, Nelson and Simonsohn (2011)](https://www.psychologicalscience.org/journals/psychological-science/0956797611417632/), [ASA statement (2016)](https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf).
+- Changeing sample size
