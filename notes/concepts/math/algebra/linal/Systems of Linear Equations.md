@@ -15,9 +15,14 @@ A system of equations is called _inconsistent_ if it has no solutions. It is cal
 
 ### Solution Methods
 
-- Решение через нахождение [[Matrix Inverse]]
+- Решение через нахождение [[Matrix Inverse]] — если $A$ квадратная и обратимая
 $$A⋅X=B$$
 $$A^{−1}A⋅X=A^{−1}B⇔EX=A^{−1}B⇔X=A^{−1}B$$
 
 - [[The Gaussian Elimination Method]]
 
+## однородная система
+
+A linear system $Ax=b$ is homogeneous when $b=0$. It is always consistent because $x=0$ is a solution. Nonzero solutions may also exist; see [[Линейная зависимость векторов]] and [[Matrix Inverse#обратимость и нулевое решение]].
+
+Источник переноса: [[512.64  Linear algebra MOC]].

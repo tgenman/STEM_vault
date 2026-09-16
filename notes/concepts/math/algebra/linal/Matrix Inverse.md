@@ -23,10 +23,20 @@ Consider a [[Square matrix]] $A \in \mathbb{R}^{n \times n}$. Let matrix $B \in 
 - Обратные матрицы существуют только для квадратных.
 - $AA^{−1}=A^{−1}A=E$  
 - $(AB)^{−1}=B^{−1}A^{−1}$
--  $(A + B)^{−1} \neq A^{−1} + B^{−1}$
+- Even when $A$, $B$ and $A+B$ are invertible, $(A+B)^{-1}=A^{-1}+B^{-1}$ is not a general identity.
 - $(A^{−1})^{−1}=A$ 
 - $(A^{−1})^T=(A^T)^{−1}$
-- $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
+- $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$
+
+## обратимость и нулевое решение
+
+For a square matrix $A$, if there is $x\ne0$ with $Ax=0$, then $A$ cannot be invertible: otherwise
+$$
+x=A^{-1}Ax=A^{-1}0=0,
+$$
+a contradiction. Equivalently, an invertible matrix has only the zero solution of $Ax=0$. This is the obstruction described in the original map.
+
+Источник переноса: [[512.64  Linear algebra MOC]].
 
 # Anki
 TARGET DECK: math::linal 
@@ -50,7 +60,7 @@ BACK:
 - Обратные матрицы существуют только для квадратных.
 - $AA^{−1}=A^{−1}A=E$  
 - $(AB)^{−1}=B^{−1}A^{−1}$
--  $(A + B)^{−1} \neq A^{−1} + B^{−1}$
+- Even when $A$, $B$ and $A+B$ are invertible, $(A+B)^{-1}=A^{-1}+B^{-1}$ is not a general identity.
 - $(A^{−1})^{−1}=A$ 
 - $(A^{−1})^T=(A^T)^{−1}$
 - $(αA)^{−1}=α^{−1}A^{−1}=A^{−1}α^{−1},α\ne 0$ 
@@ -59,5 +69,4 @@ ADDITIONAL:
 PICTURE:
 ID: 1713287272977
 END
-
 

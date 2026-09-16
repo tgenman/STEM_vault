@@ -6,7 +6,7 @@ parent:
   - "[[Discrete Random Variable]]"
   - "[[Distribution of r.v. MOC]]"
 connected:
-  - "[[Hypergeometric Hyp(N, m, n)]]"
+  - "[[Negative Binomial NB(r, p)]]"
 tags:
 ---
 

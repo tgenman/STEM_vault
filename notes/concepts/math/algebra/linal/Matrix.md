@@ -52,3 +52,16 @@ $$A=\begin{pmatrix} a_{11} & a_{12} & a_{13} & ... & a_{1n} \\ a_{21} & a_{22} &
         $(Am)^T=m^T\cdot A^T$.
 
 ![[Matrix Inverse#Properties of Matrix Inverse]]
+
+## алгебраическая структура
+
+For a field $F$ and fixed positive dimensions $m,n$, $M_{m,n}(F)$ is a [[Linear (vector) space|vector space]] under [[Matrix Addition]] and [[Matrix Scalar Multiplication]]. Its additive structure is an [[Abelian group]]: the [[Identity element|identity]] is [[Zero Matrix]], and the [[Inverse element|additive inverse]] of $A$ is $-A$.
+
+For square matrices $M_n(F)$:
+- [[Matrix Matrix Multiplication]] is associative and has identity [[Identity matrix]], forming a [[Monoid]].
+- Addition and multiplication give a unital associative [[Ring (R,+,*)|ring]] and an associative algebra over $F$.
+- The invertible matrices form [[general linear group]], not the entire set $M_n(F)$.
+
+[[Matrix Transpose]] maps $M_{m,n}(F)$ to $M_{n,m}(F)$; inversion is defined only on invertible square matrices.
+
+Источник переноса: [[512.64  Linear algebra MOC]].

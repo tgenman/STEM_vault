@@ -54,6 +54,15 @@ $E[X] = \lambda$
 #### [[Variance V(X)]]
 $V[X] = \lambda$
 
+## связи распределений
+
+If $X_1,\ldots,X_n$ are mutually independent with $X_i\sim\operatorname{Po}(\lambda_i)$, then
+$$
+\sum_{i=1}^nX_i\sim\operatorname{Po}\left(\sum_{i=1}^n\lambda_i\right).
+$$
+Their MGFs multiply to $\exp[(\sum_i\lambda_i)(e^s-1)]$. Pairwise independence alone is not the assumption used here.
+
+Sources: [R stats: Poisson](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Poisson.html), [MGF of an independent sum](https://heogden.github.io/math2011/sums-of-random-variables.html).
 
 # Anki
 TARGET DECK: math::probability

@@ -68,3 +68,14 @@ graph TD
     - associativity (scalar multiplication) $(c_1c_2)\vec{v}=c_1(c_2\vec{v})$
 - distributivity $c(\vec{u}+\vec{v})=c\vec{u}+c\vec{v}$ and
 - $(c_1+c_2)\vec{v}=c_1v+c_2\vec{v}$
+
+## операции и тип результата
+
+- [[Addition operation]] maps $V\times V$ to $V$; scalar multiplication maps $F\times V$ to $V$.
+- For real vectors, an [[Inner product]] returns a scalar; [[Dot product of vectors]] is the standard coordinate example.
+- [[Cross product of vectors]] requires its own setting and is not a vector-space axiom.
+- [[outer product of vectors]] returns a matrix in coordinates, rather than a vector in the original space.
+
+A vector space is a module over a field. Additional products or geometric structures do not follow solely from the vector-space axioms.
+
+Источник переноса: [[512.64  Linear algebra MOC]].
