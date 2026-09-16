@@ -28,9 +28,14 @@ In contrast, a function that doesn’t have the injective property can map sever
 
 The maps-distinct-inputs-to-distinct-outputs property of injective functions has an important consequence: given the output of an injective function $y$, there is only one input $x$ such that $f(x) = y$. If a second input $x'$ existed that also leads to the same output $f(x) = f(x') = y$, then the function $f$ wouldn’t be injective. For each of the outputs $y$ of an injective function $f$, there is a $unique$ input $x$ such that $f(x) = y$. In other words, injective functions have a $unique$-$input$-$for$-$each$-$output$ property.
 
+## исходные фрагменты из карты общей алгебры
 
+Источник переноса: [[512.5 General Algebra MOC]]. Содержательная проверка не выполнялась.
 
+1. **Инъективное (injection, one-to-one):**
+   Отображение $f: \mathcal{A} \to \mathcal{Б}$ называется инъективным, если для любых $a_1, a_2 \in \mathcal{A}$, $a_1 \neq a_2$ означает $f(a_1) \neq f(a_2)$. Инъективные отображения сохраняют различия между элементами.
 
+1. **Инъекция:**
+   Пусть $f: \mathbb{R} \to \mathbb{R}$ задано как $f(x) = 2x$. Это инъекция, так как если $f(x_1) = f(x_2)$, то $2x_1 = 2x_2$, откуда $x_1 = x_2$.
 
-
-
+1. **Инъективная функция (инъекция)**: Функция $f: \mathcal{A} \to \mathcal{Б}$ называется инъективной, если для любых $a_1, a_2 \in \mathcal{A}$, $a_1 \neq a_2$ означает $f(a_1) \neq f(a_2)$. Инъективные функции сохраняют различия между элементами.

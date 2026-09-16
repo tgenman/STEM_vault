@@ -26,5 +26,14 @@ Counting solutions
 
 Another way to understand the injective, surjective, and bijective properties of functions is to think about the solutions to the equation $f(x) = b$, where $b$ is a number in the target set $B$. The function $f$ is injective if the equation $f(x) = b$ has at most one solution for every number $b$. The function $f$ is surjective if the equation $f(x) = b$ has at least one solution for every number $b$. If the function $f$ is bijective then it is both injective and surjective, which means the equation $f(x) = b$ has exactly one solution.
 
+## исходные фрагменты из карты общей алгебры
 
+Источник переноса: [[512.5 General Algebra MOC]]. Содержательная проверка не выполнялась.
 
+3. **Биективное (bijection, one-to-one correspondence):**
+   Отображение $f: \mathcal{A} \to \mathcal{Б}$ называется биективным, если оно одновременно инъективно и сюръективно. Биективные отображения устанавливают взаимно однозначное соответствие между элементами множеств $\mathcal{A}$ и $\mathcal{Б}$.
+
+3. **Биекция:**
+   Пусть $h: \mathbb{R} \to \mathbb{R}$ задано как $h(x) = x + 1$. Это биекция, так как она инъективна (если $h(x_1) = h(x_2)$, то $x_1 + 1 = x_2 + 1$, откуда $x_1 = x_2$) и сюръективна (для любого $y \in \mathmathbb{R}$ существует $x = y - 1$, такой что $h(x) = y$).
+
+3. **Биективная функция (биекция)**: Функция $f: \mathcal{A} \to \mathcal{Б}$ называется биективной, если она одновременно инъективна и сюръективна. Биективные функции устанавливают взаимно однозначное соответствие между элементами множеств $\mathcal{A}$ и $\mathcal{Б}$.

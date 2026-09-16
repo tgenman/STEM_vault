@@ -7,7 +7,6 @@ parent:
   - "[[Structure (math)]]"
 connected:
 tags:
-  - фикс/пусто
 moc:
   - "[[512.5 General Algebra MOC]]"
 ---
@@ -15,16 +14,11 @@ moc:
 > [!tip] **Алгебраическая структура**
 это множество, снабжённое одной или несколькими операциями, которые удовлетворяют определённым аксиомам.
 
+## фрагмент из карты общей алгебры
 
+- [[Semigroup]] = [[Algebraic Structure]] + [[Associative identity]] (пример [[Natural numbers N|Натуральные числа]] без нуля)
+- [[Monoid]] = [[Semigroup]] + [[Identity element]]
+- [[Group (G,*)]] = [[Monoid]] + [[Inverse element]]
+- [[Abelian group]] = [[Group (G,*)]] + [[Commutative identity]]
 
-
-
-
-
-
-
-
-
-
-
-
+Источник переноса: [[512.5 General Algebra MOC]].

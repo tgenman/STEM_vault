@@ -15,6 +15,10 @@ is [[Relation]] that satisfies these properties for all $x,y,z ∈ S$.
 2. ([[Symmetric]]) If $x \mathscr{R} y$, then $y \mathscr{R} x$.
 3. ([[Transitive]]) If $x \mathscr{R} y$ and $y \mathscr{R} z$ then $x \mathscr{R} z$.
 
+## исходный фрагмент из карты множеств
 
+Бинарное отношение $\mathcal{R}$ на $\mathcal{A}$ называется
 
+e. Отношением эквивалентности на $\mathcal{A}$ (пишут $x \sim y$), если оно рефлексивно, симметрично и транзитивно;
 
+Источник переноса: [[510.22 Sets theory MOC]].

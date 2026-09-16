@@ -25,8 +25,14 @@ On the other hand, the function $f : \mathbb{R} \rightarrow \mathbb{R}$ defined 
 ![[Pasted image 20240117211755.png|200]]
 For the function $f(x) = x^3$ the image is equal to the target set of the function, $\text{Im}(f) = \mathbb{R}$, therefore the function $f$ is surjective. The function $f$ maps two different inputs $x_1 \neq x_2$ to two different outputs $f(x_1) \neq f(x_2)$, so $f$ is injective. Since $f$ is both injective and surjective, it is a $bijective$ function.
 
+## исходные фрагменты из карты общей алгебры
 
+Источник переноса: [[512.5 General Algebra MOC]]. Содержательная проверка не выполнялась.
 
+2. **Сюръективное (surjection, onto):**
+   Отображение $f: \mathcal{A} \to \mathcal{Б}$ называется сюръективным, если для каждого элемента $b \in \mathcal{Б}$ существует хотя бы один элемент $a \in \mathcal{A}$, такой что $f(a) = b$. Сюръективные отображения охватывают все элементы множества значений.
 
+2. **Сюръекция:**
+   Пусть $g: \mathbb{R} \to \mathbb{R}_{\geq 0}$ задано как $g(x) = x^2$. Это сюръекция, так как для любого $y \in \mathbb{R}_{\geq 0}$ существует $x \in \mathbb{R}$ такой, что $g(x) = y$ (например, $x = \sqrt{y}$).
 
-
+2. **Сюръективная функция (сюръекция)**: Функция $f: \mathcal{A} \to \mathcal{Б}$ называется сюръективной, если для каждого элемента $b \in \mathcal{Б}$ существует хотя бы один элемент $a \in \mathcal{A}$, такой что $f(a) = b$. Сюръективные функции охватывают все элементы множества значений.

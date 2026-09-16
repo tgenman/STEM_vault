@@ -6,57 +6,73 @@ parent:
 connected:
 ---
 
-Предмет исследования: Функции действительного аргумента
+## функции и их свойства
 
-Основная идея анализа - это асимптотическое поведение или иными словами - замена некого бесконечного процесса конечным
+- [[Function (math)]]
+    - [[Inverse function (math)]]
+- [[График функции]]
+- [[Even functions]] и [[Odd functions]]
+- [[Периодические функции]]
+- [[Ограниченные функции]]
+- [[Монотонные функции]]
 
-[[Fundamental theorem of calculus]]
+### типы функций
 
-[[Function (math)]]
-    [[Inverse function (math)]]
-[[График функции]]
-[[Smooth function]]
-    [[Continuous function]]
-        [[Extreme Value Theorem (EVT)]]
-        [[Intermediate Value Theorem (IVT)]]
-[[Even functions]] и [[Odd functions]] И еще СИММЕТРИЧНАЯ ОТНОСИТЕЛЬНО Y
-[[Периодические функции]]
-[[Ограниченные функции]]
-[[Монотонные функции]]
-- Типы функций
-    - [[Дробно-рациональная функция]]
-    - 
-    - [[Логарифмическая функция]]
-    - [[Показательная функция]] [[Степенная функция]]
-        - [[Экспонента]]
-    - [[Hyperbolic functions]]
-    - [[Тригонометрические функции]]
+- [[Дробно-рациональная функция]]
+- [[Логарифмическая функция]]
+- [[Показательная функция]] [[Степенная функция]]
+    - [[Экспонента]]
+- [[Hyperbolic functions]]
+- [[Тригонометрические функции]]
+- [[Euler's formula]]
+
+## пределы и непрерывность
 
 - [[Limit of function]]
     - [[One-sided Limits]]
     - indeterminate form $\frac{0}{0}$
+- [[Smooth function]]
+    - [[Continuous function]]
+        - [[Extreme Value Theorem (EVT)]]
+        - [[Intermediate Value Theorem (IVT)]]
+
+## производные и приближения
 
 - [[Derivative]]
     - First and Second Derivative Test
 - [[Directional derivative]]
     - [[Gradient]]
     - [[Hessian]]
+- [[Tangent line]]
+- [[Secant line]]
+- [[Instantaneous velocity]]
+- [[Linear approximation]]
 
+## интегральное исчисление
 
-[[Euler's formula]]
+- [[Fundamental theorem of calculus]]
+- [[517.518.11 Measure theory]]
 
-[[Tangent line]]
-[[Secant line]]
+## последовательности, ряды и асимптотика
 
-[[Instantaneous velocity]]
+- [[517.52 Ряды и последовательности]]
+- [[асимптотический анализ]]
+    - [[Асимптотически равно]]
+    - [[Big O]]
+    - [[Big Omega]]
 
-[[Linear approximation]]
+## функциональный анализ
 
-[[517.518.11 Measure theory]]
+- [[517.98 Functional Analysis]]
 
-[[асимптотический анализ]]
-- [[Асимптотически равно]]
-- [[Big O]]
-- [[Big Omega]]
+## источники
 
-[[📚 Дифференциальные уравнения. то решаем, то рисуем - Аносов]]
+- [[📚 Дифференциальные уравнения. то решаем, то рисуем - Аносов]]
+
+## исходные пояснения для разбора
+
+Предмет исследования: Функции действительного аргумента
+
+Основная идея анализа - это асимптотическое поведение или иными словами - замена некого бесконечного процесса конечным
+
+[[Even functions]] и [[Odd functions]] И еще СИММЕТРИЧНАЯ ОТНОСИТЕЛЬНО Y

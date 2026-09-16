@@ -17,15 +17,8 @@ In other words, it's the result of applying the function to every input in the [
 
 ![[Pasted image 20240117200108.png|300]]
 
+## исходные фрагменты из карты общей алгебры
 
+Источник переноса: [[512.5 General Algebra MOC]]. Содержательная проверка не выполнялась.
 
-
-
-
-
-
-
-
-
-
-
+- **Образ (image)**: Элемент $b \in \mathcal{Б}$, соответствующий элементу $a \in \mathcal{A}$, обозначается как $f(a)$.

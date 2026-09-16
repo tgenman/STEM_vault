@@ -36,6 +36,12 @@ Some unary operations may have the following special properties:
 
 Note: Only the identity function $f(x) = x$ can be both idempotent and an involution simultaneously.
 
+## исходные фрагменты из карты общей алгебры
+
+Источник переноса: [[512.5 General Algebra MOC]]. Содержательная проверка не выполнялась.
+
+- **Унарная операция**: $f: \mathcal{A} \to \mathcal{A}$, например, отрицание $f(x) = -x$ на множестве целых чисел $\mathbb{Z}$.
+
 # Anki
 TARGET DECK: stem::math::common
 START
@@ -77,7 +83,6 @@ BACK:
 Note: Only identity function can be both idempotent and involution
 ID: 1749048629932
 END
-
 
 
 
