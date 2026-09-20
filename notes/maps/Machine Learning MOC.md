@@ -64,6 +64,7 @@ regularization
 
 ## данные, обучение и оценка
 
+- [[RAG preprocessing]] — подготовка документов к индексации и поиску.
 - [[LLM evaluation]] — уровни и способы оценки LLM-систем.
 - [[Object (ML)]]
 - [[Features]]
