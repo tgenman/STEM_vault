@@ -1,6 +1,6 @@
 ---
 aliases: []
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM-as-a-Judge]]"
@@ -8,17 +8,23 @@ connected:
   - "[[Blind evaluation]]"
 tags:
   - контент/определение
-  - фикс/анки
 ---
+
 > [!tip] position bias
 > **Position bias** — в pairwise-сравнении судья чаще выбирает ответ, стоящий на определённой позиции (обычно первой), независимо от содержания.
 
-Определение — дословно из вводной части раздела 4.
-
-## применение
-
-В ноутбуке это смещение связано с pairwise-сравнением в [[LLM-as-a-Judge]]. Отдельный эксперимент по position bias не приводится.
+Смещение возникает при попарном сравнении ответов в [[LLM-as-a-Judge]].
 
 ## источник
 
-«LLM-as-a-Judge, бенчмаркинг, гардрейлы», ноутбук `4_LLM_Judge_Benchmarking_Guardrails.ipynb`, разделы 3.1 и 4.
+«LLM-as-a-Judge, бенчмаркинг, гардрейлы», разделы 3.1 и 4.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_basic_single
+FRONT: Что такое position bias у LLM-судьи?
+BACK: В pairwise-сравнении судья чаще выбирает ответ, стоящий на определённой позиции (обычно первой), независимо от содержания.
+END
