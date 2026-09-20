@@ -20,4 +20,4 @@ $$F_1 = \frac{2}{\frac{1}{Recall} + \frac{1}{Precision}} = \frac{2\ Recall \cdot
 
 
 #### $F_\beta$ мера
-Стоит иметь в виду, что F1-мера предполагает одинаковую важность Precision и Recall, если одна из этих метрик для вас приоритетнее, то можно воспользоваться : $$F_\beta = (\beta^2 + 1)\ \frac{Recall \cdot Precision}{\beta^2 Recall + Precision}$$
+Стоит иметь в виду, что F1-мера предполагает одинаковую важность Precision и Recall, если одна из этих метрик для вас приоритетнее, то можно воспользоваться : $$F_\beta = (\beta^2 + 1)\ \frac{Recall \cdot Precision}{\beta^2 Precision + Recall}$$
