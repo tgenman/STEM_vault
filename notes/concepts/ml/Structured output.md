@@ -1,7 +1,7 @@
 ---
 aliases:
   - "структурированный вывод"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[Machine Learning MOC]]"
@@ -9,7 +9,6 @@ connected:
   - "[[LLM-as-a-Judge]]"
 tags:
   - контент/определение
-  - фикс/анки
 ---
 
 > [!tip] Structured output
@@ -28,3 +27,19 @@ tags:
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», ноутбук `4_LLM_Judge_Benchmarking_Guardrails.ipynb`, раздел 3.3 — применение у судьи; общего определения в источнике нет.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_basic_single
+FRONT: Что такое structured output у языковой модели?
+BACK: Вывод в заранее заданной структуре, определяющей формат результата, его поля и типы значений.
+END
+
+START
+math_basic_single
+FRONT: Зачем использовать structured output у LLM-судьи?
+BACK: Чтобы программно извлекать оценки и обоснование из заданных полей, уменьшая зависимость от формулировок свободного текста.
+END

@@ -1,6 +1,6 @@
 ---
 aliases:
-anki: false
+anki: true
 created: 2026-09-20
 parent:
   - "[[LLM evaluation]]"
@@ -10,7 +10,6 @@ connected:
   - "[[G-Eval]]"
 tags:
   - контент/определение
-  - фикс/анки
 ---
 
 > [!tip] LLM-as-a-Judge
@@ -50,3 +49,35 @@ tags:
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», ноутбук `4_LLM_Judge_Benchmarking_Guardrails.ipynb`, разделы 3–4.4.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_basic_single
+FRONT: Что такое LLM-as-a-Judge?
+BACK: Использование LLM как оценщика качества другого или своего собственного вывода.
+ID: 1789912274795
+END
+
+START
+math_basic_single
+FRONT: Что делает LLM-судья при pointwise evaluation?
+BACK: Оценивает один ответ по заданным критериям и шкале.
+ID: 1789912274796
+END
+
+START
+math_basic_single
+FRONT: Что делает LLM-судья при pairwise evaluation?
+BACK: Сравнивает два ответа и выбирает лучший.
+ID: 1789912274797
+END
+
+START
+math_basic_single
+FRONT: Что делает LLM-судья при reference-based evaluation?
+BACK: Сравнивает ответ с эталонным ответом.
+ID: 1789912274798
+END

@@ -1,7 +1,7 @@
 ---
 aliases:
   - "Bilingual Evaluation Understudy"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM evaluation]]"
@@ -10,7 +10,6 @@ connected:
   - "[[Метрика качества]]"
 tags:
   - контент/определение
-  - фикс/анки
 ---
 
 > [!tip] BLEU
@@ -39,3 +38,37 @@ $$
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», ноутбук `4_LLM_Judge_Benchmarking_Guardrails.ipynb`, раздел 2.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_complex
+FRONT: Что такое BLEU и как она вычисляется?
+BACK: BLEU (Bilingual Evaluation Understudy) — precision-ориентированная метрика, сравнивающая n-граммы сгенерированного текста с референсом.
+FORMULA: $$
+\text{BLEU} = BP \cdot \exp\left(\sum_{n=1}^{N} w_n \log p_n\right)
+$$
+PICTURE:
+ADDITIONAL: Из ноутбука: $p_n$ — precision по n-граммам; $BP$ — brevity penalty: штраф за слишком короткий ответ относительно референса. В ноутбуке не раскрыты $N$, $w_n$, формула $BP$ и подробный алгоритм вычисления $p_n$.
+PROOF:
+END
+
+START
+math_basic_single
+FRONT: Почему правильный перефразированный ответ может получить низкий BLEU?
+BACK: Совпадение n-грамм не отражает смысловую эквивалентность.
+END
+
+START
+math_basic_single
+FRONT: Почему один референс недостаточен для оценки открытой генеративной задачи?
+BACK: Для неё может существовать несколько разных правильных ответов.
+END
+
+START
+math_basic_single
+FRONT: Почему лексическое совпадение с референсом не гарантирует фактологическую правильность?
+BACK: Ответ может сохранять похожую лексику, но содержать фактологические ошибки.
+END
