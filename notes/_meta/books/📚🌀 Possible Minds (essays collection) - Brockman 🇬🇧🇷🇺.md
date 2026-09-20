@@ -4,7 +4,7 @@ tags:
   - гтд/статус/когда-нибудь🌰
   - гтд/проект🥑
 ---
-links: [[GAI]], [[004. 8 AI MOC]]
+links: [[AGI]], [[004. 8 AI MOC]]
 title: Possible Minds: Twenty-Five Ways of Looking at AI
 title2: Искусственный интеллект – надежды и опасения
 author: John Brockman
