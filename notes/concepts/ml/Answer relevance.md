@@ -38,10 +38,12 @@ START
 math_basic_single
 FRONT: Что оценивает answer relevance?
 BACK: Насколько ответ отвечает на заданный вопрос.
+ID: 1789916214926
 END
 
 START
 math_basic_single
 FRONT: Какие крайние якоря заданы для relevance в judge-промпте урока?
 BACK: 1 — ответ не по существу вопроса; 5 — ответ точно отвечает на вопрос.
+ID: 1789916214927
 END
