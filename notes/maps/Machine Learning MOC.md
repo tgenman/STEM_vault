@@ -64,6 +64,7 @@ regularization
 
 ## данные, обучение и оценка
 
+- [[LLM evaluation]] — уровни и способы оценки LLM-систем.
 - [[Object (ML)]]
 - [[Features]]
 - [[Labels]]
