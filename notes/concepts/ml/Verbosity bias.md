@@ -38,6 +38,8 @@ START
 math_basic_single
 FRONT: Что такое verbosity bias у LLM-судьи?
 BACK: Судья систематически предпочитает более длинные ответы, даже если они не более информативны.
+![[llm-judge-verbosity-bias.png]]
+Синтетический пример.
 ID: 1789916214931
 END
 

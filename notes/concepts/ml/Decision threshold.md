@@ -2,7 +2,7 @@
 aliases:
   - "порог принятия решения"
   - "порог классификации"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[Classification ML]]"
@@ -47,3 +47,17 @@ y_pred = (scores >= thr).astype(int)
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», раздел 6.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_complex
+FRONT: Как снижение порога влияет на recall и FPR при правиле score >= threshold?
+BACK: При фиксированных оценках множество положительных предсказаний расширяется: recall и FPR не уменьшаются.
+FORMULA:
+PICTURE: ![[guardrail-roc-threshold.png]]
+ADDITIONAL: Синтетический пример. ROC показывает соотношение TPR (recall) и FPR при разных порогах; AUC сама по себе не определяет рабочий порог.
+PROOF:
+END

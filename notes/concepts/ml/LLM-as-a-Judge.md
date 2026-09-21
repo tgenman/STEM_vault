@@ -56,6 +56,7 @@ START
 math_basic_single
 FRONT: Что такое LLM-as-a-Judge?
 BACK: Использование LLM как оценщика качества другого или своего собственного вывода.
+![[output.png]]
 ID: 1789912274795
 END
 

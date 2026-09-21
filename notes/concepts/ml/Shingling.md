@@ -13,9 +13,7 @@ tags:
 > [!tip] shingling
 > Представление текста набором фрагментов — шинглов.
 
-В коде ноутбука используются символьные триграммы: фрагменты по три символа. По ним строится [[MinHash|MinHash-отпечаток]].
-
-Краткое описание по материалам ноутбука «Воркшоп: Препроцессинг данных для RAG» (`4_RAG_Preprocessing_Workshop_Updated.ipynb`), раздел 2; не дословная цитата.
+Например, можно использовать символьные триграммы: фрагменты по три символа. По ним строится [[MinHash|MinHash-отпечаток]].
 
 ## связь с n-граммами
 
@@ -25,9 +23,9 @@ tags:
 - n-грамма — общее название такого фрагмента; n-граммы можно, например, учитывать вместе с частотами;
 - shingling — способ представить документ такими фрагментами для сравнения текстов. В классическом варианте документ представлен множеством k-грамм: повторяющиеся фрагменты учитываются один раз. Существуют и варианты с учётом повторов.
 
-Поэтому символьные шинглы длины 3 и символьные триграммы в примере ноутбука — одни и те же фрагменты.
+Поэтому символьные шинглы длины 3 и символьные триграммы — одни и те же фрагменты.
 
-Это дополнительное пояснение к конспекту. Источники: [Mining of Massive Datasets, §3.2.1](https://infolab.stanford.edu/~ullman/mmds/ch3n.pdf), [Introduction to Information Retrieval: shingling](https://nlp.stanford.edu/IR-book/html/htmledition/near-duplicates-and-shingling-1.html).
+Источники: [Mining of Massive Datasets, §3.2.1](https://infolab.stanford.edu/~ullman/mmds/ch3n.pdf), [Introduction to Information Retrieval: shingling](https://nlp.stanford.edu/IR-book/html/htmledition/near-duplicates-and-shingling-1.html).
 
 TARGET DECK: stem::ml::engineering
 

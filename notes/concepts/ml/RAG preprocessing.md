@@ -14,8 +14,6 @@ tags:
 
 Основные операции: очистка, [[дедупликация документов|дедупликация]], [[Chunking|chunking]] и обогащение метаданными.
 
-Определение — пересказ содержания ноутбука «Воркшоп: Препроцессинг данных для RAG» (`4_RAG_Preprocessing_Workshop_Updated.ipynb`), не дословная цитата.
-
 TARGET DECK: stem::ml::engineering
 START
 math_basic_single

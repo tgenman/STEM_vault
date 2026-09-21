@@ -1,7 +1,7 @@
 ---
 aliases:
   - "LLM judge inconsistency"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM-as-a-Judge]]"
@@ -52,3 +52,19 @@ Voting consistency — средний consistency rate по $M$ парам от�
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», раздел 4.1 и вводная часть раздела 4.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_complex
+FRONT: Как измерить разброс повторных pointwise-оценок LLM-судьи?
+BACK: Повторить оценку одного запроса R раз и вычислить стандартное отклонение оценок.
+FORMULA: $$
+\sigma_{\text{judge}} = \sqrt{\frac{1}{R}\sum_{r=1}^{R}(s_r - \bar{s})^2}
+$$
+PICTURE: ![[llm-judge-score-variance.png]]
+ADDITIONAL: Синтетический пример. $s_r$ — оценка в повторе $r$, $\bar{s}$ — средняя оценка, $R$ — число повторов. Шум нужно измерять и при temperature=0.
+PROOF:
+END

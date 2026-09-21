@@ -1,7 +1,7 @@
 ---
 aliases:
   - непрерывная оценка
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM evaluation]]"
@@ -46,3 +46,17 @@ tags:
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», раздел 7.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_complex
+FRONT: Что такое continuous evaluation?
+BACK: Регулярное повторение оценки на протяжении жизненного цикла системы. Может включать offline-проверки после изменений и online-мониторинг.
+FORMULA:
+PICTURE: ![[llm-judge-continuous-monitoring.png]]
+ADDITIONAL: Синтетический пример мониторинга скользящего среднего judge-score. Порог алерта и временные окна подбирают для конкретной системы.
+PROOF:
+END

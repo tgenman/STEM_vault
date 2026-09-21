@@ -1,7 +1,7 @@
 ---
 aliases:
   - "слепая оценка"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM evaluation]]"
@@ -10,7 +10,6 @@ connected:
   - "[[LLM-as-a-Judge]]"
 tags:
   - контент/определение
-  - фикс/анки
 ---
 
 > [!tip] blind evaluation
@@ -28,3 +27,19 @@ tags:
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», раздел 4.2, функция blind_label и задание.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_basic_single
+FRONT: Что такое blind evaluation?
+BACK: Оценивание, при котором источник ответа скрыт от оценщика.
+END
+
+START
+math_basic_single
+FRONT: Как проверить влияние метки источника на оценки судьи?
+BACK: Оценить одни и те же ответы со скрытыми и открытыми метками источников, затем сравнить разницы средних оценок между источниками. Это проверка влияния метки, а не доказательство устранения всех смещений.
+END

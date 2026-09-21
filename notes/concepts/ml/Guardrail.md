@@ -1,7 +1,7 @@
 ---
 aliases:
   - "гардрейл"
-anki: false
+anki: true
 created: "2026-09-20"
 parent:
   - "[[LLM evaluation]]"
@@ -47,3 +47,17 @@ tags:
 ## источник
 
 «LLM-as-a-Judge, бенчмаркинг, гардрейлы», раздел 6.
+
+## Anki
+
+TARGET DECK: stem::ml::engineering
+
+START
+math_complex
+FRONT: Как работает гардрейл как классификатор?
+BACK: Проверяет запрос или ответ системы и решает: пропустить, заблокировать или эскалировать.
+FORMULA:
+PICTURE: ![[guardrail-classifier-diagram.png]]
+ADDITIONAL:
+PROOF:
+END

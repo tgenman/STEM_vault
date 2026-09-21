@@ -28,6 +28,4 @@ tags:
 | semantic chunking | группировка соседних фрагментов по смысловой близости | стремится сохранить смысловую согласованность; в примере задаётся порог схожести |
 | recursive chunking | разбиение по иерархии: заголовки → параграфы → предложения → токены | учитывает структуру документа; требует правил для его формата |
 
-В ноутбуке стратегии показаны через `TokenChunker`, `SentenceChunker`, `SemanticChunker` и `RecursiveChunker` библиотеки Chonkie.
-
-Краткое описание по материалам ноутбука «Воркшоп: Препроцессинг данных для RAG» (`4_RAG_Preprocessing_Workshop_Updated.ipynb`), раздел 3, ячейки 18–31; не дословная цитата.
+Реализации стратегий: `TokenChunker`, `SentenceChunker`, `SemanticChunker` и `RecursiveChunker` библиотеки Chonkie.
